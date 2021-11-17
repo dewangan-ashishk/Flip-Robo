@@ -1,0 +1,414 @@
+,Brand,Model,Variant,Make_Year,Fuel,Km_driven,Engine,Number_of_Owners,Transmission,Milaege,Max_Power,Torque,Body_Type,Location,Price,Source
+0,Toyota,Toyota Etios Cross,1.2L G,2015,Petrol,"35,717",1197,"No Of Owner(s)
+1st Owner",Manual,18.16,"Max Power
+78.8bhp","Torque
+104Nm",Hatchback,Gurgaon,412855,CarDekho
+1,Tata,Tata Tiago,1.2 Revotron XZ,2019,Petrol,"18,833",1199,"No Of Owner(s)
+1st Owner",Manual,23.84,"Max Power
+84bhp","Torque
+114Nm",Hatchback,Gurgaon,500000,CarDekho
+2,Maruti,Maruti Wagon R,VXI AMT,2017,Petrol,"55,892",998,"No Of Owner(s)
+1st Owner",Automatic,21.79,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Gurgaon,383000,CarDekho
+3,Honda,Honda Jazz,V CVT,2016,Petrol,"21,369",1199,"No Of Owner(s)
+1st Owner",Automatic,17.1,"Max Power
+88.50bhp","Torque
+110Nm",Hatchback,Gurgaon,594000,CarDekho
+4,Maruti,Maruti Baleno,Delta,2018,Petrol,"34,377",1197,"No Of Owner(s)
+1st Owner",Manual,21.01,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Gurgaon,563870,CarDekho
+5,Maruti,Maruti Swift,LXI BSIV,2015,Petrol,"79,620",1197,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Gurgaon,368500,CarDekho
+6,Maruti,Maruti Ignis,1.2 Zeta BSIV,2018,Petrol,"29,837",1197,"No Of Owner(s)
+1st Owner",,"e Type
+Zer","Engine
+1197 CC","Max Power
+81.80bhp",Hatchback,Gurgaon,520500,CarDekho
+7,Maruti,Maruti Baleno,1.3 Delta,2016,Diesel,"131,296",1248,"No Of Owner(s)
+1st Owner",Manual,27.39,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Gurgaon,490928,CarDekho
+8,Hyundai,Hyundai i10,Sportz 1.1L,2015,Petrol,"23,198",1086,"No Of Owner(s)
+1st Owner",Manual,19.81,"Max Power
+68.05bhp","Torque
+99.04Nm",Hatchback,Gurgaon,450000,CarDekho
+9,Maruti,Maruti Swift,LDI BSIV,2015,Diesel,"58,562",1248,"No Of Owner(s)
+1st Owner",Manual,25.2,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Gurgaon,416000,CarDekho
+10,Maruti,Maruti Baleno,1.2 Delta,2016,Petrol,"47,156",1197,"No Of Owner(s)
+2nd Owner",Manual,21.4,"Max Power
+83.1bhp","Torque
+115Nm",Hatchback,Gurgaon,482500,CarDekho
+11,Maruti,Maruti Swift,VDI BSIV,2018,Diesel,"75,710",1248,"No Of Owner(s)
+1st Owner",Manual,25.2,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Gurgaon,618500,CarDekho
+12,Maruti,Maruti Swift,VDI Optional,2016,Diesel,"60,637",1248,"No Of Owner(s)
+1st Owner",Manual,25.2,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Gurgaon,462000,CarDekho
+13,Maruti,Maruti Wagon R Stingray,VXI,2013,Petrol,"55,675",998,"No Of Owner(s)
+1st Owner",Manual,20.51,"Max Power
+67.04bhp","Torque
+90Nm",Hatchback,Gurgaon,323000,CarDekho
+14,Maruti,Maruti Swift,VDI,2013,Diesel,"99,877",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Gurgaon,450000,CarDekho
+15,Tata,Tata Tiago,1.2 Revotron XZA,2018,Petrol,"43,855",1199,"No Of Owner(s)
+1st Owner",Automatic,23.84,"Max Power
+83.83bhp","Torque
+114Nm",Hatchback,Gurgaon,467826,CarDekho
+16,Honda,Honda Brio,1.2 S MT,2015,Petrol,"40,351",1198,"No Of Owner(s)
+2nd Owner",,"e Type
+Comprehe","Engine
+1198 CC","Max Power
+86.8bhp",Hatchback,Gurgaon,366000,CarDekho
+17,Hyundai,Hyundai i10,Sportz AT,2012,Petrol,"64,543",1197,"No Of Owner(s)
+1st Owner",Automatic,16.95,"Max Power
+78.9bhp","Torque
+111.8Nm",Hatchback,Gurgaon,326000,CarDekho
+18,Maruti,Maruti Ciaz VXi,,2016,Petrol,"75,968",1373,First Owner,Manual,20.73,"Max Power
+91.1 bhp","Torque
+130Nm@ 4000rpm",Hatchback,Gurgaon,564000,CarDekho
+19,Toyota,Toyota Etios,V,2011,Petrol,"55,742",1496,"No Of Owner(s)
+1st Owner",Manual,17.6,"Wheel Size
+15","Seats
+5",Sedan,Gurgaon,240000,CarDekho
+20,Maruti,Maruti Swift Dzire,VDI,2017,Diesel,"46,403",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74.02bhp","Torque
+190Nm",Sedan,Gurgaon,613000,CarDekho
+21,Volkswagen,Volkswagen Vento,Petrol Highline,2011,Petrol,"77,531",1598,"No Of Owner(s)
+1st Owner",Manual,15.04,"Max Power
+103.6bhp","Torque
+153Nm",Sedan,Gurgaon,300000,CarDekho
+22,Maruti,Maruti Swift Dzire,VDI,2017,Diesel,"41,508",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74.02bhp","Torque
+190Nm",Sedan,Gurgaon,585000,CarDekho
+23,Honda,Honda City,S,2015,Petrol,"64,284",1497,"No Of Owner(s)
+2nd Owner",Manual,16.8,"Max Power
+116.4bhp","Torque
+146Nm",Sedan,Gurgaon,600000,CarDekho
+24,Maruti,Maruti Swift Dzire,VDI,2013,Diesel,"75,361",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,Gurgaon,387000,CarDekho
+25,Maruti,Maruti Swift Dzire,LDI,2013,Diesel,"93,558",1248,"No Of Owner(s)
+2nd Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,Gurgaon,300000,CarDekho
+26,Honda,Honda City,i-VTEC V,2018,Petrol,"22,798",1497,"No Of Owner(s)
+1st Owner",Manual,17.4,"Max Power
+117.6bhp","Torque
+145Nm",Sedan,Gurgaon,903000,CarDekho
+27,Honda,Honda City,i VTEC V,2017,Petrol,"14,815",1497,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,Gurgaon,814432,CarDekho
+28,Toyota,Toyota Etios,GD,2012,Diesel,"78,536",1364,"No Of Owner(s)
+2nd Owner",Manual,23.59,"Wheel Size
+15","Seats
+5",Sedan,Gurgaon,251500,CarDekho
+29,Honda,Honda City,i-VTEC S,2017,Petrol,"43,742",1497,"No Of Owner(s)
+1st Owner",Manual,17.4,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,Gurgaon,685200,CarDekho
+30,Honda,Honda City,i DTEC SV,2014,Diesel,"92,150",1498,"No Of Owner(s)
+1st Owner",Manual,26,"Max Power
+98.6bhp","Torque
+200Nm",Sedan,Gurgaon,524500,CarDekho
+31,Skoda,Skoda Rapid,1.6 TDI Elegance,2014,Diesel,"67,574",1598,"No Of Owner(s)
+1st Owner",Manual,20.5,"Max Power
+103.5bhp","Torque
+250Nm",Sedan,Gurgaon,356000,CarDekho
+32,Ford,Ford Figo Aspire,1.2 Ti-VCT Titanium,2018,Petrol,"22,616",1196,"No Of Owner(s)
+1st Owner",Manual,18.16,"Max Power
+86.8bhp","Torque
+112Nm",Sedan,Gurgaon,533500,CarDekho
+33,Hyundai,Hyundai Verna,1.6 SX,2013,Diesel,"83,401",1582,"No Of Owner(s)
+1st Owner",Manual,22.32,"Max Power
+126.32bhp","Torque
+259.8Nm",Sedan,Gurgaon,427000,CarDekho
+34,Honda,Honda City,V CVT,2018,Petrol,"14,856",1498,"No Of Owner(s)
+1st Owner",Automatic,18.4,"Max Power
+119.35bhp","Torque
+145nm",Sedan,Gurgaon,1057500,CarDekho
+35,Honda,Honda City,i VTEC V,2015,Petrol,"78,296",1497,"No Of Owner(s)
+2nd Owner",Manual,17.4,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,Gurgaon,541681,CarDekho
+36,Maruti,Maruti Swift Dzire,VXI,2014,Petrol,"102,690",1197,"No Of Owner(s)
+1st Owner",Manual,19.1,"Max Power
+85.8bhp","Torque
+114Nm",Sedan,Gurgaon,416500,CarDekho
+37,Maruti,Maruti Ciaz,VDi Plus,2014,Diesel,"96,723",1248,"No Of Owner(s)
+1st Owner",Manual,26.21,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,Gurgaon,490500,CarDekho
+38,Hyundai,Hyundai Verna,VTVT 1.6 SX,2018,Petrol,"8,742",1591,"No Of Owner(s)
+1st Owner",Manual,17,"Max Power
+121.3bhp","Torque
+151Nm",Sedan,Gurgaon,891726,CarDekho
+39,Ford,Ford Ecosport,Titanium Diesel,2018,Diesel,"70,944",1498,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+99.23bhp","Torque
+215nm",SUV,Gurgaon,777500,CarDekho
+40,Renault,Renault Duster,85PS Diesel RxL Plus,2014,Diesel,"65,675",1461,"No Of Owner(s)
+2nd Owner",Manual,20.45,"Max Power
+83.8bhp","Torque
+200Nm",SUV,Gurgaon,332000,CarDekho
+41,Ford,Ford Ecosport,1.5 Diesel Titanium BSIV,2015,Diesel,"36,775",1498,"No Of Owner(s)
+1st Owner",Manual,23,"Max Power
+98.96bhp","Torque
+205Nm",SUV,Gurgaon,556000,CarDekho
+42,Mahindra,Mahindra KUV 100,mFALCON D75 K8 5str AW,2016,Diesel,"54,476",1198,"No Of Owner(s)
+2nd Owner",Manual,25.32,"Max Power
+77bhp","Torque
+190Nm",SUV,Gurgaon,397000,CarDekho
+43,Hyundai,Hyundai Creta,1.4 E Plus,2017,Diesel,"39,977",1396,"No Of Owner(s)
+1st Owner",Manual,22.1,"Max Power
+88.7bhp","Torque
+219.7Nm",SUV,Gurgaon,837000,CarDekho
+44,Ford,Ford Ecosport,1.5 Petrol Titanium BSIV,2015,Petrol,"32,345",1497,"No Of Owner(s)
+1st Owner",Manual,17,"Max Power
+121.31bhp","Torque
+150Nm",SUV,Gurgaon,685000,CarDekho
+45,Mahindra,Mahindra KUV 100,mFALCON D75 K6,2016,Diesel,"66,377",1198,"No Of Owner(s)
+2nd Owner",Manual,25.32,"Max Power
+77bhp","Torque
+190Nm",SUV,Gurgaon,323000,CarDekho
+46,Ford,Ford Ecosport,1.5 Diesel Trend BSIV,2015,Diesel,"43,981",1498,"No Of Owner(s)
+1st Owner",Manual,23,"Max Power
+98.96bhp","Torque
+205Nm",SUV,Gurgaon,500000,CarDekho
+47,Mahindra,Mahindra KUV 100,mFALCON D75 K4,2016,Diesel,"99,534",1198,"No Of Owner(s)
+2nd Owner",Manual,25.32,"Max Power
+77bhp","Torque
+190Nm",SUV,Gurgaon,302640,CarDekho
+48,Mahindra,Mahindra TUV 300,T8 AMT,2016,Diesel,"86,927",1493,"No Of Owner(s)
+1st Owner",Automatic,18.49,"Max Power
+100bhp","Torque
+230Nm",SUV,Gurgaon,551000,CarDekho
+49,Ford,Ford Ecosport,1.5 Ti VCT MT Ambiente BSIV,2018,Petrol,"30,953",1499,"No Of Owner(s)
+1st Owner",Manual,15.85,"Max Power
+110.4bhp","Torque
+140Nm",SUV,Gurgaon,743820,CarDekho
+50,Mahindra,Mahindra Bolero,SLE,2018,Diesel,"25,420",2523,"No Of Owner(s)
+1st Owner",Manual,15.96,"Max Power
+62.1bhp","Torque
+195Nm",SUV,Gurgaon,676508,CarDekho
+51,Maruti,Maruti Vitara Brezza,VDi Option,2016,Diesel,"78,612",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Gurgaon,631500,CarDekho
+52,Renault,Renault Duster,85PS Diesel RxL,2012,Diesel,"388,500",1461,"No Of Owner(s)
+1st Owner",Manual,20.45,"Max Power
+83.8bhp","Torque
+200Nm",SUV,Gurgaon,388500,CarDekho
+53,Maruti,Maruti Vitara Brezza,ZDi,2019,Diesel,"46,244",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Gurgaon,842500,CarDekho
+54,Hyundai,Hyundai Venue,SX Plus Turbo DCT BSIV,2019,Petrol,"21,474",998,"No Of Owner(s)
+1st Owner",Automatic,18.15,"Max Power
+118.35bhp","Torque
+171.6Nm",SUV,Gurgaon,1064000,CarDekho
+55,Ford,Ford Ecosport,1.5 Diesel Trend,2016,Diesel,"85,775",1498,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+98.96bhp","Torque
+215Nm",SUV,Gurgaon,586500,CarDekho
+56,Ford,Ford Ecosport,1.5 Diesel Titanium,2014,Diesel,"63,247",1498,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1498 CC","Max Power
+98.96bhp",SUV,Gurgaon,537500,CarDekho
+57,Ford,Ford Ecosport,1.5 Diesel Ambiente BSIV,2013,Diesel,"124,474",1498,"No Of Owner(s)
+1st Owner",Manual,23,"Max Power
+98.96bhp","Torque
+205Nm",SUV,Gurgaon,367008,CarDekho
+58,Maruti,Maruti Vitara Brezza,VDi,2017,Diesel,"57,301",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Gurgaon,706076,CarDekho
+59,BMW,BMW X6 xDrive30d,,2013,Diesel,"77,000",2993,First Owner,Automatic,11.2,"Max Power
+241 bhp","Torque
+540Nm@ 2000rpm",Luxury,Gurgaon,2100000,CarDekho
+60,Audi,Audi Q3 30 TFSI Premium FWD,,2017,Petrol,"44,600",1395,First Owner,Automatic,16.9,"Max Power
+147.51 bhp","Torque
+250nm@ 1500-3500rpm",Luxury,Gurgaon,2400000,CarDekho
+61,Audi,Audi Q3 30 TFSI Premium FWD,,2017,Petrol,"18,000",1395,First Owner,Automatic,16.9,"Max Power
+147.51 bhp","Torque
+250nm@ 1500-3500rpm",Luxury,Gurgaon,2675000,CarDekho
+62,Audi,Audi Q3 35 TDI Quattro Technology,,2017,Diesel,"23,700",1968,First Owner,Automatic,15.17,"Max Power
+181 bhp","Torque
+380Nm@ 1750-3000rpm",Luxury,Gurgaon,2480000,CarDekho
+63,Audi,Audi A6 2.0 TDI Premium Plus,,2013,Diesel,"55,000",1968,First Owner,Automatic,17.68,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Luxury,Gurgaon,1350000,CarDekho
+64,Volvo,Volvo V40 D3 R-Design,,2016,Diesel,"38,000",1984,First Owner,Automatic,16.8,"Max Power
+150 bhp","Torque
+350Nm@ 1500-2750rpm",Luxury,Gurgaon,1750000,CarDekho
+65,BMW,BMW 3 Series 320d Prestige,,2013,Diesel,"1,20,000",1995,Second Owner,Automatic,18.88,"Max Power
+184 bhp","Torque
+380Nm@ 1750-2750rpm",Luxury,Gurgaon,1090000,CarDekho
+66,Audi,Audi S5 3.0 TFSIq Tiptronic,,2020,Petrol,"1,001",2995,First Owner,Automatic,12.28,"Max Power
+348.66 bhp","Torque
+500Nm@ 1370-4500rpm",Luxury,Gurgaon,7750000,CarDekho
+67,Audi,Audi Q8 55 TFSI Quattro,,2021,Petrol,"2,000",2995,First Owner,Automatic,9.8,"Max Power
+340 bhp","Torque
+500nm@ 1370-4500rpm",Luxury,Gurgaon,9300000,CarDekho
+68,Audi,Audi Q3 35 TDI Quattro Premium Plus,,2014,Diesel,"19,000",1968,First Owner,Automatic,15.73,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Luxury,Gurgaon,1689999,CarDekho
+69,Audi,Audi Q5 3.0 TDI Quattro,,2015,Diesel,"76,000",2967,Second Owner,Automatic,13.22,"Max Power
+241.4 bhp","Torque
+580Nm@ 1400-3250rpm",Luxury,Gurgaon,1880000,CarDekho
+70,Land,Land Rover Discovery Sport 2015-2020 TD4 HSE,,2016,Diesel,"85,000",2179,First Owner,Automatic,12.63,"Max Power
+147.5 bhp","Torque
+400Nm@ 1750rpm",Luxury,Gurgaon,3200000,CarDekho
+71,Mercedes-Benz,Mercedes-Benz GL-Class 350 CDI Blue Efficiency,,2016,Diesel,"60,000",2987,First Owner,Automatic,11.3,"Max Power
+254.8 bhp","Torque
+619Nm@ 1600-2400rpm",Luxury,Gurgaon,4300000,CarDekho
+72,Audi,Audi Q3 35 TDI Quattro Technology,,2017,Diesel,"32,200",1968,First Owner,Automatic,15.17,"Max Power
+181 bhp","Torque
+380Nm@ 1750-3000rpm",Luxury,Gurgaon,2450000,CarDekho
+73,Audi,Audi A4 35 TDI Technology,,2017,Diesel,"86,000",1968,Second Owner,Automatic,18.25,"Max Power
+187.74 bhp","Torque
+400Nm@ 1750-3000rpm",Luxury,Gurgaon,2180000,CarDekho
+74,Audi,Audi Q5 30 TDI quattro Premium Plus,,2014,Diesel,"95,000",1968,First Owner,Automatic,14.16,"Max Power
+174.3 bhp","Torque
+380Nm@ 1750-2500rpm",Luxury,Gurgaon,1685000,CarDekho
+75,BMW,BMW 7 Series 730Ld Sedan,,2012,Diesel,"90,000",2993,First Owner,Automatic,16.46,"Max Power
+258 bhp","Torque
+560Nm@ 1500rpm",Luxury,Gurgaon,1090000,CarDekho
+76,Jaguar,Jaguar XJ 2.0L Portfolio,,2017,Petrol,"35,000",1999,First Owner,Automatic,9.43,"Max Power
+237.4 bhp","Torque
+340Nm@ 1750rpm",Luxury,Gurgaon,5200000,CarDekho
+77,Audi,Audi Q7 2006-2020 3.0 TDI Quattro Technology,,2013,Diesel,"60,000",2967,Second Owner,Automatic,12.07,"Max Power
+241.4 bhp","Torque
+550Nm@ 1750-2750rpm",Luxury,Gurgaon,1750000,CarDekho
+78,Maruti,Maruti Ciaz VXi,,2016,Petrol,"75,968",1373,First Owner,Manual,20.73,"Max Power
+91.1 bhp","Torque
+130Nm@ 4000rpm",Luxury,Gurgaon,564000,CarDekho
+79,Maruti,Maruti Ertiga,SHVS VDI,2017,Diesel,"44,494",1248,"No Of Owner(s)
+2nd Owner",Manual,24.52,"Max Power
+88.5bhp","Torque
+200Nm",MUV,Gurgaon,654000,CarDekho
+80,Maruti,Maruti Ertiga,BSIV VXI,2013,Petrol,"29,077",1373,"No Of Owner(s)
+1st Owner",Manual,17.5,"Max Power
+91.1bhp","Torque
+130Nm",MUV,Gurgaon,448500,CarDekho
+81,Maruti,Maruti Ertiga,ZXI Plus Petrol,2020,Petrol,"45,458",1462,"No Of Owner(s)
+1st Owner",Manual,19.34,"Max Power
+103bhp","Torque
+138Nm",MUV,Gurgaon,974000,CarDekho
+82,Renault,Renault Triber,RXT,2019,Petrol,"17,062",999,"No Of Owner(s)
+1st Owner",Manual,20,"Max Power
+71bhp","Torque
+96Nm",MUV,Gurgaon,509500,CarDekho
+83,Maruti,Maruti Ertiga,VDI,2014,Diesel,"72,395",1248,"No Of Owner(s)
+1st Owner",Manual,20.77,"Max Power
+88.76bhp","Torque
+200Nm",MUV,Gurgaon,537000,CarDekho
+84,Renault,Renault Triber,RXT BSIV,2019,Petrol,"9,167",999,"No Of Owner(s)
+1st Owner",Manual,20,"Max Power
+72bhp","Torque
+96Nm",MUV,Gurgaon,596500,CarDekho
+85,Renault,Renault Triber,RXT,2020,Petrol,"1,581",999,"No Of Owner(s)
+1st Owner",Manual,20,"Max Power
+71bhp","Torque
+96Nm",MUV,Gurgaon,658500,CarDekho
+86,Maruti,Maruti Ertiga,SHVS VDI,2017,Diesel,"21,109",1248,"No Of Owner(s)
+1st Owner",Manual,24.52,"Max Power
+88.5bhp","Torque
+200Nm",MUV,Gurgaon,758400,CarDekho
+87,Toyota,Toyota Innova,2.5 GX (Diesel) 7 Seater BS IV,2012,Diesel,"126,657",2494,"No Of Owner(s)
+1st Owner",Manual,12.99,"Max Power
+100bhp","Torque
+200Nm",MUV,Gurgaon,596500,CarDekho
+88,Toyota,Toyota Innova,2.5 GX (Diesel) 7 Seater BS IV,2013,Diesel,"115,005",2494,"No Of Owner(s)
+2nd Owner",Manual,12.99,"Max Power
+100bhp","Torque
+200Nm",MUV,Gurgaon,536500,CarDekho
+89,Maruti,Maruti Ertiga,SHVS ZDI,2018,Diesel,"61,500",1248,"No Of Owner(s)
+1st Owner",Manual,24.52,"Max Power
+88.5bhp","Torque
+200Nm",MUV,Gurgaon,802500,CarDekho
+90,Maruti,Maruti Ertiga,BSIV VXI,2018,Petrol,"27,668",1373,"No Of Owner(s)
+1st Owner",Manual,17.5,"Max Power
+91.1bhp","Torque
+130Nm",MUV,Gurgaon,710500,CarDekho
+91,Maruti,Maruti Ertiga,VXI CNG,2018,CNG,"30,276",1373,"No Of Owner(s)
+1st Owner",Manual,17.5,"Max Power
+80.46bhp","Torque
+112Nm",MUV,Gurgaon,825500,CarDekho
+92,Toyota,Toyota Innova Crysta 2016-2020 2.8 ZX AT BSIV,,2016,Diesel,"76,000",2755,First Owner,Automatic,11.36,"Max Power
+171.5 bhp","Torque
+360Nm@ 1200-3400rpm",MUV,Gurgaon,1625000,CarDekho
+93,Toyota,Toyota Innova Crysta 2016-2020 2.4 GX MT BSIV,,2017,Diesel,"48,000",2393,First Owner,Manual,13.68,"Max Power
+147.8 bhp","Torque
+343Nm@ 1400-2800rpm",MUV,Gurgaon,1490000,CarDekho
+94,Toyota,Toyota Innova 2.5 GX (Diesel) 7 Seater,,2011,Diesel,"90,000",2494,Second Owner,Manual,12.99,"Max Power
+100.6 bhp","Torque
+200Nm@ 1400-3400rpm",MUV,Gurgaon,409999,CarDekho
+95,Toyota,Toyota Innova Crysta 2016-2020 2.4 GX MT BSIV,,2018,Diesel,"59,000",2393,First Owner,Manual,13.68,"Max Power
+147.8 bhp","Torque
+343Nm@ 1400-2800rpm",MUV,Gurgaon,1475000,CarDekho
+96,Toyota,Toyota Innova 2.5 VX (Diesel) 7 Seater,,2015,Diesel,"1,23,000",2494,First Owner,Manual,12.99,"Max Power
+100.6 bhp","Torque
+200Nm@ 1200-3600rpm",MUV,Gurgaon,950000,CarDekho
+97,Maruti,Maruti Ertiga ZXI,,2019,Petrol,"21,000",1462,Second Owner,Manual,19.01,"Max Power
+103.26 bhp","Torque
+138Nm@ 4400rpm",MUV,Gurgaon,950000,CarDekho
+98,Toyota,Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,,2012,Diesel,"90,000",2494,First Owner,Manual,12.99,"Max Power
+100 bhp","Torque
+200Nm@ 1400-3400rpm",MUV,Gurgaon,500000,CarDekho
+99,Maruti,Maruti Eeco,5 Seater AC,2016,Petrol,"95,285",1196,"No Of Owner(s)
+1st Owner",Manual,16.11,"Max Power
+72.42bhp","Torque
+98Nm",Minivan,Gurgaon,289500,CarDekho
+100,Maruti,Maruti Eeco,CNG 5 Seater AC,2016,CNG,"59,392",1196,"No Of Owner(s)
+1st Owner",Manual,20.88 ,"Max Power
+61.7bhp","Torque
+85Nm",Minivan,Gurgaon,308500,CarDekho
+101,Maruti,Maruti Eeco,5 STR With AC Plus HTR CNG,2018,CNG,"67,748",1196,"No Of Owner(s)
+1st Owner",,"e Type
+Zer","Engine
+1196 CC","Max Power
+73bhp",Minivan,Gurgaon,361000,CarDekho
+102,Maruti,Maruti Eeco,CNG 5 Seater AC,2017,CNG,"82,345",1196,"No Of Owner(s)
+1st Owner",Manual,20.88 ,"Max Power
+61.7bhp","Torque
+85Nm",Minivan,Gurgaon,312860,CarDekho
+103,Maruti,Maruti Eeco,5 Seater AC BSIV,2018,Petrol,"18,107",1196,"No Of Owner(s)
+1st Owner",Manual,15.37,"Max Power
+73bhp","Torque
+101Nm",Minivan,Gurgaon,370500,CarDekho
+104,Maruti,Maruti Eeco,5 Seater AC BSIV,2018,Petrol,"48,165",1196,"No Of Owner(s)
+1st Owner",Manual,15.37,"Max Power
+73bhp","Torque
+101Nm",Minivan,Gurgaon,356500,CarDekho
+105,Maruti,Maruti Eeco,CNG 5 Seater AC,2016,CNG,"14,342",1196,"No Of Owner(s)
+1st Owner",Manual,20.88 ,"Max Power
+61.7bhp","Torque
+85Nm",Minivan,Gurgaon,294500,CarDekho
+106,Maruti,Maruti Eeco,5 STR With AC Plus HTR CNG,2019,CNG,"75,659",1196,"No Of Owner(s)
+1st Owner",Manual,15.1,"Max Power
+73bhp","Torque
+101Nm",Minivan,Gurgaon,370500,CarDekho
+107,Maruti,Maruti Eeco 5 Seater AC BSIV,,2019,Petrol,"34,000",1196,First Owner,Manual,15.37,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Gurgaon,350000,CarDekho
+108,Maruti,Maruti Omni E MPI STD BS IV,,2014,Petrol,"95,000",796,First Owner,Manual,16.8,"Max Power
+34.2 bhp","Torque
+59Nm@ 2500rpm",Minivan,Gurgaon,114999,CarDekho
+109,Maruti,Maruti Eeco 5 STR With AC Plus HTR CNG,,2015,CNG,"55,000",1196,Second Owner,Manual,15.1 ,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Gurgaon,310000,CarDekho

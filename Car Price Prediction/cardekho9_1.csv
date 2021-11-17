@@ -1,0 +1,2801 @@
+,Brand,Model,Variant,Make_Year,Fuel,Km_driven,Engine,Number_of_Owners,Transmission,Milaege,Max_Power,Torque,Body_Type,Location,Price,Source
+0,Maruti,Maruti Ignis,1.2 Zeta BSIV,2018,Petrol,"29,837",1197,"No Of Owner(s)
+1st Owner",,"e Type
+Zer","Engine
+1197 CC","Max Power
+81.80bhp",Hatchback,New Delhi,520500,CarDekho
+1,Maruti,Maruti Baleno,Delta,2018,Petrol,"34,377",1197,"No Of Owner(s)
+1st Owner",Manual,21.01,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,New Delhi,563870,CarDekho
+2,Hyundai,Hyundai i10,Sportz 1.1L,2015,Petrol,"23,198",1086,"No Of Owner(s)
+1st Owner",Manual,19.81,"Max Power
+68.05bhp","Torque
+99.04Nm",Hatchback,New Delhi,450000,CarDekho
+3,Maruti,Maruti Swift,VDI BSIV,2018,Diesel,"75,710",1248,"No Of Owner(s)
+1st Owner",Manual,25.2,"Max Power
+74bhp","Torque
+190Nm",Hatchback,New Delhi,618500,CarDekho
+4,Hyundai,Hyundai i20,Sportz,2017,Petrol,"36,375",1197,"No Of Owner(s)
+1st Owner",Manual,20.35,"Max Power
+81.86bhp","Torque
+114.74nm",Hatchback,New Delhi,562000,CarDekho
+5,Tata,Tata Tiago,XZ Opt,2019,Petrol,"21,609",1199,"No Of Owner(s)
+1st Owner",Manual,23.84,"Max Power
+83.83bhp","Torque
+114Nm",Hatchback,New Delhi,532500,CarDekho
+6,Tata,Tata Tiago,1.05 Revotorq XZ Plus,2019,Diesel,"63,318",1047,"No Of Owner(s)
+1st Owner",Manual,27.28,"Max Power
+69bhp","Torque
+140Nm",Hatchback,New Delhi,489500,CarDekho
+7,Maruti,Maruti Swift,VDI Optional,2016,Diesel,"60,637",1248,"No Of Owner(s)
+1st Owner",Manual,25.2,"Max Power
+74bhp","Torque
+190Nm",Hatchback,New Delhi,462000,CarDekho
+8,Maruti,Maruti Wagon R Stingray,VXI,2013,Petrol,"55,675",998,"No Of Owner(s)
+1st Owner",Manual,20.51,"Max Power
+67.04bhp","Torque
+90Nm",Hatchback,New Delhi,323000,CarDekho
+9,Maruti,Maruti Swift,VDI,2013,Diesel,"99,877",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,New Delhi,450000,CarDekho
+10,Tata,Tata Tiago,1.2 Revotron XZA,2018,Petrol,"43,855",1199,"No Of Owner(s)
+1st Owner",Automatic,23.84,"Max Power
+83.83bhp","Torque
+114Nm",Hatchback,New Delhi,467826,CarDekho
+11,Maruti,Maruti Swift,VXI 2018,2015,Petrol,"67,565",1197,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,New Delhi,490000,CarDekho
+12,Honda,Honda Brio,1.2 S MT,2015,Petrol,"40,351",1198,"No Of Owner(s)
+2nd Owner",,"e Type
+Comprehe","Engine
+1198 CC","Max Power
+86.8bhp",Hatchback,New Delhi,366000,CarDekho
+13,Maruti,Maruti Swift,VXI,2015,Petrol,"24,477",1197,"No Of Owner(s)
+1st Owner",Manual,21.21,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,New Delhi,445578,CarDekho
+14,Mercedes-Benz,Mercedes-Benz SLC 43 AMG,,2017,Petrol,"11,000",2996,Second Owner,Automatic,19.0,"Max Power
+362.07 bhp","Torque
+520Nm@ 2000-4200rpm",Hatchback,New Delhi,6500000,CarDekho
+15,BMW,BMW 5 Series 520d Sport Line,,2018,Diesel,"45,000",1995,Second Owner,Automatic,22.48,"Max Power
+187.74 bhp","Torque
+400Nm@ 1750-2500rpm",Hatchback,New Delhi,3750000,CarDekho
+16,Hyundai,Hyundai Santro Xing GLS,,2007,Petrol,"1,02,731",1086,Second Owner,Manual,17.92,"Max Power
+62.1 bhp","Torque
+96.1Nm@ 3000rpm",Hatchback,New Delhi,800000,CarDekho
+17,Audi,Audi Q5 30 TDI quattro Technology,,2017,Diesel,"26,000",1968,Second Owner,Automatic,14.16,"Max Power
+174.3 bhp","Torque
+380Nm@ 1750-2500rpm",Hatchback,New Delhi,4100000,CarDekho
+18,Mercedes-Benz,Mercedes-Benz GL-Class 350 CDI Blue Efficiency,,2013,Diesel,"80,000",2987,Second Owner,Automatic,11.3,"Max Power
+254.8 bhp","Torque
+619Nm@ 1600-2400rpm",Hatchback,New Delhi,3050000,CarDekho
+19,Maruti,Maruti Alto K10,VXI,2013,Petrol,"27,017",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,New Delhi,285468,CarDekho
+20,Maruti,Maruti Swift,ZXI,2015,Petrol,"52,655",1197,"No Of Owner(s)
+1st Owner",Manual,21.21,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,New Delhi,453948,CarDekho
+21,Tata,Tata Tiago,1.2 Revotron XZA,2017,Petrol,"19,544",1199,"No Of Owner(s)
+1st Owner",Automatic,23.84,"Max Power
+83.83bhp","Torque
+114Nm",Hatchback,New Delhi,450000,CarDekho
+22,Hyundai,Hyundai i10,Sportz AT,2012,Petrol,"64,543",1197,"No Of Owner(s)
+1st Owner",Automatic,16.95,"Max Power
+78.9bhp","Torque
+111.8Nm",Hatchback,New Delhi,326000,CarDekho
+23,Toyota,Toyota Etios Liva,1.4 VD,2018,Diesel,"46,354",1364,"No Of Owner(s)
+1st Owner",Manual,23.59,"Max Power
+67.04bhp","Torque
+170Nm",Hatchback,New Delhi,537500,CarDekho
+24,Honda,Honda Brio,S MT,2013,Petrol,"79,651",1198,"No Of Owner(s)
+2nd Owner",Manual,19.4,"Max Power
+86.8bhp","Torque
+109Nm",Hatchback,New Delhi,272500,CarDekho
+25,Maruti,Maruti Swift,VDI,2012,Diesel,"82,325",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,New Delhi,349000,CarDekho
+26,Maruti,Maruti S-Presso,VXI Plus,2020,Petrol,"6,646",998,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+67.05bhp","Torque
+90nm",Hatchback,New Delhi,427056,CarDekho
+27,Maruti,Maruti Swift,VDI,2013,Diesel,"61,671",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,New Delhi,353497,CarDekho
+28,Hyundai,Hyundai Grand i10,Sportz Petrol BSIV,2020,Petrol,"8,509",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,New Delhi,578000,CarDekho
+29,Maruti,Maruti Ignis,Delta,2018,Petrol,"5,114",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,New Delhi,503000,CarDekho
+30,Maruti,Maruti Swift,LXI BSIV,2016,Petrol,"34,384",1197,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,New Delhi,427000,CarDekho
+31,Hyundai,Hyundai Grand i10,Sportz,2016,Petrol,"28,180",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,New Delhi,440000,CarDekho
+32,Hyundai,Hyundai i10,Sportz AT,2011,Petrol,"55,107",1197,"No Of Owner(s)
+2nd Owner",Automatic,16.95,"Max Power
+78.9bhp","Torque
+111.8Nm",Hatchback,New Delhi,299000,CarDekho
+33,Maruti,Maruti Alto K10,VXI,2016,Petrol,"32,053",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,New Delhi,302208,CarDekho
+34,Maruti,Maruti Celerio,VXI,2016,Petrol,"48,964",998,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+998 CC","Max Power
+67.04bhp",Hatchback,New Delhi,381500,CarDekho
+35,Hyundai,Hyundai i20,1.4 Asta Option,2017,Diesel,"68,644",1396,"No Of Owner(s)
+1st Owner",Manual,22.54,"Max Power
+88.73bhp","Torque
+219.7Nm",Hatchback,New Delhi,655500,CarDekho
+36,Hyundai,Hyundai i20,Magna Optional 1.2,2013,Petrol,"54,952",1197,"No Of Owner(s)
+1st Owner",Manual,18.5,"Max Power
+82.9bhp","Torque
+113.8Nm",Hatchback,New Delhi,340357,CarDekho
+37,Maruti,Maruti Baleno,1.2 Delta,2018,Petrol,"65,009",1197,"No Of Owner(s)
+1st Owner",Manual,21.4,"Max Power
+83.1bhp","Torque
+115Nm",Hatchback,New Delhi,568158,CarDekho
+38,Datsun,Datsun RediGO,A,2019,Petrol,"15,598",799,"No Of Owner(s)
+1st Owner",Manual,22.7,"Max Power
+53.64bhp","Torque
+72Nm",Hatchback,New Delhi,270000,CarDekho
+39,Maruti,Maruti Alto K10,VXI,2013,Petrol,"27,017",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,New Delhi,285468,CarDekho
+40,Maruti,Maruti Swift,ZXI,2015,Petrol,"52,655",1197,"No Of Owner(s)
+1st Owner",Manual,21.21,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,New Delhi,453948,CarDekho
+41,Maruti,Maruti Alto K10,VXI,2019,Petrol,"7,888",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,New Delhi,414500,CarDekho
+42,Tata,Tata Tiago,1.2 Revotron XZA,2017,Petrol,"19,544",1199,"No Of Owner(s)
+1st Owner",Automatic,23.84,"Max Power
+83.83bhp","Torque
+114Nm",Hatchback,New Delhi,450000,CarDekho
+43,Hyundai,Hyundai i10,Sportz AT,2012,Petrol,"64,543",1197,"No Of Owner(s)
+1st Owner",Automatic,16.95,"Max Power
+78.9bhp","Torque
+111.8Nm",Hatchback,New Delhi,326000,CarDekho
+44,Toyota,Toyota Etios Liva,1.4 VD,2018,Diesel,"46,354",1364,"No Of Owner(s)
+1st Owner",Manual,23.59,"Max Power
+67.04bhp","Torque
+170Nm",Hatchback,New Delhi,537500,CarDekho
+45,Honda,Honda Brio,S MT,2013,Petrol,"79,651",1198,"No Of Owner(s)
+2nd Owner",Manual,19.4,"Max Power
+86.8bhp","Torque
+109Nm",Hatchback,New Delhi,272500,CarDekho
+46,Maruti,Maruti Swift,VDI,2012,Diesel,"82,325",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,New Delhi,349000,CarDekho
+47,Maruti,Maruti S-Presso,VXI Plus,2020,Petrol,"6,646",998,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+67.05bhp","Torque
+90nm",Hatchback,New Delhi,427056,CarDekho
+48,Maruti,Maruti Swift,VDI,2013,Diesel,"61,671",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,New Delhi,353497,CarDekho
+49,Maruti,Maruti Ignis,Delta,2018,Petrol,"5,114",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,New Delhi,503000,CarDekho
+50,Hyundai,Hyundai i20 Active,1.4 S,2015,Diesel,"43,455",1396,"No Of Owner(s)
+1st Owner",Manual,21.19,"Max Power
+88.73bhp","Torque
+219.66nm",Hatchback,New Delhi,471000,CarDekho
+51,Maruti,Maruti Swift,LXI BSIV,2016,Petrol,"34,384",1197,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,New Delhi,427000,CarDekho
+52,Hyundai,Hyundai Grand i10,Sportz,2016,Petrol,"28,180",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,New Delhi,440000,CarDekho
+53,Hyundai,Hyundai i10,Sportz AT,2011,Petrol,"55,107",1197,"No Of Owner(s)
+2nd Owner",Automatic,16.95,"Max Power
+78.9bhp","Torque
+111.8Nm",Hatchback,New Delhi,299000,CarDekho
+54,Maruti,Maruti Alto K10,VXI,2016,Petrol,"32,053",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,New Delhi,302208,CarDekho
+55,Maruti,Maruti Celerio,VXI,2016,Petrol,"48,964",998,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+998 CC","Max Power
+67.04bhp",Hatchback,New Delhi,381500,CarDekho
+56,Hyundai,Hyundai i20,1.4 Asta Option,2017,Diesel,"68,644",1396,"No Of Owner(s)
+1st Owner",Manual,22.54,"Max Power
+88.73bhp","Torque
+219.7Nm",Hatchback,New Delhi,655500,CarDekho
+57,Hyundai,Hyundai i20,Magna Optional 1.2,2013,Petrol,"54,952",1197,"No Of Owner(s)
+1st Owner",Manual,18.5,"Max Power
+82.9bhp","Torque
+113.8Nm",Hatchback,New Delhi,340357,CarDekho
+58,Hyundai,Hyundai Grand i10,Sportz Petrol BSIV,2020,Petrol,"8,509",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,New Delhi,578000,CarDekho
+59,Honda,Honda Jazz,1.2 V AT i VTEC,2017,Petrol,"33,873",1199,"No Of Owner(s)
+1st Owner",Automatic,19,"Max Power
+88.7bhp","Torque
+110Nm",Hatchback,New Delhi,740000,CarDekho
+60,Hyundai,Hyundai i20,Asta Option,2016,Petrol,"50,024",1197,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1197 CC","Max Power
+81.86bhp",Hatchback,New Delhi,569000,CarDekho
+61,Hyundai,Hyundai i10,Sportz 1.2,2011,Petrol,"82,238",1197,"No Of Owner(s)
+1st Owner",Manual,20.36,"Max Power
+78.9bhp","Torque
+111.8Nm",Hatchback,New Delhi,285500,CarDekho
+62,Hyundai,Hyundai i20,Magna 1.4 CRDi,2016,Diesel,"64,390",1396,"No Of Owner(s)
+1st Owner",Manual,22.54,"Max Power
+88.73bhp","Torque
+219.7Nm",Hatchback,New Delhi,544500,CarDekho
+63,Renault,Renault KWID,RXT,2016,Petrol,"32,074",799,"No Of Owner(s)
+1st Owner",Manual,22.3,"Max Power
+53.26bhp","Torque
+72Nm",Hatchback,New Delhi,232000,CarDekho
+64,Renault,Renault KWID,1.0 RXT AMT Opt BSIV,2019,Petrol,"12,846",999,"No Of Owner(s)
+1st Owner",Automatic,24.04,"Max Power
+67bhp","Torque
+91Nm",Hatchback,New Delhi,430374,CarDekho
+65,Hyundai,Hyundai i20,Magna Plus BSIV,2019,Petrol,"29,942",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+81.86bhp","Torque
+117nm",Hatchback,New Delhi,617000,CarDekho
+66,Maruti,Maruti Baleno,1.3 Delta,2018,Diesel,"48,118",1248,"No Of Owner(s)
+1st Owner",Manual,27.39,"Max Power
+74bhp","Torque
+190Nm",Hatchback,New Delhi,570912,CarDekho
+67,Maruti,Maruti Celerio,VXI,2016,Petrol,"15,785",998,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+998 CC","Max Power
+67.04bhp",Hatchback,New Delhi,425500,CarDekho
+68,Maruti,Maruti Ignis,1.2 AMT Delta BSIV,2019,Petrol,"5,598",1197,"No Of Owner(s)
+1st Owner",Automatic,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,New Delhi,648000,CarDekho
+69,Hyundai,Hyundai i10,Magna,2013,Petrol,"47,884",1197,"No Of Owner(s)
+2nd Owner",Manual,20.36,"Max Power
+78.9bhp","Torque
+111.7Nm",Hatchback,New Delhi,269500,CarDekho
+70,Maruti,Maruti Ignis,1.2 AMT Delta BSIV,2018,Petrol,"17,011",1197,"No Of Owner(s)
+1st Owner",Automatic,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,New Delhi,564212,CarDekho
+71,Maruti,Maruti Baleno,Delta,2016,Petrol,"58,078",1197,"No Of Owner(s)
+1st Owner",Manual,21.01,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,New Delhi,520500,CarDekho
+72,Volkswagen,Volkswagen Polo,Petrol Highline 1.2L,2011,Petrol,"118,807",1198,"No Of Owner(s)
+1st Owner",Manual,16.47,"Max Power
+73.9bhp","Torque
+110Nm",Hatchback,New Delhi,271500,CarDekho
+73,Maruti,Maruti Swift,AMT ZXI BSIV,2018,Petrol,"47,393",1197,"No Of Owner(s)
+1st Owner",Automatic,22,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,New Delhi,665871,CarDekho
+74,Maruti,Maruti Swift,VXI,2012,Petrol,"25,394",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+85.8bhp","Torque
+114Nm",Hatchback,New Delhi,371500,CarDekho
+75,Maruti,Maruti Alto K10,LXI CNG Optional,2016,CNG,"55,252",998,"No Of Owner(s)
+1st Owner",Manual,32.26,"Max Power
+58.2bhp","Torque
+78Nm",Hatchback,New Delhi,325500,CarDekho
+76,Maruti,Maruti Baleno,1.2 Alpha,2018,Petrol,"30,903",1197,"No Of Owner(s)
+1st Owner",Manual,21.4,"Max Power
+83.1bhp","Torque
+115Nm",Hatchback,New Delhi,672500,CarDekho
+77,Hyundai,Hyundai Grand i10,1.2 Kappa Magna BSIV,2019,Petrol,"23,943",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,New Delhi,494000,CarDekho
+78,Hyundai,Hyundai EON,Magna Plus,2018,Petrol,"31,472",814,"No Of Owner(s)
+1st Owner",Manual,21.1,"Max Power
+55.2bhp","Torque
+74.5Nm",Hatchback,New Delhi,298000,CarDekho
+79,Hyundai,Hyundai Grand i10,1.2 CRDi Magna,2017,Diesel,"62,547",1186,"No Of Owner(s)
+1st Owner",Manual,24,"Max Power
+73.97bhp","Torque
+190.24nm",Hatchback,New Delhi,412206,CarDekho
+80,Hyundai,Hyundai Grand i10,1.2 CRDi Sportz,2018,Diesel,"45,317",1186,"No Of Owner(s)
+1st Owner",Manual,24,"Max Power
+73.97bhp","Torque
+190.24nm",Hatchback,New Delhi,469500,CarDekho
+81,Hyundai,Hyundai EON,Era Plus,2013,Petrol,"59,027",814,"No Of Owner(s)
+1st Owner",Manual,21.1,"Max Power
+55.2bhp","Torque
+74.5Nm",Hatchback,New Delhi,222500,CarDekho
+82,Volkswagen,Volkswagen Polo,1.2 MPI Comfortline,2017,Petrol,"40,750",1199,"No Of Owner(s)
+1st Owner",Manual,16.2,"Max Power
+74bhp","Torque
+110Nm",Hatchback,New Delhi,430500,CarDekho
+83,Maruti,Maruti Alto K10,LXI CNG,2016,CNG,"55,252",998,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+998 CC","Max Power
+58.3bhp",Hatchback,New Delhi,325500,CarDekho
+84,Tata,Tata Altroz,XE,2020,Petrol,"3,199",1199,"No Of Owner(s)
+1st Owner",Manual,19.05,"Max Power
+84.88bhp","Torque
+113Nm",Hatchback,New Delhi,552500,CarDekho
+85,Maruti,Maruti Swift,VDI BSIV,2014,Diesel,"66,737",1248,"No Of Owner(s)
+1st Owner",Manual,25.2,"Max Power
+74bhp","Torque
+190Nm",Hatchback,New Delhi,402500,CarDekho
+86,Maruti,Maruti Alto K10,VXI,2019,Petrol,"7,888",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,New Delhi,414500,CarDekho
+87,Hyundai,Hyundai i20,1.2 Era,2017,Petrol,"46,629",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+81.83bhp","Torque
+114.7Nm",Hatchback,New Delhi,485000,CarDekho
+88,Chevrolet,Chevrolet Spark,1.0 PS LPG,2010,LPG,"82,017",995,"No Of Owner(s)
+2nd Owner",Manual,13.2,"Max Power
+60.2bhp","Torque
+90.3Nm",Hatchback,New Delhi,106000,CarDekho
+89,Maruti,Maruti Alto 800,STD,2013,Petrol,"22,370",796,"No Of Owner(s)
+1st Owner",Manual,22.05,"Max Power
+47.33bhp","Torque
+69Nm",Hatchback,New Delhi,179898,CarDekho
+90,Renault,Renault KWID,RXT Optional,2016,Petrol,"45,430",799,"No Of Owner(s)
+1st Owner",Manual,25.17,"Max Power
+53.3bhp","Torque
+72Nm",Hatchback,New Delhi,250500,CarDekho
+91,Maruti,Maruti Alto 800,VXI,2019,Petrol,"18,504",796,"No Of Owner(s)
+1st Owner",Manual,24.7,"Max Power
+47.3bhp","Torque
+69Nm",Hatchback,New Delhi,351500,CarDekho
+92,Maruti,Maruti Baleno,Delta,2018,Petrol,"47,434",1197,"No Of Owner(s)
+1st Owner",Manual,21.01,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,New Delhi,556500,CarDekho
+93,Maruti,Maruti Swift,LXI Option,2016,Petrol,"49,881",1197,"No Of Owner(s)
+1st Owner",Manual,20.4,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,New Delhi,428500,CarDekho
+94,Maruti,Maruti Swift,VDI,2013,Diesel,"55,537",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,New Delhi,312500,CarDekho
+95,Maruti,Maruti Swift,VXI,2013,Petrol,"46,699",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+85.8bhp","Torque
+114Nm",Hatchback,New Delhi,387500,CarDekho
+96,Maruti,Maruti Swift,VDI,2014,Diesel,"72,627",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74bhp","Torque
+190Nm",Hatchback,New Delhi,414000,CarDekho
+97,Maruti,Maruti Baleno,1.3 Delta,2016,Diesel,"131,296",1248,"No Of Owner(s)
+1st Owner",Manual,27.39,"Max Power
+74bhp","Torque
+190Nm",Hatchback,New Delhi,490928,CarDekho
+98,Maruti,Maruti Swift,LXI BSIV,2015,Petrol,"13,958",1197,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,New Delhi,416400,CarDekho
+99,Honda,Honda City,i-VTEC V,2018,Petrol,"22,798",1497,"No Of Owner(s)
+1st Owner",Manual,17.4,"Max Power
+117.6bhp","Torque
+145Nm",Sedan,New Delhi,903000,CarDekho
+100,Volkswagen,Volkswagen Vento,Petrol Highline,2011,Petrol,"77,531",1598,"No Of Owner(s)
+1st Owner",Manual,15.04,"Max Power
+103.6bhp","Torque
+153Nm",Sedan,New Delhi,300000,CarDekho
+101,Maruti,Maruti Ciaz,AT ZXi,2015,Petrol,"97,767",1373,"No Of Owner(s)
+2nd Owner",Automatic,19.12,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,New Delhi,558000,CarDekho
+102,Maruti,Maruti Ciaz,VDi Plus,2014,Diesel,"96,723",1248,"No Of Owner(s)
+1st Owner",Manual,26.21,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,New Delhi,490500,CarDekho
+103,Honda,Honda City,S,2015,Petrol,"64,284",1497,"No Of Owner(s)
+2nd Owner",Manual,16.8,"Max Power
+116.4bhp","Torque
+146Nm",Sedan,New Delhi,600000,CarDekho
+104,Maruti,Maruti Swift Dzire,LDI,2013,Diesel,"93,558",1248,"No Of Owner(s)
+2nd Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,New Delhi,300000,CarDekho
+105,Maruti,Maruti Swift Dzire,VDI,2014,Diesel,"98,563",1248,"No Of Owner(s)
+1st Owner",Manual,26.59,"Max Power
+74bhp","Torque
+190Nm",Sedan,New Delhi,417000,CarDekho
+106,Maruti,Maruti Swift Dzire,VDI,2017,Diesel,"41,508",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74.02bhp","Torque
+190Nm",Sedan,New Delhi,585000,CarDekho
+107,Hyundai,Hyundai Verna,1.6 SX,2013,Diesel,"69,239",1582,"No Of Owner(s)
+1st Owner",Manual,22.32,"Max Power
+126.32bhp","Torque
+259.8Nm",Sedan,New Delhi,414000,CarDekho
+108,Skoda,Skoda Rapid,1.6 TDI Elegance,2014,Diesel,"67,574",1598,"No Of Owner(s)
+1st Owner",Manual,20.5,"Max Power
+103.5bhp","Torque
+250Nm",Sedan,New Delhi,356000,CarDekho
+109,Maruti,Maruti Swift Dzire,VDI,2013,Diesel,"75,361",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,New Delhi,387000,CarDekho
+110,Ford,Ford Figo Aspire,1.2 Ti-VCT Titanium,2018,Petrol,"22,616",1196,"No Of Owner(s)
+1st Owner",Manual,18.16,"Max Power
+86.8bhp","Torque
+112Nm",Sedan,New Delhi,533500,CarDekho
+111,Hyundai,Hyundai Verna,1.6 VTVT S,2016,Petrol,"60,820",1591,"No Of Owner(s)
+1st Owner",Manual,17.01,"Max Power
+121.3bhp","Torque
+154.9Nm",Sedan,New Delhi,637000,CarDekho
+112,Hyundai,Hyundai Verna,1.6 SX,2013,Diesel,"83,401",1582,"No Of Owner(s)
+1st Owner",Manual,22.32,"Max Power
+126.32bhp","Torque
+259.8Nm",Sedan,New Delhi,427000,CarDekho
+113,Mercedes-Benz,Mercedes-Benz SLC 43 AMG,,2017,Petrol,"11,000",2996,Second Owner,Automatic,19.0,"Max Power
+362.07 bhp","Torque
+520Nm@ 2000-4200rpm",Sedan,New Delhi,6500000,CarDekho
+114,Mercedes-Benz,Mercedes-Benz GL-Class 350 CDI Blue Efficiency,,2013,Diesel,"80,000",2987,Second Owner,Automatic,11.3,"Max Power
+254.8 bhp","Torque
+619Nm@ 1600-2400rpm",Sedan,New Delhi,3050000,CarDekho
+115,Hyundai,Hyundai Santro Xing GLS,,2007,Petrol,"1,02,731",1086,Second Owner,Manual,17.92,"Max Power
+62.1 bhp","Torque
+96.1Nm@ 3000rpm",Sedan,New Delhi,800000,CarDekho
+116,Audi,Audi Q5 30 TDI quattro Technology,,2017,Diesel,"26,000",1968,Second Owner,Automatic,14.16,"Max Power
+174.3 bhp","Torque
+380Nm@ 1750-2500rpm",Sedan,New Delhi,4100000,CarDekho
+117,Mercedes-Benz,Mercedes-Benz GL-Class 350 CDI Blue Efficiency,,2014,Diesel,"80,000",2987,Second Owner,Automatic,11.3,"Max Power
+254.8 bhp","Torque
+619Nm@ 1600-2400rpm",Sedan,New Delhi,3175000,CarDekho
+118,Hyundai,Hyundai Verna,1.6 VTVT S,2016,Petrol,"60,820",1591,"No Of Owner(s)
+1st Owner",Manual,17.01,"Max Power
+121.3bhp","Torque
+154.9Nm",Sedan,New Delhi,637000,CarDekho
+119,Honda,Honda City,i VTEC V,2017,Petrol,"14,815",1497,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,New Delhi,814432,CarDekho
+120,Nissan,Nissan Sunny,Diesel XL,2013,Diesel,"54,251",1461,"No Of Owner(s)
+1st Owner",Manual,21.64,"Max Power
+84.8bhp","Torque
+200Nm",Sedan,New Delhi,275290,CarDekho
+121,Honda,Honda City,i VTEC CVT VX,2014,Petrol,"93,090",1497,"No Of Owner(s)
+1st Owner",Automatic,18,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,New Delhi,646500,CarDekho
+122,Toyota,Toyota Etios,GD,2012,Diesel,"78,536",1364,"No Of Owner(s)
+2nd Owner",Manual,23.59,"Wheel Size
+15","Seats
+5",Sedan,New Delhi,251500,CarDekho
+123,Maruti,Maruti Swift Dzire,VXI,2014,Petrol,"102,690",1197,"No Of Owner(s)
+1st Owner",Manual,19.1,"Max Power
+85.8bhp","Torque
+114Nm",Sedan,New Delhi,416500,CarDekho
+124,Honda,Honda City,i-VTEC S,2017,Petrol,"43,742",1497,"No Of Owner(s)
+1st Owner",Manual,17.4,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,New Delhi,685200,CarDekho
+125,Hyundai,Hyundai Verna,1.6 SX,2013,Diesel,"69,239",1582,"No Of Owner(s)
+1st Owner",Manual,22.32,"Max Power
+126.32bhp","Torque
+259.8Nm",Sedan,New Delhi,414000,CarDekho
+126,Ford,Ford Figo Aspire,1.2 Ti-VCT Titanium,2018,Petrol,"22,616",1196,"No Of Owner(s)
+1st Owner",Manual,18.16,"Max Power
+86.8bhp","Torque
+112Nm",Sedan,New Delhi,533500,CarDekho
+127,Hyundai,Hyundai Verna,1.6 SX,2013,Diesel,"83,401",1582,"No Of Owner(s)
+1st Owner",Manual,22.32,"Max Power
+126.32bhp","Torque
+259.8Nm",Sedan,New Delhi,427000,CarDekho
+128,Honda,Honda City,i VTEC CVT VX,2015,Petrol,"79,502",1497,"No Of Owner(s)
+1st Owner",Automatic,18,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,New Delhi,690772,CarDekho
+129,Hyundai,Hyundai Verna,VTVT 1.6 SX,2018,Petrol,"8,742",1591,"No Of Owner(s)
+1st Owner",Manual,17,"Max Power
+121.3bhp","Torque
+151Nm",Sedan,New Delhi,891726,CarDekho
+130,Hyundai,Hyundai Verna,1.4 EX,2013,Diesel,"66,997",1396,"No Of Owner(s)
+1st Owner",Manual,23.5,"Max Power
+88.7bhp","Torque
+219.9Nm",Sedan,New Delhi,425000,CarDekho
+131,Honda,Honda City,V CVT,2018,Petrol,"14,856",1498,"No Of Owner(s)
+1st Owner",Automatic,18.4,"Max Power
+119.35bhp","Torque
+145nm",Sedan,New Delhi,1057500,CarDekho
+132,Honda,Honda City,i VTEC V,2015,Petrol,"78,296",1497,"No Of Owner(s)
+2nd Owner",Manual,17.4,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,New Delhi,541681,CarDekho
+133,Volkswagen,Volkswagen Vento,Diesel Highline,2012,Diesel,"85,123",1598,"No Of Owner(s)
+1st Owner",Manual,20.54,"Max Power
+103.6bhp","Torque
+250Nm",Sedan,New Delhi,307500,CarDekho
+134,Honda,Honda Civic,1.8 V AT,2011,Petrol,"101,021",1799,"No Of Owner(s)
+2nd Owner",Automatic,12.9,"Max Power
+130bhp","Torque
+172Nm",Sedan,New Delhi,316500,CarDekho
+135,Volkswagen,Volkswagen Vento,1.2 TSI Highline BSIV,2016,Petrol,"71,447",1197,"No Of Owner(s)
+1st Owner",Automatic,18.19,"Max Power
+103.2bhp","Torque
+175Nm",Sedan,New Delhi,528000,CarDekho
+136,Maruti,Maruti Swift Dzire,ZDI Plus,2017,Diesel,"78,863",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74.02bhp","Torque
+190Nm",Sedan,New Delhi,682104,CarDekho
+137,Maruti,Maruti Swift Dzire,VDI,2013,Diesel,"54,025",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,New Delhi,413243,CarDekho
+138,Hyundai,Hyundai Xcent,1.1 CRDi S Option,2014,Diesel,"65,427",1120,"No Of Owner(s)
+1st Owner",Manual,24.4,"Max Power
+71.01bhp","Torque
+180.4Nm",Sedan,New Delhi,348108,CarDekho
+139,Maruti,Maruti Ciaz,1.4 Delta,2018,Petrol,"24,556",1373,"No Of Owner(s)
+1st Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,New Delhi,748194,CarDekho
+140,Maruti,Maruti Ciaz,ZDi Plus SHVS,2016,Diesel,"107,247",1248,"No Of Owner(s)
+1st Owner",Manual,28.09,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,New Delhi,566430,CarDekho
+141,Maruti,Maruti Ciaz,1.4 Delta,2017,Petrol,"24,238",1373,"No Of Owner(s)
+2nd Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,New Delhi,690414,CarDekho
+142,Maruti,Maruti Swift Dzire,ZDI,2015,Diesel,"101,807",1248,"No Of Owner(s)
+1st Owner",Manual,26.59,"Max Power
+74bhp","Torque
+190Nm",Sedan,New Delhi,501000,CarDekho
+143,Maruti,Maruti Swift Dzire,LDI Optional,2015,Diesel,"66,420",1248,"No Of Owner(s)
+1st Owner",Manual,26.59,"Max Power
+74bhp","Torque
+190Nm",Sedan,New Delhi,427272,CarDekho
+144,Maruti,Maruti Ciaz,1.4 Delta,2017,Petrol,"68,634",1373,"No Of Owner(s)
+1st Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,New Delhi,700500,CarDekho
+145,Maruti,Maruti Swift Dzire,VXI 1.2 BS IV,2019,Petrol,"26,306",1197,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,New Delhi,637000,CarDekho
+146,Maruti,Maruti Swift Dzire,LDI,2018,Diesel,"36,883",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74.02bhp","Torque
+190Nm",Sedan,New Delhi,581388,CarDekho
+147,Hyundai,Hyundai Xcent,1.2 CRDi S,2014,Diesel,"92,705",1186,"No Of Owner(s)
+1st Owner",Manual,25.4,"Max Power
+73.97bhp","Torque
+190.25nm",Sedan,New Delhi,311442,CarDekho
+148,Maruti,Maruti Swift Dzire,VXI 1.2,2018,Petrol,"6,937",1197,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1197 CC","Max Power
+81.80bhp",Sedan,New Delhi,654000,CarDekho
+149,Maruti,Maruti Swift Dzire,LDI,2018,Diesel,"54,348",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74.02bhp","Torque
+190Nm",Sedan,New Delhi,564500,CarDekho
+150,Maruti,Maruti Swift Dzire,VXI 1.2 BS IV,2018,Petrol,"29,404",1197,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,New Delhi,616890,CarDekho
+151,Honda,Honda City,i DTEC V,2014,Diesel,"104,585",1498,"No Of Owner(s)
+2nd Owner",Manual,26,"Max Power
+98.6bhp","Torque
+200Nm",Sedan,New Delhi,482190,CarDekho
+152,Hyundai,Hyundai Verna,1.6 CRDi SX,2013,Diesel,"62,251",1582,"No Of Owner(s)
+1st Owner",Manual,23.9,"Max Power
+126.2bhp","Torque
+259.9Nm",Sedan,New Delhi,408500,CarDekho
+153,Maruti,Maruti Ciaz,VDi Option SHVS,2016,Diesel,"55,985",1248,"No Of Owner(s)
+2nd Owner",Manual,28.09,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,New Delhi,501630,CarDekho
+154,Maruti,Maruti Swift Dzire,VDI,2013,Diesel,"43,080",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,New Delhi,425652,CarDekho
+155,Volkswagen,Volkswagen Ameo,1.2 MPI Highline,2016,Petrol,"46,846",1198,"No Of Owner(s)
+1st Owner",Manual,17,"Max Power
+73.75bhp","Torque
+110Nm",Sedan,New Delhi,459500,CarDekho
+156,Maruti,Maruti Swift Dzire,LDI,2013,Diesel,"136,786",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,New Delhi,352644,CarDekho
+157,Maruti,Maruti Swift Dzire,VXI 1.2,2020,Petrol,"17,550",1197,"No Of Owner(s)
+1st Owner",Manual,21.21,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,New Delhi,675000,CarDekho
+158,Maruti,Maruti Ciaz,1.4 AT Delta,2017,Petrol,"39,466",1373,"No Of Owner(s)
+1st Owner",Automatic,19.12,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,New Delhi,698000,CarDekho
+159,Maruti,Maruti Swift Dzire,ZDI,2015,Diesel,"101,807",1248,"No Of Owner(s)
+1st Owner",Manual,26.59,"Max Power
+74bhp","Torque
+190Nm",Sedan,New Delhi,501000,CarDekho
+160,Maruti,Maruti Ciaz,1.3 Delta,2017,Diesel,"89,418",1248,"No Of Owner(s)
+1st Owner",Manual,28.09,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,New Delhi,589974,CarDekho
+161,Maruti,Maruti Ciaz,VDi,2014,Diesel,"77,891",1248,"No Of Owner(s)
+1st Owner",Manual,26.21,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,New Delhi,507000,CarDekho
+162,Maruti,Maruti Swift Dzire,VXI 1.2 BS IV,2018,Petrol,"38,694",1197,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,New Delhi,579000,CarDekho
+163,Honda,Honda City,i DTec V,2016,Diesel,"74,389",1498,"No Of Owner(s)
+1st Owner",Manual,26,"Max Power
+98.6bhp","Torque
+200Nm",Sedan,New Delhi,601500,CarDekho
+164,Maruti,Maruti Swift Dzire,VXI,2015,Petrol,"70,138",1197,"No Of Owner(s)
+1st Owner",Manual,20.85,"Max Power
+83.14bhp","Torque
+115Nm",Sedan,New Delhi,431000,CarDekho
+165,Maruti,Maruti Swift Dzire,LDI Optional,2015,Diesel,"66,420",1248,"No Of Owner(s)
+1st Owner",Manual,26.59,"Max Power
+74bhp","Torque
+190Nm",Sedan,New Delhi,427272,CarDekho
+166,Maruti,Maruti Swift Dzire,VXI,2016,Petrol,"22,725",1197,"No Of Owner(s)
+1st Owner",Manual,20.85,"Max Power
+83.14bhp","Torque
+115Nm",Sedan,New Delhi,498742,CarDekho
+167,Maruti,Maruti Ciaz,Sigma Diesel,2017,Diesel,"51,421",1248,"No Of Owner(s)
+1st Owner",Manual,28.09,"Max Power
+88.50bhp","Torque
+200Nm",Sedan,New Delhi,624000,CarDekho
+168,Toyota,Toyota Etios,GD,2013,Diesel,"80,471",1364,"No Of Owner(s)
+1st Owner",Manual,23.59,"Wheel Size
+15","Seats
+5",Sedan,New Delhi,346500,CarDekho
+169,Volkswagen,Volkswagen Vento,Diesel Comfortline,2012,Diesel,"75,505",1598,"No Of Owner(s)
+2nd Owner",Manual,20.54,"Max Power
+103.6bhp","Torque
+250Nm",Sedan,New Delhi,274500,CarDekho
+170,Maruti,Maruti Swift Dzire,AMT ZDI,2015,Diesel,"64,352",1248,"No Of Owner(s)
+2nd Owner",Automatic,26.59,"Max Power
+74bhp","Torque
+190Nm",Sedan,New Delhi,500000,CarDekho
+171,Honda,Honda City,i VTEC VX Option,2015,Petrol,"98,792",1497,"No Of Owner(s)
+1st Owner",Manual,17.4,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,New Delhi,683988,CarDekho
+172,Maruti,Maruti Ciaz,ZDi Plus,2015,Diesel,"54,217",1248,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1248 CC","Max Power
+88.5bhp",Sedan,New Delhi,624000,CarDekho
+173,Maruti,Maruti Swift Dzire,VXI,2014,Petrol,"23,518",1197,"No Of Owner(s)
+1st Owner",Manual,20.85,"Max Power
+83.14bhp","Torque
+115Nm",Sedan,New Delhi,396654,CarDekho
+174,Maruti,Maruti Swift Dzire,VXI 1.2,2018,Petrol,"22,316",1197,"No Of Owner(s)
+1st Owner",Manual,21.21,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,New Delhi,597027,CarDekho
+175,Maruti,Maruti Swift Dzire,VDI,2014,Diesel,"49,470",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,New Delhi,427758,CarDekho
+176,Honda,Honda City,i VTEC V,2015,Petrol,"104,077",1497,"No Of Owner(s)
+1st Owner",Manual,17.4,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,New Delhi,541500,CarDekho
+177,Honda,Honda City,i VTEC V,2016,Petrol,"37,257",1497,"No Of Owner(s)
+2nd Owner",Manual,17.8,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,New Delhi,669693,CarDekho
+178,Hyundai,Hyundai Verna,1.6 CRDi S,2015,Diesel,"57,629",1582,"No Of Owner(s)
+2nd Owner",Manual,23.9,"Max Power
+126.2bhp","Torque
+259.9Nm",Sedan,New Delhi,500712,CarDekho
+179,Volkswagen,Volkswagen Ameo,1.2 MPI Highline,2016,Petrol,"39,784",1198,"No Of Owner(s)
+1st Owner",Manual,17,"Max Power
+73.75bhp","Torque
+110Nm",Sedan,New Delhi,495744,CarDekho
+180,Maruti,Maruti Swift Dzire,VXI 1.2,2018,Petrol,"6,937",1197,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1197 CC","Max Power
+81.80bhp",Sedan,New Delhi,654000,CarDekho
+181,Volkswagen,Volkswagen Ameo,1.5 TDI Trendline,2018,Diesel,"16,802",1498,"No Of Owner(s)
+2nd Owner",Manual,21.66,"Max Power
+108.62bhp","Torque
+250Nm",Sedan,New Delhi,482612,CarDekho
+182,Maruti,Maruti Ciaz,VXi Plus,2017,Petrol,"53,764",1373,"No Of Owner(s)
+1st Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,New Delhi,579336,CarDekho
+183,Maruti,Maruti Swift Dzire,VDI,2018,Diesel,"39,328",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74.02bhp","Torque
+190Nm",Sedan,New Delhi,616500,CarDekho
+184,Maruti,Maruti Swift Dzire,VDI,2019,Diesel,"52,212",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74.02bhp","Torque
+190Nm",Sedan,New Delhi,661500,CarDekho
+185,Maruti,Maruti Ciaz,1.4 Alpha,2017,Petrol,"24,237",1373,"No Of Owner(s)
+2nd Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,New Delhi,706884,CarDekho
+186,Honda,Honda Amaze,S i-VTEC,2019,Petrol,"21,276",1198,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+86.7bhp","Torque
+109Nm",Sedan,New Delhi,640430,CarDekho
+187,Maruti,Maruti Swift Dzire,VDI,2015,Diesel,"88,285",1248,"No Of Owner(s)
+1st Owner",Manual,26.59,"Max Power
+74bhp","Torque
+190Nm",Sedan,New Delhi,456500,CarDekho
+188,Maruti,Maruti Ciaz,ZDi Plus SHVS,2016,Diesel,"107,247",1248,"No Of Owner(s)
+1st Owner",Manual,28.09,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,New Delhi,566430,CarDekho
+189,Maruti,Maruti Swift Dzire,VDI,2013,Diesel,"95,912",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,New Delhi,365000,CarDekho
+190,Maruti,Maruti Swift Dzire,VXI,2015,Petrol,"79,842",1197,"No Of Owner(s)
+1st Owner",Manual,20.85,"Max Power
+83.14bhp","Torque
+115Nm",Sedan,New Delhi,420500,CarDekho
+191,Maruti,Maruti Swift Dzire,VXI 1.2 BS IV,2018,Petrol,"18,318",1197,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,New Delhi,608000,CarDekho
+192,Maruti,Maruti Swift Dzire,VXI 1.2 BS IV,2018,Petrol,"49,514",1197,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,New Delhi,579500,CarDekho
+193,Maruti,Maruti Swift Dzire,VDI,2014,Diesel,"63,004",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,New Delhi,445450,CarDekho
+194,Honda,Honda Amaze,S Petrol BSIV,2019,Petrol,"26,347",1199,"No Of Owner(s)
+1st Owner",Manual,19.5,"Max Power
+88.76bhp","Torque
+110Nm",Sedan,New Delhi,652571,CarDekho
+195,Maruti,Maruti Swift Dzire,VXI 1.2 BS IV,2018,Petrol,"19,172",1197,"No Of Owner(s)
+1st Owner",,"e Type
+Zer","Engine
+1197 CC","Max Power
+81.80bhp",Sedan,New Delhi,608000,CarDekho
+196,Maruti,Maruti Ciaz,VDi,2015,Diesel,"78,667",1248,"No Of Owner(s)
+1st Owner",Manual,26.21,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,New Delhi,470000,CarDekho
+197,Maruti,Maruti Ciaz,ZDi Plus SHVS,2016,Diesel,"79,928",1248,"No Of Owner(s)
+1st Owner",Manual,28.09,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,New Delhi,606000,CarDekho
+198,Honda,Honda City,VX CVT,2015,Petrol,"96,400",1497,"No Of Owner(s)
+1st Owner",Automatic,17.4,"Max Power
+117.6bhp","Torque
+145Nm",Sedan,New Delhi,676500,CarDekho
+199,Maruti,Maruti Swift Dzire,VXI,2014,Petrol,"23,518",1197,"No Of Owner(s)
+1st Owner",Manual,20.85,"Max Power
+83.14bhp","Torque
+115Nm",Sedan,New Delhi,396654,CarDekho
+200,Maruti,Maruti Swift Dzire,VDI,2013,Diesel,"54,025",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,New Delhi,413243,CarDekho
+201,Honda,Honda City,i VTEC V,2016,Petrol,"37,257",1497,"No Of Owner(s)
+2nd Owner",Manual,17.8,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,New Delhi,669693,CarDekho
+202,Hyundai,Hyundai Verna,1.6 CRDi S,2015,Diesel,"57,629",1582,"No Of Owner(s)
+2nd Owner",Manual,23.9,"Max Power
+126.2bhp","Torque
+259.9Nm",Sedan,New Delhi,500712,CarDekho
+203,Maruti,Maruti Ciaz,VXi Plus,2017,Petrol,"53,764",1373,"No Of Owner(s)
+1st Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,New Delhi,579336,CarDekho
+204,Maruti,Maruti Ciaz,1.4 Alpha,2017,Petrol,"24,237",1373,"No Of Owner(s)
+2nd Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,New Delhi,706884,CarDekho
+205,Honda,Honda Amaze,S i-VTEC,2019,Petrol,"21,276",1198,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+86.7bhp","Torque
+109Nm",Sedan,New Delhi,640430,CarDekho
+206,Maruti,Maruti Swift Dzire,VXI,2016,Petrol,"55,795",1197,"No Of Owner(s)
+1st Owner",Manual,20.85,"Max Power
+83.14bhp","Torque
+115Nm",Sedan,New Delhi,478000,CarDekho
+207,Maruti,Maruti Swift Dzire,VDI,2013,Diesel,"43,080",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,New Delhi,425652,CarDekho
+208,Volkswagen,Volkswagen Ameo,1.2 MPI Trendline,2017,Petrol,"41,665",1198,"No Of Owner(s)
+2nd Owner",Manual,17,"Max Power
+73.75bhp","Torque
+110Nm",Sedan,New Delhi,381500,CarDekho
+209,Honda,Honda Amaze,S Option i-VTEC,2017,Petrol,"65,080",1198,"No Of Owner(s)
+2nd Owner",Manual,17.8,"Max Power
+86.7bhp","Torque
+109Nm",Sedan,New Delhi,424000,CarDekho
+210,Honda,Honda City,i DTEC VX,2015,Diesel,"98,239",1498,"No Of Owner(s)
+2nd Owner",Manual,25.1,"Max Power
+98.6bhp","Torque
+200Nm",Sedan,New Delhi,618216,CarDekho
+211,Honda,Honda City,VX MT,2014,Petrol,"98,390",1498,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+119.35bhp","Torque
+145nm",Sedan,New Delhi,583500,CarDekho
+212,Maruti,Maruti Ciaz,VXi,2016,Petrol,"24,540",1373,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1373 CC","Max Power
+91.1bhp",Sedan,New Delhi,692500,CarDekho
+213,Toyota,Toyota Yaris,G CVT,2019,Petrol,"5,021",1496,"No Of Owner(s)
+1st Owner",Automatic,17.8,"Max Power
+105.94bhp","Torque
+140Nm",Sedan,New Delhi,1017390,CarDekho
+214,Ford,Ford Figo Aspire,1.5 TDCi Titanium,2015,Diesel,"59,092",1498,"No Of Owner(s)
+1st Owner",Manual,25.83,"Max Power
+99bhp","Torque
+215Nm",Sedan,New Delhi,390000,CarDekho
+215,Honda,Honda Amaze,S i-VTEC,2019,Petrol,"22,185",1198,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+86.7bhp","Torque
+109Nm",Sedan,New Delhi,643680,CarDekho
+216,Honda,Honda City,i DTec V,2016,Diesel,"74,389",1498,"No Of Owner(s)
+1st Owner",Manual,26,"Max Power
+98.6bhp","Torque
+200Nm",Sedan,New Delhi,601500,CarDekho
+217,Maruti,Maruti Ciaz,VXi Plus,2016,Petrol,"21,231",1373,"No Of Owner(s)
+1st Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,New Delhi,660948,CarDekho
+218,Hyundai,Hyundai Xcent,1.2 CRDi E Plus,2018,Diesel,"45,989",1186,"No Of Owner(s)
+1st Owner",Manual,25.4,"Max Power
+73.97bhp","Torque
+190.24nm",Sedan,New Delhi,486240,CarDekho
+219,Maruti,Maruti Ciaz,1.4 Sigma,2017,Petrol,"26,793",1373,"No Of Owner(s)
+1st Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,New Delhi,680000,CarDekho
+220,Honda,Honda Amaze,V Petrol,2018,Petrol,"19,549",1199,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+88.76bhp","Torque
+110Nm",Sedan,New Delhi,654500,CarDekho
+221,Hyundai,Hyundai Xcent,1.1 CRDi S Option,2014,Diesel,"65,427",1120,"No Of Owner(s)
+1st Owner",Manual,24.4,"Max Power
+71.01bhp","Torque
+180.4Nm",Sedan,New Delhi,348108,CarDekho
+222,Maruti,Maruti Swift Dzire,VXi AT,2012,Petrol,"56,773",1197,"No Of Owner(s)
+2nd Owner",Automatic,17.4,"Max Power
+85.8bhp","Torque
+114Nm",Sedan,New Delhi,344760,CarDekho
+223,Toyota,Toyota Etios,1.5 G,2017,Petrol,"55,752",1496,"No Of Owner(s)
+1st Owner",Manual,16.78,"Max Power
+88.73bhp","Torque
+132Nm",Sedan,New Delhi,439862,CarDekho
+224,Maruti,Maruti Swift Dzire,VDI,2012,Diesel,"116,238",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,New Delhi,313500,CarDekho
+225,Hyundai,Hyundai Elantra,CRDi SX AT,2013,Diesel,"66,175",1582,"No Of Owner(s)
+1st Owner",Automatic,19.5,"Max Power
+126.24bhp","Torque
+259.87Nm",Sedan,New Delhi,554820,CarDekho
+226,Honda,Honda Amaze,S Petrol BSIV,2019,Petrol,"26,347",1199,"No Of Owner(s)
+1st Owner",Manual,19.5,"Max Power
+88.76bhp","Torque
+110Nm",Sedan,New Delhi,652571,CarDekho
+227,Maruti,Maruti Ciaz,1.4 AT Alpha,2018,Petrol,"21,160",1373,"No Of Owner(s)
+1st Owner",Automatic,19.12,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,New Delhi,844000,CarDekho
+228,Honda,Honda City,V MT,2019,Petrol,"28,860",1498,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+119.35bhp","Torque
+145nm",Sedan,New Delhi,940000,CarDekho
+229,Maruti,Maruti Ciaz,Alpha Automatic BSIV,2018,Petrol,"34,473",1462,"No Of Owner(s)
+1st Owner",Automatic,20.28,"Max Power
+103.25bhp","Torque
+138Nm",Sedan,New Delhi,908000,CarDekho
+230,Volkswagen,Volkswagen Vento,Diesel Highline,2013,Diesel,"86,764",1598,"No Of Owner(s)
+1st Owner",Manual,20.54,"Max Power
+103.6bhp","Torque
+250Nm",Sedan,New Delhi,337500,CarDekho
+231,Honda,Honda Accord,2.4 A/T,2013,Petrol,"46,121",2354,"No Of Owner(s)
+1st Owner",Automatic,11.7,"Max Power
+177.6bhp","Torque
+222Nm",Sedan,New Delhi,607000,CarDekho
+232,Honda,Honda Amaze,V Petrol BSIV,2019,Petrol,"49,218",1199,"No Of Owner(s)
+1st Owner",Manual,19.5,"Max Power
+88.76bhp","Torque
+110Nm",Sedan,New Delhi,633000,CarDekho
+233,Honda,Honda Amaze,S i-Dtech,2013,Diesel,"32,832",1498,"No Of Owner(s)
+1st Owner",Manual,25.8,"Max Power
+98.6bhp","Torque
+200Nm",Sedan,New Delhi,273500,CarDekho
+234,Hyundai,Hyundai Xcent,1.1 CRDi S,2014,Diesel,"114,389",1120,"No Of Owner(s)
+1st Owner",Manual,24.4,"Max Power
+71bhp","Torque
+180.4Nm",Sedan,New Delhi,327264,CarDekho
+235,Hyundai,Hyundai Xcent,1.1 CRDi S,2015,Diesel,"131,357",1120,"No Of Owner(s)
+1st Owner",Manual,24.4,"Max Power
+71bhp","Torque
+180.4Nm",Sedan,New Delhi,318000,CarDekho
+236,Hyundai,Hyundai Verna,CRDi 1.6 SX Option,2018,Diesel,"51,141",1582,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+126.2bhp","Torque
+259.87nm",Sedan,New Delhi,960000,CarDekho
+237,Honda,Honda City,i VTEC CVT VX,2014,Petrol,"89,510",1497,"No Of Owner(s)
+1st Owner",,"e Type
+Zer","Engine
+1497 CC","Max Power
+117.3bhp",Sedan,New Delhi,617500,CarDekho
+238,Hyundai,Hyundai Verna,1.6 VTVT S,2016,Petrol,"73,662",1591,"No Of Owner(s)
+1st Owner",Manual,17.01,"Max Power
+121.3bhp","Torque
+154.9Nm",Sedan,New Delhi,637833,CarDekho
+239,Honda,Honda Amaze,E i-VTEC,2019,Petrol,"5,659",1198,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+86.7bhp","Torque
+109Nm",Sedan,New Delhi,607343,CarDekho
+240,Hyundai,Hyundai Verna,1.6 CRDi SX,2013,Diesel,"62,251",1582,"No Of Owner(s)
+1st Owner",Manual,23.9,"Max Power
+126.2bhp","Torque
+259.9Nm",Sedan,New Delhi,408500,CarDekho
+241,Honda,Honda Amaze,S i-Dtech,2013,Diesel,"32,832",1498,"No Of Owner(s)
+1st Owner",Manual,25.8,"Max Power
+98.6bhp","Torque
+200Nm",Sedan,New Delhi,273500,CarDekho
+242,Maruti,Maruti Swift Dzire,VDI,2012,Diesel,"116,238",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,New Delhi,313500,CarDekho
+243,Hyundai,Hyundai Xcent,1.2 Kappa Base,2016,Petrol,"63,926",1197,"No Of Owner(s)
+2nd Owner",Manual,19.1,"Max Power
+82bhp","Torque
+114Nm",Sedan,New Delhi,313000,CarDekho
+244,Hyundai,Hyundai Xcent,1.2 VTVT SX,2019,Petrol,"23,435",1197,"No Of Owner(s)
+1st Owner",Manual,20.14,"Max Power
+81.86bhp","Torque
+113.75nm",Sedan,New Delhi,559500,CarDekho
+245,Hyundai,Hyundai Verna,1.6 CRDi S Option,2015,Diesel,"33,619",1582,"No Of Owner(s)
+1st Owner",Manual,23.9,"Max Power
+126.32bhp","Torque
+259.8Nm",Sedan,New Delhi,614000,CarDekho
+246,Hyundai,Hyundai Verna,VTVT 1.6 SX,2019,Petrol,"28,692",1591,"No Of Owner(s)
+1st Owner",Manual,17,"Max Power
+121.3bhp","Torque
+151Nm",Sedan,New Delhi,949000,CarDekho
+247,Maruti,Maruti Swift Dzire,LXI Option,2016,Petrol,"35,687",1197,"No Of Owner(s)
+1st Owner",Manual,20.85,"Max Power
+83.14bhp","Torque
+115Nm",Sedan,New Delhi,412500,CarDekho
+248,Hyundai,Hyundai Verna,1.6 SX VTVT,2012,Petrol,"44,385",1591,"No Of Owner(s)
+1st Owner",Manual,17.01,"Max Power
+121.3bhp","Torque
+154.9Nm",Sedan,New Delhi,426000,CarDekho
+249,Toyota,Toyota Corolla Altis,1.8 VL AT,2011,Petrol,"94,280",1794,"No Of Owner(s)
+2nd Owner",Automatic,14.53,"Max Power
+138.1bhp","Torque
+173Nm",Sedan,New Delhi,429000,CarDekho
+250,Toyota,Toyota Corolla Altis,D-4D JS,2013,Diesel,"51,307",1364,"No Of Owner(s)
+2nd Owner",Manual,21.43,"Max Power
+87.2bhp","Torque
+205Nm",Sedan,New Delhi,754500,CarDekho
+251,Honda,Honda City,i DTEC VX,2015,Diesel,"38,708",1498,"No Of Owner(s)
+1st Owner",Manual,25.1,"Max Power
+98.6bhp","Torque
+200Nm",Sedan,New Delhi,636000,CarDekho
+252,Honda,Honda City,i VTEC VX,2016,Petrol,"55,061",1497,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,New Delhi,725600,CarDekho
+253,Honda,Honda City,i VTEC E,2014,Petrol,"52,951",1497,"No Of Owner(s)
+2nd Owner",Manual,17.8,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,New Delhi,511500,CarDekho
+254,Volkswagen,Volkswagen Vento,1.2 TSI Highline AT,2018,Petrol,"53,738",1197,"No Of Owner(s)
+1st Owner",Automatic,18.19,"Max Power
+103.2bhp","Torque
+175Nm",Sedan,New Delhi,711000,CarDekho
+255,Honda,Honda Amaze,E i-Dtech,2013,Diesel,"134,662",1498,"No Of Owner(s)
+1st Owner",Manual,25.8,"Max Power
+98.6bhp","Torque
+200Nm",Sedan,New Delhi,252500,CarDekho
+256,Maruti,Maruti Ciaz,VDi Plus SHVS,2016,Diesel,"76,072",1248,"No Of Owner(s)
+1st Owner",Manual,28.09,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,New Delhi,538000,CarDekho
+257,Maruti,Maruti Swift Dzire,LDI,2017,Diesel,"66,037",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74.02bhp","Torque
+190Nm",Sedan,New Delhi,499500,CarDekho
+258,Honda,Honda City,i VTEC V,2015,Petrol,"57,857",1497,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,New Delhi,561500,CarDekho
+259,Hyundai,Hyundai Elantra 2.0 SX,,2015,Petrol,"60,000",1999,First Owner,Manual,14.59,"Max Power
+149.92 bhp","Torque
+192.2Nm@ 4000rpm",Sedan,New Delhi,900000,CarDekho
+260,Toyota,Toyota Corolla Altis G AT,,2014,Petrol,"78,000",1798,First Owner,Automatic,14.28,"Max Power
+138.03 bhp","Torque
+173Nm@ 4000rpm",Sedan,New Delhi,925000,CarDekho
+261,Toyota,Toyota Camry W1 (MT),,2011,Petrol,"1,11,000",2362,Second Owner,Manual,13.4,"Max Power
+164.7 bhp","Torque
+224Nm@ 4000rpm",Sedan,New Delhi,550000,CarDekho
+262,Audi,Audi A4 35 QL TFSI Premium Plus,,2020,Petrol,"4,600",1395,First Owner,Automatic,17.84,"Max Power
+147.51 bhp","Torque
+250Nm@ 1500-3500rpm",Sedan,New Delhi,3675000,CarDekho
+263,BMW,BMW 3 Series GT 320d Luxury Line,,2014,Diesel,"78,000",1995,First Owner,Automatic,19.59,"Max Power
+184 bhp","Torque
+380Nm@ 1750-2750rpm",Sedan,New Delhi,1700000,CarDekho
+264,Maruti,Maruti Swift Dzire VDi,,2013,Diesel,"60,240",1248,First Owner,Manual,19.3,"Max Power
+73.9 bhp","Torque
+190Nm@ 2000rpm",Sedan,New Delhi,350000,CarDekho
+265,Honda,Honda Amaze 2016-2021 E Option i-VTEC,,2016,Petrol,"40,000",1198,First Owner,Manual,17.8,"Max Power
+86.7 bhp","Torque
+109Nm@ 4500rpm",Sedan,New Delhi,475000,CarDekho
+266,Honda,Honda City i DTEC SV,,2014,Diesel,"61,284",1498,First Owner,Manual,26.0,"Max Power
+98.6 bhp","Torque
+200Nm@ 1750rpm",Sedan,New Delhi,550000,CarDekho
+267,Maruti,Maruti Swift Dzire VDI,,2012,Diesel,"56,200",1248,Third Owner,Manual,23.4,"Max Power
+74 bhp","Torque
+190Nm@ 2000rpm",Sedan,New Delhi,270000,CarDekho
+268,Maruti,Maruti Swift Dzire VDi,,2017,Diesel,"18,000",1248,First Owner,Manual,19.3,"Max Power
+73.9 bhp","Torque
+190Nm@ 2000rpm",Sedan,New Delhi,595000,CarDekho
+269,Honda,Honda City 1.5 S MT,,2011,Petrol,"78,000",1497,First Owner,Manual,17.0,"Max Power
+118 bhp","Torque
+146Nm at 4800 rpm",Sedan,New Delhi,330000,CarDekho
+270,Maruti,Maruti Swift Dzire Vdi BSIV,,2012,Diesel,"96,000",1248,First Owner,Manual,19.3,"Max Power
+73.9 bhp","Torque
+190Nm@ 2000rpm",Sedan,New Delhi,310000,CarDekho
+271,Honda,Honda City i DTec S,,2017,Diesel,"48,000",1498,First Owner,Manual,26.0,"Max Power
+98.6 bhp","Torque
+200Nm@ 1750rpm",Sedan,New Delhi,625000,CarDekho
+272,Hyundai,Hyundai Verna SX,,2021,Petrol,"4,100",1497,First Owner,Manual,17.7,"Max Power
+113.42 bhp","Torque
+144.15nm@ 4500rpm",Sedan,New Delhi,1175000,CarDekho
+273,Honda,Honda Amaze VX i-DTEC,,2014,Diesel,"62,154",1498,First Owner,Manual,25.8,"Max Power
+98.6 bhp","Torque
+200Nm@ 1750rpm",Sedan,New Delhi,350000,CarDekho
+274,Toyota,Toyota Etios G,,2016,Petrol,"40,000",1496,First Owner,Manual,16.78,"Max Power
+88.73 bhp","Torque
+132Nm@ 3000rpm",Sedan,New Delhi,425000,CarDekho
+275,Volvo,Volvo S60 2015-2020 D4 Momentum,,2018,Diesel,"30,000",1969,First Owner,Automatic,27.03,"Max Power
+190 bhp","Torque
+400Nm",Sedan,New Delhi,2400000,CarDekho
+276,Hyundai,Hyundai Verna CRDi 1.6 EX,,2018,Diesel,"30,000",1582,First Owner,Manual,22.0,"Max Power
+126.2 bhp","Torque
+259.87nm@ 1500-3000rpm",Sedan,New Delhi,885000,CarDekho
+277,BMW,BMW 3 Series GT 320d Luxury Line,,2014,Diesel,"35,000",1995,Third Owner,Automatic,19.59,"Max Power
+184 bhp","Torque
+380Nm@ 1750-2750rpm",Sedan,New Delhi,1675000,CarDekho
+278,BMW,BMW 5 Series 520d Luxury Line,,2017,Diesel,"75,000",1995,First Owner,Automatic,18.12,"Max Power
+190 bhp","Torque
+400Nm@ 1750-2500rpm",Sedan,New Delhi,3000000,CarDekho
+279,Mercedes-Benz,Mercedes-Benz C-Class 220,,2012,Diesel,"69,000",2148,Third Owner,Manual,15.8,"Max Power
+170 bhp","Torque
+42@ 2,000(kgm@ rpm)",Sedan,New Delhi,1100000,CarDekho
+280,Honda,Honda City 2017-2020 GXi,,2008,Petrol,"61,000",1497,First Owner,Manual,17.7,"Max Power
+78 bhp","Torque
+12.7@ 2,700(kgm@ rpm)",Sedan,New Delhi,185000,CarDekho
+281,Toyota,Toyota Etios G,,2013,Petrol,"45,000",1496,First Owner,Manual,16.78,"Max Power
+88.73 bhp","Torque
+132Nm@ 3000rpm",Sedan,New Delhi,350000,CarDekho
+282,Mercedes-Benz,Mercedes-Benz S-Class 2012-2021 S 350 CDI,,2012,Diesel,"55,000",2987,First Owner,Automatic,13.5,"Max Power
+254.79 bhp","Torque
+620Nm@ 1600-2400rpm",Sedan,New Delhi,2390000,CarDekho
+283,Mercedes-Benz,Mercedes-Benz C-Class C 200 AVANTGARDE,,2014,Petrol,"59,500",1991,First Owner,Automatic,14.74,"Max Power
+181.04 bhp","Torque
+300Nm@ 1200-1400rpm",Sedan,New Delhi,1550000,CarDekho
+284,Audi,Audi A6 2.0 TDI Premium Plus,,2012,Diesel,"87,000",1968,First Owner,Automatic,17.68,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Sedan,New Delhi,1195000,CarDekho
+285,Mercedes-Benz,Mercedes-Benz S-Class 2012-2021 Maybach S500,,2016,Petrol,"57,000",4663,First Owner,Automatic,7.81,"Max Power
+459 bhp","Torque
+700Nm@ 1800-3500rpm",Sedan,New Delhi,9500000,CarDekho
+286,Hyundai,Hyundai Verna 1.6 SX,,2014,Diesel,"70,000",1582,First Owner,Manual,22.32,"Max Power
+126.32 bhp","Torque
+259.8Nm@ 1900-2750rpm",Sedan,New Delhi,425000,CarDekho
+287,Honda,Honda City i VTEC CVT VX,,2014,Petrol,"62,000",1497,First Owner,Automatic,18.0,"Max Power
+117.3 bhp","Torque
+145Nm@ 4600rpm",Sedan,New Delhi,675000,CarDekho
+288,Maruti,Maruti Swift Dzire LDI,,2013,Diesel,"70,000",1248,First Owner,Manual,23.4,"Max Power
+74 bhp","Torque
+190Nm@ 2000rpm",Sedan,New Delhi,295000,CarDekho
+289,Maruti,Maruti Swift Dzire LDI,,2012,Diesel,"49,852",1248,First Owner,Manual,23.4,"Max Power
+74 bhp","Torque
+190Nm@ 2000rpm",Sedan,New Delhi,330000,CarDekho
+290,Honda,Honda City 1.5 S MT,,2009,Petrol,"70,000",1497,First Owner,Manual,17.0,"Max Power
+118 bhp","Torque
+146Nm at 4800 rpm",Sedan,New Delhi,275000,CarDekho
+291,BMW,BMW 5 Series 530d M Sport,,2019,Diesel,"20,001",2993,First Owner,Automatic,14.69,"Max Power
+258 bhp","Torque
+560Nm@ 1500-3000rpm",Sedan,New Delhi,5500000,CarDekho
+292,Chevrolet,Chevrolet Sail 1.2 Base,,2013,Petrol,"64,000",1199,First Owner,Manual,18.2,"Max Power
+82.4 bhp","Torque
+108.5Nm@ 5000rpm",Sedan,New Delhi,210000,CarDekho
+293,Mercedes-Benz,Mercedes-Benz E-Class E250 CDI Blue Efficiency,,2012,Diesel,"20,000",2143,First Owner,Automatic,14.21,"Max Power
+203 bhp","Torque
+500Nm@ 1600-1800rpm",Sedan,New Delhi,1150000,CarDekho
+294,Audi,Audi A3 35 TDI Technology,,2015,Diesel,"57,000",1968,Second Owner,Automatic,20.38,"Max Power
+143 bhp","Torque
+320Nm@ 1750-3000rpm",Sedan,New Delhi,1600000,CarDekho
+295,Nissan,Nissan Sunny XL AT Special Edition,,2014,Petrol,"84,000",1498,First Owner,Automatic,17.97,"Max Power
+99.6 bhp","Torque
+134Nm@ 4000rpm",Sedan,New Delhi,390000,CarDekho
+296,Mercedes-Benz,Mercedes-Benz C-Class C 200 AVANTGARDE,,2015,Petrol,"53,000",1991,First Owner,Automatic,14.74,"Max Power
+181.04 bhp","Torque
+300Nm@ 1200-1400rpm",Sedan,New Delhi,2450000,CarDekho
+297,Honda,Honda Amaze 2016-2021 S Option i-VTEC,,2018,Petrol,"54,000",1198,First Owner,Manual,17.8,"Max Power
+86.7 bhp","Torque
+109Nm@ 4500rpm",Sedan,New Delhi,540000,CarDekho
+298,Tata,Tata Zest Quadrajet 1.3 XT,,2014,Diesel,"54,000",1248,First Owner,Manual,20.65,"Max Power
+88.7 bhp","Torque
+190Nm@ 1750-3000rpm",Sedan,New Delhi,450000,CarDekho
+299,Skoda,Skoda Superb Elegance 2.0 TDI CR AT,,2014,Diesel,"59,500",1968,Second Owner,Automatic,17.2,"Max Power
+138.1 bhp","Torque
+320Nm@ 1750-2500rpm",Sedan,New Delhi,1100000,CarDekho
+300,BMW,BMW 5 Series 520d Luxury Line,,2015,Diesel,"23,000",1995,First Owner,Automatic,18.12,"Max Power
+190 bhp","Torque
+400Nm@ 1750-2500rpm",Sedan,New Delhi,2650000,CarDekho
+301,Volkswagen,Volkswagen Vento Petrol Highline AT,,2010,Petrol,"65,000",1598,Second Owner,Automatic,14.4,"Max Power
+103.6 bhp","Torque
+153Nm@ 3800rpm",Sedan,New Delhi,299000,CarDekho
+302,Maruti,Maruti Ciaz VDi Option SHVS,,2016,Diesel,"32,640",1248,First Owner,Manual,28.09,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",Sedan,New Delhi,650000,CarDekho
+303,Hyundai,Hyundai Verna 1.6 SX,,2014,Diesel,"78,000",1582,Second Owner,Manual,22.32,"Max Power
+126.32 bhp","Torque
+259.8Nm@ 1900-2750rpm",Sedan,New Delhi,450000,CarDekho
+304,Audi,Audi A3 35 TDI Premium Plus,,2017,Diesel,"34,000",1968,First Owner,Automatic,20.38,"Max Power
+143 bhp","Torque
+320Nm@ 1750-3000rpm",Sedan,New Delhi,2200000,CarDekho
+305,Maruti,Maruti Ciaz VDi Plus SHVS,,2016,Diesel,"65,000",1248,First Owner,Manual,28.09,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",Sedan,New Delhi,600000,CarDekho
+306,Maruti,Maruti Swift Dzire ZXI Plus,,2017,Petrol,"20,000",1197,Second Owner,Manual,21.21,"Max Power
+81.80 bhp","Torque
+113Nm@ 4200rpm",Sedan,New Delhi,685000,CarDekho
+307,Mercedes-Benz,Mercedes-Benz C-Class C 200 AVANTGARDE,,2017,Petrol,"31,000",1991,First Owner,Automatic,14.74,"Max Power
+181.04 bhp","Torque
+300Nm@ 1200-1400rpm",Sedan,New Delhi,3300000,CarDekho
+308,Honda,Honda City V AT,,2013,Petrol,"57,000",1497,Second Owner,Automatic,15.6,"Max Power
+116.3 bhp","Torque
+146Nm@ 4800rpm",Sedan,New Delhi,490000,CarDekho
+309,Audi,Audi A4 35 TFSi Premium,,2014,Petrol,"36,000",1798,First Owner,Automatic,15.64,"Max Power
+167.62 bhp","Torque
+320Nm@ 1400-3700rpm",Sedan,New Delhi,1650000,CarDekho
+310,Honda,Honda City V MT,,2018,Petrol,"40,108",1497,First Owner,Manual,17.4,"Max Power
+117.60 bhp","Torque
+145Nm@ 4600rpm",Sedan,New Delhi,865000,CarDekho
+311,Honda,Honda City VX CVT,,2017,Petrol,"28,000",1497,First Owner,Automatic,17.4,"Max Power
+117.6 bhp","Torque
+145Nm@ 4600rpm",Sedan,New Delhi,950000,CarDekho
+312,Hyundai,Hyundai Elantra 2.0 SX Option AT,,2018,Petrol,"19,000",1999,First Owner,Automatic,14.62,"Max Power
+149.92 bhp","Torque
+192.2Nm@ 4000rpm",Sedan,New Delhi,1500000,CarDekho
+313,Honda,Honda City i VTEC CVT VX,,2014,Petrol,"67,000",1497,First Owner,Automatic,18.0,"Max Power
+117.3 bhp","Torque
+145Nm@ 4600rpm",Sedan,New Delhi,675000,CarDekho
+314,BMW,BMW 5 Series 525i Sedan,,2010,Petrol,"55,000",2497,First Owner,Automatic,10.8,"Max Power
+215 bhp","Torque
+25@ 4,000(kgm@ rpm)",Sedan,New Delhi,1399000,CarDekho
+315,Mercedes-Benz,Mercedes-Benz CLA Urban Sport 200d,,2018,Diesel,"14,000",2143,First Owner,Automatic,17.9,"Max Power
+134.1 bhp","Torque
+300Nm@ 1600-3000rpm",Sedan,New Delhi,2850000,CarDekho
+316,Hyundai,Hyundai Verna 1.6 VTVT S,,2015,Petrol,"58,000",1591,Second Owner,Manual,17.01,"Max Power
+121.3 bhp","Torque
+154.9Nm@ 4200rpm",Sedan,New Delhi,525000,CarDekho
+317,Ford,Ford Fiesta Petrol Style,,2013,Petrol,"62,458",1499,Second Owner,Manual,17.0,"Max Power
+109 bhp","Torque
+140Nm@ 4500rpm",Sedan,New Delhi,245000,CarDekho
+318,Hyundai,Hyundai Xcent 1.2 Kappa S,,2015,Petrol,"35,000",1197,First Owner,Manual,19.1,"Max Power
+82 bhp","Torque
+114Nm@ 4000rpm",Sedan,New Delhi,395000,CarDekho
+319,Skoda,Skoda Octavia 2.0 TDI AT L K,,2019,Diesel,"50,000",1968,First Owner,Automatic,19.5,"Max Power
+141 bhp","Torque
+320Nm@ 1750-3000rpm",Sedan,New Delhi,2300000,CarDekho
+320,Maruti,Maruti Ciaz ZDi Plus SHVS,,2017,Diesel,"72,277",1248,First Owner,Manual,28.09,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",Sedan,New Delhi,685000,CarDekho
+321,BMW,BMW 5 Series 530d M Sport,,2021,Diesel,"3,000",2993,First Owner,Automatic,17.42,"Max Power
+261.49 bhp","Torque
+620nm@ 2000–2500rpm",Sedan,New Delhi,7000000,CarDekho
+322,BMW,BMW 5 Series 520d Luxury Line,,2019,Diesel,"15,000",1995,First Owner,Automatic,18.12,"Max Power
+190 bhp","Torque
+400Nm@ 1750-2500rpm",Sedan,New Delhi,4950000,CarDekho
+323,Mercedes-Benz,Mercedes-Benz S-Class 2012-2021 S400,,2016,Petrol,"25,000",2996,First Owner,Automatic,7.81,"Max Power
+333 bhp","Torque
+480Nm@ 1600-4000",Sedan,New Delhi,6900000,CarDekho
+324,Toyota,Toyota Camry Hybrid 2.5,,2020,Petrol,"3,000",2487,First Owner,Automatic,19.16,"Max Power
+214.5 bhp","Torque
+221Nm@ 3600-5200rpm",Sedan,New Delhi,4100000,CarDekho
+325,Maruti,Maruti Swift Dzire LXI Optional-O,,2017,Petrol,"30,000",1197,First Owner,Manual,20.85,"Max Power
+83.14 bhp","Torque
+115Nm@ 4000rpm",Sedan,New Delhi,509999,CarDekho
+326,Tata,Tata Tigor 1.2 Revotron XZ Option,,2018,Petrol,"40,000",1199,First Owner,Manual,20.3,"Max Power
+84 bhp","Torque
+114Nm@ 3500rpm",Sedan,New Delhi,570000,CarDekho
+327,Tata,Tata Tigor 1.2 Revotron XZ Option,,2018,Petrol,"40,000",1199,First Owner,Manual,20.3,"Max Power
+84 bhp","Torque
+114Nm@ 3500rpm",Sedan,New Delhi,550000,CarDekho
+328,Honda,Honda City i VTEC CVT SV,,2014,Petrol,"70,000",1497,Second Owner,Automatic,18.0,"Max Power
+117.3 bhp","Torque
+145Nm@ 4600rpm",Sedan,New Delhi,553000,CarDekho
+329,Maruti,Maruti Ciaz ZXi Plus,,2016,Petrol,"41,000",1373,First Owner,Manual,20.73,"Max Power
+91.1 bhp","Torque
+130Nm@ 4000rpm",Sedan,New Delhi,635000,CarDekho
+330,Honda,Honda Civic 1.8 V MT,,2010,Petrol,"53,000",1799,First Owner,Manual,13.5,"Max Power
+130 bhp","Torque
+172Nm@ 4300rpm",Sedan,New Delhi,305000,CarDekho
+331,Toyota,Toyota Corolla Altis G,,2010,Petrol,"43,000",1798,First Owner,Manual,14.53,"Max Power
+138.1 bhp","Torque
+173Nm@ 4000rpm",Sedan,New Delhi,350000,CarDekho
+332,Maruti,Maruti Ciaz ZXi Plus,,2014,Petrol,"48,000",1373,First Owner,Manual,20.73,"Max Power
+91.1 bhp","Torque
+130Nm@ 4000rpm",Sedan,New Delhi,535000,CarDekho
+333,Honda,Honda Amaze SX i-DTEC,,2014,Diesel,"74,000",1498,Second Owner,Manual,25.8,"Max Power
+98.6 bhp","Torque
+200Nm@ 1750rpm",Sedan,New Delhi,375000,CarDekho
+334,Maruti,Maruti Swift Dzire VXI,,2016,Petrol,"64,000",1197,First Owner,Manual,20.85,"Max Power
+83.14 bhp","Torque
+115Nm@ 4000rpm",Sedan,New Delhi,525000,CarDekho
+335,Maruti,Maruti SX4 Zxi with Leather BSIII,,2007,Petrol,"73,000",1586,Second Owner,Manual,15.6,"Max Power
+104.68 bhp","Torque
+145@ 4,100(kgm@ rpm)",Sedan,New Delhi,140000,CarDekho
+336,Honda,Honda Civic 1.8 V AT,,2010,Petrol,"68,000",1799,Second Owner,Automatic,12.9,"Max Power
+130 bhp","Torque
+172Nm@ 4300rpm",Sedan,New Delhi,310000,CarDekho
+337,Honda,Honda City 1.5 V MT Sunroof,,2012,Petrol,"69,000",1497,Second Owner,Manual,16.8,"Max Power
+116.3 bhp","Torque
+146Nm@ 4800rpm",Sedan,New Delhi,465000,CarDekho
+338,Honda,Honda City 1.5 S MT,,2011,Petrol,"68,000",1497,First Owner,Manual,17.0,"Max Power
+118 bhp","Torque
+146Nm at 4800 rpm",Sedan,New Delhi,355000,CarDekho
+339,Honda,Honda City 1.5 S MT,,2009,Petrol,"75,000",1497,First Owner,Manual,17.0,"Max Power
+118 bhp","Torque
+146Nm at 4800 rpm",Sedan,New Delhi,270000,CarDekho
+340,Hyundai,Hyundai Verna 1.6 VTVT,,2013,Petrol,"69,000",1591,First Owner,Manual,17.01,"Max Power
+121.3 bhp","Torque
+154.9Nm@ 4200rpm",Sedan,New Delhi,465000,CarDekho
+341,Volkswagen,Volkswagen Jetta 2.0L TDI Highline AT,,2012,Diesel,"78,000",1968,First Owner,Automatic,16.96,"Max Power
+138.1 bhp","Torque
+320Nm@ 1750-2500rpm",Sedan,New Delhi,600000,CarDekho
+342,Skoda,Skoda Rapid 1.6 MPI AT Elegance Plus,,2016,Petrol,"59,000",1598,First Owner,Automatic,14.3,"Max Power
+103.52 bhp","Torque
+153Nm@ 3800rpm",Sedan,New Delhi,600000,CarDekho
+343,Honda,Honda City i-VTEC SV,,2018,Petrol,"42,000",1497,First Owner,Manual,17.4,"Max Power
+117.6 bhp","Torque
+145Nm@ 4600rpm",Sedan,New Delhi,725000,CarDekho
+344,Honda,Honda City i DTEC VX,,2014,Diesel,"64,555",1498,First Owner,Manual,25.1,"Max Power
+98.6 bhp","Torque
+200Nm@ 1750rpm",Sedan,New Delhi,570000,CarDekho
+345,Audi,Audi A6 3.0 TDI Quattro Premium Plus,,2011,Diesel,"86,000",2967,First Owner,Automatic,14.57,"Max Power
+241.38 bhp","Torque
+500Nm@ 1400-3250rpm",Sedan,New Delhi,1055000,CarDekho
+346,Audi,Audi A8 L 3.0 TDI quattro,,2012,Diesel,"27,000",2967,First Owner,Automatic,16.77,"Max Power
+246.74 bhp","Torque
+580Nm@ 1750-2500rpm",Sedan,New Delhi,3100000,CarDekho
+347,Hyundai,Hyundai Sonata 2.4 GDi AT,,2014,Petrol,"37,000",2359,First Owner,Automatic,12.37,"Max Power
+198.25 bhp","Torque
+250Nm@ 4250rpm",Sedan,New Delhi,725000,CarDekho
+348,BMW,BMW 5 Series 530i Sport Line,,2017,Petrol,"12,800",1998,First Owner,Automatic,15.56,"Max Power
+252 bhp","Torque
+350Nm@ 1450-4800rpm",Sedan,New Delhi,4200000,CarDekho
+349,Maruti,Maruti Swift Dzire LDI Optional,,2017,Diesel,"46,000",1248,First Owner,Manual,26.59,"Max Power
+74 bhp","Torque
+190Nm@ 2000rpm",Sedan,New Delhi,459999,CarDekho
+350,Honda,Honda City VX CVT,,2018,Petrol,"33,000",1497,First Owner,Automatic,17.4,"Max Power
+117.6 bhp","Torque
+145Nm@ 4600rpm",Sedan,New Delhi,994999,CarDekho
+351,Hyundai,Hyundai Verna 1.6 SX,,2013,Diesel,"58,000",1582,First Owner,Manual,22.32,"Max Power
+126.32 bhp","Torque
+259.8Nm@ 1900-2750rpm",Sedan,New Delhi,480000,CarDekho
+352,Honda,Honda City 1.5 E MT,,2011,Petrol,"67,000",1497,First Owner,Manual,17.0,"Max Power
+118 bhp","Torque
+146Nm at 4800 rpm",Sedan,New Delhi,320000,CarDekho
+353,BMW,BMW 3 Series 320d Luxury Plus,,2013,Diesel,"90,000",1995,First Owner,Automatic,18.88,"Max Power
+184 bhp","Torque
+380Nm@ 1750-2750rpm",Sedan,New Delhi,1351000,CarDekho
+354,Maruti,Maruti Swift Dzire Vdi BSIV,,2011,Diesel,"65,000",1248,First Owner,Manual,19.3,"Max Power
+73.9 bhp","Torque
+190Nm@ 2000rpm",Sedan,New Delhi,195000,CarDekho
+355,Mercedes-Benz,Mercedes-Benz E-Class E250 CDI Avantgarde,,2014,Diesel,"68,000",2143,Second Owner,Automatic,13.0,"Max Power
+204 bhp","Torque
+500Nm@ 1600-1800rpm",Sedan,New Delhi,1795000,CarDekho
+356,Toyota,Toyota Etios G,,2011,Petrol,"64,000",1496,Second Owner,Manual,17.6,"Max Power
+88.73 bhp","Torque
+132Nm@ 3000rpm",Sedan,New Delhi,265000,CarDekho
+357,Maruti,Maruti Ciaz VDi Plus SHVS,,2016,Diesel,"28,000",1248,First Owner,Manual,28.09,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",Sedan,New Delhi,650000,CarDekho
+358,BMW,BMW 6 Series GT 630i Luxury Line 2018-2021,,2019,Petrol,"18,000",1998,First Owner,Automatic,14.28,"Max Power
+254.7 bhp","Torque
+400Nm@ 1550-4400rpm",Sedan,New Delhi,5600000,CarDekho
+359,Audi,Audi A4 2.0 TDI 177 Bhp Premium Plus,,2013,Diesel,"43,000",1968,First Owner,Automatic,17.11,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Sedan,New Delhi,1325000,CarDekho
+360,Honda,Honda City 1.5 S AT,,2009,Petrol,"65,000",1497,First Owner,Automatic,16.8,"Max Power
+118 bhp","Torque
+146Nm at 4800 rpm",Sedan,New Delhi,315000,CarDekho
+361,Maruti,Maruti Swift Dzire VXI,,2009,Petrol,"43,000",1197,Third Owner,Manual,20.85,"Max Power
+83.14 bhp","Torque
+115Nm@ 4000rpm",Sedan,New Delhi,200000,CarDekho
+362,Toyota,Toyota Etios GD SP,,2012,Diesel,"58,000",,First Owner,Manual,23.59,"Color
+White","Seating Capacity
+5",Sedan,New Delhi,290000,CarDekho
+363,Hyundai,Hyundai Verna 1.4 CRDi,,2013,Diesel,"65,000",1396,First Owner,Manual,24.8,"Max Power
+88.7 bhp","Torque
+219.7Nm@ 1750-2750rpm",Sedan,New Delhi,375000,CarDekho
+364,Maruti,Maruti Swift Dzire LXI,,2010,Petrol,"45,000",1197,First Owner,Manual,20.85,"Max Power
+83.14 bhp","Torque
+115Nm@ 4000rpm",Sedan,New Delhi,249000,CarDekho
+365,Honda,Honda New Accord 2008-2011 2.4 AT,,2008,Petrol,"62,000",2354,Second Owner,Automatic,11.7,"Max Power
+177.6 bhp","Torque
+222Nm@ 4300rpm",Sedan,New Delhi,275000,CarDekho
+366,Audi,Audi A4 30 TFSI Premium Plus,,2017,Petrol,"61,000",1395,Second Owner,Automatic,17.84,"Max Power
+147.51 bhp","Torque
+250Nm@ 1500-3500rpm",Sedan,New Delhi,2150000,CarDekho
+367,Audi,Audi A6 2.0 TDI Premium Plus,,2013,Diesel,"32,000",1968,Third Owner,Automatic,17.68,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Sedan,New Delhi,1075000,CarDekho
+368,BMW,BMW 5 Series 520d Luxury Line,,2018,Diesel,"65,000",1995,First Owner,Automatic,20.37,"Max Power
+187.74 bhp","Torque
+400Nm@ 1750-2500rpm",Sedan,New Delhi,3990000,CarDekho
+369,BMW,BMW 5 Series 520d Luxury Line,,2018,Diesel,"40,000",1995,First Owner,Automatic,20.37,"Max Power
+187.74 bhp","Torque
+400Nm@ 1750-2500rpm",Sedan,New Delhi,4065000,CarDekho
+370,Hyundai,Hyundai Verna 1.6 CRDi EX AT,,2013,Diesel,"81,000",1582,First Owner,Automatic,22.32,"Max Power
+126.3 bhp","Torque
+259.9Nm@ 1900-2750rpm",Sedan,New Delhi,450000,CarDekho
+371,Honda,Honda City i VTEC V,,2016,Petrol,"46,000",1497,First Owner,Manual,17.8,"Max Power
+117.3 bhp","Torque
+145Nm@ 4600rpm",Sedan,New Delhi,649000,CarDekho
+372,Renault,Renault Fluence Diesel E4,,2012,Diesel,"1,18,000",1461,First Owner,Manual,21.8,"Max Power
+78 bhp","Torque
+240Nm@ 2000rpm",Sedan,New Delhi,390000,CarDekho
+373,BMW,BMW 3 Series 325i,,2008,Petrol,"53,000",2497,Second Owner,Automatic,10.9,"Max Power
+215 bhp","Torque
+25.1@ 4,000(kgm@ rpm)",Sedan,New Delhi,595000,CarDekho
+374,Volkswagen,Volkswagen Vento 1.2 TSI Highline AT,,2015,Petrol,"52,000",1197,Second Owner,Automatic,16.93,"Max Power
+103.2 bhp","Torque
+175Nm@ 1500-4100rpm",Sedan,New Delhi,540000,CarDekho
+375,Honda,Honda Amaze S i-Dtech,,2013,Diesel,"72,000",1498,First Owner,Manual,25.8,"Max Power
+98.6 bhp","Torque
+200Nm@ 1750rpm",Sedan,New Delhi,295000,CarDekho
+376,Hyundai,Hyundai Verna 1.6 SX CRDI (O) AT,,2014,Diesel,"85,000",1582,First Owner,Automatic,22.32,"Max Power
+126.32 bhp","Torque
+259.8Nm@ 1900-2750rpm",Sedan,New Delhi,550000,CarDekho
+377,Toyota,Toyota Corolla Altis 1.8 VL CVT,,2016,Petrol,"27,000",1798,First Owner,Automatic,14.28,"Max Power
+138.03 bhp","Torque
+173Nm@ 4000rpm",Sedan,New Delhi,1175000,CarDekho
+378,Hyundai,Hyundai Verna 1.6 SX VTVT (O),,2015,Petrol,"6,50,000",1591,First Owner,Manual,17.1,"Max Power
+121.3 bhp","Torque
+154.9Nm@ 4200rpm",Sedan,New Delhi,650000,CarDekho
+379,Mercedes-Benz,Mercedes-Benz S-Class S 300 L,,2010,Petrol,"1,40,000",2987,Fourth & Above Owner,Automatic,13.0,"Max Power
+210 bhp","Torque
+50@ 1600-1800(kgm@ rpm)",Sedan,New Delhi,1225000,CarDekho
+380,Hyundai,Hyundai Verna 1.6 SX VTVT,,2011,Petrol,"77,000",1591,Second Owner,Manual,17.01,"Max Power
+121.3 bhp","Torque
+154.9Nm@ 4200rpm",Sedan,New Delhi,365000,CarDekho
+381,Toyota,Toyota Corolla Altis VL AT,,2015,Petrol,"57,000",1798,First Owner,Automatic,14.28,"Max Power
+138.03 bhp","Torque
+173Nm@ 4000rpm",Sedan,New Delhi,890000,CarDekho
+382,Honda,Honda Amaze 2016-2021 S i-VTEC,,2017,Petrol,"46,000",1198,Second Owner,Manual,17.8,"Max Power
+86.7 bhp","Torque
+109Nm@ 4500rpm",Sedan,New Delhi,434999,CarDekho
+383,Volkswagen,Volkswagen Vento Petrol Comfortline,,2011,Petrol,"42,000",1598,Second Owner,Manual,15.04,"Max Power
+103.6 bhp","Torque
+153Nm@ 3800rpm",Sedan,New Delhi,277000,CarDekho
+384,Mercedes-Benz,Mercedes-Benz C-Class Progressive C 220d,,2019,Diesel,"34,550",1950,First Owner,Automatic,12.6,"Max Power
+194 bhp","Torque
+400Nm@ 1600-2800rpm",Sedan,New Delhi,3790000,CarDekho
+385,Audi,Audi A4 2.0 TFSI,,2011,Petrol,"75,000",1984,Second Owner,Automatic,10.8,"Max Power
+132 bhp","Torque
+320/1500�??3900",Sedan,New Delhi,875000,CarDekho
+386,Maruti,Maruti Dzire VXI,,2009,Petrol,"55,000",1197,First Owner,Manual,23.26,"Max Power
+88.50 bhp","Torque
+113nm@ 4400rpm",Sedan,New Delhi,215000,CarDekho
+387,BMW,BMW 3 Series 320d M Sport,,2015,Diesel,"45,000",1995,Second Owner,Automatic,22.69,"Max Power
+190 bhp","Torque
+400Nm@ 1750-2750rpm",Sedan,New Delhi,2200000,CarDekho
+388,Maruti,Maruti Swift Dzire VXI 1.2 BS IV,,2019,Petrol,"42,000",1197,First Owner,Manual,22.0,"Max Power
+81.80 bhp","Torque
+113Nm@ 4200rpm",Sedan,New Delhi,625000,CarDekho
+389,Mercedes-Benz,Mercedes-Benz C-Class C 250 CDI Elegance,,2011,Diesel,"99,000",2143,First Owner,Automatic,14.94,"Max Power
+204 bhp","Torque
+500Nm@ 1600-1800rpm",Sedan,New Delhi,1050000,CarDekho
+390,Toyota,Toyota Etios VX,,2011,Petrol,"43,000",1496,First Owner,Manual,17.6,"Max Power
+88.7 bhp","Torque
+132Nm@ 3000rpm",Sedan,New Delhi,280000,CarDekho
+391,Mercedes-Benz,Mercedes-Benz E-Class E350 CDI,,2015,Diesel,"55,000",2987,Second Owner,Automatic,13.0,"Max Power
+261.5 bhp","Torque
+620Nm@ 1600-2400rpm",Sedan,New Delhi,2350000,CarDekho
+392,Mercedes-Benz,Mercedes-Benz C-Class C 220 CDI CLASSIC,,2012,Diesel,"64,000",2148,First Owner,Manual,15.8,"Max Power
+170 bhp","Torque
+42@ 2,000(kgm@ rpm)",Sedan,New Delhi,874000,CarDekho
+393,Honda,Honda Civic 1.8 S MT,,2009,Petrol,"78,000",1799,First Owner,Manual,13.5,"Max Power
+130 bhp","Torque
+172Nm@ 4300rpm",Sedan,New Delhi,208000,CarDekho
+394,BMW,BMW 3 Series 320d Sport Line,,2012,Diesel,"80,000",1995,Second Owner,Automatic,18.88,"Max Power
+184 bhp","Torque
+380Nm@ 1750-2750rpm",Sedan,New Delhi,1150000,CarDekho
+395,Audi,Audi A6 2.8 FSI,,2009,Petrol,"55,000",2773,Third Owner,Automatic,10.4,"Max Power
+201 bhp","Torque
+280Nm@ 3000-5000rpm",Sedan,New Delhi,595000,CarDekho
+396,Toyota,Toyota Corolla Altis D-4D GL,,2015,Diesel,"28,500",1364,First Owner,Manual,21.43,"Max Power
+87.2 bhp","Torque
+205Nm@ 1800-2800rpm",Sedan,New Delhi,1148000,CarDekho
+397,Toyota,Toyota Camry 2.5 Hybrid,,2016,Petrol,"78,000",2494,First Owner,Automatic,19.16,"Max Power
+157.7 bhp","Torque
+213Nm@ 4500rpm",Sedan,New Delhi,1700000,CarDekho
+398,Ford,Ford Ecosport,Titanium Diesel,2018,Diesel,"70,944",1498,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+99.23bhp","Torque
+215nm",SUV,New Delhi,777500,CarDekho
+399,Renault,Renault Duster,85PS Diesel RxL Plus,2014,Diesel,"65,675",1461,"No Of Owner(s)
+2nd Owner",Manual,20.45,"Max Power
+83.8bhp","Torque
+200Nm",SUV,New Delhi,332000,CarDekho
+400,Ford,Ford Ecosport,1.5 Diesel Titanium BSIV,2015,Diesel,"36,775",1498,"No Of Owner(s)
+1st Owner",Manual,23,"Max Power
+98.96bhp","Torque
+205Nm",SUV,New Delhi,556000,CarDekho
+401,Mahindra,Mahindra KUV 100,mFALCON D75 K8 5str AW,2016,Diesel,"54,476",1198,"No Of Owner(s)
+2nd Owner",Manual,25.32,"Max Power
+77bhp","Torque
+190Nm",SUV,New Delhi,397000,CarDekho
+402,Ford,Ford Ecosport,1.5 Petrol Titanium BSIV,2015,Petrol,"32,345",1497,"No Of Owner(s)
+1st Owner",Manual,17,"Max Power
+121.31bhp","Torque
+150Nm",SUV,New Delhi,685000,CarDekho
+403,Mahindra,Mahindra KUV 100,mFALCON D75 K6,2016,Diesel,"66,377",1198,"No Of Owner(s)
+2nd Owner",Manual,25.32,"Max Power
+77bhp","Torque
+190Nm",SUV,New Delhi,323000,CarDekho
+404,Ford,Ford Ecosport,1.5 Diesel Trend BSIV,2015,Diesel,"43,981",1498,"No Of Owner(s)
+1st Owner",Manual,23,"Max Power
+98.96bhp","Torque
+205Nm",SUV,New Delhi,500000,CarDekho
+405,Mahindra,Mahindra TUV 300,T8 AMT,2016,Diesel,"86,927",1493,"No Of Owner(s)
+1st Owner",Automatic,18.49,"Max Power
+100bhp","Torque
+230Nm",SUV,New Delhi,551000,CarDekho
+406,Mahindra,Mahindra KUV 100,mFALCON D75 K4,2016,Diesel,"99,534",1198,"No Of Owner(s)
+2nd Owner",Manual,25.32,"Max Power
+77bhp","Torque
+190Nm",SUV,New Delhi,302640,CarDekho
+407,Mahindra,Mahindra Bolero,SLE,2018,Diesel,"25,420",2523,"No Of Owner(s)
+1st Owner",Manual,15.96,"Max Power
+62.1bhp","Torque
+195Nm",SUV,New Delhi,676508,CarDekho
+408,Ford,Ford Ecosport,1.5 Ti VCT MT Ambiente BSIV,2018,Petrol,"30,953",1499,"No Of Owner(s)
+1st Owner",Manual,15.85,"Max Power
+110.4bhp","Torque
+140Nm",SUV,New Delhi,743820,CarDekho
+409,Maruti,Maruti Vitara Brezza,ZDi,2019,Diesel,"46,244",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,New Delhi,842500,CarDekho
+410,Maruti,Maruti Vitara Brezza,VDi Option,2016,Diesel,"78,612",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,New Delhi,631500,CarDekho
+411,Renault,Renault Duster,85PS Diesel RxL,2012,Diesel,"388,500",1461,"No Of Owner(s)
+1st Owner",Manual,20.45,"Max Power
+83.8bhp","Torque
+200Nm",SUV,New Delhi,388500,CarDekho
+412,BMW,BMW 6 Series GT 630i Luxury Line 2018-2021,,2019,Petrol,"17,900",1998,Second Owner,Automatic,14.28,"Max Power
+254.7 bhp","Torque
+400Nm@ 1550-4400rpm",SUV,New Delhi,5300000,CarDekho
+413,Ford,Ford Endeavour 3.2 Trend AT 4X4,,2016,Diesel,"70,000",3198,Second Owner,Automatic,10.91,"Max Power
+197.2 bhp","Torque
+470Nm@ 1750-2500rpm",SUV,New Delhi,2550000,CarDekho
+414,Ford,Ford Figo Diesel Titanium,,2012,Diesel,"1,07,563",1399,First Owner,Manual,20.0,"Max Power
+68.05 bhp","Torque
+160Nm@ 2000rpm",SUV,New Delhi,138000,CarDekho
+415,Porsche,Porsche Cayenne Diesel,,2016,Diesel,"25,000",2967,First Owner,Automatic,16.12,"Max Power
+245 bhp","Torque
+550Nm@ 1750-2750pm",SUV,New Delhi,6540000,CarDekho
+416,Mercedes-Benz,Mercedes-Benz M-Class ML 250 CDI,,2014,Diesel,"82,000",2143,Second Owner,Automatic,15.26,"Max Power
+203.2 bhp","Torque
+500Nm@ 1600-1800rpm",SUV,New Delhi,2350000,CarDekho
+417,Ford,Ford Ecosport,Ambiente Diesel,2015,Diesel,"124,052",1498,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+99.23bhp","Torque
+215Nm",SUV,New Delhi,459780,CarDekho
+418,Ford,Ford Ecosport,1.5 Diesel Ambiente,2016,Diesel,"94,151",1498,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+98.96bhp","Torque
+215Nm",SUV,New Delhi,558816,CarDekho
+419,Ford,Ford Ecosport,1.5 DV5 MT Titanium Optional,2013,Diesel,"91,401",1498,"No Of Owner(s)
+2nd Owner",Manual,22.7,"Max Power
+89.84bhp","Torque
+204Nm",SUV,New Delhi,418000,CarDekho
+420,Ford,Ford Ecosport,1.5 Petrol Titanium AT,2016,Petrol,"86,546",1496,"No Of Owner(s)
+2nd Owner",,"e Type
+Third Party insu","Engine
+1496 CC","Max Power
+120.69bhp",SUV,New Delhi,568000,CarDekho
+421,Ford,Ford Ecosport,1.5 Diesel Trend,2017,Diesel,"22,757",1498,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1498 CC","Max Power
+98.96bhp",SUV,New Delhi,756000,CarDekho
+422,Renault,Renault Duster,85PS Diesel RxL,2012,Diesel,"57,263",1461,"No Of Owner(s)
+2nd Owner",Manual,20.45,"Max Power
+83.8bhp","Torque
+200Nm",SUV,New Delhi,322000,CarDekho
+423,Ford,Ford Ecosport,1.5 Ti VCT MT Titanium BSIV,2016,Petrol,"57,729",1499,"No Of Owner(s)
+1st Owner",Manual,15.85,"Max Power
+110.4bhp","Torque
+140Nm",SUV,New Delhi,646920,CarDekho
+424,Ford,Ford Ecosport,1.5 DV5 MT Titanium,2013,Diesel,"70,802",1498,"No Of Owner(s)
+1st Owner",Manual,22.7,"Max Power
+89.84bhp","Torque
+204Nm",SUV,New Delhi,510540,CarDekho
+425,Ford,Ford Ecosport,1.5 Diesel Titanium Plus BSIV,2018,Diesel,"80,505",1498,"No Of Owner(s)
+2nd Owner",Manual,23,"Max Power
+98.96bhp","Torque
+205Nm",SUV,New Delhi,738000,CarDekho
+426,Maruti,Maruti Vitara Brezza,ZDi,2017,Diesel,"82,513",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,New Delhi,730752,CarDekho
+427,Maruti,Maruti Vitara Brezza,ZDi AMT,2019,Diesel,"49,697",1248,"No Of Owner(s)
+1st Owner",,"e Type
+Zer","Engine
+1248 CC","Max Power
+88.5bhp",SUV,New Delhi,847000,CarDekho
+428,Ford,Ford Ecosport,1.5 Petrol Titanium,2017,Petrol,"40,049",1496,"No Of Owner(s)
+1st Owner",,"e Type
+Zer","Engine
+1496 CC","Max Power
+120.69bhp",SUV,New Delhi,679000,CarDekho
+429,Maruti,Maruti Vitara Brezza,VDi,2017,Diesel,"57,301",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,New Delhi,706076,CarDekho
+430,Ford,Ford Ecosport,1.5 DV5 MT Titanium,2014,Diesel,"135,819",1498,"No Of Owner(s)
+1st Owner",Manual,22.7,"Max Power
+89.84bhp","Torque
+204Nm",SUV,New Delhi,449048,CarDekho
+431,Maruti,Maruti Vitara Brezza,ZXI,2020,Petrol,"27,675",1462,"No Of Owner(s)
+1st Owner",Manual,17.03,"Max Power
+103.26bhp","Torque
+138nm",SUV,New Delhi,935202,CarDekho
+432,Maruti,Maruti Vitara Brezza,ZDi,2017,Diesel,"80,132",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,New Delhi,746000,CarDekho
+433,Maruti,Maruti Vitara Brezza,ZDi,2017,Diesel,"33,434",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,New Delhi,750000,CarDekho
+434,Ford,Ford Ecosport,1.5 DV5 MT Titanium,2014,Diesel,"79,086",1498,"No Of Owner(s)
+2nd Owner",Manual,22.7,"Max Power
+89.84bhp","Torque
+204Nm",SUV,New Delhi,454596,CarDekho
+435,Ford,Ford Ecosport,1.5 Ti VCT AT Titanium,2015,Petrol,"76,725",1499,"No Of Owner(s)
+1st Owner",Automatic,16.5,"Max Power
+110bhp","Torque
+140Nm",SUV,New Delhi,656009,CarDekho
+436,Maruti,Maruti Vitara Brezza,ZDi Plus Dual Tone,2018,Diesel,"42,092",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,New Delhi,884000,CarDekho
+437,Maruti,Maruti Vitara Brezza,ZDi Plus Dual Tone,2016,Diesel,"85,937",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,New Delhi,630500,CarDekho
+438,Maruti,Maruti Vitara Brezza,ZDi,2016,Diesel,"95,655",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,New Delhi,635500,CarDekho
+439,Maruti,Maruti Vitara Brezza,LDi,2017,Diesel,"32,641",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,New Delhi,615500,CarDekho
+440,Ford,Ford Ecosport,1.5 DV5 MT Titanium,2015,Diesel,"86,059",1498,"No Of Owner(s)
+1st Owner",Manual,22.7,"Max Power
+89.84bhp","Torque
+204Nm",SUV,New Delhi,548000,CarDekho
+441,Honda,Honda WR-V,i-DTEC S,2018,Diesel,"61,372",1498,"No Of Owner(s)
+1st Owner",Manual,25.5,"Max Power
+98.6bhp","Torque
+200Nm",SUV,New Delhi,669500,CarDekho
+442,Maruti,Maruti Vitara Brezza,VDi,2017,Diesel,"71,848",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,New Delhi,698000,CarDekho
+443,Maruti,Maruti Vitara Brezza,ZDi,2017,Diesel,"21,355",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,New Delhi,761500,CarDekho
+444,Maruti,Maruti Vitara Brezza,ZDi AMT,2018,Diesel,"37,901",1248,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1248 CC","Max Power
+88.5bhp",SUV,New Delhi,906000,CarDekho
+445,Maruti,Maruti Vitara Brezza,LDi Option,2016,Diesel,"77,406",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,New Delhi,661250,CarDekho
+446,Hyundai,Hyundai Venue,SX Turbo,2019,Petrol,"16,860",998,"No Of Owner(s)
+1st Owner",Manual,18.27,"Max Power
+118.35bhp","Torque
+172Nm",SUV,New Delhi,950000,CarDekho
+447,Ford,Ford Ecosport,1.5 Diesel Trend,2016,Diesel,"51,281",1498,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+98.96bhp","Torque
+215Nm",SUV,New Delhi,545472,CarDekho
+448,Maruti,Maruti Vitara Brezza,VDi Option,2017,Diesel,"58,713",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,New Delhi,667500,CarDekho
+449,Honda,Honda WR-V,i-VTEC S,2017,Petrol,351,1199,"No Of Owner(s)
+1st Owner",Manual,17.5,"Max Power
+88.7bhp","Torque
+110Nm",SUV,New Delhi,642482,CarDekho
+450,Hyundai,Hyundai Venue,SX Opt Turbo,2019,Petrol,"4,789",998,"No Of Owner(s)
+1st Owner",Manual,18.27,"Max Power
+118.35bhp","Torque
+171.6Nm",SUV,New Delhi,1092960,CarDekho
+451,Hyundai,Hyundai Santa Fe,4WD AT,2012,Diesel,"118,874",2199,"No Of Owner(s)
+2nd Owner",Automatic,13.01,"Max Power
+194.3bhp","Torque
+436.39Nm",SUV,New Delhi,572500,CarDekho
+452,Hyundai,Hyundai Venue,SX Diesel BSIV,2019,Diesel,"58,169",1396,"No Of Owner(s)
+1st Owner",Manual,23.7,"Max Power
+88.76bhp","Torque
+219.6Nm",SUV,New Delhi,990552,CarDekho
+453,Nissan,Nissan Terrano,XL Plus 85 PS,2018,Diesel,"55,245",1461,"No Of Owner(s)
+1st Owner",Manual,20.45,"Max Power
+83.8bhp","Torque
+200Nm",SUV,New Delhi,722868,CarDekho
+454,Honda,Honda WR-V,VX Diesel,2017,Diesel,"70,044",1498,"No Of Owner(s)
+1st Owner",Manual,23.7,"Max Power
+97.89bhp","Torque
+200nm",SUV,New Delhi,643000,CarDekho
+455,Tata,Tata Nexon,1.5 Revotorq XZ Plus,2017,Diesel,"115,229",1497,"No Of Owner(s)
+1st Owner",Manual,21.5,"Max Power
+108.5bhp","Torque
+260Nm",SUV,New Delhi,605000,CarDekho
+456,Maruti,Maruti SX4 S Cross,DDiS 320 Alpha,2016,Diesel,"64,465",1598,"No Of Owner(s)
+1st Owner",Manual,22.7,"Max Power
+118bhp","Torque
+320Nm",SUV,New Delhi,583440,CarDekho
+457,Hyundai,Hyundai Venue,SX Opt Diesel BSIV,2019,Diesel,"54,289",1396,"No Of Owner(s)
+1st Owner",Manual,23.7,"Max Power
+88.7bhp","Torque
+220Nm",SUV,New Delhi,1052500,CarDekho
+458,Honda,Honda WR-V,i-VTEC VX,2018,Petrol,"20,789",1199,"No Of Owner(s)
+1st Owner",Manual,17.5,"Max Power
+88.7bhp","Torque
+110Nm",SUV,New Delhi,782024,CarDekho
+459,Tata,Tata Nexon,1.5 Revotorq XM,2018,Diesel,"41,492",1497,"No Of Owner(s)
+1st Owner",Manual,21.5,"Max Power
+108.5bhp","Torque
+260Nm",SUV,New Delhi,624750,CarDekho
+460,Tata,Tata Nexon,1.5 Revotorq XZ Plus,2018,Diesel,"98,551",1497,"No Of Owner(s)
+1st Owner",Manual,21.5,"Max Power
+108.5bhp","Torque
+260Nm",SUV,New Delhi,655908,CarDekho
+461,Nissan,Nissan Terrano,XL 110 PS,2013,Diesel,"121,381",1461,"No Of Owner(s)
+2nd Owner",Manual,19.01,"Max Power
+108.5bhp","Torque
+248Nm",SUV,New Delhi,320527,CarDekho
+462,Honda,Honda WR-V,i-VTEC S,2018,Petrol,"45,408",1199,"No Of Owner(s)
+1st Owner",Manual,17.5,"Max Power
+88.7bhp","Torque
+110Nm",SUV,New Delhi,638979,CarDekho
+463,Hyundai,Hyundai Venue,SX iMT,2020,Petrol,"13,293",998,"No Of Owner(s)
+1st Owner",Manual,18,"Max Power
+118.35bhp","Torque
+171.6Nm",SUV,New Delhi,998160,CarDekho
+464,Renault,Renault Duster,85PS Diesel RxL,2014,Diesel,"112,117",1461,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1461 CC","Max Power
+83.8bhp",SUV,New Delhi,405618,CarDekho
+465,Honda,Honda BR-V,i-VTEC V MT,2016,Petrol,"42,227",1497,"No Of Owner(s)
+2nd Owner",Manual,15.4,"Max Power
+117.3bhp","Torque
+145Nm",SUV,New Delhi,609784,CarDekho
+466,Renault,Renault Duster,110PS Diesel RxL,2015,Diesel,"106,169",1461,"No Of Owner(s)
+1st Owner",Manual,19.64,"Max Power
+108.45bhp","Torque
+245Nm",SUV,New Delhi,426840,CarDekho
+467,Renault,Renault Duster,110PS Diesel RxL AMT,2016,Diesel,"72,273",1461,"No Of Owner(s)
+1st Owner",Automatic,19.6,"Max Power
+108.45bhp","Torque
+245Nm",SUV,New Delhi,638500,CarDekho
+468,Honda,Honda CR-V,2.4 MT,2008,Petrol,"143,399",2354,"No Of Owner(s)
+1st Owner",Manual,10.8,"Max Power
+152 PS","Torque
+215 Nm",SUV,New Delhi,275000,CarDekho
+469,Mahindra,Mahindra XUV500,W7,2019,Diesel,"47,798",2179,"No Of Owner(s)
+1st Owner",,"e Type
+Third ","Engine
+2179 CC","Max Power
+152.87bhp",SUV,New Delhi,1321242,CarDekho
+470,Mahindra,Mahindra XUV500,W6 2WD,2014,Diesel,"104,149",2179,"No Of Owner(s)
+2nd Owner",Manual,15.1,"Max Power
+140bhp","Torque
+330Nm",SUV,New Delhi,504000,CarDekho
+471,Hyundai,Hyundai Creta,1.4 E Plus,2018,Diesel,"68,110",1396,"No Of Owner(s)
+1st Owner",Manual,22.1,"Max Power
+88.7bhp","Torque
+219.7Nm",SUV,New Delhi,895500,CarDekho
+472,Hyundai,Hyundai Creta,1.6 CRDi AT SX Plus,2016,Diesel,"96,195",1582,"No Of Owner(s)
+1st Owner",Automatic,17.01,"Max Power
+126.2bhp","Torque
+259.9Nm",SUV,New Delhi,926500,CarDekho
+473,Hyundai,Hyundai Creta,1.4 E Plus,2018,Diesel,"17,013",1396,"No Of Owner(s)
+1st Owner",Manual,22.1,"Max Power
+88.7bhp","Torque
+219.7Nm",SUV,New Delhi,917500,CarDekho
+474,Hyundai,Hyundai Creta,1.6 E Plus,2017,Petrol,"35,096",1591,"No Of Owner(s)
+1st Owner",Manual,15.8,"Max Power
+121.3bhp","Torque
+151Nm",SUV,New Delhi,821877,CarDekho
+475,Hyundai,Hyundai Creta,1.4 E Plus,2018,Diesel,"55,536",1396,"No Of Owner(s)
+1st Owner",Manual,22.1,"Max Power
+88.7bhp","Torque
+219.7Nm",SUV,New Delhi,912500,CarDekho
+476,Hyundai,Hyundai Creta,1.6 CRDi SX Plus,2015,Diesel,"119,103",1582,"No Of Owner(s)
+1st Owner",Manual,19.67,"Max Power
+126.2bhp","Torque
+259.9Nm",SUV,New Delhi,797500,CarDekho
+477,Hyundai,Hyundai Creta,1.4 E Plus,2017,Diesel,"48,067",1396,"No Of Owner(s)
+1st Owner",Manual,22.1,"Max Power
+88.7bhp","Torque
+219.7Nm",SUV,New Delhi,835000,CarDekho
+478,Hyundai,Hyundai Creta,1.6 CRDi AT S Plus,2017,Diesel,"51,742",1582,"No Of Owner(s)
+1st Owner",Automatic,17.01,"Max Power
+126.2bhp","Torque
+259.9Nm",SUV,New Delhi,986500,CarDekho
+479,Mahindra,Mahindra XUV300,W6,2019,Petrol,"11,330",1197,"No Of Owner(s)
+1st Owner",Manual,17,"Max Power
+108.6bhp","Torque
+200Nm",SUV,New Delhi,779500,CarDekho
+480,Mahindra,Mahindra Thar,DI 4X2,2017,Diesel,"27,048",2523,"No Of Owner(s)
+1st Owner",Manual,18.06,"Max Power
+63bhp","Torque
+182.5Nm",SUV,New Delhi,616500,CarDekho
+481,Mahindra,Mahindra XUV500,W8 FWD,2015,Diesel,"73,490",2179,"No Of Owner(s)
+1st Owner",Manual,15.1,"Max Power
+140bhp","Torque
+330Nm",SUV,New Delhi,785000,CarDekho
+482,Toyota,Toyota Fortuner,4x2 AT,2014,Diesel,"139,752",2982,"No Of Owner(s)
+1st Owner",Automatic,12.55,"Max Power
+168.5bhp","Torque
+360Nm",SUV,New Delhi,1474500,CarDekho
+483,Renault,Renault Duster Petrol RXS CVT,,2018,Petrol,"62,000",1498,First Owner,Automatic,14.99,"Max Power
+104.5 bhp","Torque
+142Nm@ 4000rpm",SUV,New Delhi,795000,CarDekho
+484,Mahindra,Mahindra XUV500 2011-2015 W8 FWD,,2015,Diesel,"50,000",2179,First Owner,Manual,15.1,"Max Power
+140 bhp","Torque
+330Nm@ 1600-2800rpm",SUV,New Delhi,749000,CarDekho
+485,Mahindra,Mahindra XUV500 AT W6 1.99 mHawk,,2017,Diesel,"44,023",1997,First Owner,Automatic,16.0,"Max Power
+140 bhp","Torque
+320Nm@ 1600-2800rpm",SUV,New Delhi,1200000,CarDekho
+486,Renault,Renault Duster 85PS Diesel RxE Adventure,,2014,Diesel,"57,000",1461,First Owner,Manual,20.45,"Max Power
+83.8 bhp","Torque
+200Nm@ 1900rpm",SUV,New Delhi,465000,CarDekho
+487,Ford,Ford EcoSport 1.5 Diesel Titanium,,2015,Diesel,"62,000",1498,First Owner,Manual,21.7,"Max Power
+98.96 bhp","Torque
+215Nm@ 1750-2500rpm",SUV,New Delhi,535000,CarDekho
+488,Ford,Ford EcoSport 1.5 Diesel Trend,,2015,Diesel,"62,000",1498,First Owner,Manual,21.7,"Max Power
+98.96 bhp","Torque
+215Nm@ 1750-2500rpm",SUV,New Delhi,495000,CarDekho
+489,Ford,Ford EcoSport 1.5 TDCi Titanium BSIV,,2018,Diesel,"23,000",1498,First Owner,Manual,22.77,"Max Power
+98.59 bhp","Torque
+205Nm@ 1750-3250rpm",SUV,New Delhi,890000,CarDekho
+490,Renault,Renault Koleos 2.0 Diesel,,2013,Diesel,"63,002",1995,First Owner,Automatic,13.73,"Max Power
+148 bhp","Torque
+320Nm@ 2000rpm",SUV,New Delhi,625000,CarDekho
+491,Mahindra,Mahindra Quanto C4,,2012,Diesel,"72,460",1493,Second Owner,Manual,17.21,"Max Power
+100 bhp","Torque
+240Nm@ 1600-2800rpm",SUV,New Delhi,225000,CarDekho
+492,Ford,Ford Endeavour 2.2 Titanium AT 4X2 Sunroof,,2020,Diesel,"42,000",2198,First Owner,Automatic,12.62,"Max Power
+158 bhp","Torque
+385Nm@ 1600-2500rpm",SUV,New Delhi,3150000,CarDekho
+493,Maruti,Maruti Vitara Brezza VDi Option,,2017,Diesel,"67,541",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,700000,CarDekho
+494,Maruti,Maruti Vitara Brezza ZDi,,2016,Diesel,"31,000",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,700000,CarDekho
+495,Toyota,Toyota Fortuner 4x2 AT,,2015,Diesel,"1,22,000",2982,Second Owner,Automatic,12.55,"Max Power
+168.5 bhp","Torque
+360Nm@ 1400-3200rpm",SUV,New Delhi,1650000,CarDekho
+496,Ford,Ford EcoSport 1.5 TDCi Titanium Plus BSIV,,2016,Diesel,"62,000",1498,First Owner,Manual,22.77,"Max Power
+98.59 bhp","Torque
+205Nm@ 1750-3250rpm",SUV,New Delhi,654000,CarDekho
+497,Hyundai,Hyundai Creta 1.6 SX,,2019,Petrol,"22,001",1591,First Owner,Manual,15.8,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",SUV,New Delhi,1250000,CarDekho
+498,Mahindra,Mahindra TUV 300 mHAWK100 T8,,2015,Diesel,"66,800",1493,First Owner,Manual,18.49,"Max Power
+100 bhp","Torque
+240Nm@ 1600-2800rpm",SUV,New Delhi,557000,CarDekho
+499,Ford,Ford Endeavour 3.2 Titanium AT 4X4,,2017,Diesel,"31,000",3198,First Owner,Automatic,10.91,"Max Power
+197 bhp","Torque
+470Nm@ 1750-2500rpm",SUV,New Delhi,2975000,CarDekho
+500,Maruti,Maruti Vitara Brezza ZDi Plus Dual Tone,,2017,Diesel,"79,524",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,745000,CarDekho
+501,Maruti,Maruti Vitara Brezza VDi,,2017,Diesel,"66,000",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,680000,CarDekho
+502,Mahindra,Mahindra XUV500 W8 2WD,,2014,Diesel,"62,412",2179,First Owner,Manual,16.0,"Max Power
+140 bhp","Torque
+330Nm@ 1600-2800rpm",SUV,New Delhi,645000,CarDekho
+503,Hyundai,Hyundai Creta 1.6 VTVT AT SX Plus,,2017,Petrol,"58,000",1591,First Owner,Automatic,13.0,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",SUV,New Delhi,1075000,CarDekho
+504,Volvo,Volvo XC 90 D5 Inscription,,2016,Diesel,"52,200",1969,First Owner,Automatic,17.2,"Max Power
+235 bhp","Torque
+480Nm@ 1750rpm",SUV,New Delhi,4800000,CarDekho
+505,Ford,Ford EcoSport 1.5 DV5 MT Titanium Optional,,2014,Diesel,"58,000",1498,First Owner,Manual,22.7,"Max Power
+89.84 bhp","Torque
+204Nm@ 2000-2750rpm",SUV,New Delhi,465000,CarDekho
+506,Mahindra,Mahindra TUV 300 T6 Plus AMT,,2016,Diesel,"40,000",1493,First Owner,Automatic,18.49,"Max Power
+100 bhp","Torque
+240Nm@ 1600-2800rpm",SUV,New Delhi,650000,CarDekho
+507,Land,Land Rover Discovery 2017-2021 HSE Luxury 3.0 Si6,,2018,Petrol,"67,500",2995,First Owner,Automatic,9.17,"Max Power
+335.25 bhp","Torque
+450Nm@ 3500-5000rpm",SUV,New Delhi,5900000,CarDekho
+508,Jeep,Jeep Compass 2.0 Limited,,2017,Diesel,"56,000",1956,First Owner,Manual,17.1,"Max Power
+170 bhp","Torque
+350Nm@ 1750-2500rpm",SUV,New Delhi,1295000,CarDekho
+509,Land,Land Rover Discovery Sport 2015-2020 TD4 SE 7S,,2018,Diesel,"32,000",2179,First Owner,Automatic,12.83,"Max Power
+147.5 bhp","Torque
+400Nm@ 1750rpm",SUV,New Delhi,3800000,CarDekho
+510,Honda,Honda CR V 2.4L 4WD AT AVN,,2015,Petrol,"81,000",2354,First Owner,Automatic,12.0,"Max Power
+187.4 bhp","Torque
+226Nm@ 4400rpm",SUV,New Delhi,1200000,CarDekho
+511,Ford,Ford Endeavour 3.2 Titanium AT 4X4,,2017,Diesel,"37,800",3198,First Owner,Automatic,10.91,"Max Power
+197 bhp","Torque
+470Nm@ 1750-2500rpm",SUV,New Delhi,2975000,CarDekho
+512,Honda,Honda WR-V i-DTEC VX,,2018,Diesel,"39,425",1498,First Owner,Manual,25.5,"Max Power
+98.6 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,788000,CarDekho
+513,Ford,Ford EcoSport 1.5 Diesel Titanium Plus,,2015,Diesel,"60,253",1498,First Owner,Manual,21.7,"Max Power
+98.96 bhp","Torque
+215Nm@ 1750-2500rpm",SUV,New Delhi,455000,CarDekho
+514,Land,Land Rover Discovery Sport 2015-2020 TD4 HSE,,2016,Diesel,"95,000",2179,First Owner,Automatic,12.63,"Max Power
+147.5 bhp","Torque
+400Nm@ 1750rpm",SUV,New Delhi,2800000,CarDekho
+515,Hyundai,Hyundai Santa Fe 2WD AT,,2015,Diesel,"85,000",2199,First Owner,Automatic,13.01,"Max Power
+194.3 bhp","Torque
+436.39Nm@ 1800-2500rpm",SUV,New Delhi,1050000,CarDekho
+516,MG,MG Hector Plus Sharp AT,,2020,Petrol,"11,000",1451,First Owner,Automatic,11.67,"Max Power
+141 bhp","Torque
+250nm@ 1600-3600rpm",SUV,New Delhi,1930999,CarDekho
+517,Isuzu,Isuzu MU-X 2017-2020 2WD,,2017,Diesel,"59,000",2999,First Owner,Automatic,13.8,"Max Power
+174.57 bhp","Torque
+380NM@ 1800-2800rpm",SUV,New Delhi,1750000,CarDekho
+518,Hyundai,Hyundai Creta 1.6 CRDi SX Option,,2016,Diesel,"79,023",1582,First Owner,Manual,19.67,"Max Power
+126.2 bhp","Torque
+259.9Nm@ 1900-2750rpm",SUV,New Delhi,950000,CarDekho
+519,Mercedes-Benz,Mercedes-Benz GL-Class 350 CDI Blue Efficiency,,2015,Diesel,"34,000",2987,First Owner,Automatic,11.3,"Max Power
+254.8 bhp","Torque
+619Nm@ 1600-2400rpm",SUV,New Delhi,3800000,CarDekho
+520,Renault,Renault Duster 85PS Diesel RxL,,2013,Diesel,"56,510",1461,First Owner,Manual,20.45,"Max Power
+83.8 bhp","Torque
+200Nm@ 1900rpm",SUV,New Delhi,385000,CarDekho
+521,Mahindra,Mahindra XUV500 2011-2015 W8 FWD,,2012,Diesel,"80,000",2179,Second Owner,Manual,15.1,"Max Power
+140 bhp","Torque
+330Nm@ 1600-2800rpm",SUV,New Delhi,490000,CarDekho
+522,Hyundai,Hyundai Creta 1.6 SX Automatic,,2019,Petrol,"57,000",1591,First Owner,Automatic,14.8,"Max Power
+121.3 bhp","Torque
+151NM@ 4850rpm",SUV,New Delhi,1280000,CarDekho
+523,Tata,Tata Nexon 1.2 Revotron XT,,2018,Petrol,"38,000",1198,First Owner,Manual,17.0,"Max Power
+108.5 bhp","Torque
+170Nm@ 1750-4000rpm",SUV,New Delhi,700000,CarDekho
+524,Ford,Ford EcoSport 1.5 TDCi Titanium BSIV,,2018,Diesel,"23,000",1498,First Owner,Manual,22.77,"Max Power
+98.59 bhp","Torque
+205Nm@ 1750-3250rpm",SUV,New Delhi,890000,CarDekho
+525,Hyundai,Hyundai Creta 1.6 VTVT SX Plus Dual Tone,,2017,Petrol,"58,271",1591,First Owner,Manual,15.29,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",SUV,New Delhi,975000,CarDekho
+526,Renault,Renault Koleos 2.0 Diesel,,2013,Diesel,"63,002",1995,First Owner,Automatic,13.73,"Max Power
+148 bhp","Torque
+320Nm@ 2000rpm",SUV,New Delhi,625000,CarDekho
+527,Mercedes-Benz,Mercedes-Benz M-Class ML 250 CDI,,2014,Diesel,"83,000",2143,Second Owner,Automatic,15.26,"Max Power
+203.2 bhp","Torque
+500Nm@ 1600-1800rpm",SUV,New Delhi,2195000,CarDekho
+528,Mahindra,Mahindra Quanto C4,,2012,Diesel,"72,460",1493,Second Owner,Manual,17.21,"Max Power
+100 bhp","Torque
+240Nm@ 1600-2800rpm",SUV,New Delhi,225000,CarDekho
+529,Hyundai,Hyundai Santa Fe 2WD AT,,2014,Diesel,"68,000",2199,First Owner,Automatic,13.01,"Max Power
+194.3 bhp","Torque
+436.39Nm@ 1800-2500rpm",SUV,New Delhi,1250000,CarDekho
+530,Mahindra,Mahindra Thar DI 4X4,,2018,Diesel,"30,000",2523,First Owner,Manual,18.06,"Max Power
+63 bhp","Torque
+195Nm@ 1400-2200rpm",SUV,New Delhi,850000,CarDekho
+531,Renault,Renault Duster 85PS Diesel RxZ,,2017,Diesel,"47,300",1461,First Owner,Manual,19.87,"Max Power
+83.8 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,675000,CarDekho
+532,Ford,Ford Endeavour 2.2 Titanium AT 4X2 Sunroof,,2020,Diesel,"42,000",2198,First Owner,Automatic,12.62,"Max Power
+158 bhp","Torque
+385Nm@ 1600-2500rpm",SUV,New Delhi,3150000,CarDekho
+533,Ford,Ford EcoSport 1.5 Diesel Titanium,,2017,Diesel,"69,000",1498,First Owner,Manual,21.7,"Max Power
+98.96 bhp","Torque
+215Nm@ 1750-2500rpm",SUV,New Delhi,735000,CarDekho
+534,Ford,Ford EcoSport 1.5 Ti VCT MT Titanium,,2013,Petrol,"72,000",1499,Second Owner,Manual,15.8,"Max Power
+110 bhp","Torque
+140Nm@ 4400rpm",SUV,New Delhi,450000,CarDekho
+535,Mercedes-Benz,Mercedes-Benz GLA Class Urban Edition 200,,2019,Petrol,"8,000",1991,First Owner,Automatic,13.7,"Max Power
+183 bhp","Torque
+300Nm@ 1200-1400rpm",SUV,New Delhi,3200000,CarDekho
+536,Maruti,Maruti Vitara Brezza VDi Option,,2017,Diesel,"67,541",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,700000,CarDekho
+537,Audi,Audi Q7 2006-2020 35 TDI Quattro Premium Plus,,2015,Diesel,"61,000",2967,First Owner,Automatic,12.07,"Max Power
+241.4 bhp","Torque
+550Nm@ 1750-2750rpm",SUV,New Delhi,2790000,CarDekho
+538,Mahindra,Mahindra TUV 300 T6 Plus,,2015,Diesel,"60,000",1493,First Owner,Manual,18.49,"Max Power
+100 bhp","Torque
+240Nm@ 1600-2800rpm",SUV,New Delhi,525000,CarDekho
+539,Renault,Renault Duster 110PS Diesel RxL Explore,,2015,Diesel,"65,000",1461,First Owner,Manual,19.64,"Max Power
+108.45 bhp","Torque
+245Nm@ 1750rpm",SUV,New Delhi,575000,CarDekho
+540,Mahindra,Mahindra Thar CRDe AC,,2015,Diesel,"23,200",2498,Second Owner,Manual,16.55,"Max Power
+105 bhp","Torque
+247Nm@ 1800-2000rpm",SUV,New Delhi,710000,CarDekho
+541,Maruti,Maruti Vitara Brezza ZDi,,2016,Diesel,"31,000",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,700000,CarDekho
+542,Mahindra,Mahindra Thar AX Opt 4-Str Hard Top Diesel,,2021,Diesel,"4,600",2184,First Owner,Manual,15.2,"Max Power
+130 bhp","Torque
+300nm@ 1600-2800rpm",SUV,New Delhi,1639999,CarDekho
+543,Land,Land Rover Discovery 2017-2021 SE 3.0 TD6,,2019,Diesel,"22,000",2993,First Owner,Automatic,18.0,"Max Power
+255 bhp","Torque
+600Nm@ 1750-2250rpm",SUV,New Delhi,7500000,CarDekho
+544,Toyota,Toyota Fortuner 4x2 AT,,2015,Diesel,"1,22,000",2982,Second Owner,Automatic,12.55,"Max Power
+168.5 bhp","Torque
+360Nm@ 1400-3200rpm",SUV,New Delhi,1650000,CarDekho
+545,Ford,Ford EcoSport 1.5 TDCi Titanium Plus BSIV,,2016,Diesel,"62,000",1498,First Owner,Manual,22.77,"Max Power
+98.59 bhp","Torque
+205Nm@ 1750-3250rpm",SUV,New Delhi,654000,CarDekho
+546,Ford,Ford EcoSport 1.5 Petrol Titanium AT,,2015,Petrol,"54,000",1496,First Owner,Automatic,14.7,"Max Power
+120.69 bhp","Torque
+149Nm@ 4500rpm",SUV,New Delhi,645000,CarDekho
+547,Hyundai,Hyundai Creta 1.6 SX,,2019,Petrol,"22,001",1591,First Owner,Manual,15.8,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",SUV,New Delhi,1250000,CarDekho
+548,Mahindra,Mahindra TUV 300 mHAWK100 T8,,2015,Diesel,"66,800",1493,First Owner,Manual,18.49,"Max Power
+100 bhp","Torque
+240Nm@ 1600-2800rpm",SUV,New Delhi,557000,CarDekho
+549,Ford,Ford Endeavour 3.2 Titanium AT 4X4,,2017,Diesel,"31,000",3198,First Owner,Automatic,10.91,"Max Power
+197 bhp","Torque
+470Nm@ 1750-2500rpm",SUV,New Delhi,2975000,CarDekho
+550,Hyundai,Hyundai Venue SX Plus Turbo DCT,,2019,Petrol,"22,000",998,First Owner,Automatic,18.15,"Max Power
+118.35 bhp","Torque
+172Nm@ 1500-4000rpm",SUV,New Delhi,1130000,CarDekho
+551,Maruti,Maruti Vitara Brezza VDi,,2017,Diesel,"66,000",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,680000,CarDekho
+552,Mahindra,Mahindra XUV500 W8 2WD,,2014,Diesel,"62,412",2179,First Owner,Manual,16.0,"Max Power
+140 bhp","Torque
+330Nm@ 1600-2800rpm",SUV,New Delhi,645000,CarDekho
+553,Maruti,Maruti Vitara Brezza ZDi Plus Dual Tone,,2017,Diesel,"79,524",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,745000,CarDekho
+554,Hyundai,Hyundai Creta 1.6 VTVT AT SX Plus,,2017,Petrol,"58,000",1591,First Owner,Automatic,13.0,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",SUV,New Delhi,1075000,CarDekho
+555,Volvo,Volvo XC 90 D5 Inscription,,2016,Diesel,"52,200",1969,First Owner,Automatic,17.2,"Max Power
+235 bhp","Torque
+480Nm@ 1750rpm",SUV,New Delhi,4800000,CarDekho
+556,Mahindra,Mahindra Thar CRDe,,2017,Diesel,"23,000",2498,First Owner,Manual,16.55,"Max Power
+105 bhp","Torque
+247Nm@ 1800-2000rpm",SUV,New Delhi,825000,CarDekho
+557,Ford,Ford EcoSport 1.5 DV5 MT Titanium Optional,,2014,Diesel,"58,000",1498,First Owner,Manual,22.7,"Max Power
+89.84 bhp","Torque
+204Nm@ 2000-2750rpm",SUV,New Delhi,465000,CarDekho
+558,Mahindra,Mahindra TUV 300 T6 Plus AMT,,2016,Diesel,"40,000",1493,First Owner,Automatic,18.49,"Max Power
+100 bhp","Torque
+240Nm@ 1600-2800rpm",SUV,New Delhi,650000,CarDekho
+559,Mahindra,Mahindra XUV500 AT W10 FWD,,2018,Diesel,"59,000",2179,First Owner,Automatic,16.0,"Max Power
+140 bhp","Torque
+330Nm@ 1600-2800rpm",SUV,New Delhi,1450000,CarDekho
+560,Hyundai,Hyundai Creta 1.6 SX Option Diesel,,2019,Diesel,"21,000",1582,First Owner,Manual,20.5,"Max Power
+126.2 bhp","Torque
+259.87NM@ 1500-3000rpm",SUV,New Delhi,1495000,CarDekho
+561,Mahindra,Mahindra Thar 4X4,,2012,Diesel,"70,000",2498,Second Owner,Manual,16.55,"Max Power
+105 bhp","Torque
+247Nm@ 1800-2000rpm",SUV,New Delhi,475000,CarDekho
+562,Mahindra,Mahindra Scorpio 1.99 S10,,2017,Diesel,"30,000",1997,First Owner,Manual,15.4,"Max Power
+120 bhp","Torque
+280Nm@ 1800-2800rpm",SUV,New Delhi,1195000,CarDekho
+563,Nissan,Nissan Terrano XV 110 PS Limited Edition,,2014,Diesel,"82,000",1461,First Owner,Manual,19.01,"Max Power
+108.5 bhp","Torque
+248Nm@ 2250rpm",SUV,New Delhi,390000,CarDekho
+564,Volvo,Volvo XC 90 D5 Momentum,,2019,Diesel,"27,000",1969,First Owner,Automatic,17.2,"Max Power
+235 bhp","Torque
+480Nm@ 1750rpm",SUV,New Delhi,6500000,CarDekho
+565,Kia,Kia Seltos HTX Plus D,,2020,Diesel,"17,000",1493,First Owner,Manual,20.8,"Max Power
+113.42 bhp","Torque
+250nm@ 1500-2750rpm",SUV,New Delhi,1390000,CarDekho
+566,Land,Land Rover Discovery 2017-2021 HSE Luxury 3.0 Si6,,2018,Petrol,"67,500",2995,First Owner,Automatic,9.17,"Max Power
+335.25 bhp","Torque
+450Nm@ 3500-5000rpm",SUV,New Delhi,5900000,CarDekho
+567,Toyota,Toyota Fortuner 4x2 AT,,2015,Diesel,"1,20,000",2982,Second Owner,Automatic,12.55,"Max Power
+168.5 bhp","Torque
+360Nm@ 1400-3200rpm",SUV,New Delhi,1525000,CarDekho
+568,Jeep,Jeep Compass 2.0 Limited,,2017,Diesel,"56,000",1956,First Owner,Manual,17.1,"Max Power
+170 bhp","Torque
+350Nm@ 1750-2500rpm",SUV,New Delhi,1295000,CarDekho
+569,Toyota,Toyota Fortuner 4x2 Manual,,2013,Diesel,"70,000",2982,Second Owner,Manual,13.0,"Max Power
+168.5 bhp","Torque
+343Nm@ 1400-3400rpm",SUV,New Delhi,1299000,CarDekho
+570,Nissan,Nissan Terrano XV 110 PS,,2014,Diesel,"88,000",1461,Second Owner,Manual,19.01,"Max Power
+108.5 bhp","Torque
+248Nm@ 2250rpm",SUV,New Delhi,475000,CarDekho
+571,Land,Land Rover Discovery Sport 2015-2020 TD4 SE 7S,,2018,Diesel,"32,000",2179,First Owner,Automatic,12.83,"Max Power
+147.5 bhp","Torque
+400Nm@ 1750rpm",SUV,New Delhi,3800000,CarDekho
+572,Audi,Audi Q3 30 TFSI Premium FWD,,2017,Petrol,"44,600",1395,First Owner,Automatic,16.9,"Max Power
+147.51 bhp","Torque
+250nm@ 1500-3500rpm",SUV,New Delhi,2400000,CarDekho
+573,Honda,Honda CR V 2.4L 4WD AT AVN,,2015,Petrol,"81,000",2354,First Owner,Automatic,12.0,"Max Power
+187.4 bhp","Torque
+226Nm@ 4400rpm",SUV,New Delhi,1200000,CarDekho
+574,Toyota,Toyota Fortuner 2016-2021 2.7 2WD AT,,2017,Petrol,"46,000",2694,Second Owner,Automatic,10.26,"Max Power
+163.7 bhp","Torque
+245Nm@ 4000rpm",SUV,New Delhi,2500000,CarDekho
+575,Tata,Tata Nexon 1.2 Revotron XZA Plus,,2019,Petrol,"20,000",1198,First Owner,Automatic,17.0,"Max Power
+108.5 bhp","Torque
+170Nm@ 1750-4000rpm",SUV,New Delhi,940000,CarDekho
+576,Toyota,Toyota Fortuner 4x2 Manual,,2013,Diesel,"1,12,000",2982,First Owner,Manual,13.0,"Max Power
+168.5 bhp","Torque
+343Nm@ 1400-3400rpm",SUV,New Delhi,1350000,CarDekho
+577,Jeep,Jeep Compass Trailhawk,,2020,Diesel,"17,000",1956,First Owner,Manual,16.3,"Max Power
+170 bhp","Torque
+350Nm@ 1750-2500rpm",SUV,New Delhi,2450000,CarDekho
+578,Hyundai,Hyundai Creta 1.6 E Plus,,2019,Petrol,"3,000",1591,First Owner,Manual,15.8,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",SUV,New Delhi,1070000,CarDekho
+579,Maruti,Maruti Vitara Brezza ZDi Plus AMT,,2018,Diesel,"25,000",1248,First Owner,Automatic,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,925000,CarDekho
+580,Renault,Renault Duster Petrol RxL,,2014,Petrol,"34,000",1598,First Owner,Manual,13.24,"Max Power
+102.57 bhp","Torque
+145Nm@ 3750rpm",SUV,New Delhi,445000,CarDekho
+581,Porsche,Porsche Cayenne Diesel,,2015,Diesel,"61,000",2967,First Owner,Automatic,16.12,"Max Power
+245 bhp","Torque
+550Nm@ 1750-2750pm",SUV,New Delhi,4950000,CarDekho
+582,Toyota,Toyota Fortuner 4X4 Diesel AT,,2021,Diesel,"6,000",2755,First Owner,Automatic,0.0,"Max Power
+201.15 bhp","Torque
+500Nm@ 1600-2800rpm",SUV,New Delhi,4200000,CarDekho
+583,Ford,Ford Endeavour 3.2 Titanium AT 4X4,,2017,Diesel,"37,800",3198,First Owner,Automatic,10.91,"Max Power
+197 bhp","Torque
+470Nm@ 1750-2500rpm",SUV,New Delhi,2975000,CarDekho
+584,Audi,Audi Q3 30 TFSI Premium FWD,,2017,Petrol,"18,000",1395,First Owner,Automatic,16.9,"Max Power
+147.51 bhp","Torque
+250nm@ 1500-3500rpm",SUV,New Delhi,2675000,CarDekho
+585,Mahindra,Mahindra Scorpio 2009-2014 SLE 7S BSIV,,2012,Diesel,"60,230",2179,Fourth & Above Owner,Manual,12.05,"Max Power
+120 bhp","Torque
+290Nm@ 1800-2800rpm",SUV,New Delhi,325000,CarDekho
+586,Honda,Honda WR-V i-DTEC VX,,2018,Diesel,"39,425",1498,First Owner,Manual,25.5,"Max Power
+98.6 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,788000,CarDekho
+587,Ford,Ford Endeavour 3.2 Titanium AT 4X4,,2017,Diesel,"62,000",3198,First Owner,Automatic,10.91,"Max Power
+197 bhp","Torque
+470Nm@ 1750-2500rpm",SUV,New Delhi,2850000,CarDekho
+588,Tata,Tata Nexon 1.2 Revotron XZ Plus,,2019,Petrol,"25,000",1198,First Owner,Manual,17.0,"Max Power
+108.5 bhp","Torque
+170Nm@ 1750-4000rpm",SUV,New Delhi,825000,CarDekho
+589,Mercedes-Benz,Mercedes-Benz GLE Class 250d,,2016,Diesel,"79,000",2143,First Owner,Automatic,17.9,"Max Power
+201.15 bhp","Torque
+500Nm@ 1600-1800rpm",SUV,New Delhi,3850000,CarDekho
+590,Ford,Ford EcoSport 1.5 Diesel Titanium Plus,,2015,Diesel,"60,253",1498,First Owner,Manual,21.7,"Max Power
+98.96 bhp","Torque
+215Nm@ 1750-2500rpm",SUV,New Delhi,455000,CarDekho
+591,Renault,Renault Duster 85PS Diesel RxL Option,,2013,Diesel,"77,484",1461,First Owner,Manual,19.87,"Max Power
+83.8 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,360000,CarDekho
+592,Land,Land Rover Discovery Sport 2015-2020 TD4 HSE,,2016,Diesel,"95,000",2179,First Owner,Automatic,12.63,"Max Power
+147.5 bhp","Torque
+400Nm@ 1750rpm",SUV,New Delhi,2800000,CarDekho
+593,Audi,Audi Q7 2006-2020 45 TDI Quattro Technology,,2019,Diesel,"8,500",2967,First Owner,Automatic,14.75,"Max Power
+245 bhp","Torque
+600Nm@ 1500-3000rpm",SUV,New Delhi,7350000,CarDekho
+594,Ford,Ford EcoSport 1.5 Petrol Titanium AT,,2016,Petrol,"45,000",1496,First Owner,Automatic,14.7,"Max Power
+120.69 bhp","Torque
+149Nm@ 4500rpm",SUV,New Delhi,685000,CarDekho
+595,Ford,Ford Endeavour 3.2 Titanium AT 4X4,,2017,Diesel,"80,000",3198,First Owner,Automatic,10.91,"Max Power
+197 bhp","Torque
+470Nm@ 1750-2500rpm",SUV,New Delhi,2600000,CarDekho
+596,Hyundai,Hyundai Santa Fe 2WD AT,,2015,Diesel,"85,000",2199,First Owner,Automatic,13.01,"Max Power
+194.3 bhp","Torque
+436.39Nm@ 1800-2500rpm",SUV,New Delhi,1050000,CarDekho
+597,Hyundai,Hyundai Creta 1.6 SX Option,,2019,Petrol,"18,006",1591,First Owner,Manual,15.8,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",SUV,New Delhi,1075000,CarDekho
+598,Hyundai,Hyundai Creta 1.6 CRDi AT SX Plus,,2015,Diesel,"59,000",1582,First Owner,Automatic,17.01,"Max Power
+126.2 bhp","Torque
+259.9Nm@ 1900-2750rpm",SUV,New Delhi,950000,CarDekho
+599,Maruti,Maruti Vitara Brezza LDi Option,,2017,Diesel,"33,000",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,775000,CarDekho
+600,BMW,BMW X1 sDrive 20d xLine,,2019,Diesel,"29,000",1995,First Owner,Automatic,20.68,"Max Power
+188 bhp","Torque
+400Nm@ 1750-2500rpm",SUV,New Delhi,3190000,CarDekho
+601,Jeep,Jeep Compass 1.4 Limited Option,,2019,Petrol,"15,000",1368,First Owner,Automatic,16.0,"Max Power
+160 bhp","Torque
+250Nm@ 1750-2500rpm",SUV,New Delhi,1850000,CarDekho
+602,Maruti,Maruti Vitara Brezza VDi Option,,2017,Diesel,"41,500",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,675000,CarDekho
+603,Mahindra,Mahindra Quanto C8,,2012,Diesel,"57,000",1493,First Owner,Manual,17.21,"Max Power
+100 bhp","Torque
+240Nm@ 1600-2800rpm",SUV,New Delhi,249000,CarDekho
+604,Mahindra,Mahindra KUV 100 mFALCON D75 K8 AW,,2016,Diesel,"18,000",1198,First Owner,Manual,25.32,"Max Power
+77 bhp","Torque
+190Nm@ 1750-2250rpm",SUV,New Delhi,425000,CarDekho
+605,Mercedes-Benz,Mercedes-Benz M-Class ML 350 4Matic,,2013,Diesel,"71,000",2987,First Owner,Automatic,0.0,"Max Power
+165 bhp","Torque
+510@ 1600-2400",SUV,New Delhi,1950000,CarDekho
+606,Audi,Audi Q3 35 TDI Quattro Technology,,2017,Diesel,"23,700",1968,First Owner,Automatic,15.17,"Max Power
+181 bhp","Torque
+380Nm@ 1750-3000rpm",SUV,New Delhi,2480000,CarDekho
+607,MG,MG Hector Plus Sharp AT,,2020,Petrol,"11,000",1451,First Owner,Automatic,11.67,"Max Power
+141 bhp","Torque
+250nm@ 1600-3600rpm",SUV,New Delhi,1930999,CarDekho
+608,Hyundai,Hyundai Creta 1.6 VTVT AT SX Plus,,2018,Petrol,"7,000",1591,First Owner,Automatic,13.0,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",SUV,New Delhi,1295000,CarDekho
+609,Mahindra,Mahindra XUV500 W8 2WD,,2012,Diesel,"76,000",2179,First Owner,Manual,15.1,"Max Power
+140 bhp","Torque
+330Nm@ 1600-2800rpm",SUV,New Delhi,470000,CarDekho
+610,Honda,Honda WR-V VX,,2020,Petrol,"9,600",1199,First Owner,Manual,16.5,"Max Power
+88.50 bhp","Torque
+110nm@ 4800rpm",SUV,New Delhi,951000,CarDekho
+611,Toyota,Toyota Fortuner 2016-2021 2.8 2WD MT BSIV,,2017,Diesel,"69,000",2755,First Owner,Manual,14.24,"Max Power
+174.5 bhp","Torque
+420Nm@ 1400-2600rpm",SUV,New Delhi,2550000,CarDekho
+612,Renault,Renault Duster 110PS Diesel RxZ Pack,,2012,Diesel,"58,000",1461,First Owner,Manual,19.01,"Max Power
+108.45 bhp","Torque
+248Nm@ 2250rpm",SUV,New Delhi,375000,CarDekho
+613,Kia,Kia Seltos HTX Plus AT D,,2019,Diesel,"31,000",1493,First Owner,Automatic,17.8,"Max Power
+113.4 bhp","Torque
+250nm@ 1500-2750rpm",SUV,New Delhi,1590000,CarDekho
+614,Tata,Tata Safari Storme EX,,2015,Diesel,"71,000",2179,First Owner,Manual,14.0,"Max Power
+138.1 bhp","Torque
+320Nm@ 1700-2700rpm",SUV,New Delhi,675000,CarDekho
+615,Mercedes-Benz,Mercedes-Benz GLC 200,,2020,Petrol,"7,000",1991,Second Owner,Automatic,12.74,"Max Power
+197 bhp","Torque
+320nm@ 1650-4000rpm",SUV,New Delhi,5500000,CarDekho
+616,Toyota,Toyota Fortuner 4x2 AT,,2014,Diesel,"85,000",2982,First Owner,Automatic,12.55,"Max Power
+168.5 bhp","Torque
+360Nm@ 1400-3200rpm",SUV,New Delhi,1550000,CarDekho
+617,Maruti,Maruti Vitara Brezza VDi,,2018,Diesel,"12,000",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,785000,CarDekho
+618,Honda,Honda WR-V VX,,2020,Petrol,"9,600",1199,First Owner,Manual,16.5,"Max Power
+88.50 bhp","Torque
+110nm@ 4800rpm",SUV,New Delhi,951000,CarDekho
+619,Ford,Ford EcoSport 1.0 Ecoboost Trend Plus BSIV,,2018,Petrol,"72,000",999,First Owner,Manual,18.88,"Max Power
+123.24 bhp","Torque
+170Nm@ 1400-4500rpm",SUV,New Delhi,825000,CarDekho
+620,Mahindra,Mahindra Scorpio S9 BSIV,,2020,Diesel,"12,000",2179,First Owner,Manual,16.36,"Max Power
+140 bhp","Torque
+320Nm@ 1500-2800rpm",SUV,New Delhi,1650000,CarDekho
+621,Hyundai,Hyundai Creta 1.4 E Plus,,2017,Diesel,"26,000",1396,First Owner,Manual,22.1,"Max Power
+88.7 bhp","Torque
+219.7Nm@ 1500-2750rpm",SUV,New Delhi,850000,CarDekho
+622,Mercedes-Benz,Mercedes-Benz GLC 220d 4MATIC,,2021,Diesel,"9,000","er
+194 ",Test Drive Car,Automatic,9,"Torque
+400nm@ 2800rpm","Seats
+5",SUV,New Delhi,5500000,CarDekho
+623,Hyundai,Hyundai Creta 1.6 SX Option,,2015,Petrol,"80,000",1591,First Owner,Manual,15.8,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",SUV,New Delhi,800000,CarDekho
+624,Land,Land Rover Range Rover Evoque 2.0 TD4 HSE Dynamic,,2019,Diesel,"13,000",1999,First Owner,Automatic,15.68,"Max Power
+177 bhp","Torque
+430Nm@ 1750-2500rpm",SUV,New Delhi,4950000,CarDekho
+625,Land,Land Rover Discovery Sport TD4 SE,,2019,Diesel,"60,000",1999,First Owner,Automatic,12.83,"Max Power
+148.31 bhp","Torque
+382nm@ 1750-2250rpm",SUV,New Delhi,4000000,CarDekho
+626,BMW,BMW X3 xDrive 20d Luxury Line,,2018,Diesel,"48,500",1995,First Owner,Automatic,16.55,"Max Power
+187.7 bhp","Torque
+400Nm@ 1750-2500rpm",SUV,New Delhi,4400000,CarDekho
+627,Tata,Tata Harrier XZ BSIV,,2019,Diesel,"25,000",1956,First Owner,Manual,17.0,"Max Power
+138.1 bhp","Torque
+350Nm@ 1750-2500rpm",SUV,New Delhi,1675000,CarDekho
+628,BMW,BMW X5 xDrive 30d M Sport,,2018,Diesel,"29,900",2993,First Owner,Automatic,15.97,"Max Power
+258 bhp","Torque
+560Nm@ 1500-3000rpm",SUV,New Delhi,5199000,CarDekho
+629,Ford,Ford Endeavour 3.2 Trend AT 4X4,,2016,Diesel,"70,000",3198,Second Owner,Automatic,10.91,"Max Power
+197.2 bhp","Torque
+470Nm@ 1750-2500rpm",SUV,New Delhi,2550000,CarDekho
+630,Ford,Ford Endeavour 2.2 Trend AT 4X2,,2017,Diesel,"50,000",2198,First Owner,Automatic,12.62,"Max Power
+158 bhp","Torque
+385Nm@ 1600-2500rpm",SUV,New Delhi,2475000,CarDekho
+631,BMW,BMW X1 sDrive20d xLine,,2021,Diesel,"2,000",1995,First Owner,Automatic,19.62,"Max Power
+187.74 bhp","Torque
+400nm@ 1750-2500rpm",SUV,New Delhi,4100000,CarDekho
+632,Ford,Ford EcoSport 1.5 TDCi Titanium BSIV,,2015,Diesel,"56,000",1498,Second Owner,Manual,22.77,"Max Power
+98.59 bhp","Torque
+205Nm@ 1750-3250rpm",SUV,New Delhi,550000,CarDekho
+633,BMW,BMW X1 sDrive 20d xLine,,2018,Diesel,"22,000",1995,First Owner,Automatic,20.68,"Max Power
+188 bhp","Torque
+400Nm@ 1750-2500rpm",SUV,New Delhi,2750000,CarDekho
+634,Audi,Audi Q3 35 TDI Quattro Premium Plus,,2017,Diesel,"23,000",1968,Second Owner,Automatic,15.17,"Max Power
+181 bhp","Torque
+380Nm@ 1750-3000rpm",SUV,New Delhi,2450000,CarDekho
+635,BMW,BMW X1 sDrive 20d xLine,,2018,Diesel,"22,000",1995,First Owner,Automatic,20.68,"Max Power
+188 bhp","Torque
+400Nm@ 1750-2500rpm",SUV,New Delhi,2750000,CarDekho
+636,Audi,Audi Q3 35 TDI Quattro Premium Plus,,2017,Diesel,"23,000",1968,Second Owner,Automatic,15.17,"Max Power
+181 bhp","Torque
+380Nm@ 1750-3000rpm",SUV,New Delhi,2450000,CarDekho
+637,Hyundai,Hyundai Creta 1.6 CRDi SX Plus,,2016,Diesel,"66,000",1582,First Owner,Manual,19.67,"Max Power
+126.2 bhp","Torque
+259.9Nm@ 1900-2750rpm",SUV,New Delhi,850000,CarDekho
+638,Ford,Ford EcoSport 1.5 Petrol Titanium Plus AT,,2018,Petrol,"34,000",1496,Second Owner,Automatic,14.7,"Max Power
+120.69 bhp","Torque
+149Nm@ 4500rpm",SUV,New Delhi,849000,CarDekho
+639,Mercedes-Benz,Mercedes-Benz GL-Class 350 CDI Blue Efficiency,,2016,Diesel,"1,10,001",2987,First Owner,Automatic,11.3,"Max Power
+254.8 bhp","Torque
+619Nm@ 1600-2400rpm",SUV,New Delhi,4000000,CarDekho
+640,Maruti,Maruti Vitara Brezza VDi Option,,2018,Diesel,"39,852",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,800000,CarDekho
+641,Audi,Audi Q3 2.0 TDI Quattro Premium Plus,,2013,Diesel,"83,000",1968,Second Owner,Automatic,15.73,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",SUV,New Delhi,1350000,CarDekho
+642,Maruti,Maruti Vitara Brezza ZDi Plus AMT,,2018,Diesel,"55,000",1248,First Owner,Automatic,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,875000,CarDekho
+643,BMW,BMW X1 sDrive20d xLine,,2017,Diesel,"34,000",1995,Second Owner,Automatic,19.62,"Max Power
+187.74 bhp","Torque
+400nm@ 1750-2500rpm",SUV,New Delhi,2350000,CarDekho
+644,Renault,Renault Duster 85PS Diesel RxL,,2013,Diesel,"89,000",1461,Second Owner,Manual,19.87,"Max Power
+83.8 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,375000,CarDekho
+645,Mahindra,Mahindra Quanto C8,,2014,Diesel,"61,284",1493,First Owner,Manual,17.21,"Max Power
+100 bhp","Torque
+240Nm@ 1600-2800rpm",SUV,New Delhi,365000,CarDekho
+646,BMW,BMW X1 xDrive 20d xLine,,2017,Diesel,"40,000",1995,First Owner,Automatic,20.68,"Max Power
+190 bhp","Torque
+400Nm@ 1750-2500rpm",SUV,New Delhi,2500000,CarDekho
+647,Mahindra,Mahindra Bolero Power Plus SLE,,2013,Diesel,"62,000",1493,First Owner,Manual,16.5,"Max Power
+70 bhp","Torque
+195Nm@ 1400-2200rpm",SUV,New Delhi,425000,CarDekho
+648,Mahindra,Mahindra XUV500 W8 2WD,,2013,Diesel,"81,234",2179,First Owner,Manual,15.1,"Max Power
+140 bhp","Torque
+330Nm@ 1600-2800rpm",SUV,New Delhi,595000,CarDekho
+649,Ford,Ford Endeavour 2.2 Trend AT 4X2,,2016,Diesel,"53,000",2198,First Owner,Automatic,12.62,"Max Power
+158 bhp","Torque
+385Nm@ 1600-2500rpm",SUV,New Delhi,2395000,CarDekho
+650,Mahindra,Mahindra XUV500 W8 2WD,,2013,Diesel,"68,652",2179,First Owner,Manual,15.1,"Max Power
+140 bhp","Torque
+330Nm@ 1600-2800rpm",SUV,New Delhi,585000,CarDekho
+651,Hyundai,Hyundai Creta 1.6 SX Automatic,,2018,Petrol,"32,000",1591,Second Owner,Automatic,14.8,"Max Power
+121.3 bhp","Torque
+151NM@ 4850rpm",SUV,New Delhi,1225000,CarDekho
+652,Hyundai,Hyundai Creta 1.6 VTVT AT SX Plus,,2018,Petrol,"23,002",1591,First Owner,Automatic,13.0,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",SUV,New Delhi,1385000,CarDekho
+653,Jaguar,Jaguar F-Pace 2016-2021 Prestige 2.0 AWD,,2016,Diesel,"57,000",1999,First Owner,Automatic,16.38,"Max Power
+177 bhp","Torque
+430Nm@ 1750-2500rpm",SUV,New Delhi,3850000,CarDekho
+654,Ford,Ford EcoSport 1.5 Petrol Titanium Plus,,2019,Petrol,"6,000",1496,First Owner,Manual,15.9,"Max Power
+120.69 bhp","Torque
+149Nm@ 4500rpm",SUV,New Delhi,975000,CarDekho
+655,Ford,Ford EcoSport 1.5 Diesel Trend,,2015,Diesel,"75,000",1498,First Owner,Manual,21.7,"Max Power
+98.96 bhp","Torque
+215Nm@ 1750-2500rpm",SUV,New Delhi,500000,CarDekho
+656,Ford,Ford EcoSport 1.5 DV5 MT Titanium,,2015,Diesel,"60,000",1498,First Owner,Manual,22.7,"Max Power
+89.84 bhp","Torque
+204Nm@ 2000-2750rpm",SUV,New Delhi,525000,CarDekho
+657,Maruti,Maruti Vitara Brezza VDi,,2019,Diesel,"30,000",1248,Second Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,844999,CarDekho
+658,Hyundai,Hyundai Creta 1.6 E Plus,,2017,Petrol,"60,000",1591,First Owner,Manual,15.8,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",SUV,New Delhi,825000,CarDekho
+659,Ford,Ford EcoSport 1.5 Petrol Titanium Plus,,2019,Petrol,"6,000",1496,First Owner,Manual,15.9,"Max Power
+120.69 bhp","Torque
+149Nm@ 4500rpm",SUV,New Delhi,975000,CarDekho
+660,Hyundai,Hyundai Creta 1.4 EX Diesel,,2018,Diesel,"60,500",1396,First Owner,Manual,22.1,"Max Power
+88.7 bhp","Torque
+219.7Nm@ 1500-2750rpm",SUV,New Delhi,1000000,CarDekho
+661,Hyundai,Hyundai Creta 1.6 VTVT AT SX Plus,,2017,Petrol,"51,000",1591,Second Owner,Automatic,13.0,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",SUV,New Delhi,1015000,CarDekho
+662,Mercedes-Benz,Mercedes-Benz GLE Class 250d,,2017,Diesel,"50,000",2143,First Owner,Automatic,17.9,"Max Power
+201.15 bhp","Torque
+500Nm@ 1600-1800rpm",SUV,New Delhi,4549000,CarDekho
+663,Ford,Ford EcoSport 1.5 Petrol Titanium Plus AT,,2018,Petrol,"51,000",1496,First Owner,Automatic,14.7,"Max Power
+120.69 bhp","Torque
+149Nm@ 4500rpm",SUV,New Delhi,799000,CarDekho
+664,Renault,Renault Duster 110PS Diesel RxZ,,2013,Diesel,"80,000",1461,First Owner,Manual,19.01,"Max Power
+108.45 bhp","Torque
+248Nm@ 2250rpm",SUV,New Delhi,445000,CarDekho
+665,Mercedes-Benz,Mercedes-Benz GL-Class 350 CDI Blue Efficiency,,2016,Diesel,"1,10,001",2987,First Owner,Automatic,11.3,"Max Power
+254.8 bhp","Torque
+619Nm@ 1600-2400rpm",SUV,New Delhi,4000000,CarDekho
+666,Hyundai,Hyundai Creta 1.6 E Plus,,2017,Petrol,"41,000",1591,First Owner,Manual,15.8,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",SUV,New Delhi,890000,CarDekho
+667,Renault,Renault Duster 85PS Diesel RxS,,2016,Diesel,"56,000",1461,First Owner,Manual,19.87,"Max Power
+83.8 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,648000,CarDekho
+668,Hyundai,Hyundai Creta 1.6 VTVT E Plus,,2016,Petrol,"21,000",1591,First Owner,Manual,15.29,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",SUV,New Delhi,825000,CarDekho
+669,Ford,Ford EcoSport 1.5 Petrol Titanium Plus AT BSIV,,2017,Petrol,"40,000",1497,First Owner,Automatic,14.8,"Max Power
+121.36 bhp","Torque
+150Nm@ 4500rpm",SUV,New Delhi,750000,CarDekho
+670,Mercedes-Benz,Mercedes-Benz M-Class ML 350 4Matic,,2013,Diesel,"55,000",2987,Second Owner,Automatic,0.0,"Max Power
+165 bhp","Torque
+510@ 1600-2400",SUV,New Delhi,2000000,CarDekho
+671,Maruti,Maruti Vitara Brezza VDi Option,,2018,Diesel,"39,852",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,800000,CarDekho
+672,Toyota,Toyota Fortuner 2016-2021 2.7 2WD AT,,2017,Petrol,"34,000",2694,Second Owner,Automatic,10.26,"Max Power
+163.7 bhp","Torque
+245Nm@ 4000rpm",SUV,New Delhi,2700000,CarDekho
+673,Jaguar,Jaguar F-Pace 2016-2021 Prestige 2.0 AWD,,2017,Diesel,"24,000",1999,First Owner,Automatic,16.38,"Max Power
+177 bhp","Torque
+430Nm@ 1750-2500rpm",SUV,New Delhi,4350000,CarDekho
+674,Audi,Audi Q7 2006-2020 3.0 TDI Quattro Premium Plus,,2013,Diesel,"70,000",2967,First Owner,Automatic,12.07,"Max Power
+241.4 bhp","Torque
+550Nm@ 1750-2750rpm",SUV,New Delhi,2089999,CarDekho
+675,Mahindra,Mahindra XUV500 AT W6 2WD,,2016,Diesel,"48,000",2179,Second Owner,Automatic,16.0,"Max Power
+140 bhp","Torque
+330Nm@ 1600-2800rpm",SUV,New Delhi,965000,CarDekho
+676,Audi,Audi Q8 55 TFSI Quattro,,2021,Petrol,"2,000",2995,First Owner,Automatic,9.8,"Max Power
+340 bhp","Torque
+500nm@ 1370-4500rpm",SUV,New Delhi,9300000,CarDekho
+677,Hyundai,Hyundai Tucson GLS AT,,2021,Petrol,"1,700",1999,First Owner,Automatic,12.95,"Max Power
+149.92 bhp","Torque
+192.21nm@ 4000rpm",SUV,New Delhi,2425000,CarDekho
+678,Audi,Audi Q3 2.0 TDI Quattro Premium Plus,,2013,Diesel,"83,000",1968,Second Owner,Automatic,15.73,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",SUV,New Delhi,1350000,CarDekho
+679,Mahindra,Mahindra TUV 300 T8 AMT,,2016,Diesel,"43,477",1493,First Owner,Automatic,18.49,"Max Power
+100 bhp","Torque
+230Nm@ 1500-2250rpm",SUV,New Delhi,610000,CarDekho
+680,Mahindra,Mahindra XUV500 W7,,2020,Diesel,"19,000",2179,First Owner,Manual,15.1,"Max Power
+152.87 bhp","Torque
+360Nm@ 1750-2800rpm",SUV,New Delhi,1590000,CarDekho
+681,Maruti,Maruti Vitara Brezza ZDi Plus AMT,,2018,Diesel,"55,000",1248,First Owner,Automatic,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,875000,CarDekho
+682,Ford,Ford EcoSport 1.5 Diesel Titanium BSIV,,2018,Diesel,"66,366",1498,First Owner,Manual,23.0,"Max Power
+98.96 bhp","Torque
+205Nm@ 1750-3250rpm",SUV,New Delhi,825000,CarDekho
+683,Jaguar,Jaguar F-Pace 2016-2021 Prestige 2.0 AWD,,2016,Diesel,"57,000",1999,First Owner,Automatic,16.38,"Max Power
+177 bhp","Torque
+430Nm@ 1750-2500rpm",SUV,New Delhi,3850000,CarDekho
+684,Hyundai,Hyundai Santa Fe 4x4 AT,,2011,Diesel,"34,000",2199,First Owner,Automatic,11.72,"Max Power
+194.3 bhp","Torque
+436.4Nm@ 1800-2500rpm",SUV,New Delhi,850000,CarDekho
+685,Maruti,Maruti Vitara Brezza VDi,,2020,Diesel,"30,000",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,875000,CarDekho
+686,BMW,BMW X1 sDrive20d xLine,,2017,Diesel,"34,000",1995,Second Owner,Automatic,19.62,"Max Power
+187.74 bhp","Torque
+400nm@ 1750-2500rpm",SUV,New Delhi,2350000,CarDekho
+687,Tata,Tata Harrier XZ BSIV,,2019,Diesel,"20,000",1956,First Owner,Manual,17.0,"Max Power
+138.1 bhp","Torque
+350Nm@ 1750-2500rpm",SUV,New Delhi,1585000,CarDekho
+688,Maruti,Maruti SX4 S Cross DDiS 200 Zeta,,2015,Diesel,"85,000",1248,First Owner,Manual,23.65,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,590000,CarDekho
+689,Mahindra,Mahindra XUV500 R W10 FWD,,2018,Diesel,"60,000",2179,First Owner,Manual,16.0,"Max Power
+140 bhp","Torque
+330Nm@ 1600-2800rpm",SUV,New Delhi,1450000,CarDekho
+690,Renault,Renault Duster 85PS Diesel RxL,,2013,Diesel,"89,000",1461,Second Owner,Manual,19.87,"Max Power
+83.8 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,375000,CarDekho
+691,Hyundai,Hyundai Creta SX Opt Turbo,,2020,Petrol,"15,000",1353,Second Owner,Automatic,16.8,"Max Power
+138.08 bhp","Torque
+242nm@ 1500-3200rpm",SUV,New Delhi,1850000,CarDekho
+692,Porsche,Porsche Cayenne S Diesel,,2015,Diesel,"75,000",4134,Second Owner,Automatic,14.28,"Max Power
+385 bhp","Torque
+850Nm@ 2000-2750rpm",SUV,New Delhi,4850000,CarDekho
+693,MG,MG Hector Sharp AT BSIV,,2020,Petrol,"4,500",1451,First Owner,Automatic,13.96,"Max Power
+141 bhp","Torque
+250Nm@ 1600-3600rpm",SUV,New Delhi,1825000,CarDekho
+694,Audi,Audi Q3 2.0 TDI Quattro Premium Plus,,2014,Diesel,"56,000",1968,First Owner,Automatic,15.73,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",SUV,New Delhi,1450000,CarDekho
+695,Audi,Audi Q5 2.0 TDI Premium Plus,,2013,Diesel,"60,000",1968,First Owner,Automatic,14.16,"Max Power
+174.3 bhp","Torque
+380Nm@ 1750-2500rpm",SUV,New Delhi,1490000,CarDekho
+696,Renault,Renault Duster 110PS Diesel RxL,,2014,Diesel,"88,000",1461,First Owner,Manual,19.64,"Max Power
+108.45 bhp","Torque
+245Nm@ 1750rpm",SUV,New Delhi,388000,CarDekho
+697,Renault,Renault Duster 85PS Diesel RxL,,2014,Diesel,"81,000",1461,First Owner,Manual,19.87,"Max Power
+83.8 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,415000,CarDekho
+698,Ford,Ford EcoSport Signature Edition Diesel BSIV,,2019,Diesel,"17,000",1498,First Owner,Manual,23.0,"Max Power
+98.96 bhp","Torque
+205Nm@ 1750-3250rpm",SUV,New Delhi,925000,CarDekho
+699,Renault,Renault Duster 85PS Diesel RxL Optional with Nav,,2015,Diesel,"64,000",1461,First Owner,Manual,20.45,"Max Power
+83.8 bhp","Torque
+200Nm@ 1900rpm",SUV,New Delhi,490000,CarDekho
+700,BMW,BMW X1 sDrive 20d M Sport,,2019,Diesel,"39,999",1995,First Owner,Automatic,17.05,"Max Power
+184 bhp","Torque
+380Nm@ 1750-2750rpm",SUV,New Delhi,3000000,CarDekho
+701,Ford,Ford EcoSport 1.5 Diesel Titanium,,2016,Diesel,"65,000",1498,Second Owner,Manual,21.7,"Max Power
+98.96 bhp","Torque
+215Nm@ 1750-2500rpm",SUV,New Delhi,600000,CarDekho
+702,Renault,Renault Koleos 2.0 Diesel,,2012,Diesel,"72,000",1995,Second Owner,Automatic,13.73,"Max Power
+148 bhp","Torque
+320Nm@ 2000rpm",SUV,New Delhi,497000,CarDekho
+703,Land,Land Rover Range Rover Sport 3.0 Petrol HSE,,2016,Petrol,"34,000",2995,First Owner,Automatic,12.65,"Max Power
+335.25 bhp","Torque
+450Nm@ 3500-5000rpm",SUV,New Delhi,7500000,CarDekho
+704,Mahindra,Mahindra Ssangyong Rexton RX5,,2014,Diesel,"65,000",2696,First Owner,Manual,12.83,"Max Power
+162 bhp","Torque
+340Nm@ 1800-3250rpm",SUV,New Delhi,651000,CarDekho
+705,Mahindra,Mahindra Bolero Power Plus SLE,,2018,Diesel,"65,862",1493,First Owner,Manual,16.5,"Max Power
+70 bhp","Torque
+195Nm@ 1400-2200rpm",SUV,New Delhi,725000,CarDekho
+706,Hyundai,Hyundai Santa Fe 4WD AT,,2015,Diesel,"1,62,000",2199,First Owner,Automatic,13.01,"Max Power
+194.3 bhp","Torque
+436.39Nm@ 1800-2500rpm",SUV,New Delhi,1075000,CarDekho
+707,Ford,Ford EcoSport 1.5 TDCi Trend Plus BE BSIV,,2016,Diesel,"70,000",1498,First Owner,Manual,22.77,"Max Power
+98.59 bhp","Torque
+205Nm@ 1750-3250rpm",SUV,New Delhi,550000,CarDekho
+708,Hyundai,Hyundai Creta 1.4 CRDi S Plus,,2015,Diesel,"42,000",1396,Second Owner,Manual,21.38,"Max Power
+88.7 bhp","Torque
+219.7Nm@ 1500-2750rpm",SUV,New Delhi,741000,CarDekho
+709,Ford,Ford EcoSport 1.5 Ti VCT MT Titanium BE BSIV,,2018,Petrol,"38,000",1499,First Owner,Manual,18.88,"Max Power
+110.4 bhp","Torque
+140Nm@ 4400rpm",SUV,New Delhi,875000,CarDekho
+710,Maruti,Maruti Vitara Brezza VDi AMT,,2018,Diesel,"40,000",1248,First Owner,Automatic,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,New Delhi,850000,CarDekho
+711,Mercedes-Benz,Mercedes-Benz S-Class 2012-2021 S 350 CDI,,2012,Diesel,"55,000",2987,First Owner,Automatic,13.5,"Max Power
+254.79 bhp","Torque
+620Nm@ 1600-2400rpm",Luxury,New Delhi,2390000,CarDekho
+712,Mercedes-Benz,Mercedes-Benz E-Class E250 CDI Blue Efficiency,,2012,Diesel,"20,000",2143,First Owner,Automatic,14.21,"Max Power
+203 bhp","Torque
+500Nm@ 1600-1800rpm",Luxury,New Delhi,1150000,CarDekho
+713,Mercedes-Benz,Mercedes-Benz C-Class 220,,2012,Diesel,"69,000",2148,Third Owner,Manual,15.8,"Max Power
+170 bhp","Torque
+42@ 2,000(kgm@ rpm)",Luxury,New Delhi,1100000,CarDekho
+714,Volvo,Volvo XC 90 D5 Inscription,,2016,Diesel,"52,200",1969,First Owner,Automatic,17.2,"Max Power
+235 bhp","Torque
+480Nm@ 1750rpm",Luxury,New Delhi,4800000,CarDekho
+715,Mercedes-Benz,Mercedes-Benz S-Class 2012-2021 Maybach S500,,2016,Petrol,"57,000",4663,First Owner,Automatic,7.81,"Max Power
+459 bhp","Torque
+700Nm@ 1800-3500rpm",Luxury,New Delhi,9500000,CarDekho
+716,Land,Land Rover Discovery 2017-2021 HSE Luxury 3.0 Si6,,2018,Petrol,"67,500",2995,First Owner,Automatic,9.17,"Max Power
+335.25 bhp","Torque
+450Nm@ 3500-5000rpm",Luxury,New Delhi,5900000,CarDekho
+717,Land,Land Rover Discovery Sport 2015-2020 TD4 SE 7S,,2018,Diesel,"32,000",2179,First Owner,Automatic,12.83,"Max Power
+147.5 bhp","Torque
+400Nm@ 1750rpm",Luxury,New Delhi,3800000,CarDekho
+718,Mercedes-Benz,Mercedes-Benz C-Class C 220 CDI CLASSIC,,2012,Diesel,"64,000",2148,First Owner,Manual,15.8,"Max Power
+170 bhp","Torque
+42@ 2,000(kgm@ rpm)",Luxury,New Delhi,874000,CarDekho
+719,Audi,Audi A6 2.0 TDI Premium Plus,,2013,Diesel,"32,000",1968,Third Owner,Automatic,17.68,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Luxury,New Delhi,1075000,CarDekho
+720,BMW,BMW 3 Series GT 320d Luxury Line,,2014,Diesel,"78,000",1995,First Owner,Automatic,19.59,"Max Power
+184 bhp","Torque
+380Nm@ 1750-2750rpm",Luxury,New Delhi,1700000,CarDekho
+721,Land,Land Rover Discovery Sport 2015-2020 TD4 HSE,,2016,Diesel,"95,000",2179,First Owner,Automatic,12.63,"Max Power
+147.5 bhp","Torque
+400Nm@ 1750rpm",Luxury,New Delhi,2800000,CarDekho
+722,BMW,BMW 5 Series 520d Luxury Line,,2018,Diesel,"65,000",1995,First Owner,Automatic,20.37,"Max Power
+187.74 bhp","Torque
+400Nm@ 1750-2500rpm",Luxury,New Delhi,3990000,CarDekho
+723,Mercedes-Benz,Mercedes-Benz GLE Class 350d,,2015,Diesel,"65,000",2987,First Owner,Automatic,11.57,"Max Power
+254.79 bhp","Torque
+620Nm@ 1600rpm",Luxury,New Delhi,3990000,CarDekho
+724,Volvo,Volvo S60 2015-2020 D4 Momentum,,2018,Diesel,"30,000",1969,First Owner,Automatic,27.03,"Max Power
+190 bhp","Torque
+400Nm",Luxury,New Delhi,2400000,CarDekho
+725,Mercedes-Benz,Mercedes-Benz GLE Class 43 AMG Coupe,,2016,Petrol,"41,000",2996,Second Owner,Automatic,8.9,"Max Power
+384.87 bhp","Torque
+520Nm@ 2000-4200rpm",Luxury,New Delhi,6290000,CarDekho
+726,Maruti,Maruti 800 AC,,2008,Petrol,"32,885",796,Third Owner,Manual,16.1,"Max Power
+37 bhp","Torque
+59Nm@ 2500rpm",Luxury,New Delhi,500000,CarDekho
+727,Volkswagen,Volkswagen Polo Petrol Comfortline 1.2L,,2012,Petrol,"47,828",1198,Third Owner,Manual,16.47,"Max Power
+73.9 bhp","Torque
+110Nm@ 3750rpm",Luxury,New Delhi,197000,CarDekho
+728,Mercedes-Benz,Mercedes-Benz B Class B180 CDI,,2015,Diesel,"34,000",2143,First Owner,Automatic,14.8,"Max Power
+120.7 bhp","Torque
+200Nm@ 1250-4000rpm",Luxury,New Delhi,1199000,CarDekho
+729,BMW,BMW 5 Series 525i Sedan,,2010,Petrol,"55,000",2497,First Owner,Automatic,10.8,"Max Power
+215 bhp","Torque
+25@ 4,000(kgm@ rpm)",Luxury,New Delhi,1399000,CarDekho
+730,Audi,Audi A4 35 TFSi Premium,,2014,Petrol,"36,000",1798,First Owner,Automatic,15.64,"Max Power
+167.62 bhp","Torque
+320Nm@ 1400-3700rpm",Luxury,New Delhi,1650000,CarDekho
+731,BMW,BMW 5 Series 520d Luxury Line,,2017,Diesel,"75,000",1995,First Owner,Automatic,18.12,"Max Power
+190 bhp","Torque
+400Nm@ 1750-2500rpm",Luxury,New Delhi,3000000,CarDekho
+732,Mercedes-Benz,Mercedes-Benz C-Class C300 Cabriolet,,2017,Petrol,"45,000",1991,First Owner,Automatic,9.6,"Max Power
+345.98 bhp","Torque
+370Nm@ 1800-4000rpm",Luxury,New Delhi,4800000,CarDekho
+733,Audi,Audi Q3 30 TFSI Premium FWD,,2017,Petrol,"18,000",1395,First Owner,Automatic,16.9,"Max Power
+147.51 bhp","Torque
+250nm@ 1500-3500rpm",Luxury,New Delhi,2675000,CarDekho
+734,Audi,Audi A4 35 QL TFSI Premium Plus,,2020,Petrol,"4,600",1395,First Owner,Automatic,17.84,"Max Power
+147.51 bhp","Torque
+250Nm@ 1500-3500rpm",Luxury,New Delhi,3675000,CarDekho
+735,BMW,BMW 5 Series 530d M Sport,,2019,Diesel,"20,001",2993,First Owner,Automatic,14.69,"Max Power
+258 bhp","Torque
+560Nm@ 1500-3000rpm",Luxury,New Delhi,5500000,CarDekho
+736,Mercedes-Benz,Mercedes-Benz A-Class A180 Sport,,2015,Petrol,"47,000",1595,Second Owner,Automatic,15.5,"Max Power
+120.6 bhp","Torque
+200Nm@ 1250-4000rpm",Luxury,New Delhi,1350000,CarDekho
+737,Audi,Audi A6 2.8 FSI,,2009,Petrol,"55,000",2773,Third Owner,Automatic,10.4,"Max Power
+201 bhp","Torque
+280Nm@ 3000-5000rpm",Luxury,New Delhi,595000,CarDekho
+738,Mercedes-Benz,Mercedes-Benz GLA Class Urban Edition 200,,2019,Petrol,"8,000",1991,First Owner,Automatic,13.7,"Max Power
+183 bhp","Torque
+300Nm@ 1200-1400rpm",Luxury,New Delhi,3200000,CarDekho
+739,BMW,BMW 3 Series GT 320d Luxury Line,,2014,Diesel,"35,000",1995,Third Owner,Automatic,19.59,"Max Power
+184 bhp","Torque
+380Nm@ 1750-2750rpm",Luxury,New Delhi,1675000,CarDekho
+740,Mercedes-Benz,Mercedes-Benz M-Class ML 250 CDI,,2014,Diesel,"83,000",2143,Second Owner,Automatic,15.26,"Max Power
+203.2 bhp","Torque
+500Nm@ 1600-1800rpm",Luxury,New Delhi,2195000,CarDekho
+741,BMW,BMW 5 Series 520d Luxury Line,,2015,Diesel,"23,000",1995,First Owner,Automatic,18.12,"Max Power
+190 bhp","Torque
+400Nm@ 1750-2500rpm",Luxury,New Delhi,2650000,CarDekho
+742,Mercedes-Benz,Mercedes-Benz GL-Class Progressive 220d,,2017,Diesel,"44,000",2143,First Owner,Automatic,17.9,"Max Power
+167.6 bhp","Torque
+400Nm@ 1400-2800rpm",Luxury,New Delhi,3650000,CarDekho
+743,BMW,BMW 5 Series 530d Highline,,2012,Diesel,"71,000",2993,Second Owner,Automatic,11.5,"Max Power
+235 bhp","Torque
+51@ 1,750-3,000(kgm@ rpm)",Luxury,New Delhi,1475000,CarDekho
+744,Porsche,Porsche Cayenne Diesel,,2015,Diesel,"61,000",2967,First Owner,Automatic,16.12,"Max Power
+245 bhp","Torque
+550Nm@ 1750-2750pm",Luxury,New Delhi,4950000,CarDekho
+745,Audi,Audi Q7 2006-2020 35 TDI Quattro Premium Plus,,2015,Diesel,"61,000",2967,First Owner,Automatic,12.07,"Max Power
+241.4 bhp","Torque
+550Nm@ 1750-2750rpm",Luxury,New Delhi,2790000,CarDekho
+746,Mercedes-Benz,Mercedes-Benz GL-Class 350 CDI Blue Efficiency,,2015,Diesel,"34,000",2987,First Owner,Automatic,11.3,"Max Power
+254.8 bhp","Torque
+619Nm@ 1600-2400rpm",Luxury,New Delhi,3800000,CarDekho
+747,Mercedes-Benz,Mercedes-Benz C-Class C 200 AVANTGARDE,,2014,Petrol,"59,500",1991,First Owner,Automatic,14.74,"Max Power
+181.04 bhp","Torque
+300Nm@ 1200-1400rpm",Luxury,New Delhi,1550000,CarDekho
+748,BMW,BMW 5 Series 525i Sedan,,2010,Petrol,"55,000",2497,First Owner,Automatic,10.8,"Max Power
+215 bhp","Torque
+25@ 4,000(kgm@ rpm)",Luxury,New Delhi,1399000,CarDekho
+749,Mercedes-Benz,Mercedes-Benz E-Class E250 CDI Avantgarde,,2014,Diesel,"68,000",2143,Second Owner,Automatic,13.0,"Max Power
+204 bhp","Torque
+500Nm@ 1600-1800rpm",Luxury,New Delhi,1795000,CarDekho
+750,Audi,Audi A4 35 TFSi Premium,,2014,Petrol,"36,000",1798,First Owner,Automatic,15.64,"Max Power
+167.62 bhp","Torque
+320Nm@ 1400-3700rpm",Luxury,New Delhi,1650000,CarDekho
+751,BMW,BMW 3 Series GT 320d Luxury Line,,2014,Diesel,"35,000",1995,Third Owner,Automatic,19.59,"Max Power
+184 bhp","Torque
+380Nm@ 1750-2750rpm",Luxury,New Delhi,1675000,CarDekho
+752,BMW,BMW 5 Series 520d Luxury Line,,2017,Diesel,"75,000",1995,First Owner,Automatic,18.12,"Max Power
+190 bhp","Torque
+400Nm@ 1750-2500rpm",Luxury,New Delhi,3000000,CarDekho
+753,Mercedes-Benz,Mercedes-Benz C-Class C300 Cabriolet,,2017,Petrol,"45,000",1991,First Owner,Automatic,9.6,"Max Power
+345.98 bhp","Torque
+370Nm@ 1800-4000rpm",Luxury,New Delhi,4800000,CarDekho
+754,Audi,Audi Q3 30 TFSI Premium FWD,,2017,Petrol,"18,000",1395,First Owner,Automatic,16.9,"Max Power
+147.51 bhp","Torque
+250nm@ 1500-3500rpm",Luxury,New Delhi,2675000,CarDekho
+755,Volvo,Volvo XC 90 D5 Momentum,,2019,Diesel,"27,000",1969,First Owner,Automatic,17.2,"Max Power
+235 bhp","Torque
+480Nm@ 1750rpm",Luxury,New Delhi,6500000,CarDekho
+756,Audi,Audi A4 35 QL TFSI Premium Plus,,2020,Petrol,"4,600",1395,First Owner,Automatic,17.84,"Max Power
+147.51 bhp","Torque
+250Nm@ 1500-3500rpm",Luxury,New Delhi,3675000,CarDekho
+757,Mercedes-Benz,Mercedes-Benz CLA Urban Sport 200d,,2018,Diesel,"14,000",2143,First Owner,Automatic,17.9,"Max Power
+134.1 bhp","Torque
+300Nm@ 1600-3000rpm",Luxury,New Delhi,2850000,CarDekho
+758,Mercedes-Benz,Mercedes-Benz GL-Class Progressive 220d,,2017,Diesel,"44,000",2143,First Owner,Automatic,17.9,"Max Power
+167.6 bhp","Torque
+400Nm@ 1400-2800rpm",Luxury,New Delhi,3650000,CarDekho
+759,BMW,BMW 5 Series 530d M Sport,,2019,Diesel,"20,001",2993,First Owner,Automatic,14.69,"Max Power
+258 bhp","Torque
+560Nm@ 1500-3000rpm",Luxury,New Delhi,5500000,CarDekho
+760,Mercedes-Benz,Mercedes-Benz M-Class ML 350 4Matic,,2013,Diesel,"71,000",2987,First Owner,Automatic,0.0,"Max Power
+165 bhp","Torque
+510@ 1600-2400",Luxury,New Delhi,1950000,CarDekho
+761,Mercedes-Benz,Mercedes-Benz M-Class ML 250 CDI,,2014,Diesel,"83,000",2143,Second Owner,Automatic,15.26,"Max Power
+203.2 bhp","Torque
+500Nm@ 1600-1800rpm",Luxury,New Delhi,2195000,CarDekho
+762,Land,Land Rover Range Rover Evoque 2.0 TD4 HSE Dynamic,,2019,Diesel,"13,000",1999,First Owner,Automatic,15.68,"Max Power
+177 bhp","Torque
+430Nm@ 1750-2500rpm",Luxury,New Delhi,4950000,CarDekho
+763,Audi,Audi Q3 35 TDI Quattro Premium Plus,,2017,Diesel,"23,000",1968,Second Owner,Automatic,15.17,"Max Power
+181 bhp","Torque
+380Nm@ 1750-3000rpm",Luxury,New Delhi,2450000,CarDekho
+764,Mercedes-Benz,Mercedes-Benz C-Class Progressive C 220d,,2019,Diesel,"5,200",1950,First Owner,Automatic,12.6,"Max Power
+194 bhp","Torque
+400Nm@ 1600-2800rpm",Luxury,New Delhi,4750000,CarDekho
+765,Mercedes-Benz,Mercedes-Benz GLA Class Urban Edition 200,,2019,Petrol,"8,000",1991,First Owner,Automatic,13.7,"Max Power
+183 bhp","Torque
+300Nm@ 1200-1400rpm",Luxury,New Delhi,3200000,CarDekho
+766,Mercedes-Benz,Mercedes-Benz A-Class A180 Sport,,2015,Petrol,"47,000",1595,Second Owner,Automatic,15.5,"Max Power
+120.6 bhp","Torque
+200Nm@ 1250-4000rpm",Luxury,New Delhi,1350000,CarDekho
+767,Mercedes-Benz,Mercedes-Benz GL-Class 350 CDI Blue Efficiency,,2015,Diesel,"34,000",2987,First Owner,Automatic,11.3,"Max Power
+254.8 bhp","Torque
+619Nm@ 1600-2400rpm",Luxury,New Delhi,3800000,CarDekho
+768,Audi,Audi A6 2.8 FSI,,2009,Petrol,"55,000",2773,Third Owner,Automatic,10.4,"Max Power
+201 bhp","Torque
+280Nm@ 3000-5000rpm",Luxury,New Delhi,595000,CarDekho
+769,BMW,BMW 5 Series 520d Luxury Line,,2015,Diesel,"23,000",1995,First Owner,Automatic,18.12,"Max Power
+190 bhp","Torque
+400Nm@ 1750-2500rpm",Luxury,New Delhi,2650000,CarDekho
+770,Audi,Audi A4 2.0 TFSI,,2011,Petrol,"75,000",1984,Second Owner,Automatic,10.8,"Max Power
+132 bhp","Torque
+320/1500�??3900",Luxury,New Delhi,875000,CarDekho
+771,Mercedes-Benz,Mercedes-Benz GLC 220d 4MATIC,,2021,Diesel,"9,000","er
+194 ",Test Drive Car,Automatic,9,"Torque
+400nm@ 2800rpm","Seats
+5",Luxury,New Delhi,5500000,CarDekho
+772,Audi,Audi Q7 2006-2020 35 TDI Quattro Premium Plus,,2015,Diesel,"61,000",2967,First Owner,Automatic,12.07,"Max Power
+241.4 bhp","Torque
+550Nm@ 1750-2750rpm",Luxury,New Delhi,2790000,CarDekho
+773,Land,Land Rover Discovery Sport TD4 SE,,2019,Diesel,"60,000",1999,First Owner,Automatic,12.83,"Max Power
+148.31 bhp","Torque
+382nm@ 1750-2250rpm",Luxury,New Delhi,4000000,CarDekho
+774,BMW,BMW 7 Series 730Ld Design Pure Excellence,,2018,Diesel,"30,000",2993,First Owner,Automatic,16.77,"Max Power
+261.49 bhp","Torque
+620Nm@ 2000-2500rpm",Luxury,New Delhi,6925000,CarDekho
+775,Land,Land Rover Range Rover 3.0 Diesel Vogue SE,,2018,Diesel,"28,000",2995,First Owner,Automatic,13.33,"Max Power
+335.25 bhp","Torque
+450nm@ 3500-5000rpm",Luxury,New Delhi,100000,CarDekho
+776,Land,Land Rover Range Rover Sport 3.0 D HSE,,2018,Diesel,"21,762",2993,First Owner,Automatic,12.65,"Max Power
+296 bhp","Torque
+400Nm@ 1500-4000rpm",Luxury,New Delhi,100000,CarDekho
+777,Land,Land Rover Range Rover 3.0 Diesel SWB Vogue BSIV,,2018,Diesel,"25,000",2993,First Owner,Automatic,13.33,"Max Power
+254.7 bhp","Torque
+600nm@ 1750-2250rpm",Luxury,New Delhi,100000,CarDekho
+778,BMW,BMW X5 xDrive 30d M Sport,,2018,Diesel,"29,900",2993,First Owner,Automatic,15.97,"Max Power
+258 bhp","Torque
+560Nm@ 1500-3000rpm",Luxury,New Delhi,5199000,CarDekho
+779,BMW,BMW X3 xDrive 20d Luxury Line,,2018,Diesel,"48,500",1995,First Owner,Automatic,16.55,"Max Power
+187.7 bhp","Torque
+400Nm@ 1750-2500rpm",Luxury,New Delhi,4400000,CarDekho
+780,BMW,BMW 5 Series 520d Sport Line,,2018,Diesel,"45,000",1995,Second Owner,Automatic,22.48,"Max Power
+187.74 bhp","Torque
+400Nm@ 1750-2500rpm",Luxury,New Delhi,3750000,CarDekho
+781,Jaguar,Jaguar XJ 3.0L,,2011,Diesel,"74,000",2993,Second Owner,Automatic,10.5,"Max Power
+271.2 bhp","Torque
+600Nm@ 2000rpm",Luxury,New Delhi,1775000,CarDekho
+782,Mercedes-Benz,Mercedes-Benz E-Class E350 CDI,,2015,Diesel,"55,000",2987,Second Owner,Automatic,13.0,"Max Power
+261.5 bhp","Torque
+620Nm@ 1600-2400rpm",Luxury,New Delhi,2350000,CarDekho
+783,Mercedes-Benz,Mercedes-Benz C-Class Progressive C 220d,,2019,Diesel,"6,600",1950,First Owner,Automatic,12.6,"Max Power
+194 bhp","Torque
+400Nm@ 1600-2800rpm",Luxury,New Delhi,4450000,CarDekho
+784,Mercedes-Benz,Mercedes-Benz C-Class C 200 AVANTGARDE,,2013,Petrol,"63,108",1991,Second Owner,Automatic,14.74,"Max Power
+181.04 bhp","Torque
+300Nm@ 1200-1400rpm",Luxury,New Delhi,1345000,CarDekho
+785,Mercedes-Benz,Mercedes-Benz E-Class Exclusive E 200,,2021,Petrol,"4,500",1991,First Owner,Automatic,15.0,"Max Power
+194.44 bhp","Torque
+320Nm@ 1650-4000rpm",Luxury,New Delhi,7100000,CarDekho
+786,Mercedes-Benz,Mercedes-Benz E-Class E250 CDI Avantgarde,,2014,Diesel,"51,000",2143,Second Owner,Automatic,14.21,"Max Power
+203 bhp","Torque
+500Nm@ 1600-1800rpm",Luxury,New Delhi,2075000,CarDekho
+787,Audi,Audi Q3 2.0 TDI Quattro Premium Plus,,2013,Diesel,"65,000",1968,Second Owner,Automatic,15.73,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Luxury,New Delhi,1225000,CarDekho
+788,BMW,BMW 3 Series GT Luxury Line,,2016,Diesel,"51,000",1995,Second Owner,Automatic,21.76,"Max Power
+188 bhp","Torque
+400Nm@ 1750-2500rpm",Luxury,New Delhi,2300000,CarDekho
+789,BMW,BMW 5 Series 525d,,2012,Diesel,"56,100",1995,First Owner,Automatic,16.73,"Max Power
+218 bhp","Torque
+450Nm@ 1750-2500rpm",Luxury,New Delhi,1325000,CarDekho
+790,Audi,Audi Q7 2006-2020 3.0 TDI Quattro Premium Plus,,2013,Diesel,"70,000",2967,First Owner,Automatic,12.07,"Max Power
+241.4 bhp","Torque
+550Nm@ 1750-2750rpm",Luxury,New Delhi,2089999,CarDekho
+791,Land,Land Rover Discovery Sport 2015-2020 Petrol HSE 7S,,2017,Petrol,"23,000",1997,First Owner,Automatic,12.81,"Max Power
+237.36 bhp","Torque
+340Nm@ 1500-4500rpm",Luxury,New Delhi,4250000,CarDekho
+792,BMW,BMW X1 sDrive20i xLine,,2019,Petrol,"21,000",1998,First Owner,Automatic,15.71,"Max Power
+189 bhp","Torque
+280Nm@ 1350-4600rpm",Luxury,New Delhi,3250000,CarDekho
+793,Mercedes-Benz,Mercedes-Benz C-Class C 220 CDI Style,,2015,Diesel,"17,000",2143,First Owner,Automatic,19.27,"Max Power
+167.62 bhp","Torque
+400Nm@ 1400-2800rpm",Luxury,New Delhi,2500000,CarDekho
+794,Audi,Audi Q5 2.0 TDI Premium Plus,,2014,Diesel,"31,000",1968,First Owner,Automatic,14.16,"Max Power
+174.3 bhp","Torque
+380Nm@ 1750-2500rpm",Luxury,New Delhi,2150000,CarDekho
+795,Audi,Audi Q3 35 TDI Quattro Premium Plus,,2017,Diesel,"35,000",1968,First Owner,Automatic,15.73,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Luxury,New Delhi,2500000,CarDekho
+796,Mercedes-Benz,Mercedes-Benz C-Class C 200 AVANTGARDE,,2016,Petrol,"58,000",1991,First Owner,Automatic,14.74,"Max Power
+181.04 bhp","Torque
+300Nm@ 1200-1400rpm",Luxury,New Delhi,2900000,CarDekho
+797,Audi,Audi A4 1.8 T Multitronic,,2011,Petrol,"43,000",1781,Third Owner,Automatic,12.3,"Max Power
+163.2 bhp","Torque
+22.9@ 1,950-4,700(kgm@ rpm)",Luxury,New Delhi,1100000,CarDekho
+798,BMW,BMW 6 Series 650i Coupe,,2009,Petrol,"70,550",4395,First Owner,Automatic,7.94,"Max Power
+450 bhp","Torque
+600Nm@ 2000-4500rpm",Luxury,New Delhi,1500000,CarDekho
+799,Audi,Audi A6 2.0 TDI Premium Plus,,2014,Diesel,"10,80,000",1968,First Owner,Automatic,17.68,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Luxury,New Delhi,1375000,CarDekho
+800,Mercedes-Benz,Mercedes-Benz GLC Coupe 300d 4MATIC,,2020,Diesel,"3,000",1950,First Owner,Automatic,16.34,"Max Power
+241.38 bhp","Torque
+500nm@ 1600-2400rpm",Luxury,New Delhi,6200000,CarDekho
+801,Mercedes-Benz,Mercedes-Benz C-Class Progressive C 220d,,2019,Diesel,"25,000",1950,First Owner,Automatic,12.6,"Max Power
+194 bhp","Torque
+400Nm@ 1600-2800rpm",Luxury,New Delhi,3850000,CarDekho
+802,Audi,Audi A6 2.0 TDI Premium Plus,,2012,Diesel,"58,000",1968,Second Owner,Automatic,17.68,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Luxury,New Delhi,1150000,CarDekho
+803,Mercedes-Benz,Mercedes-Benz CLA Urban Sport 200d,,2018,Diesel,"19,000",2143,Second Owner,Automatic,17.9,"Max Power
+134.1 bhp","Torque
+300Nm@ 1600-3000rpm",Luxury,New Delhi,2850000,CarDekho
+804,BMW,BMW 3 Series 320d Prestige,,2013,Diesel,"1,20,000",1995,Second Owner,Automatic,18.88,"Max Power
+184 bhp","Torque
+380Nm@ 1750-2750rpm",Luxury,New Delhi,1090000,CarDekho
+805,Mercedes-Benz,Mercedes-Benz GL-Class 350 CDI Blue Efficiency,,2016,Diesel,"1,10,001",2987,First Owner,Automatic,11.3,"Max Power
+254.8 bhp","Torque
+619Nm@ 1600-2400rpm",Luxury,New Delhi,4000000,CarDekho
+806,Audi,Audi A6 2.0 TDI Premium Plus,,2014,Diesel,"51,000",1968,First Owner,Automatic,17.68,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Luxury,New Delhi,1689999,CarDekho
+807,BMW,BMW X3 xDrive20d xLine,,2016,Diesel,"67,000",1995,First Owner,Automatic,18.56,"Max Power
+190 bhp","Torque
+400Nm@ 1750-2500rpm",Luxury,New Delhi,2650000,CarDekho
+808,Mercedes-Benz,Mercedes-Benz M-Class ML 350 4Matic,,2013,Diesel,"55,000",2987,Second Owner,Automatic,0.0,"Max Power
+165 bhp","Torque
+510@ 1600-2400",Luxury,New Delhi,2000000,CarDekho
+809,BMW,BMW 3 Series 320d Luxury Line,,2014,Diesel,"95,000",1995,Second Owner,Automatic,18.88,"Max Power
+184 bhp","Torque
+380Nm@ 1750-2750rpm",Luxury,New Delhi,1700000,CarDekho
+810,BMW,BMW 5 Series 523i Sedan,,2010,Petrol,"41,000",2497,Second Owner,Automatic,10.8,"Max Power
+150 bhp","Torque
+250 Nm at 2750 rpm",Luxury,New Delhi,1275000,CarDekho
+811,Mercedes-Benz,Mercedes-Benz CLA 45 AMG,,2014,Petrol,"39,000",1991,Second Owner,Automatic,15.04,"Max Power
+360 bhp","Torque
+450Nm@ 2250-5000rpm",Luxury,New Delhi,3290000,CarDekho
+812,Audi,Audi Q3 2.0 TDI Quattro Premium Plus,,2013,Diesel,"83,000",1968,Second Owner,Automatic,15.73,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Luxury,New Delhi,1350000,CarDekho
+813,Audi,Audi A4 35 TFSi Premium,,2014,Petrol,"35,000",1798,First Owner,Automatic,15.64,"Max Power
+167.62 bhp","Torque
+320Nm@ 1400-3700rpm",Luxury,New Delhi,1648999,CarDekho
+814,Audi,Audi S5 3.0 TFSIq Tiptronic,,2020,Petrol,"1,001",2995,First Owner,Automatic,12.28,"Max Power
+348.66 bhp","Torque
+500Nm@ 1370-4500rpm",Luxury,New Delhi,7750000,CarDekho
+815,BMW,BMW Z4 2009-2013 35i,,2011,Petrol,"12,000",2979,First Owner,Automatic,10.37,"Max Power
+306 bhp","Torque
+400Nm@ 1300-5000rpm",Luxury,New Delhi,3175000,CarDekho
+816,BMW,BMW X1 sDrive 20D xLine,,2012,Diesel,"93,000",l,Second Owner,Automatic,17.05,,,Luxury,New Delhi,690000,CarDekho

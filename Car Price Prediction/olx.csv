@@ -1,0 +1,487 @@
+,Brand,Model,Manufacturing Year,Variant,Fuel,KM Driven,Transmission,Number of Owners,Location,Price,Source
+0,Porsche,Porsche Cayenne ,2013,S Diesel,DIESEL,128000.0,AUTOMATIC,2,Coimbatore,"40,00,000",Olx
+1,Honda,Honda Wr-V ,2019,i-VTEC VX,PETROL,26503.0,MANUAL,1,Delhi,"8,25,300",Olx
+2,Hyundai,Hyundai Elite I20 ,2017,Asta Option,DIESEL,29417.0,MANUAL,1,Kolkata,"5,59,991",Olx
+3,Skoda,Skoda Rapid ,2015,2011-2013 Ultima 1.6 TDI Elegance,DIESEL,10000,MANUAL,F,Sadabad,"5,00,000",Olx
+4,Maruti,Maruti Suzuki Zen Estilo ,2007,Zen Estilo LXI,CNG,90000,MANUAL,S,Pune,"1,25,000",Olx
+5,Ashok,Ashok Leyland Stile ,2019,LE,DIESEL,"70,000",MANUAL,1,Dharwad,"6,70,000",Olx
+6,Tata,Tata Indica V2 ,2006,,--,75656.0,--,1,Villupuram,"59,000",Olx
+7,Mahindra,Mahindra Bolero Power Plus ,2019,ZLX,DIESEL,"38,500",AUTOMATIC,1,Bhota,"7,85,000",Olx
+8,Toyota,Toyota Innova ,2007,2.5 G (Diesel) 7 Seater BS IV,DIESEL,"80,000",MANUAL,1,Kollam,"5,50,000",Olx
+9,Maruti,Maruti Suzuki Alto 800 ,2016,2012-2016 LXI,PETROL,70000.0,MANUAL,1,Chandigarh,"2,95,000",Olx
+10,Maruti,Maruti Suzuki Swift ,2015,VVT VXI,PETROL,"77,900",MANUAL,2,Vadodara,"4,33,000",Olx
+11,Maruti,Maruti Suzuki 800 ,1997,DX,PETROL,"40,000",MANUAL,4,Hassan,"55,000",Olx
+12,Maruti,Maruti Suzuki Swift ,2016,VDI,DIESEL,74000.0,MANUAL,1,Chandigarh,"5,75,000",Olx
+13,Maruti,Maruti Suzuki Swift ,2014,VDI,DIESEL,"64,000",MANUAL,1,Jaitu,"3,65,000",Olx
+14,Bmw,Bmw X3 ,2015,,--,75000.0,AUTOMATIC,1,Jaipur,"19,51,000",Olx
+15,Honda,Honda City ,2011,V Automatic (AVN),PETROL,70000.0,AUTOMATIC,2,Thane,"3,75,000",Olx
+16,Maruti,Maruti Suzuki Wagon R 1.0 ,2002,1.0 LXi,PETROL,77408.0,MANUAL,1,Hyderabad,"1,15,000",Olx
+17,Mahindra,Mahindra Scorpio ,2018,S3,DIESEL,65327.0,MANUAL,1,Thane,"10,50,000",Olx
+18,Mahindra,Mahindra Marazzo ,2018,M2,DIESEL,9000.0,--,1,Bengaluru,"9,25,000",Olx
+19,Maruti,Maruti Suzuki Swift ,2008,VDI,DIESEL,92000.0,MANUAL,1,Nashik,"2,22,222",Olx
+20,Maruti,Maruti Suzuki Swift ,2017,VDI,PETROL,48130.0,MANUAL,1,Gurgaon,"4,87,200",Olx
+21,Tata,Tata Indica Vista ,2010,Aqua Quadrajet BS-III,DIESEL,90000.0,MANUAL,1,Chennai,"2,40,000",Olx
+22,Honda,Honda Amaze ,2018,VX Petrol,PETROL,50000.0,MANUAL,1,Delhi,"6,35,000",Olx
+23,Maruti,Maruti Suzuki Estilo ,2012,VXi,CNG,70000,MANUAL,T,Rajkot,"2,25,000",Olx
+24,Mahindra,Mahindra Xylo ,2013,2012-2014 D4 BSIII,DIESEL,140000,MANUAL,S,Vikasnagar,"2,50,000",Olx
+25,Hyundai,Hyundai Grand I10 ,2017,2016-2017 Sportz,DIESEL,32000.0,MANUAL,1,Nagpur,"4,99,000",Olx
+26,Hyundai,Hyundai Verna ,2010,2006-2010 CRDi,DIESEL,71000.0,MANUAL,1,Hyderabad,"2,95,000",Olx
+27,Tata,Tata Indica Vista ,2010,2008-2013 Aura 1.2 Safire ABS,PETROL,14000.0,MANUAL,1,Nagpur,"1,65,000",Olx
+28,Volkswagen,Volkswagen Vento (2,14.0,2010-2013 Diesel Comfortline,DIESEL,70000.0,MANUAL,2,Delhi,"3,50,000",Olx
+29,Volkswagen,Volkswagen Passat ,2010,2007-2010 1.8 TSI MT,PETROL,61000.0,MANUAL,1,Delhi,"4,50,000",Olx
+30,Maruti,Maruti Suzuki Ertiga ,2018,SHVS VDI,DIESEL,48000.0,MANUAL,1,Delhi,"7,35,000",Olx
+31,Maruti,Maruti Suzuki Eeco ,2010,,LPG,96000.0,MANUAL,2,Salem,"2,80,000",Olx
+32,Toyota,Toyota Fortuner ,2020,2.8 2WD AT,DIESEL,7999.0,AUTOMATIC,1,Ahmedabad,"35,48,000",Olx
+33,Toyota,Toyota Fortuner ,2020,2.8 2WD AT,DIESEL,8000.0,AUTOMATIC,1,Ahmedabad,"35,50,000",Olx
+34,Maruti,Maruti Suzuki Alto K10 ,2019,VXI Airbag,PETROL,44000.0,MANUAL,1,Ahmedabad,"3,75,000",Olx
+35,Maruti,Maruti Suzuki Alto 800 ,2019,LXI Opt,PETROL,23000.0,MANUAL,1,Ahmedabad,"3,75,000",Olx
+36,Toyota,Toyota Innova ,2007,2004-2011 2.5 G4 Diesel 8-seater,DIESEL,63000.0,MANUAL,3,Ahmedabad,"3,50,000",Olx
+37,Renault,Renault Kwid ,2017,RXL,PETROL,39000.0,MANUAL,1,Ahmedabad,"2,85,000",Olx
+38,Maruti,Maruti Suzuki Zen Estilo ,2010,VXI BSIV,PETROL,73000.0,MANUAL,1,Chennai,"2,50,000",Olx
+39,Porsche,Porsche Cayenne ,2008,Turbo S,PETROL,54000.0,AUTOMATIC,1,Delhi,"9,50,000",Olx
+40,Mahindra,Mahindra Thar ,2014,DI 2WD,DIESEL,55000.0,MANUAL,-,Kolhapur,"5,00,000",Olx
+41,Volvo,Volvo Xc60 ,2018,D5 Inscription,DIESEL,40000.0,AUTOMATIC,1,Delhi,"49,75,000",Olx
+42,Hyundai,Hyundai Eon ,2011,Magna,PETROL,74000.0,MANUAL,1,Hyderabad,"2,35,000",Olx
+43,Volkswagen,Volkswagen Vento ,2019,1.6 Highline Plus 16 Alloy,PETROL,30000,MANUAL,F,Vijayawada,"9,00,000",Olx
+44,Mahindra,Mahindra Xuv500 ,2014,2011-2015 W8 2WD,DIESEL,82886,MANUAL,F,Visakhapatnam,"7,50,000",Olx
+45,Bmw,Bmw X3 ,2015,,--,75000.0,AUTOMATIC,1,Jaipur,"19,51,000",Olx
+46,Honda,Honda City ,2011,V Automatic (AVN),PETROL,70000.0,AUTOMATIC,2,Thane,"3,75,000",Olx
+47,Maruti,Maruti Suzuki 800 ,1994,AC,PETROL,"75,000",MANUAL,4,Bengaluru,"28,000",Olx
+48,Other,Other Brands Others ,2019,,ELECTRIC,0,MANUAL,2,MC,"70,000",Olx
+49,Mahindra,Mahindra Scorpio ,2018,S3,DIESEL,65327.0,MANUAL,1,Thane,"10,50,000",Olx
+50,Mahindra,Mahindra Marazzo ,2018,M2,DIESEL,9000.0,--,1,Bengaluru,"9,25,000",Olx
+51,Maruti,Maruti Suzuki Swift ,2008,VDI,DIESEL,92000.0,MANUAL,1,Nashik,"2,22,222",Olx
+52,Hyundai,Hyundai Grand I10 ,2017,2016-2017 Sportz,DIESEL,32000.0,MANUAL,1,Nagpur,"4,99,000",Olx
+53,Hyundai,Hyundai Verna ,2010,2006-2010 CRDi,DIESEL,71000.0,MANUAL,1,Hyderabad,"2,95,000",Olx
+54,Tata,Tata Indica Vista ,2010,2008-2013 Aura 1.2 Safire ABS,PETROL,14000.0,MANUAL,1,Nagpur,"1,65,000",Olx
+55,Volkswagen,Volkswagen Vento (2,14.0,2010-2013 Diesel Comfortline,DIESEL,70000.0,MANUAL,2,Delhi,"3,50,000",Olx
+56,Volkswagen,Volkswagen Passat ,2010,2007-2010 1.8 TSI MT,PETROL,61000.0,MANUAL,1,Delhi,"4,50,000",Olx
+57,Maruti,Maruti Suzuki Ertiga ,2018,SHVS VDI,DIESEL,48000.0,MANUAL,1,Delhi,"7,35,000",Olx
+58,Maruti,Maruti Suzuki Eeco ,2010,,LPG,96000.0,MANUAL,2,Salem,"2,80,000",Olx
+59,Maruti,Maruti Suzuki Ertiga ,2016,VXI,PETROL,56000.0,MANUAL,3,Gama,"5,45,000",Olx
+60,Hyundai,Hyundai Eon ,2012,Era +,PETROL,52000.0,MANUAL,1,Faridabad,"1,90,000",Olx
+61,Hyundai,Hyundai Accent ,2004,GLE,PETROL,81000.0,MANUAL,1,Bengaluru,"1,45,000",Olx
+62,Maruti,Maruti Suzuki Ritz ,2010,VDi,DIESEL,70000,MANUAL,T,Dehradun,"1,90,000",Olx
+63,Maruti,Maruti Suzuki Zen ,1999,LX,PETROL,7718,MANUAL,S,Bengaluru,"85,000",Olx
+64,Toyota,Toyota Fortuner ,2020,2.8 2WD AT,DIESEL,7999.0,AUTOMATIC,1,Ahmedabad,"35,48,000",Olx
+65,Toyota,Toyota Fortuner ,2020,2.8 2WD AT,DIESEL,8000.0,AUTOMATIC,1,Ahmedabad,"35,50,000",Olx
+66,Maruti,Maruti Suzuki Alto K10 ,2019,VXI Airbag,PETROL,44000.0,MANUAL,1,Ahmedabad,"3,75,000",Olx
+67,Maruti,Maruti Suzuki Alto 800 ,2019,LXI Opt,PETROL,23000.0,MANUAL,1,Ahmedabad,"3,75,000",Olx
+68,Toyota,Toyota Innova ,2007,2004-2011 2.5 G4 Diesel 8-seater,DIESEL,63000.0,MANUAL,3,Ahmedabad,"3,50,000",Olx
+69,Renault,Renault Kwid ,2017,RXL,PETROL,39000.0,MANUAL,1,Ahmedabad,"2,85,000",Olx
+70,Maruti,Maruti Suzuki Zen Estilo ,2010,VXI BSIV,PETROL,73000.0,MANUAL,1,Chennai,"2,50,000",Olx
+71,Porsche,Porsche Cayenne ,2008,Turbo S,PETROL,54000.0,AUTOMATIC,1,Delhi,"9,50,000",Olx
+72,Hyundai,Hyundai I10 ,2011,Era,PETROL,80000.0,MANUAL,2,Kozhikode,"2,05,000",Olx
+73,Hyundai,Hyundai Creta ,2018,1.4 E Plus Diesel,DIESEL,"47,000",MANUAL,2,Sitarganj,"9,50,000",Olx
+74,Mahindra,Mahindra Logan ,2010,Petrol 1.4 GLX,PETROL,88000.0,MANUAL,1,Nagpur,"1,60,000",Olx
+75,Maruti,Maruti Suzuki Swift ,2012,LXI Optional-O,CNG & HYBRIDS,60500.0,MANUAL,2,Delhi,"2,95,000",Olx
+76,Maruti,Maruti Suzuki Wagon R ,2018,LXI CNG,CNG & HYBRIDS,39000.0,MANUAL,1,Noida,"4,49,000",Olx
+77,Chevrolet,Chevrolet Beat ,2012,2010-2013 Diesel,DIESEL,57000.0,MANUAL,1,Mumbai,"1,90,000",Olx
+78,Skoda,Skoda Superb ,2012,Style 2.0 TDI AT,DIESEL,78000.0,AUTOMATIC,1,Noida,"4,25,000",Olx
+79,Maruti,Maruti Suzuki Swift ,2016,LDI Optional,DIESEL,75000.0,MANUAL,1,Jaipur,"5,00,000",Olx
+80,Bmw,Bmw X5 ,2017,xDrive 30d xLine,DIESEL,51000.0,AUTOMATIC,1,Hyderabad,"52,00,000",Olx
+81,Audi,Audi Q7 ,2018,,DIESEL,69582.0,AUTOMATIC,-,Mumbai,"69,00,000",Olx
+82,Skoda,Skoda Superb ,2015,2013-2015 Ambition 2.0 TDI CR AT,DIESEL,77290,AUTOMATIC,F,Mumbai,"11,75,000",Olx
+83,Volkswagen,Volkswagen Vento ,2011,2010-2013 Diesel Highline,PETROL,40130,MANUAL,F,Mumbai,"3,50,000",Olx
+84,Mahindra,Mahindra Scorpio ,2009,2006-2009 VLS AT 2.2 mHAWK,DIESEL,96000.0,AUTOMATIC,2,Bengaluru,"4,65,000",Olx
+85,Hyundai,Hyundai I20 Active ,2017,SX Diesel,DIESEL,75307.0,MANUAL,1,Hyderabad,"7,85,000",Olx
+86,Mahindra,Mahindra Xuv500 ,2014,2011-2015 W8-2WD,DIESEL,67000.0,MANUAL,1,Ahmedabad,"7,24,999",Olx
+87,Land,Land Rover Freelander 2 ,2013,2009-2013 TD4 SE,DIESEL,85000.0,AUTOMATIC,1,Delhi,"8,50,000",Olx
+88,Mitsubishi,Mitsubishi Pajero Sport ,2012,2.5 Manual,DIESEL,90000.0,MANUAL,1,Delhi,"6,60,000",Olx
+89,Maruti,Maruti Suzuki Ciaz ,2016,2014-2017 RS ZDi Plus SHVS,DIESEL,66000.0,MANUAL,1,Ghaziabad,"5,75,000",Olx
+90,Maruti,Maruti Suzuki Swift Dzire ,2013,VXI,PETROL,49000.0,MANUAL,1,Delhi,"3,75,000",Olx
+91,Maruti,Maruti Suzuki Swift ,2016,VXI,PETROL,39000.0,MANUAL,2,Bengaluru,"5,90,000",Olx
+92,Ford,Ford Ecosport ,2014,1.5 Diesel Titanium Plus,DIESEL,75000.0,MANUAL,1,Delhi,"4,25,000",Olx
+93,Honda,Honda City ,2013,i-VTEC VX,PETROL,100000.0,MANUAL,2,Madurai,"5,10,000",Olx
+94,Toyota,Toyota Fortuner ,2013,Others,DIESEL,"79,100",MANUAL,1,Delhi,"13,25,000",Olx
+95,Maruti,Maruti Suzuki Sx4 ,2011,ZDI BS IV,DIESEL,"85,000",MANUAL,2,Dehradun,"2,90,000",Olx
+96,Audi,Audi A6 ,2016,35 TFSI Matrix,PETROL,61000.0,AUTOMATIC,2,Mumbai,"22,50,000",Olx
+97,Toyota,Toyota Innova ,2011,2.5 V 7 STR,DIESEL,228507.0,MANUAL,2,Erode,"8,75,000",Olx
+98,Maruti,Maruti Suzuki 800 ,2009,AC,PETROL,97110.0,MANUAL,3,Erode,"1,65,000",Olx
+99,Maruti,Maruti Suzuki Alto 800 ,2012,LXI,PETROL,56785.0,MANUAL,2,Thiruvananthapuram,"2,35,000",Olx
+100,Honda,Honda Brio ,2017,,PETROL,34945.0,MANUAL,-,Hyderabad,"4,99,000",Olx
+101,Maruti,Maruti Suzuki Swift ,2011,VXI,PETROL,58000.0,MANUAL,1,Delhi,"3,05,000",Olx
+102,Chevrolet,Chevrolet Cruze ,2014,2014-2016 LTZ,DIESEL,83294,MANUAL,S,Bengaluru,"7,00,000",Olx
+103,Mahindra,Mahindra Scorpio ,2013,2009-2014 LX BSIV,DIESEL,71148,MANUAL,F,Hyderabad,"6,90,000",Olx
+104,Hyundai,Hyundai I10 ,2013,Era,CNG & HYBRIDS,58000.0,MANUAL,1,Gurgaon,"2,49,000",Olx
+105,Toyota,Toyota Etios Liva ,2013,2013-2014 Diesel,DIESEL,88000.0,MANUAL,1,Delhi,"2,95,000",Olx
+106,Mahindra,Mahindra Scorpio ,2009,2002-2013 VLS AT 2.2 mHAWK,DIESEL,1.0,AUTOMATIC,1,Kozhikode,"2,95,000",Olx
+107,Maruti,Maruti Suzuki Wagon R ,2008,LXI,PETROL,66000.0,MANUAL,1,Chandigarh,"1,65,000",Olx
+108,Toyota,Toyota Fortuner ,2011,3.0 4x4 Manual,DIESEL,110000.0,MANUAL,1,Chandigarh,"9,90,000",Olx
+109,Skoda,Skoda Rapid ,2014,Onyx 1.5 TDI AT,DIESEL,85000.0,AUTOMATIC,1,Chandigarh,"5,45,000",Olx
+110,Toyota,Toyota Corolla ,2004,H6,PETROL,95000.0,MANUAL,1,Chandigarh,"1,70,000",Olx
+111,Mahindra,Mahindra Scorpio ,2011,VLX BS III,DIESEL,82000.0,MANUAL,1,Chandigarh,"5,45,000",Olx
+112,Bmw,Bmw X5 ,2009,xDrive 30d,DIESEL,85000.0,AUTOMATIC,1,Chandigarh,"9,99,000",Olx
+113,Maruti,Maruti Suzuki Swift ,2014,2011-2014 ZDi,DIESEL,71000.0,MANUAL,1,Lucknow,"4,50,000",Olx
+114,Honda,Honda Amaze ,2015,1.5 SMT I DTEC,DIESEL,69000.0,MANUAL,1,Lucknow,"4,50,000",Olx
+115,Toyota,Toyota Etios ,2013,2010-2012 GD,DIESEL,67000.0,MANUAL,1,Lucknow,"4,50,000",Olx
+116,Maruti,Maruti Suzuki Swift Dzire ,2015,1.2 Vxi BSIV,PETROL,70000.0,MANUAL,1,Lucknow,"5,50,000",Olx
+117,Maruti,Maruti Suzuki Swift Dzire ,2013,LDI,DIESEL,65000.0,MANUAL,2,Lucknow,"3,50,000",Olx
+118,Hyundai,Hyundai Elite I20 ,2015,Sportz (O) 1.4,DIESEL,98000.0,MANUAL,1,Lucknow,"5,50,000",Olx
+119,Volkswagen,Volkswagen Vento ,2012,1.5 TDI Highline,DIESEL,90000.0,MANUAL,3,(-Miraj),"3,70,000",Olx
+120,Maruti,Maruti Suzuki Baleno ,2016,Zeta Automatic,PETROL,46000.0,AUTOMATIC,1,Coimbatore,"6,90,000",Olx
+121,Honda,Honda Brio ,2013,1.2 S MT,PETROL,26000.0,MANUAL,2,Bengaluru,"3,60,000",Olx
+122,Maruti,Maruti Suzuki Wagon R ,2016,CNG LXI Opt,CNG,140000,MANUAL,F,Delhi,"2,00,000",Olx
+123,Maruti,Maruti Suzuki Wagon R ,2007,2006-2010 LXI Minor,PETROL,105436,MANUAL,F,Ghaziabad,"80,000",Olx
+124,Datsun,Datsun Redigo ,2018,1.0 Limited Edition 2018,PETROL,"1,700",MANUAL,1,Bulandshahr,"2,50,000",Olx
+125,Maruti,Maruti Suzuki Eeco ,2016,5 STR WITH A/C+HTR,PETROL,19500.0,MANUAL,1,Bengaluru,"3,99,999",Olx
+126,Hyundai,Hyundai Accent ,2005,GLE,PETROL,80000.0,MANUAL,1,Bengaluru,"1,95,999",Olx
+127,Maruti,Maruti Suzuki Ertiga ,2017,SHVS VDI Limited Edition,DIESEL,32000.0,MANUAL,1,Bengaluru,"8,69,999",Olx
+128,Maruti,Maruti Suzuki Ignis ,2017,1.2 Zeta,PETROL,27000.0,MANUAL,1,Mysuru,"5,75,000",Olx
+129,Ford,Ford Endeavour ,2011,2007-2009 XLT TDCi 4X2,DIESEL,90000.0,MANUAL,2,Chandigarh,"5,50,000",Olx
+130,Maruti,Maruti Suzuki Swift ,2018,ZXI,PETROL,25000.0,MANUAL,1,Chandigarh,"6,50,000",Olx
+131,Kia,Kia Seltos ,2019,GTX Plus,PETROL,4000.0,MANUAL,1,Chandigarh,"16,16,000",Olx
+132,Toyota,Toyota Innova Crysta ,2017,2.4 V,DIESEL,39036.0,MANUAL,1,Bengaluru,"18,75,000",Olx
+133,Toyota,Toyota Innova ,2015,2.5 GX (Diesel) 7 Seater,DIESEL,98664.0,MANUAL,2,Bengaluru,"12,50,000",Olx
+134,Toyota,Toyota Innova ,2015,2.5 V 7 STR,DIESEL,144419.0,MANUAL,1,Bengaluru,"12,85,000",Olx
+135,Kia,Kia Seltos ,2019,HTX IVT G,PETROL,28884.0,AUTOMATIC,1,Bengaluru,"14,75,000",Olx
+136,Honda,Honda City ,2016,i-DTEC SV,PETROL,26663.0,AUTOMATIC,1,Bengaluru,"8,50,000",Olx
+137,Honda,Honda City ,2018,VX CVT,PETROL,69930.0,AUTOMATIC,1,Bengaluru,"9,75,000",Olx
+138,Maruti,Maruti Suzuki Zen ,2001,LXI,PETROL,"52,000",MANUAL,1,Kochi,"65,000",Olx
+139,Honda,Honda Amaze ,2014,S Diesel,DIESEL,70000.0,MANUAL,1,Madurai,"4,25,000",Olx
+140,Maruti,Maruti Suzuki Wagon R ,2008,2006-2010 VXI Minor,PETROL,90000,MANUAL,T,Pune,"1,60,000",Olx
+141,Tata,Tata Safari ,2013,Dicor EX 4X2 BS IV,DIESEL,140000,MANUAL,F,Bhiwani,"3,20,000",Olx
+142,Maruti,Maruti Suzuki Ertiga ,2016,VXI Petrol,PETROL,47000.0,MANUAL,1,Mumbai,"6,95,000",Olx
+143,Honda,Honda Brio ,2013,2011-2013 EX MT,PETROL,32000.0,MANUAL,1,Chennai,"3,75,000",Olx
+144,Hyundai,Hyundai I10 ,2011,Magna,PETROL,48000.0,MANUAL,1,Chennai,"3,30,000",Olx
+145,Hyundai,Hyundai Eon ,2014,Magna +,PETROL,20000.0,MANUAL,1,Chennai,"3,45,000",Olx
+146,Honda,Honda City ,2015,Others,PETROL,35000.0,MANUAL,1,Gurgaon,"7,50,000",Olx
+147,Honda,Honda Brio ,2012,1.2 S Option MT,PETROL,33000.0,MANUAL,1,Chennai,"3,85,000",Olx
+148,Honda,Honda Amaze ,2017,1.2 SMT I VTEC,PETROL,40000.0,MANUAL,2,Chennai,"5,15,000",Olx
+149,Hyundai,Hyundai Xcent ,2017,2016-2017 1.2 Kappa S AT,PETROL,11000.0,AUTOMATIC,1,Chennai,"6,15,000",Olx
+150,Hyundai,Hyundai Elite I20 ,2017,Asta 1.2,PETROL,17000.0,MANUAL,1,Chennai,"7,20,000",Olx
+151,Hyundai,Hyundai I20 ,2010,1.2 Asta,PETROL,83000.0,MANUAL,2,Mumbai,"2,70,000",Olx
+152,Maruti,Maruti Suzuki Wagon R 1.0 ,2007,1.0 LXi,PETROL,67000.0,MANUAL,2,Mumbai,"1,15,000",Olx
+153,Mahindra,Mahindra Bolero ,2015,SLE BS IV,DIESEL,84000.0,--,2,Lucknow,"5,50,000",Olx
+154,Honda,Honda City ,2011,i-VTEC V,PETROL,70000.0,AUTOMATIC,1,Mumbai,"3,65,000",Olx
+155,Toyota,Toyota Innova ,2014,2.5 G (Diesel) 7 Seater,DIESEL,75000.0,MANUAL,2,Gurgaon,"6,75,000",Olx
+156,Maruti,Maruti Suzuki Ciaz ,2016,2014-2017 VDI SHVS,DIESEL,67000.0,MANUAL,1,Bengaluru,"6,65,000",Olx
+157,Maruti,Maruti Suzuki Ignis ,2017,1.2 Alpha,PETROL,34800.0,MANUAL,1,Bhopal,"5,50,000",Olx
+158,Hyundai,Hyundai Grand I10 ,2017,1.2 Kappa Magna,PETROL,54000.0,MANUAL,2,Delhi,"4,19,999",Olx
+159,Toyota,Toyota Innova ,2013,2.5 V 7 STR,DIESEL,144000.0,MANUAL,1,Secunderabad,"9,75,000",Olx
+160,Volkswagen,Volkswagen Polo ,2015,2013-2015 1.2 MPI Comfortline,PETROL,78571,MANUAL,S,Hyderabad,"4,60,000",Olx
+161,Hyundai,Hyundai Creta ,2018,1.6 SX Automatic,PETROL,69201,AUTOMATIC,F,Delhi,"12,10,000",Olx
+162,Honda,Honda City ,2016,i-VTEC CVT VX,PETROL,70000.0,AUTOMATIC,1,Malappuram,"8,40,000",Olx
+163,Skoda,Skoda Rapid ,2014,1.5 TDI Ambition,DIESEL,94518.0,MANUAL,1,Nashik,"4,90,000",Olx
+164,Maruti,Maruti Suzuki Swift ,2010,2004-2010 1.3 LXI,PETROL,45000.0,MANUAL,2,Mumbai,"2,30,000",Olx
+165,Hyundai,Hyundai Getz ,2006,GLS,PETROL,72000.0,MANUAL,2,Chennai,"1,23,999",Olx
+166,Maruti,Maruti Suzuki Alto 800 ,2015,LXI,PETROL,57000.0,MANUAL,1,Chennai,"2,74,999",Olx
+167,Hyundai,Hyundai Santro Xing ,2012,GL CNG,CNG & HYBRIDS,59000.0,MANUAL,2,Delhi,"1,85,000",Olx
+168,Toyota,Toyota Innova Crysta ,2017,Others,DIESEL,96741.0,MANUAL,2,Bengaluru,"18,75,000",Olx
+169,Maruti,Maruti Suzuki Swift ,2016,VDI,--,65000.0,--,-,Ludhiana,"5,80,000",Olx
+170,Volkswagen,Volkswagen Polo ,2013,2009-2013 GT TSI,PETROL,65000.0,AUTOMATIC,1,Ludhiana,"5,25,000",Olx
+171,Volkswagen,Volkswagen Polo ,2014,2013-2015 1.5 TDI Comfortline,DIESEL,70000.0,MANUAL,1,Delhi,"3,75,000",Olx
+172,Volkswagen,Volkswagen Polo ,2013,2013-2015 1.5 TDI Comfortline,DIESEL,52000.0,MANUAL,1,Delhi,"3,10,000",Olx
+173,Honda,Honda City ,2010,2008-2011 1.5 S MT,PETROL,67000.0,MANUAL,1,Delhi,"2,75,000",Olx
+174,Maruti,Maruti Suzuki Wagon R ,2015,VXI,PETROL,77000.0,MANUAL,1,Chennai,"3,60,000",Olx
+175,Bmw,Bmw 3 Series Gt ,2012,320d GT Luxury Line,DIESEL,52000.0,AUTOMATIC,1,Jaipur,"13,50,000",Olx
+176,Maruti,Maruti Suzuki Alto K10 ,2014,LXI,PETROL,38000.0,MANUAL,1,Pune,"2,60,000",Olx
+177,Mercedes-Benz,Mercedes-Benz Slk-Class ,2010,SLK 200 Kompressor,PETROL,33653.0,AUTOMATIC,1,Mumbai,"24,00,000",Olx
+178,Toyota,Toyota Innova ,2014,2.5 VX (Diesel) 7 Seater BS IV,DIESEL,107011.0,MANUAL,1,Mumbai,"10,99,000",Olx
+179,Honda,Honda Jazz ,2019,VX CVT,PETROL,17000.0,AUTOMATIC,1,Gurgaon,"8,25,000",Olx
+180,Maruti,Maruti Suzuki Ertiga ,2017,SHVS VDI Limited Edition,DIESEL,24000,MANUAL,F,Delhi,"7,50,000",Olx
+181,Skoda,Skoda Octavia ,2016,2013-2017 Style Plus 2.0 TDI AT,DIESEL,53000,AUTOMATIC,F,Delhi,"11,95,000",Olx
+182,Honda,Honda Cr-V ,2008,,PETROL,140000.0,MANUAL,1,Hyderabad,"5,60,000",Olx
+183,Maruti,Maruti Suzuki Wagon R ,2015,VXI AMT Opt,PETROL,40000.0,AUTOMATIC,1,Panaji,"4,20,000",Olx
+184,Hyundai,Hyundai Santa Fe ,2012,4WD-AT,DIESEL,91167.0,AUTOMATIC,1,Bengaluru,"8,75,000",Olx
+185,Hyundai,Hyundai I20 ,2011,2009-2011 Sportz Petrol,PETROL,65000.0,--,1,Delhi,"2,50,000",Olx
+186,Hyundai,Hyundai Grand I10 ,2014,1.2 Kappa Magna,PETROL,52000.0,MANUAL,1,Panaji,"3,60,000",Olx
+187,Renault,Renault Kwid ,2017,RXT Optional,PETROL,28000.0,MANUAL,1,Bengaluru,"3,65,000",Olx
+188,Nissan,Nissan Terrano ,2014,XL D THP 110 PS,DIESEL,78000.0,MANUAL,2,Bengaluru,"5,55,000",Olx
+189,Hyundai,Hyundai Accent ,2005,GLS,PETROL,80.0,MANUAL,2,Bengaluru,"1,75,000",Olx
+190,Toyota,Toyota Innova Crysta ,2018,2.4 G MT,DIESEL,88000.0,MANUAL,1,Ahmedabad,"15,75,000",Olx
+191,Maruti,Maruti Suzuki 800 ,1985,Uniq,PETROL,58000.0,MANUAL,1,Bengaluru,"1,50,000",Olx
+192,Maruti,Maruti Suzuki Wagon R ,2014,LXI,PETROL,35000.0,MANUAL,1,Bhopal,"2,95,000",Olx
+193,Maruti,Maruti Suzuki Celerio ,2017,2014-2017 VXI,PETROL,66000.0,AUTOMATIC,2,Kochi,"3,95,000",Olx
+194,Maruti,Maruti Suzuki Swift Dzire ,2013,LDI,DIESEL,49000.0,MANUAL,1,Chennai,"4,89,999",Olx
+195,Renault,Renault Pulse ,2012,RxZ Diesel,DIESEL,54000.0,--,1,Bhopal,"3,25,000",Olx
+196,Maruti,Maruti Suzuki Baleno ,2018,1.2 Alpha,DIESEL,40548.0,MANUAL,1,Mysuru,"8,75,000",Olx
+197,Toyota,Toyota Innova ,2016,2.5 GX (Diesel) 8 Seater BS IV,DIESEL,"148,000",MANUAL,3,Bengaluru,"4,75,000",Olx
+198,Porsche,Porsche Panamera ,2013,2013-2017 Diesel,DIESEL,43000.0,AUTOMATIC,1,Bengaluru,"49,00,000",Olx
+199,Mahindra,Mahindra Xuv500 ,2014,W6 2WD,DIESEL,52000.0,MANUAL,1,Bengaluru,"9,45,000",Olx
+200,Mahindra,Mahindra Xuv500 ,2017,AT W10 FWD,DIESEL,28000,AUTOMATIC,F,Delhi,"14,00,000",Olx
+201,Mahindra,Mahindra Scorpio ,2006,2002-2013 2.6 SLX CRDe,DIESEL,120000,MANUAL,F,Amritsar,"3,00,000",Olx
+202,Mahindra,Mahindra Scorpio ,2009,2002-2013 VLX,DIESEL,112000.0,MANUAL,3,Thrissur,"3,75,000",Olx
+203,Toyota,Toyota Innova ,2011,2.5 V 7 STR,DIESEL,82000.0,MANUAL,3,Coimbatore,"8,90,000",Olx
+204,Maruti,Maruti Suzuki Swift ,2018,2018 VDI,DIESEL,42000.0,MANUAL,1,Jabalpur,"6,50,000",Olx
+205,Ford,Ford Figo ,2014,Duratorq EXI 1.4,DIESEL,53000.0,MANUAL,1,Thane,"2,99,000",Olx
+206,Mahindra,Mahindra Xuv500 ,2012,2011-2015 W8-2WD,DIESEL,70568.0,MANUAL,1,Delhi,"5,50,000",Olx
+207,Maruti,Maruti Suzuki Swift ,2011,VXI,PETROL,58000.0,MANUAL,1,Delhi,"3,15,000",Olx
+208,Hyundai,Hyundai Verna ,2014,2011-2014 1.6 SX CRDI (O) AT,DIESEL,62860.0,AUTOMATIC,1,Delhi,"5,50,000",Olx
+209,Renault,Renault Lodgy ,2015,110PS RxZ 7 Seater,DIESEL,58620.0,MANUAL,1,Delhi,"5,25,000",Olx
+210,Mahindra,Mahindra Xuv500 ,2012,W8 2WD,DIESEL,65280.0,MANUAL,1,Delhi,"5,25,000",Olx
+211,Hyundai,Hyundai Elite I20 ,2018,Sportz 1.2,PETROL,29000.0,MANUAL,1,Delhi,"6,90,000",Olx
+212,Mahindra,Mahindra Scorpio Getaway ,2015,4WD,DIESEL,78000.0,MANUAL,2,Pollachi,"10,50,000",Olx
+213,Renault,Renault Kwid ,2020,Climber 1.0 AMT Opt,PETROL,19600.0,AUTOMATIC,1,Palakkad,"4,79,000",Olx
+214,Maruti,Maruti Suzuki Swift Dzire ,2016,VDI,DIESEL,38000.0,MANUAL,1,Hubballi,"6,70,000",Olx
+215,Mercedes-Benz,Mercedes-Benz New C-Class ,2011,C 250 CDI Avantgarde,DIESEL,75000.0,AUTOMATIC,2,Mumbai,"12,25,000",Olx
+216,Hyundai,Hyundai I10 ,2013,Magna,CNG & HYBRIDS,80780.0,MANUAL,2,Noida,"3,25,000",Olx
+217,Chevrolet,Chevrolet Tavera Neo ,2013,LT-L - 9 seats BSII,DIESEL,99000.0,MANUAL,1,Ghaziabad,"4,45,000",Olx
+218,Hyundai,Hyundai Santro ,2013,GS,PETROL,58000.0,MANUAL,1,Tezpur,"2,20,000",Olx
+219,Ford,Ford Fiesta ,2010,2008-2011 1.4 SXi TDCi,DIESEL,77035.0,MANUAL,2,Thiruvananthapuram,"2,25,000",Olx
+220,Maruti,Maruti Suzuki Wagon R ,2003,Duo LX LPG,PETROL,140000,MANUAL,F,Raipur,"1,00,000",Olx
+221,Toyota,Toyota Innova ,2010,2.5 GX 8 STR BS-III,DIESEL,120000,MANUAL,F,Raipur,"4,50,000",Olx
+222,Maruti,Maruti Suzuki Baleno ,2016,Alpha Diesel,DIESEL,93000.0,MANUAL,2,Hubballi,"6,90,000",Olx
+223,Maruti,Maruti Suzuki Alto ,2009,LXi BS-IV,PETROL,70000.0,MANUAL,1,Visakhapatnam,"1,50,000",Olx
+224,Hyundai,Hyundai I10 ,2010,1.2 Kappa Magna,PETROL,56326.0,MANUAL,2,Kottayam,"2,10,000",Olx
+225,Maruti,Maruti Suzuki Alto 800 ,2019,CNG LXI,CNG & HYBRIDS,6673.0,MANUAL,1,Thane,"4,25,000",Olx
+226,Hyundai,Hyundai Verna ,2013,CRDi 1.6 SX,DIESEL,80000.0,MANUAL,1,Rajkot,"4,75,000",Olx
+227,Honda,Honda City ,2016,i-VTEC V,PETROL,39000.0,MANUAL,1,Rajkot,"7,75,000",Olx
+228,Maruti,Maruti Suzuki Wagon R Stingray ,2013,VXI,PETROL,68000.0,MANUAL,2,Chandigarh,"2,85,000",Olx
+229,Mercedes-Benz,Mercedes-Benz M-Class ,2014,ML 250 CDI,DIESEL,82000.0,AUTOMATIC,2,Delhi,"23,50,000",Olx
+230,Hyundai,Hyundai Verna ,2015,2015-2016 1.6 VTVT AT S Option,PETROL,26700.0,AUTOMATIC,1,Thane,"7,35,000",Olx
+231,Honda,Honda Amaze ,2014,V CVT Petrol,PETROL,68000.0,AUTOMATIC,2,Delhi,"4,50,000",Olx
+232,Tata,Tata Nano ,2014,2012-2015 Twist XT,PETROL,54000.0,MANUAL,1,Bengaluru,"1,65,000",Olx
+233,Honda,Honda City ,2015,i-VTEC V,PETROL,65410.0,MANUAL,1,Thane,"6,10,000",Olx
+234,Mg,Mg Others ,2020,,DIESEL,19000.0,MANUAL,1,Bengaluru,"19,00,000",Olx
+235,Hyundai,Hyundai Elite I20 ,2018,Sportz 1.2,PETROL,45000.0,MANUAL,2,Chennai,"6,35,000",Olx
+236,Skoda,Skoda Rapid ,2014,2013-2016 1.5 TDI Elegance,DIESEL,124864.0,AUTOMATIC,1,Nashik,"5,60,000",Olx
+237,Mahindra,Mahindra Others ,2011,,DIESEL,120000.0,MANUAL,2,Chennai,"6,50,000",Olx
+238,Toyota,Toyota Innova ,2013,2.5 G (Diesel) 8 - Seater,DIESEL,120000,MANUAL,F,Raipur,"7,10,000",Olx
+239,Honda,Honda Wr-V ,2020,i-DTEC VX,DIESEL,44000,MANUAL,F,Delhi,"7,50,000",Olx
+240,Maruti,Maruti Suzuki Ritz ,2013,Zdi BS-IV,DIESEL,78000.0,MANUAL,2,Surat,"3,99,000",Olx
+241,Volkswagen,Volkswagen Vento ,2015,1.5 TDI Comfortline,DIESEL,65000.0,MANUAL,1,Surat,"5,25,000",Olx
+242,Toyota,Toyota Fortuner ,2012,2011-2016 4x2 Manual,DIESEL,83100.0,MANUAL,1,Thane,"13,45,000",Olx
+243,Maruti,Maruti Suzuki Swift Dzire ,2010,VXI,PETROL,74900.0,MANUAL,2,Thane,"2,49,000",Olx
+244,Renault,Renault Kwid ,2017,1.0 RXT AMT,PETROL,30125.0,AUTOMATIC,1,Mumbai,"7,00,000",Olx
+245,Maruti,Maruti Suzuki Ciaz ,2017,1.4 AT Alpha,PETROL,29100.0,AUTOMATIC,1,Thane,"7,95,000",Olx
+246,Maruti,Maruti Suzuki Swift ,2014,2011-2014 VXI,PETROL,56200.0,MANUAL,1,Thane,"4,21,000",Olx
+247,Renault,Renault Kwid ,2018,Climber 1.0 AMT,PETROL,10735.0,AUTOMATIC,1,Thane,"4,35,000",Olx
+248,Tata,Tata Tiago ,2017,1.2 Revotron XZA,PETROL,64100.0,AUTOMATIC,1,Thane,"4,70,000",Olx
+249,Volkswagen,Volkswagen Polo ,2015,Select 1.5 TDI Highline,DIESEL,69000.0,MANUAL,1,Kottakal,"5,95,000",Olx
+250,Mercedes-Benz,Mercedes-Benz M-Class ,2013,ML 250 CDI,DIESEL,93000.0,AUTOMATIC,1,Surat,"21,51,000",Olx
+251,Mahindra,Mahindra Xuv500 ,2012,2011-2015 W8 2WD,DIESEL,85000.0,MANUAL,1,Chandigarh,"5,65,000",Olx
+252,Mahindra,Mahindra Xuv500 ,2012,2011-2015 W8 2WD,DIESEL,80000.0,MANUAL,1,Chandigarh,"5,75,000",Olx
+253,Tata,Tata Indigo Ecs ,2013,eCS LS TDI,DIESEL,49164.0,MANUAL,1,Patna,"1,90,000",Olx
+254,Toyota,Toyota Innova ,2010,2.5 G (Diesel) 8 Seater BS-IV,DIESEL,142980.0,MANUAL,2,Mumbai,"4,99,000",Olx
+255,Maruti,Maruti Suzuki Ritz ,2013,VDi,DIESEL,47000.0,MANUAL,1,Ujjain,"4,11,000",Olx
+256,Maruti,Maruti Suzuki Wagon R ,2013,VXI,PETROL,35237.0,MANUAL,-,Mumbai,"3,50,000",Olx
+257,Tata,Tata Bolt ,2017,Quadrajet XE,DIESEL,86000.0,MANUAL,1,Vijayawada,"3,89,000",Olx
+258,Ford,Ford Ecosport ,2017,1.5 Petrol Titanium Plus AT,PETROL,44000,AUTOMATIC,F,Delhi,"7,90,000",Olx
+259,Skoda,Skoda Octavia ,2016,2013-2017 Ambition 2.0 TDI AT,DIESEL,53000,AUTOMATIC,F,Delhi,"11,95,000",Olx
+260,Mahindra,Mahindra Xuv500 ,2013,W8 2WD,DIESEL,58000.0,MANUAL,1,Chandigarh,"7,25,000",Olx
+261,Hyundai,Hyundai Grand I10 ,2014,2013-2016 SportZ Edition,DIESEL,51000.0,MANUAL,1,Delhi,"3,50,000",Olx
+262,Mahindra,Mahindra Xuv500 ,2018,W10 2WD,DIESEL,46000.0,MANUAL,1,Delhi,"13,75,000",Olx
+263,Hyundai,Hyundai Santro Xing ,2003,XS,PETROL,"70,800",MANUAL,2,Thikkody,"65,000",Olx
+264,Honda,Honda Jazz ,2019,VX CVT,PETROL,10000.0,AUTOMATIC,1,Chennai,"9,00,000",Olx
+265,Tata,Tata Safari ,2012,DICOR 2.2 EX 4x4 BS IV,DIESEL,29000.0,MANUAL,1,Delhi,"3,75,000",Olx
+266,Hyundai,Hyundai Verna ,2016,2015-2016 1.6 VTVT S,PETROL,31000.0,MANUAL,1,Chennai,"7,45,000",Olx
+267,Hyundai,Hyundai Eon ,2015,Era +,PETROL,13000.0,MANUAL,1,Chennai,"3,45,000",Olx
+268,Honda,Honda Jazz ,2016,V,PETROL,40000.0,MANUAL,2,Chennai,"5,85,000",Olx
+269,Maruti,Maruti Suzuki Swift Dzire ,2014,VXI,PETROL,41000.0,MANUAL,1,Chennai,"5,10,000",Olx
+270,Honda,Honda City ,2018,i-VTEC CVT VX,PETROL,18000.0,MANUAL,2,Delhi,"8,90,000",Olx
+271,Maruti,Maruti Suzuki Wagon R ,2015,LXI CNG,CNG & HYBRIDS,41000.0,MANUAL,1,Delhi,"3,45,000",Olx
+272,Hyundai,Hyundai Verna ,2013,2011-2014 1.6 SX VTVT (O) AT,PETROL,50650.0,AUTOMATIC,2,Mumbai,"4,45,000",Olx
+273,Renault,Renault Duster ,2012,2012-2015 110PS Diesel RxZ,DIESEL,107200.0,MANUAL,1,Hyderabad,"4,25,000",Olx
+274,Toyota,Toyota Fortuner ,2017,2.8 2WD AT,DIESEL,205500.0,AUTOMATIC,2,Delhi,"22,90,000",Olx
+275,Toyota,Toyota Innova ,2010,2.5 V 7 STR,DIESEL,120000.0,MANUAL,2,Mumbai,"5,75,000",Olx
+276,Mahindra,Mahindra Scorpio ,2019,S11,DIESEL,16400.0,MANUAL,1,Jalandhar,"17,50,000",Olx
+277,Mercedes-Benz,Mercedes-Benz Cls ,2015,Others,DIESEL,66000.0,AUTOMATIC,1,Bengaluru,"28,00,000",Olx
+278,Honda,Honda Amaze ,2019,S CVT Petrol,PETROL,12496,AUTOMATIC,F,Noida,"7,80,000",Olx
+279,Hyundai,Hyundai Elantra ,2012,1.6 SX,DIESEL,70000,MANUAL,S,Mumbai,"5,60,000",Olx
+280,Tata,Tata Bolt ,2017,Quadrajet XT,PETROL,46000.0,MANUAL,1,Chennai,"3,50,000",Olx
+281,Maruti,Maruti Suzuki Alto ,2009,2005-2010 LXi BSIII,PETROL,74000.0,MANUAL,2,Nashik,"1,30,000",Olx
+282,Mahindra,Mahindra Xuv500 ,2015,2011-2015 W6 2WD,DIESEL,98475.0,MANUAL,1,Hyderabad,"8,80,000",Olx
+283,Maruti,Maruti Suzuki Celerio ,2018,CNG VXI MT,CNG & HYBRIDS,51000.0,MANUAL,1,Delhi,"4,65,000",Olx
+284,Volkswagen,Volkswagen Polo Gti ,2017,,PETROL,17000.0,AUTOMATIC,1,Chennai,"8,50,000",Olx
+285,Mahindra,Mahindra Tuv 300 ,2016,T8,DIESEL,55000.0,MANUAL,1,Delhi,"6,05,000",Olx
+286,Mercedes-Benz,Mercedes-Benz E-Class ,2009,280 CDI Elegance,DIESEL,119000.0,AUTOMATIC,1,Coimbatore,"9,00,000",Olx
+287,Maruti,Maruti Suzuki Swift Dzire ,2013,VXI,PETROL,66000.0,MANUAL,1,Chennai,"4,75,000",Olx
+288,Maruti,Maruti Suzuki Alto K10 ,2019,VXI AMT,PETROL,7065.0,AUTOMATIC,1,Chennai,"4,29,999",Olx
+289,Hyundai,Hyundai Elite I20 ,2016,Asta 1.2 (O),PETROL,32000.0,MANUAL,1,Chennai,"6,25,000",Olx
+290,Ford,Ford Fiesta ,2012,2004-2010 1.4 Duratorq ZXI,DIESEL,55000.0,MANUAL,1,Chennai,"3,75,000",Olx
+291,Hyundai,Hyundai I20 Active ,2016,SX Petrol,PETROL,45153.0,MANUAL,1,Gurgaon,"5,70,000",Olx
+292,Maruti,Maruti Suzuki Ertiga ,2018,VXI CNG,CNG & HYBRIDS,159411.0,MANUAL,1,Mumbai,"6,55,000",Olx
+293,Mercedes-Benz,Mercedes-Benz Gl-Class ,2014,350 CDI,DIESEL,52000.0,AUTOMATIC,2,Delhi,"29,00,000",Olx
+294,Maruti,Maruti Suzuki Swift ,2014,VXI,PETROL,68244.0,MANUAL,1,Thiruvananthapuram,"4,55,000",Olx
+295,Mitsubishi,Mitsubishi Pajero ,2017,,DIESEL,41000.0,--,1,Mumbai,"18,75,000",Olx
+296,Renault,Renault Kwid ,2016,RXL,PETROL,41000.0,MANUAL,1,Ludhiana,"2,60,000",Olx
+297,Audi,Audi A4 ,2012,"2.0 TDI (177bhp), Premium",DIESEL,70000,AUTOMATIC,F,Mumbai,"10,09,999",Olx
+298,Tata,Tata Indica ,2005,DLX,DIESEL,90000,AUTOMATIC,S,Nagpur,"1,00,000",Olx
+299,Bmw,Bmw 3 Series ,2011,330i GT Luxury Line,DIESEL,77780.0,AUTOMATIC,1,Chandigarh,"8,44,500",Olx
+300,Chevrolet,Chevrolet Cruze ,2012,LTZ,DIESEL,78000.0,MANUAL,1,Chandigarh,"3,55,000",Olx
+301,Hyundai,Hyundai Grand I10 ,2016,1.2 CRDi Sportz Option,DIESEL,57656.0,MANUAL,1,Ghaziabad,"3,80,000",Olx
+302,Mahindra,Mahindra Scorpio ,2013,2002-2013 VLX AT 2WD BSIII,DIESEL,139000.0,MANUAL,1,Pune,"6,10,000",Olx
+303,Maruti,Maruti Suzuki Eeco ,2013,5 Seater AC,PETROL,40000.0,MANUAL,2,Kozhikode,"2,90,000",Olx
+304,Mahindra,Mahindra Thar ,2017,,DIESEL,50000.0,MANUAL,1,Chandigarh,"8,90,000",Olx
+305,Hyundai,Hyundai Grand I10 ,2017,Asta Automatic 1.2 Kappa VTVT,PETROL,61000.0,AUTOMATIC,1,Bengaluru,"5,75,000",Olx
+306,Maruti,Maruti Suzuki Ciaz ,2017,Zeta,DIESEL,77800.0,MANUAL,1,Chandigarh,"6,90,000",Olx
+307,Jaguar,Jaguar Xf ,2014,2.2 Litre Luxury,DIESEL,64000.0,AUTOMATIC,1,Chandigarh,"17,99,000",Olx
+308,Mercedes-Benz,Mercedes-Benz Gl-Class ,2015,350 CDI Blue Efficiency,DIESEL,61000.0,AUTOMATIC,1,Chandigarh,"39,75,000",Olx
+309,Volvo,Volvo Xc60 ,2013,D4 KINETIC,DIESEL,94000.0,AUTOMATIC,2,Delhi,"11,00,000",Olx
+310,Volvo,Volvo Xc60 ,2012,D4 SUMMUM,DIESEL,47000.0,AUTOMATIC,1,Delhi,"10,90,000",Olx
+311,Mercedes-Benz,Mercedes-Benz A Class ,2013,A 180 CDI Style,DIESEL,52000.0,AUTOMATIC,1,Delhi,"9,90,000",Olx
+312,Honda,Honda Brio ,2016,1.2 S MT,PETROL,33000.0,MANUAL,1,Mumbai,"3,95,000",Olx
+313,Honda,Honda City ,2016,2015-2017 i DTec VX Option,DIESEL,78000.0,MANUAL,1,Nashik,"7,51,000",Olx
+314,Hyundai,Hyundai Others ,2016,,CNG & HYBRIDS,78000.0,MANUAL,1,Anand,"1,85,000",Olx
+315,Volkswagen,Volkswagen Vento ,2012,2010-2013 Diesel Highline,DIESEL,70000,MANUAL,S,Mumbai,"3,25,000",Olx
+316,Honda,Honda Mobilio ,2015,V i-DTEC,DIESEL,999999,MANUAL,S,Rajkot,"3,80,000",Olx
+317,Bmw,Bmw 3 Series ,2013,2011-2015 320d Prestige,DIESEL,67000.0,AUTOMATIC,1,Delhi,"11,99,999",Olx
+318,Maruti,Maruti Suzuki Eeco ,2019,7 Seater Standard,CNG & HYBRIDS,"41,123",MANUAL,1,Delhi,"2,25,000",Olx
+319,Hyundai,Hyundai Creta ,2020,Others,PETROL,2894.0,AUTOMATIC,2,Thane,"18,00,000",Olx
+320,Maruti,Maruti Suzuki Vitara Brezza ,2017,ZDi Plus,DIESEL,52000.0,MANUAL,1,Surat,"7,90,000",Olx
+321,Mercedes-Benz,Mercedes-Benz S-Class ,2015,S 350 CDI,DIESEL,26000.0,AUTOMATIC,1,Hyderabad,"59,00,000",Olx
+322,Maruti,Maruti Suzuki Swift Dzire ,2016,VXI,PETROL,40000.0,MANUAL,1,Thane,"5,55,000",Olx
+323,Maruti,Maruti Suzuki Vitara Brezza ,2018,VDi,DIESEL,40000.0,MANUAL,1,Jaipur,"8,75,000",Olx
+324,Maruti,Maruti Suzuki Alto ,2008,LX BS-IV,PETROL,"80,000",MANUAL,1,Delhi,"74,000",Olx
+325,Fiat,Fiat Punto ,2013,Emotion 1.2,DIESEL,"70,000",MANUAL,1,Delhi,"1,90,000",Olx
+326,Ford,Ford Fiesta ,2009,2004-2010 1.4 Duratec EXI,DIESEL,"145,000",MANUAL,2,Pollachi,"1,90,000",Olx
+327,Toyota,Toyota Qualis ,2000,FS F2,DIESEL,"95,000",MANUAL,4,Bagepalli,"1,60,000",Olx
+328,Toyota,Toyota Corolla Altis ,2014,2013-2017 VL AT,PETROL,29000.0,AUTOMATIC,1,Chennai,"11,15,000",Olx
+329,Hyundai,Hyundai Xcent ,2014,1.2 VTVT S,PETROL,57235.0,MANUAL,1,Indore,"4,25,000",Olx
+330,Hyundai,Hyundai Santro Xing ,2004,XG,PETROL,"105,000",AUTOMATIC,2,Amritsar,"1,18,000",Olx
+331,Jeep,Jeep Compass ,2019,1.4 Limited Plus,DIESEL,80000.0,--,1,Jaipur,"19,00,000",Olx
+332,Toyota,Toyota Innova ,2012,2.5 V 8 STR,DIESEL,121000.0,MANUAL,1,Thiruvananthapuram,"9,30,000",Olx
+333,Honda,Honda Jazz ,2015,,PETROL,34689.0,MANUAL,-,Bengaluru,"5,56,000",Olx
+334,Maruti,Maruti Suzuki Swift ,2017,,PETROL,24891.0,MANUAL,-,Bengaluru,"6,08,000",Olx
+335,Renault,Renault Kwid ,2017,RXT,PETROL,39734,MANUAL,F,Delhi,"2,90,000",Olx
+336,Maruti,Maruti Suzuki Swift Dzire ,2021,VXI,PETROL,706,MANUAL,F,Mumbai,"7,90,000",Olx
+337,Maruti,Maruti Suzuki Vitara Brezza ,2016,LDi Option,DIESEL,44000.0,MANUAL,1,Vadodara,"6,35,000",Olx
+338,Maruti,Maruti Suzuki Swift Dzire ,2009,Ldi BSIV,DIESEL,120000.0,MANUAL,1,Chennai,"3,39,999",Olx
+339,Volkswagen,Volkswagen Polo ,2015,1.2 MPI Highline,PETROL,46000.0,MANUAL,2,Bengaluru,"5,40,000",Olx
+340,Honda,Honda Accord ,2012,2.4 Automatic,PETROL,57000.0,AUTOMATIC,2,Delhi,"5,50,000",Olx
+341,Ford,Ford Ecosport ,2016,1.5 Diesel Trend,--,65000.0,--,1,Jaipur,"6,25,000",Olx
+342,Maruti,Maruti Suzuki Wagon R ,2015,LXI CNG,PETROL,"150,000",MANUAL,1,Lucknow,"3,00,000",Olx
+343,Jaguar,Jaguar Xe ,2018,Prestige,DIESEL,50000.0,AUTOMATIC,1,Delhi,"29,50,000",Olx
+344,Bmw,Bmw 3 Series ,2017,320d Luxury Line,DIESEL,47000.0,AUTOMATIC,1,Delhi,"25,00,000",Olx
+345,Chevrolet,Chevrolet Enjoy ,2016,1.4 LTZ 7,DIESEL,65000.0,MANUAL,3,Delhi,"3,90,000",Olx
+346,Maruti,Maruti Suzuki Baleno ,2019,Delta,PETROL,66000.0,MANUAL,1,Chennai,"6,40,000",Olx
+347,Datsun,Datsun Redi Go ,2018,,PETROL,15000.0,MANUAL,2,Chennai,"3,20,000",Olx
+348,Honda,Honda Accord ,2008,,PETROL,91000.0,AUTOMATIC,2,Chennai,"5,75,000",Olx
+349,Volkswagen,Volkswagen Vento ,2014,1.6 Comfortline,PETROL,89000.0,MANUAL,1,Mumbai,"3,95,000",Olx
+350,Toyota,Toyota Corolla Altis ,2015,1.8 VL CVT,PETROL,54000.0,AUTOMATIC,1,Delhi,"8,90,000",Olx
+351,Ford,Ford Ecosport ,2017,1.5 TDCi Titanium BE,DIESEL,47501.0,MANUAL,1,Delhi,"7,59,000",Olx
+352,Mercedes-Benz,Mercedes-Benz E-Class ,2012,E 200 CGI,PETROL,33200,AUTOMATIC,F,Kolkata,"11,20,000",Olx
+353,Maruti,Maruti Suzuki Wagon R ,2015,VXI BS IV,PETROL,63000.0,MANUAL,1,Nagercoil,"3,80,000",Olx
+354,Hyundai,Hyundai Eon ,2018,Era,PETROL,57068.0,MANUAL,1,Hyderabad,"3,00,000",Olx
+355,Mahindra,Mahindra Tuv 300 ,2016,T6 Plus,DIESEL,57805,MANUAL,F,Delhi,"6,10,000",Olx
+356,Mercedes-Benz,Mercedes-Benz Cl-Class ,2011,Others,DIESEL,120000,AUTOMATIC,T,Pune,"7,25,000",Olx
+357,Maruti,Maruti Suzuki Swift Dzire ,2014,VXI,PETROL,61900.0,MANUAL,2,Delhi,"3,85,000",Olx
+358,Chevrolet,Chevrolet Beat ,2013,Diesel LS,DIESEL,45000.0,MANUAL,2,Vadodara,"1,45,000",Olx
+359,Honda,Honda Cr-V ,2010,2.0L 2WD AT,PETROL,75000.0,AUTOMATIC,2,Delhi,"5,50,000",Olx
+360,Skoda,Skoda Rapid ,2015,2013-2016 1.6 MPI AT Ambition Plus,PETROL,81000.0,AUTOMATIC,1,Delhi,"5,50,000",Olx
+361,Tata,Tata Spacio ,2009,6 Seater,DIESEL,"350,000",MANUAL,3,Kadapa,"2,55,000",Olx
+362,Maruti,Maruti Suzuki Swift ,2006,VXI,PETROL,"126,000",MANUAL,4,Panaji,"1,45,000",Olx
+363,Maruti,Maruti Suzuki S-Cross ,2018,Delta 1.6,DIESEL,79000.0,MANUAL,1,Jaipur,"8,00,000",Olx
+364,Maruti,Maruti Suzuki Swift Dzire ,2009,ZDI,DIESEL,"130,000",MANUAL,2,Basti,"2,50,000",Olx
+365,Toyota,Toyota Innova ,2017,2.5 G (Diesel) 7-Seater,DIESEL,98000.0,MANUAL,1,Nashik,"16,11,000",Olx
+366,Mahindra,Mahindra Xylo ,2011,2012-2014 E4 ABS BS III,DIESEL,"225,533",MANUAL,3,Jath,"1,99,999",Olx
+367,Mahindra,Mahindra Others ,2004,,DIESEL,"500,000",MANUAL,1,Garbeta,"2,30,000",Olx
+368,Tata,Tata Nano ,2011,2009-2011 Cx BSIII,PETROL,"60,000",AUTOMATIC,2,Hunsur,"68,000",Olx
+369,Ford,Ford Fiesta ,2012,2011-2013 AT Titanium Plus,PETROL,71000.0,AUTOMATIC,1,Mumbai,"3,65,000",Olx
+370,Hyundai,Hyundai Santro ,2020,Sportz,PETROL,2900.0,MANUAL,1,Mohali,"4,79,000",Olx
+371,Maruti,Maruti Suzuki Sx4 ,2012,Others,DIESEL,"161,000",MANUAL,2,Pehowa,"3,00,000",Olx
+372,Honda,Honda City ,2002,2000-2003 1.5 EXI,PETROL,"95,113",MANUAL,3,Mumbai,"1,49,000",Olx
+373,Datsun,Datsun Go ,2014,T,PETROL,76850.0,MANUAL,-,Bengaluru,"2,45,000",Olx
+374,Volkswagen,Volkswagen Vento ,2016,1.5 TDI Highline,DIESEL,90000.0,MANUAL,1,Ahmedabad,"6,50,000",Olx
+375,Maruti,Maruti Suzuki Alto ,2004,2000-2005 LXI,PETROL,79201,MANUAL,S,Chennai,"1,40,000",Olx
+376,Hyundai,Hyundai I20 ,2017,1.2 Asta,PETROL,19586,MANUAL,F,Mumbai,"6,75,000",Olx
+377,Hyundai,Hyundai Santa Fe ,2014,2WD AT,DIESEL,65000.0,AUTOMATIC,1,Surat,"11,50,000",Olx
+378,Hyundai,Hyundai Elite I20 ,2018,Asta 1.2,PETROL,31000.0,MANUAL,2,Nagpur,"6,95,000",Olx
+379,Chevrolet,Chevrolet Sail ,2015,1.2 Base,PETROL,29000.0,MANUAL,2,Nagpur,"2,85,000",Olx
+380,Maruti,Maruti Suzuki Vitara Brezza ,2018,VDi,DIESEL,"28,299",MANUAL,1,Himatnagar,"7,89,000",Olx
+381,Maruti,Maruti Suzuki Swift ,2015,VXi + Manual,PETROL,"61,000",MANUAL,2,Coimbatore,"4,30,000",Olx
+382,Toyota,Toyota Qualis ,2004,GS C4,DIESEL,"30,000",MANUAL,4,Bengaluru,"2,20,000",Olx
+383,Mahindra,Mahindra Tuv 300 ,2017,T6,DIESEL,57000.0,MANUAL,1,Kolkata,"5,65,000",Olx
+384,Mahindra,Mahindra Xuv500 ,2016,AT W10 AWD,DIESEL,"33,000",AUTOMATIC,1,Hyderabad,"13,50,000",Olx
+385,Maruti,Maruti Suzuki Swift ,2013,2011-2014 ZDi,DIESEL,"75,000",MANUAL,1,Kochi,"4,30,000",Olx
+386,Hyundai,Hyundai Santro Xing ,2005,XL,PETROL,"7,000",MANUAL,3,Bhalwal,"1,20,000",Olx
+387,Honda,Honda Brio ,2013,2011-2013 E MT,PETROL,47000.0,MANUAL,2,Surat,"3,35,000",Olx
+388,Maruti,Maruti Suzuki 800 ,2008,AC BSIII,PETROL,51000.0,MANUAL,1,Ahmedabad,"95,000",Olx
+389,Hyundai,Hyundai Accent ,2002,DLS,PETROL,"50,000",MANUAL,4,Robertsonpet,"65,000",Olx
+390,Toyota,Toyota Fortuner ,2011,2011-2016 4x4 MT,DIESEL,98000.0,MANUAL,3,Mohali,"8,50,000",Olx
+391,Hyundai,Hyundai Creta ,2017,1.6 SX Plus,PETROL,65000.0,MANUAL,1,Delhi,"9,50,000",Olx
+392,Maruti,Maruti Suzuki Wagon R ,2008,LXI,PETROL,36250.0,MANUAL,1,Chakdah,"1,25,000",Olx
+393,Toyota,Toyota Camry ,2007,Others,CNG,90000,AUTOMATIC,F,Dabwali,"2,50,000",Olx
+394,Kia,Kia Seltos ,2020,GTX Plus DCT,PETROL,19237,AUTOMATIC,F,Mumbai,"18,75,000",Olx
+395,Maruti,Maruti Suzuki Swift ,2013,ZXI,PETROL,47000.0,MANUAL,2,Nagpur,"3,75,000",Olx
+396,Hyundai,Hyundai I20 ,2017,1.4 Asta,PETROL,25000.0,MANUAL,1,Chennai,"6,75,000",Olx
+397,Maruti,Maruti Suzuki Wagon R ,2009,LXI,PETROL,93390.0,MANUAL,2,Kannur,"1,85,000",Olx
+398,Maruti,Maruti Suzuki Alto ,2005,2000-2005 LXI,PETROL,57196.0,MANUAL,2,Erode,"1,55,000",Olx
+399,Maruti,Maruti Suzuki Wagon R ,2019,VXI 1.2,PETROL,12400.0,MANUAL,1,Delhi,"5,20,000",Olx
+400,Maruti,Maruti Suzuki Alto 800 ,2013,LXI,PETROL,"58,000",MANUAL,2,Sahib,"2,25,000",Olx
+401,Mitsubishi,Mitsubishi Cedia ,2008,Sports,PETROL,"80,000",MANUAL,2,Nagpur,"1,60,000",Olx
+402,Maruti,Maruti Suzuki Ertiga ,2016,VXI CNG,CNG & HYBRIDS,72000.0,MANUAL,1,Delhi,"6,25,000",Olx
+403,Hyundai,Hyundai Santro Xing ,2006,XG eRLX Euro III,PETROL,"90,000",MANUAL,2,Bathinda,"75,000",Olx
+404,Maruti,Maruti Suzuki Swift Dzire ,2015,VXI,PETROL,"31,000",MANUAL,1,,"5,50,000",Olx
+405,Maruti,Maruti Suzuki Swift ,2020,VXI,PETROL,1199.0,MANUAL,1,Gurgaon,"5,70,000",Olx
+406,Tata,Tata Indigo Ecs ,2016,Others,DIESEL,"110,000",MANUAL,3,Kodaikanal,"2,20,000",Olx
+407,Maruti,Maruti Suzuki Swift Dzire ,2014,LDI Optional,DIESEL,"70,000",MANUAL,1,Yamunanagar,"3,60,000",Olx
+408,Chevrolet,Chevrolet Tavera ,2010,2003-2007 ELITE LS B3 10 Seats BSIII,DIESEL,"260,000",MANUAL,4,Karur,"2,99,999",Olx
+409,Maruti,Maruti Suzuki Swift ,2014,VDI,PETROL,70000.0,MANUAL,1,Ahmedabad,"4,75,000",Olx
+410,Maruti,Maruti Suzuki Swift Dzire ,2015,VDI,DIESEL,87000.0,MANUAL,1,Hyderabad,"5,80,000",Olx
+411,Mercedes-Benz,Mercedes-Benz New C-Class ,2013,C 200 AVANTGARDE,PETROL,66000.0,AUTOMATIC,2,Delhi,"13,50,000",Olx
+412,Toyota,Toyota Innova Crysta ,2018,2.4 G MT 8S,DIESEL,80000.0,MANUAL,1,Tirunelveli,"17,50,000",Olx
+413,Maruti,Maruti Suzuki Wagon R ,2005,1999-2006 VXI BSII,PETROL,90000,AUTOMATIC,F,Dehradun,"95,000",Olx
+414,Chevrolet,Chevrolet Optra Magnum ,2007,2.0 LT,DIESEL,90000,MANUAL,S,Pune,"1,57,000",Olx
+415,Maruti,Maruti Suzuki Ciaz ,2019,1.4 AT Delta,PETROL,"48,000",MANUAL,2,Janjgir,"7,85,000",Olx
+416,Mitsubishi,Mitsubishi Pajero ,2009,2002-2012 2.8 SFX 7Str,DIESEL,"140,000",MANUAL,3,Mumbai,"5,20,000",Olx
+417,Maruti,Maruti Suzuki Estilo ,2012,LXI,PETROL,"40,000",MANUAL,1,Rewa,"1,70,000",Olx
+418,Hyundai,Hyundai Verna ,2012,2011-2014 1.6 SX,DIESEL,65000.0,AUTOMATIC,2,Mumbai,"4,13,000",Olx
+419,Tata,Tata Others ,2013,,DIESEL,15,MANUAL,3,Jodhpur,"3,20,000",Olx
+420,Hyundai,Hyundai Accent ,2008,GLE,CNG & HYBRIDS,"90,000",MANUAL,4,Bareilly,"1,50,000",Olx
+421,Renault,Renault Kwid ,2016,RXT,PETROL,"100,000",MANUAL,1,Coimbatore,"3,20,000",Olx
+422,Ford,Ford Fiesta ,2007,2004-2010 1.4 Duratec ZXI,DIESEL,"84,500",MANUAL,1,Jalandhar,"1,35,000",Olx
+423,Nissan,Nissan Micra ,2011,2010-2012 Diesel XV,DIESEL,"200,000",AUTOMATIC,2,Raichur,"3,50,000",Olx
+424,Fiat,Fiat Punto Evo ,2015,EVO Active Multijet 1.3,DIESEL,"85,000",MANUAL,1,Chandigarh,"3,50,000",Olx
+425,Toyota,Toyota Innova ,2011,2.5 VX 8-STR,DIESEL,170000.0,MANUAL,2,Mumbai,"5,55,000",Olx
+426,Hyundai,Hyundai Creta ,2019,1.6 SX Automatic,PETROL,"30,000",AUTOMATIC,1,Hyderabad,"14,50,000",Olx
+427,Jeep,Jeep Compass ,2018,1.4 Limited Option,PETROL,35000.0,AUTOMATIC,1,Delhi,"16,99,000",Olx
+428,Maruti,Maruti Suzuki Grand Vitara ,2017,Brezza ZDI Plus,DIESEL,57000.0,MANUAL,1,Mumbai,"7,60,000",Olx
+429,Mahindra,Mahindra Quanto ,2013,C8,DIESEL,68000.0,MANUAL,1,Delhi,"1,90,000",Olx
+430,Tata,Tata Nexon ,2020,1.5 Revotorq XZA Plus DualTone,DIESEL,22350.0,AUTOMATIC,1,Kochi,"11,45,000",Olx
+431,Maruti,Maruti Suzuki Eeco ,2015,5 Seater AC,PETROL,"103,000",MANUAL,1,Kottayam,"3,15,000",Olx
+432,Toyota,Toyota Innova Crysta ,2019,2.4 V,DIESEL,29000.0,MANUAL,1,Coimbatore,"24,75,000",Olx
+433,Maruti,Maruti Suzuki Swift ,2012,2011-2014 VDI,DIESEL,98883,MANUAL,F,Visakhapatnam,"4,40,000",Olx
+434,Tata,Tata Nano ,2014,2012-2015 CNG LX,PETROL,30000,MANUAL,F,Patna,"77,000",Olx
+435,Maruti,Maruti Suzuki Ritz ,2013,VDi,DIESEL,75123.0,MANUAL,2,Thane,"3,65,000",Olx
+436,Mahindra,Mahindra Jeep ,1998,Classic,DIESEL,"555,446",AUTOMATIC,1,Junction,"1,00,000",Olx
+437,Hyundai,Hyundai I10 ,2008,2007-2010 Era 1.1,DIESEL,"65,021",MANUAL,2,Indore,"1,55,000",Olx
+438,Maruti,Maruti Suzuki A-Star ,2011,Vxi,PETROL,115926.0,MANUAL,1,Pune,"2,65,000",Olx
+439,Volkswagen,Volkswagen Polo ,2013,1.5 TDI Trendline,DIESEL,"39,800",MANUAL,2,Hosur,"3,42,000",Olx
+440,Mitsubishi,Mitsubishi Pajero Sport ,2015,2.5 Manual,DIESEL,85000.0,MANUAL,2,Mohali,"13,50,000",Olx
+441,Toyota,Toyota Innova ,2011,2.5 EV (Diesel) PS 8 Seater BS IV,DIESEL,170000.0,MANUAL,2,Mumbai,"5,55,000",Olx
+442,Maruti,Maruti Suzuki Ritz ,2015,VDi,DIESEL,"15,000",MANUAL,1,Kurukshetra,"3,69,999",Olx
+443,Maruti,Maruti Suzuki Swift ,2010,2004-2010 VDI BSIV,DIESEL,"105,000",MANUAL,2,Rudrapur,"2,10,000",Olx
+444,Maruti,Maruti Suzuki Swift Dzire ,2010,LXI,PETROL,73569.0,MANUAL,1,Thiruvalla,"2,50,000",Olx
+445,Maruti,Maruti Suzuki Baleno ,2017,1.2 Alpha,PETROL,"34,000",MANUAL,2,Ettumanoor,"6,65,000",Olx
+446,Volkswagen,Volkswagen Polo ,2017,1.2 MPI Comfortline,PETROL,12000.0,MANUAL,2,Delhi,"5,20,000",Olx
+447,Volkswagen,Volkswagen Jetta ,2013,2.0L TDI Highline,DIESEL,"78,000",AUTOMATIC,2,Kochi,"10,50,000",Olx
+448,Maruti,Maruti Suzuki Ertiga ,2018,ZDI,DIESEL,56000.0,MANUAL,1,Hisar,"8,25,000",Olx
+449,Audi,Audi Q3 ,2012,2.0 TDI Quattro Premium Plus,DIESEL,69856.0,AUTOMATIC,1,Ambala,"14,99,000",Olx
+450,Hyundai,Hyundai Creta ,2018,1.6 SX (O),DIESEL,41475.0,MANUAL,1,Hubballi,"14,50,000",Olx
+451,Ford,Ford Figo ,2018,1.2P Titanium MT,PETROL,12954,MANUAL,F,Bengaluru,"6,00,000",Olx
+452,Renault,Renault Duster ,2014,2012-2015 110PS Diesel RxZ,DIESEL,62184,MANUAL,S,Bengaluru,"6,25,000",Olx
+453,Tata,Tata Others ,2009,,DIESEL,"100,000",MANUAL,1,Kithaur,"1,60,000",Olx
+454,Hyundai,Hyundai I20 ,2015,2015-2017 Asta Option 1.4 CRDi,DIESEL,"80,000",MANUAL,2,Safidon,"5,50,000",Olx
+455,Mahindra,Mahindra Thar ,2015,CRDe,DIESEL,"10,000",MANUAL,1,Medak,"6,50,000",Olx
+456,Ford,Ford Ecosport ,2018,1.5 Diesel Trend Plus,DIESEL,32000.0,MANUAL,1,Mumbai,"7,99,999",Olx
+457,Hyundai,Hyundai I10 ,2010,2007-2010 Magna 1.2,PETROL,92000.0,MANUAL,1,Bengaluru,"2,60,000",Olx
+458,Honda,Honda City ,2014,2014-2015 i VTEC SV,PETROL,45600.0,MANUAL,1,Hyderabad,"6,45,000",Olx
+459,Other,Other Brands Others ,2018,,DIESEL,"43,000",MANUAL,2,Tenali,"4,99,999",Olx
+460,Tata,Tata Safari Storme ,2013,EX,DIESEL,"80,000",MANUAL,1,Bhopal,"7,00,000",Olx
+461,Mahindra,Mahindra Quanto ,2012,C8,DIESEL,"68,000",MANUAL,2,Rajkot,"2,45,000",Olx
+462,Hyundai,Hyundai I20 ,2010,1.2 Asta,PETROL,100000.0,MANUAL,1,Mumbai,"2,75,000",Olx
+463,Tata,Tata Indigo Cs ,2011,Others,DIESEL,"98,180",MANUAL,2,Bihar,"2,20,000",Olx
+464,Maruti,Maruti Suzuki Omni ,2011,8 Seater BSIV,PETROL,"30,000",MANUAL,1,Bengaluru,"60,000",Olx
+465,Hyundai,Hyundai I10 ,2010,1.2 Kappa Magna,PETROL,50820.0,MANUAL,1,Erode,"3,40,000",Olx
+466,Chevrolet,Chevrolet Cruze ,2011,2010-2011 LTZ,DIESEL,72000.0,MANUAL,1,Nagpur,"3,40,000",Olx
+467,Maruti,Maruti Suzuki Alto K10 ,2017,VXI,PETROL,32000.0,MANUAL,1,Kodungallur,"3,48,000",Olx
+468,Toyota,Toyota Etios ,2018,1.4 VXD,DIESEL,15000.0,MANUAL,1,Kolkata,"6,95,000",Olx
+469,Maruti,Maruti Suzuki Wagon R ,2018,VXI,PETROL,18000.0,AUTOMATIC,1,Kozhikode,"5,00,000",Olx
+470,Hyundai,Hyundai Eon ,2014,Era +,PETROL,50000,MANUAL,S,Amritsar,"2,70,000",Olx
+471,Hyundai,Hyundai I20 ,2021,"Asta 1.4 (O), With Sunroof Diesel",PETROL,10000,MANUAL,F,Kochi,"70,000",Olx
+472,Mahindra,Mahindra Scorpio ,2009,2002-2013 2.6 LX,DIESEL,"157,000",MANUAL,1,Kantabanji,"4,00,000",Olx
+473,Hyundai,Hyundai Sonata ,2015,Others,PETROL,50000.0,AUTOMATIC,3,Surat,"7,00,000",Olx
+474,Maruti,Maruti Suzuki Gypsy ,2009,King HT BSIV,PETROL,"75,000",MANUAL,1,Kullu,"4,75,000",Olx
+475,Ford,Ford Figo ,2012,2010-2012 Diesel LXI,DIESEL,"76,100",MANUAL,1,Tirunelveli,"2,30,000",Olx
+476,Maruti,Maruti Suzuki Baleno ,2018,1.2 Zeta,PETROL,17000.0,MANUAL,1,Kolkata,"5,65,000",Olx
+477,Maruti,Maruti Suzuki Swift Dzire ,2018,Vdi BSIV,DIESEL,"89,000",MANUAL,1,Hyderabad,"7,10,000",Olx
+478,Maruti,Maruti Suzuki Swift ,2018,2018 LXI,PETROL,"15,000",AUTOMATIC,1,Moga,"5,50,000",Olx
+479,Hyundai,Hyundai Santro Xing ,2007,XL eRLX Euro II,PETROL,78000.0,MANUAL,3,Bengaluru,"1,70,000",Olx
+480,Mahindra,Mahindra Others ,2013,,DIESEL,"60,000",MANUAL,2,Sindi,"2,00,000",Olx
+481,Maruti,Maruti Suzuki Alto ,2012,LXi BS-IV,PETROL,"67,000",AUTOMATIC,2,Biswan,"1,90,000",Olx
+482,Chevrolet,Chevrolet Beat ,2010,LT Petrol,CNG & HYBRIDS,"68,000",MANUAL,1,Modinagar,"1,30,000",Olx
+483,Renault,Renault Triber ,2021,RXT,PETROL,"6,000",MANUAL,1,Athni,"7,20,000",Olx
+484,Hyundai,Hyundai I20 ,2010,1.2 Asta Option,CNG & HYBRIDS,94000.0,MANUAL,3,Delhi,"2,15,000",Olx
+485,Honda,Honda City ,2016,2014-2015 i VTEC SV,PETROL,51000.0,MANUAL,1,Pune,"6,80,000",Olx

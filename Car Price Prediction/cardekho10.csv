@@ -1,0 +1,2899 @@
+,Brand,Model,Variant,Make_Year,Fuel,Km_driven,Engine,Number_of_Owners,Transmission,Milaege,Max_Power,Torque,Body_Type,Location,Price,Source
+0,Renault,Renault KWID,1.0 RXT Optional,2017,Petrol,"72,081",999,"No Of Owner(s)
+1st Owner",Manual,23.01,"Max Power
+67bhp","Torque
+91Nm",Hatchback,Noida,266500,CarDekho
+1,Honda,Honda Brio,S MT,2012,Petrol,"99,235",1198,"No Of Owner(s)
+1st Owner",Manual,19.4,"Max Power
+86.8bhp","Torque
+109Nm",Hatchback,Noida,246500,CarDekho
+2,Maruti,Maruti Baleno,1.3 Delta,2016,Diesel,"36,993",1248,"No Of Owner(s)
+1st Owner",Manual,27.39,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,489000,CarDekho
+3,Honda,Honda Brio,S MT,2013,Petrol,"36,163",1198,"No Of Owner(s)
+2nd Owner",Manual,19.4,"Max Power
+86.8bhp","Torque
+109Nm",Hatchback,Noida,258000,CarDekho
+4,Maruti,Maruti Swift,VDI,2014,Diesel,"90,169",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,400500,CarDekho
+5,Hyundai,Hyundai Grand i10,CRDi Sportz,2014,Diesel,"86,933",1120,"No Of Owner(s)
+1st Owner",Manual,24,"Max Power
+70bhp","Torque
+160Nm",Hatchback,Noida,309000,CarDekho
+6,Maruti,Maruti Swift,VDI Optional,2015,Diesel,"94,579",1248,"No Of Owner(s)
+1st Owner",Manual,25.2,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,455000,CarDekho
+7,Maruti,Maruti Swift,LXI Option,2016,Petrol,"59,535",1197,"No Of Owner(s)
+1st Owner",Manual,20.4,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,465000,CarDekho
+8,Hyundai,Hyundai Grand i10,Sportz,2015,Petrol,"51,880",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+82bhp","Torque
+114Nm",Hatchback,Noida,423500,CarDekho
+9,Hyundai,Hyundai Grand i10,Magna,2013,Petrol,"61,555",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+82bhp","Torque
+114Nm",Hatchback,Noida,350500,CarDekho
+10,Hyundai,Hyundai Grand i10,1.2 Kappa Sportz BSIV,2018,Petrol,"69,666",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,Noida,502500,CarDekho
+11,Maruti,Maruti Swift,VDI BSIV,2015,Diesel,"89,046",1248,"No Of Owner(s)
+1st Owner",Manual,25.2,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,430000,CarDekho
+12,Maruti,Maruti Celerio,LXI,2016,Petrol,"51,207",998,"No Of Owner(s)
+1st Owner",,"e Type
+Zer","Engine
+998 CC","Max Power
+67.04bhp",Hatchback,Noida,319000,CarDekho
+13,Hyundai,Hyundai i10,Magna,2011,Petrol,"31,996",1197,"No Of Owner(s)
+1st Owner",Manual,20.36,"Max Power
+78.9bhp","Torque
+111.7Nm",Hatchback,Noida,227000,CarDekho
+14,Maruti,Maruti Swift,ZXi BSIV,2011,Petrol,"102,029",1197,"No Of Owner(s)
+2nd Owner",Manual,16.1,"Max Power
+85","Torque
+113Nm",Hatchback,Noida,249000,CarDekho
+15,Maruti,Maruti Swift,VVT VXI,2015,Petrol,"67,900",1197,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,414000,CarDekho
+16,Chevrolet,Chevrolet Beat,Diesel,2013,Diesel,"119,658",936,"No Of Owner(s)
+1st Owner",Manual,25.44,"Max Power
+57.6bhp","Torque
+150Nm",Hatchback,Noida,156000,CarDekho
+17,Hyundai,Hyundai i10,Sportz 1.2,2009,Petrol,"80,513",1197,"No Of Owner(s)
+1st Owner",Manual,20.36,"Max Power
+78.9bhp","Torque
+111.8Nm",Hatchback,Noida,197500,CarDekho
+18,Hyundai,Hyundai Santro Xing,GLS,2011,Petrol,"52,851",1086,"No Of Owner(s)
+3rd Owner",Manual,17.92,"Max Power
+62.1bhp","Torque
+96.1Nm",Hatchback,Noida,203000,CarDekho
+19,Renault,Renault Pulse,RxZ,2012,Diesel,"68,798",1461,"No Of Owner(s)
+2nd Owner",Manual,23.08,"Max Power
+63.1bhp","Torque
+160Nm",Hatchback,Noida,203000,CarDekho
+20,Renault,Renault KWID,RXT,2016,Petrol,"7,421",799,"No Of Owner(s)
+1st Owner",Manual,25.17,"Max Power
+53.3bhp","Torque
+72Nm",Hatchback,Noida,294000,CarDekho
+21,Maruti,Maruti Swift,LXI,2019,Petrol,"24,760",1197,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1197 CC","Max Power
+81.80bhp",Hatchback,Noida,550000,CarDekho
+22,Maruti,Maruti Zen Estilo,LXI BS IV,2011,Petrol,"17,520",998,"No Of Owner(s)
+1st Owner",Manual,19,"Max Power
+67.1bhp","Torque
+90Nm",Hatchback,Noida,245500,CarDekho
+23,Hyundai,Hyundai i20 Active,1.2,2015,Petrol,"45,311",1197,"No Of Owner(s)
+1st Owner",Manual,17.19,"Max Power
+81.86bhp","Torque
+114.73Nm",Hatchback,Noida,511500,CarDekho
+24,Maruti,Maruti Baleno,1.2 Zeta,2017,Petrol,"23,251",1197,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1197 CC","Max Power
+83.1bhp",Hatchback,Noida,630500,CarDekho
+25,Maruti,Maruti Baleno,1.2 Sigma,2020,Petrol,"13,258",1197,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1197 CC","Max Power
+83.1bhp",Hatchback,Noida,578500,CarDekho
+26,Volkswagen,Volkswagen Polo,1.2 MPI Trendline,2017,Petrol,"38,145",1198,"No Of Owner(s)
+1st Owner",Manual,18.78,"Max Power
+74bhp","Torque
+110Nm",Hatchback,Noida,434000,CarDekho
+27,Hyundai,Hyundai i20,1.2 Magna Executive,2017,Petrol,"18,692",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+81.83bhp","Torque
+114.7Nm",Hatchback,Noida,616000,CarDekho
+28,Datsun,Datsun RediGO,T Option,2016,Petrol,"60,957",799,"No Of Owner(s)
+1st Owner",Manual,22.7,"Max Power
+53.64bhp","Torque
+72Nm",Hatchback,Noida,195000,CarDekho
+29,Hyundai,Hyundai i10,Sportz AT,2011,Petrol,"105,045",1197,"No Of Owner(s)
+2nd Owner",Automatic,16.95,"Max Power
+78.9bhp","Torque
+111.8Nm",Hatchback,Noida,268000,CarDekho
+30,Maruti,Maruti Ignis,1.2 Delta BSIV,2018,Petrol,"44,458",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,525500,CarDekho
+31,Maruti,Maruti Swift,VDI,2019,Diesel,"42,268",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,614000,CarDekho
+32,Tata,Tata Tiago,1.2 Revotron XZ,2019,Petrol,"18,833",1199,"No Of Owner(s)
+1st Owner",Manual,23.84,"Max Power
+84bhp","Torque
+114Nm",Hatchback,Noida,500000,CarDekho
+33,Hyundai,Hyundai i20,Sportz,2017,Petrol,"36,375",1197,"No Of Owner(s)
+1st Owner",Manual,20.35,"Max Power
+81.86bhp","Torque
+114.74nm",Hatchback,Noida,562000,CarDekho
+34,Maruti,Maruti Swift,VDI,2013,Diesel,"99,877",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,450000,CarDekho
+35,Hyundai,Hyundai i20,1.2 Magna Executive,2018,Petrol,"10,443",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+81.83bhp","Torque
+114.7Nm",Hatchback,Noida,603000,CarDekho
+36,Hyundai,Hyundai Grand i10,1.2 Kappa Asta,2017,Petrol,"3,942",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,Noida,561500,CarDekho
+37,Maruti,Maruti Swift,LDI BSIV,2015,Diesel,"72,786",1248,"No Of Owner(s)
+1st Owner",Manual,25.2,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,369000,CarDekho
+38,Hyundai,Hyundai i20,1.2 Era,2017,Petrol,"47,053",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+81.83bhp","Torque
+114.7Nm",Hatchback,Noida,472000,CarDekho
+39,Hyundai,Hyundai Grand i10,1.2 CRDi Sportz,2014,Diesel,"76,310",1186,"No Of Owner(s)
+1st Owner",Manual,24,"Max Power
+73.97bhp","Torque
+190.24nm",Hatchback,Noida,340500,CarDekho
+40,Maruti,Maruti Swift,VDI,2013,Diesel,"61,671",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,353497,CarDekho
+41,Hyundai,Hyundai i20,Magna Optional 1.2,2013,Petrol,"54,952",1197,"No Of Owner(s)
+1st Owner",Manual,18.5,"Max Power
+82.9bhp","Torque
+113.8Nm",Hatchback,Noida,340357,CarDekho
+42,Maruti,Maruti Ignis,Delta,2018,Petrol,"5,114",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,503000,CarDekho
+43,Maruti,Maruti Swift,VDI,2014,Diesel,"72,627",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,414000,CarDekho
+44,Maruti,Maruti Baleno,Delta,2018,Petrol,"34,377",1197,"No Of Owner(s)
+1st Owner",Manual,21.01,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,563870,CarDekho
+45,Maruti,Maruti Alto K10,LXI CNG,2016,CNG,"55,252",998,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+998 CC","Max Power
+58.3bhp",Hatchback,Noida,325500,CarDekho
+46,Maruti,Maruti Swift,LDI BSIV,2015,Diesel,"58,562",1248,"No Of Owner(s)
+1st Owner",Manual,25.2,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,416000,CarDekho
+47,Hyundai,Hyundai i20,Sportz,2017,Petrol,"36,375",1197,"No Of Owner(s)
+1st Owner",Manual,20.35,"Max Power
+81.86bhp","Torque
+114.74nm",Hatchback,Noida,562000,CarDekho
+48,Maruti,Maruti Swift,VXI,2012,Petrol,"56,610",1197,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1197 CC","Max Power
+85.8bhp",Hatchback,Noida,324000,CarDekho
+49,Maruti,Maruti SX4 S Cross,Sigma DDiS 200 SH,2017,Diesel,"96,780",1248,"No Of Owner(s)
+1st Owner",Manual,25.1,"Max Power
+88.5bhp","Torque
+200Nm",Hatchback,Noida,535866,CarDekho
+50,Maruti,Maruti Swift,VDI,2014,Diesel,"95,695",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,420684,CarDekho
+51,Toyota,Toyota Etios Cross,1.2L G,2015,Petrol,"35,717",1197,"No Of Owner(s)
+1st Owner",Manual,18.16,"Max Power
+78.8bhp","Torque
+104Nm",Hatchback,Noida,412855,CarDekho
+52,Hyundai,Hyundai i20 Active,1.4 S,2015,Diesel,"43,455",1396,"No Of Owner(s)
+1st Owner",Manual,21.19,"Max Power
+88.73bhp","Torque
+219.66nm",Hatchback,Noida,471000,CarDekho
+53,Maruti,Maruti Swift,VXI,2015,Petrol,"24,477",1197,"No Of Owner(s)
+1st Owner",Manual,21.21,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,445578,CarDekho
+54,Maruti,Maruti Swift,VXI,2013,Petrol,"46,699",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+85.8bhp","Torque
+114Nm",Hatchback,Noida,387500,CarDekho
+55,Maruti,Maruti Alto K10,VXI,2013,Petrol,"27,017",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,285468,CarDekho
+56,Maruti,Maruti Swift,VDI Optional,2016,Diesel,"60,637",1248,"No Of Owner(s)
+1st Owner",Manual,25.2,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,462000,CarDekho
+57,Maruti,Maruti Wagon R Stingray,VXI,2013,Petrol,"55,675",998,"No Of Owner(s)
+1st Owner",Manual,20.51,"Max Power
+67.04bhp","Torque
+90Nm",Hatchback,Noida,323000,CarDekho
+58,Maruti,Maruti Swift,AMT ZXI BSIV,2018,Petrol,"47,393",1197,"No Of Owner(s)
+1st Owner",Automatic,22,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,665871,CarDekho
+59,Maruti,Maruti Baleno,1.2 Delta,2018,Petrol,"65,009",1197,"No Of Owner(s)
+1st Owner",Manual,21.4,"Max Power
+83.1bhp","Torque
+115Nm",Hatchback,Noida,568158,CarDekho
+60,Hyundai,Hyundai i20,Magna 1.4 CRDi,2016,Diesel,"64,390",1396,"No Of Owner(s)
+1st Owner",Manual,22.54,"Max Power
+88.73bhp","Torque
+219.7Nm",Hatchback,Noida,544500,CarDekho
+61,Maruti,Maruti Swift,LXI BSIV,2016,Petrol,"34,384",1197,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,427000,CarDekho
+62,Tata,Tata Altroz,XE,2020,Petrol,"3,199",1199,"No Of Owner(s)
+1st Owner",Manual,19.05,"Max Power
+84.88bhp","Torque
+113Nm",Hatchback,Noida,552500,CarDekho
+63,Maruti,Maruti Ignis,1.2 AMT Delta BSIV,2019,Petrol,"5,598",1197,"No Of Owner(s)
+1st Owner",Automatic,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,648000,CarDekho
+64,Hyundai,Hyundai Grand i10,Sportz,2016,Petrol,"28,180",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,Noida,440000,CarDekho
+65,Hyundai,Hyundai i10,Sportz AT,2011,Petrol,"55,107",1197,"No Of Owner(s)
+2nd Owner",Automatic,16.95,"Max Power
+78.9bhp","Torque
+111.8Nm",Hatchback,Noida,299000,CarDekho
+66,Maruti,Maruti Alto K10,VXI,2016,Petrol,"32,053",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,302208,CarDekho
+67,Maruti,Maruti Swift,ZXI,2015,Petrol,"52,655",1197,"No Of Owner(s)
+1st Owner",Manual,21.21,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,453948,CarDekho
+68,Maruti,Maruti Baleno,Delta,2016,Petrol,"58,078",1197,"No Of Owner(s)
+1st Owner",Manual,21.01,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,520500,CarDekho
+69,Maruti,Maruti Swift,VDI,2012,Diesel,"82,325",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,349000,CarDekho
+70,Hyundai,Hyundai Grand i10,Sportz Petrol BSIV,2020,Petrol,"8,509",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,Noida,578000,CarDekho
+71,Maruti,Maruti Swift,VXI 2018,2015,Petrol,"67,565",1197,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,490000,CarDekho
+72,Maruti,Maruti Baleno,1.3 Delta,2016,Diesel,"131,296",1248,"No Of Owner(s)
+1st Owner",Manual,27.39,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,490928,CarDekho
+73,Honda,Honda Jazz,1.2 V AT i VTEC,2017,Petrol,"33,873",1199,"No Of Owner(s)
+1st Owner",Automatic,19,"Max Power
+88.7bhp","Torque
+110Nm",Hatchback,Noida,740000,CarDekho
+74,Honda,Honda Brio,1.2 S MT,2015,Petrol,"40,351",1198,"No Of Owner(s)
+2nd Owner",,"e Type
+Comprehe","Engine
+1198 CC","Max Power
+86.8bhp",Hatchback,Noida,366000,CarDekho
+75,Hyundai,Hyundai i20,Asta Option,2016,Petrol,"50,024",1197,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1197 CC","Max Power
+81.86bhp",Hatchback,Noida,569000,CarDekho
+76,Hyundai,Hyundai Grand i10,Sportz,2017,Petrol,"14,018",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,Noida,500000,CarDekho
+77,Maruti,Maruti Baleno,1.3 Delta,2018,Diesel,"48,118",1248,"No Of Owner(s)
+1st Owner",Manual,27.39,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,570912,CarDekho
+78,Hyundai,Hyundai i10,Magna,2011,Petrol,"41,311",1197,"No Of Owner(s)
+1st Owner",Manual,20.36,"Max Power
+78.9bhp","Torque
+111.7Nm",Hatchback,Noida,266500,CarDekho
+79,Hyundai,Hyundai i20 Active,1.2,2015,Petrol,"45,311",1197,"No Of Owner(s)
+1st Owner",Manual,17.19,"Max Power
+81.86bhp","Torque
+114.73Nm",Hatchback,Noida,511500,CarDekho
+80,Hyundai,Hyundai i10,Sportz AT,2011,Petrol,"105,045",1197,"No Of Owner(s)
+2nd Owner",Automatic,16.95,"Max Power
+78.9bhp","Torque
+111.8Nm",Hatchback,Noida,268000,CarDekho
+81,Maruti,Maruti Ignis,1.2 Delta BSIV,2018,Petrol,"44,458",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,525500,CarDekho
+82,Maruti,Maruti Swift,VXI,2015,Petrol,"24,477",1197,"No Of Owner(s)
+1st Owner",Manual,21.21,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,445578,CarDekho
+83,Maruti,Maruti Swift,LDI BSIV,2015,Diesel,"72,786",1248,"No Of Owner(s)
+1st Owner",Manual,25.2,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,369000,CarDekho
+84,Maruti,Maruti Alto K10,VXI,2016,Petrol,"32,053",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,302208,CarDekho
+85,Maruti,Maruti Baleno,1.2 Zeta,2016,Petrol,"60,078",1197,"No Of Owner(s)
+1st Owner",Manual,21.4,"Max Power
+83.1bhp","Torque
+115Nm",Hatchback,Noida,549000,CarDekho
+86,Maruti,Maruti Swift,VDI,2013,Diesel,"99,877",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,450000,CarDekho
+87,Renault,Renault KWID,RXT,2016,Petrol,"7,421",799,"No Of Owner(s)
+1st Owner",Manual,25.17,"Max Power
+53.3bhp","Torque
+72Nm",Hatchback,Noida,294000,CarDekho
+88,Hyundai,Hyundai i20,1.2 Magna Executive,2018,Petrol,"10,443",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+81.83bhp","Torque
+114.7Nm",Hatchback,Noida,603000,CarDekho
+89,Toyota,Toyota Etios Cross,1.2L G,2015,Petrol,"35,717",1197,"No Of Owner(s)
+1st Owner",Manual,18.16,"Max Power
+78.8bhp","Torque
+104Nm",Hatchback,Noida,412855,CarDekho
+90,Hyundai,Hyundai Grand i10,1.2 Kappa Asta,2017,Petrol,"3,942",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,Noida,561500,CarDekho
+91,Maruti,Maruti Ignis,1.2 Zeta BSIV,2018,Petrol,"29,837",1197,"No Of Owner(s)
+1st Owner",,"e Type
+Zer","Engine
+1197 CC","Max Power
+81.80bhp",Hatchback,Noida,520500,CarDekho
+92,Maruti,Maruti Ignis,1.2 AMT Delta BSIV,2019,Petrol,"5,598",1197,"No Of Owner(s)
+1st Owner",Automatic,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,648000,CarDekho
+93,Maruti,Maruti Swift,ZXI,2015,Petrol,"52,655",1197,"No Of Owner(s)
+1st Owner",Manual,21.21,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,453948,CarDekho
+94,Hyundai,Hyundai i20,1.2 Era,2017,Petrol,"47,053",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+81.83bhp","Torque
+114.7Nm",Hatchback,Noida,472000,CarDekho
+95,Maruti,Maruti Swift,VDI BSIV,2018,Diesel,"75,710",1248,"No Of Owner(s)
+1st Owner",Manual,25.2,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,618500,CarDekho
+96,Hyundai,Hyundai Grand i10,Sportz Petrol BSIV,2020,Petrol,"8,509",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,Noida,578000,CarDekho
+97,Hyundai,Hyundai i20,Asta Option,2016,Petrol,"50,024",1197,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1197 CC","Max Power
+81.86bhp",Hatchback,Noida,569000,CarDekho
+98,Maruti,Maruti Ignis,Delta,2018,Petrol,"5,114",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,503000,CarDekho
+99,Hyundai,Hyundai i10,Sportz AT,2012,Petrol,"64,543",1197,"No Of Owner(s)
+1st Owner",Automatic,16.95,"Max Power
+78.9bhp","Torque
+111.8Nm",Hatchback,Noida,326000,CarDekho
+100,Honda,Honda Brio,S MT,2013,Petrol,"79,651",1198,"No Of Owner(s)
+2nd Owner",Manual,19.4,"Max Power
+86.8bhp","Torque
+109Nm",Hatchback,Noida,272500,CarDekho
+101,Maruti,Maruti S-Presso,VXI Plus,2020,Petrol,"6,646",998,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+67.05bhp","Torque
+90nm",Hatchback,Noida,427056,CarDekho
+102,Hyundai,Hyundai i10,Sportz 1.2,2011,Petrol,"82,238",1197,"No Of Owner(s)
+1st Owner",Manual,20.36,"Max Power
+78.9bhp","Torque
+111.8Nm",Hatchback,Noida,285500,CarDekho
+103,Maruti,Maruti Baleno,1.2 Alpha,2018,Petrol,"30,903",1197,"No Of Owner(s)
+1st Owner",Manual,21.4,"Max Power
+83.1bhp","Torque
+115Nm",Hatchback,Noida,672500,CarDekho
+104,Maruti,Maruti Celerio,VXI,2016,Petrol,"48,964",998,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+998 CC","Max Power
+67.04bhp",Hatchback,Noida,381500,CarDekho
+105,Maruti,Maruti Celerio,VXI AT,2014,Petrol,"39,815",998,"No Of Owner(s)
+1st Owner",Automatic,23.1,"Max Power
+67.04bhp","Torque
+90Nm",Hatchback,Noida,331500,CarDekho
+106,Tata,Tata Nano,LX,2012,Petrol,"27,236",624,"No Of Owner(s)
+2nd Owner",Manual,25.4,"Max Power
+37.48bhp","Torque
+51Nm",Hatchback,Noida,74500,CarDekho
+107,Maruti,Maruti Swift,VDI,2017,Diesel,"77,503",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,491500,CarDekho
+108,Hyundai,Hyundai i10,Sportz 1.1L,2015,Petrol,"73,016",1086,"No Of Owner(s)
+1st Owner",Manual,19.81,"Max Power
+68.05bhp","Torque
+99.04Nm",Hatchback,Noida,290500,CarDekho
+109,Tata,Tata Tiago,1.2 Revotron XZA,2018,Petrol,"43,855",1199,"No Of Owner(s)
+1st Owner",Automatic,23.84,"Max Power
+83.83bhp","Torque
+114Nm",Hatchback,Noida,467826,CarDekho
+110,Hyundai,Hyundai Grand i10,1.2 Kappa Sportz BSIV,2018,Petrol,"12,697",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,Noida,496500,CarDekho
+111,Maruti,Maruti Ignis,1.2 Zeta BSIV,2018,Petrol,"29,837",1197,"No Of Owner(s)
+1st Owner",,"e Type
+Zer","Engine
+1197 CC","Max Power
+81.80bhp",Hatchback,Noida,520500,CarDekho
+112,Maruti,Maruti Baleno,Sigma,2020,Petrol,"9,437",1197,"No Of Owner(s)
+1st Owner",Manual,21.01,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,576000,CarDekho
+113,Maruti,Maruti Alto K10,LXI CNG Optional,2016,CNG,"55,252",998,"No Of Owner(s)
+1st Owner",Manual,32.26,"Max Power
+58.2bhp","Torque
+78Nm",Hatchback,Noida,325500,CarDekho
+114,Ford,Ford Figo,1.5D Trend MT,2017,Diesel,"76,998",1498,"No Of Owner(s)
+1st Owner",Manual,25.83,"Max Power
+99bhp","Torque
+215Nm",Hatchback,Noida,392000,CarDekho
+115,Volkswagen,Volkswagen Polo,1.2 MPI Trendline,2017,Petrol,"38,145",1198,"No Of Owner(s)
+1st Owner",Manual,18.78,"Max Power
+74bhp","Torque
+110Nm",Hatchback,Noida,434000,CarDekho
+116,Maruti,Maruti S-Presso,LXI CNG,2020,CNG,"8,786",998,"No Of Owner(s)
+1st Owner",Manual,31.2,"Max Power
+58.33bhp","Torque
+78nm",Hatchback,Noida,551040,CarDekho
+117,Maruti,Maruti Wagon R,VXI,2013,Petrol,"56,699",998,"No Of Owner(s)
+1st Owner",Manual,21.79,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,259000,CarDekho
+118,Toyota,Toyota Etios Liva,1.4 VD,2018,Diesel,"56,472",1364,"No Of Owner(s)
+1st Owner",Manual,23.59,"Max Power
+67.04bhp","Torque
+170Nm",Hatchback,Noida,541536,CarDekho
+119,Hyundai,Hyundai i10,Magna 1.2 iTech SE,2010,Petrol,"54,685",1197,"No Of Owner(s)
+2nd Owner",Manual,20.36,"Max Power
+78.9bhp","Torque
+111.7Nm",Hatchback,Noida,201500,CarDekho
+120,Maruti,Maruti Swift,VDI,2014,Diesel,"117,642",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,388500,CarDekho
+121,Maruti,Maruti S-Presso,VXI Plus AT,2020,Petrol,"2,293",998,"No Of Owner(s)
+1st Owner",Automatic,21.7,"Max Power
+67.05bhp","Torque
+90nm",Hatchback,Noida,469500,CarDekho
+122,Maruti,Maruti S-Presso,VXI,2019,Petrol,"8,552",998,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+67.05bhp","Torque
+90nm",Hatchback,Noida,400000,CarDekho
+123,Maruti,Maruti Baleno,1.2 Sigma,2020,Petrol,"13,258",1197,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1197 CC","Max Power
+83.1bhp",Hatchback,Noida,578500,CarDekho
+124,Hyundai,Hyundai Grand i10,1.2 Kappa Asta,2013,Petrol,"79,215",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,Noida,339800,CarDekho
+125,Maruti,Maruti Baleno,Sigma,2018,Petrol,"21,377",1197,"No Of Owner(s)
+1st Owner",Manual,21.01,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,526500,CarDekho
+126,Maruti,Maruti Alto K10,VXI,2018,Petrol,"47,399",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,347136,CarDekho
+127,Maruti,Maruti Baleno,Zeta,2018,Petrol,"17,711",1197,"No Of Owner(s)
+1st Owner",Manual,21.01,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,611196,CarDekho
+128,Honda,Honda Brio,VX,2014,Petrol,"38,558",1198,"No Of Owner(s)
+1st Owner",Manual,19.4,"Max Power
+86.8bhp","Torque
+109Nm",Hatchback,Noida,346000,CarDekho
+129,Hyundai,Hyundai Grand i10,CRDi Sportz,2015,Diesel,"56,200",1120,"No Of Owner(s)
+1st Owner",Manual,24,"Max Power
+70bhp","Torque
+160Nm",Hatchback,Noida,369939,CarDekho
+130,Maruti,Maruti Swift,AMT VDI,2018,Diesel,"56,585",1248,"No Of Owner(s)
+1st Owner",Automatic,28.4,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,711500,CarDekho
+131,Maruti,Maruti Swift,LDI,2018,Diesel,"27,038",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,544344,CarDekho
+132,Maruti,Maruti Baleno,Alpha,2019,Petrol,"15,413",1197,"No Of Owner(s)
+1st Owner",Manual,21.01,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,700801,CarDekho
+133,Maruti,Maruti Baleno,Alpha Diesel,2015,Diesel,"63,529",1248,"No Of Owner(s)
+1st Owner",Manual,27.39,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,550000,CarDekho
+134,Maruti,Maruti Swift,LXI Option,2017,Petrol,"42,412",1197,"No Of Owner(s)
+1st Owner",Manual,20.4,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,448623,CarDekho
+135,Hyundai,Hyundai Grand i10,AT Asta,2015,Petrol,"32,105",1197,"No Of Owner(s)
+2nd Owner",Automatic,18.9,"Max Power
+82bhp","Torque
+114Nm",Hatchback,Noida,477134,CarDekho
+136,Maruti,Maruti Swift,LXI,2019,Petrol,"12,136",1197,"No Of Owner(s)
+1st Owner",Manual,21.21,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,565500,CarDekho
+137,Tata,Tata Tiago,XZ,2020,Petrol,"8,020",1199,"No Of Owner(s)
+1st Owner",Manual,23.84,"Max Power
+83.83bhp","Torque
+114Nm",Hatchback,Noida,551185,CarDekho
+138,Maruti,Maruti Swift,DDiS VDI,2014,Diesel,"43,955",1248,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1248 CC","Max Power
+74bhp",Hatchback,Noida,399330,CarDekho
+139,Maruti,Maruti Celerio,ZXI AMT BSIV,2017,Petrol,"38,866",998,"No Of Owner(s)
+1st Owner",Automatic,23.1,"Max Power
+67.04bhp","Torque
+90Nm",Hatchback,Noida,412500,CarDekho
+140,Maruti,Maruti Alto K10,VXI,2018,Petrol,"15,164",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,361000,CarDekho
+141,Maruti,Maruti Baleno,1.2 Sigma,2020,Petrol,"7,173",1197,"No Of Owner(s)
+1st Owner",Manual,21.4,"Max Power
+83.1bhp","Torque
+115Nm",Hatchback,Noida,578000,CarDekho
+142,Maruti,Maruti Swift,VDI,2015,Diesel,"83,833",1248,"No Of Owner(s)
+2nd Owner",Manual,28.4,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,423870,CarDekho
+143,Honda,Honda Brio,E MT,2013,Petrol,"67,159",1198,"No Of Owner(s)
+1st Owner",Manual,19.4,"Max Power
+86.8bhp","Torque
+109Nm",Hatchback,Noida,296160,CarDekho
+144,Maruti,Maruti Swift,LXI Option,2015,Petrol,"35,019",1197,"No Of Owner(s)
+1st Owner",Manual,20.4,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,408000,CarDekho
+145,Maruti,Maruti Swift,LXI Option,2017,Petrol,"63,614",1197,"No Of Owner(s)
+4th Owner",Manual,20.4,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,436000,CarDekho
+146,Maruti,Maruti Swift,VDI,2013,Diesel,"92,225",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,363843,CarDekho
+147,Hyundai,Hyundai i20,Sportz 1.4 CRDi,2016,Diesel,"134,486",1396,"No Of Owner(s)
+1st Owner",Manual,22.54,"Max Power
+88.73bhp","Torque
+219.7Nm",Hatchback,Noida,479976,CarDekho
+148,Maruti,Maruti Alto K10,LXI,2011,Petrol,"81,840",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,173500,CarDekho
+149,Maruti,Maruti Alto K10,LXI,2016,Petrol,"50,097",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,273500,CarDekho
+150,Maruti,Maruti Alto K10,VXI,2017,Petrol,"23,354",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,327000,CarDekho
+151,Maruti,Maruti Swift,VDI BSIV,2015,Diesel,"100,976",1248,"No Of Owner(s)
+1st Owner",Manual,25.2,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,453300,CarDekho
+152,Maruti,Maruti Alto K10,VXI AMT,2016,Petrol,"21,863",998,"No Of Owner(s)
+1st Owner",Automatic,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,348000,CarDekho
+153,Maruti,Maruti Alto K10,VXI,2017,Petrol,"26,905",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,324000,CarDekho
+154,Maruti,Maruti S-Presso,VXI,2020,Petrol,"19,749",998,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+67.05bhp","Torque
+90nm",Hatchback,Noida,428000,CarDekho
+155,Maruti,Maruti Swift,VDI,2018,Diesel,"37,075",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,629500,CarDekho
+156,Maruti,Maruti Ignis,1.2 Delta BSIV,2018,Petrol,"4,878",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,505000,CarDekho
+157,Hyundai,Hyundai i20,1.2 Magna Executive,2017,Petrol,"40,661",1197,"No Of Owner(s)
+2nd Owner",Manual,18.6,"Max Power
+81.83bhp","Torque
+114.7Nm",Hatchback,Noida,531846,CarDekho
+158,Hyundai,Hyundai i20,Magna 1.4 CRDi,2016,Diesel,"47,565",1396,"No Of Owner(s)
+1st Owner",Manual,22.54,"Max Power
+88.73bhp","Torque
+219.7Nm",Hatchback,Noida,519185,CarDekho
+159,Hyundai,Hyundai i20,Sportz 1.4 CRDi,2012,Diesel,"86,803",1396,"No Of Owner(s)
+1st Owner",Manual,21.9,"Max Power
+88.76bhp","Torque
+219.6Nm",Hatchback,Noida,295000,CarDekho
+160,Hyundai,Hyundai i20,Magna 1.4 CRDi,2017,Diesel,"65,609",1396,"No Of Owner(s)
+1st Owner",Manual,22.54,"Max Power
+88.73bhp","Torque
+219.7Nm",Hatchback,Noida,568500,CarDekho
+161,Maruti,Maruti Ignis,1.2 Delta BSIV,2018,Petrol,"47,478",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,480455,CarDekho
+162,Maruti,Maruti Swift,LXI,2019,Petrol,"7,986",1197,"No Of Owner(s)
+1st Owner",Manual,21.21,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,562920,CarDekho
+163,Maruti,Maruti Ignis,1.2 Delta BSIV,2018,Petrol,"31,692",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,501984,CarDekho
+164,Maruti,Maruti Swift,VDI BSIV,2015,Diesel,"76,418",1248,"No Of Owner(s)
+1st Owner",Manual,25.2,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,409500,CarDekho
+165,Hyundai,Hyundai i20,Asta 1.2,2015,Petrol,"100,799",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+81.83bhp","Torque
+114.7Nm",Hatchback,Noida,531553,CarDekho
+166,Maruti,Maruti Baleno,1.2 Delta,2018,Petrol,"96,850",1197,"No Of Owner(s)
+1st Owner",Manual,21.4,"Max Power
+83.1bhp","Torque
+115Nm",Hatchback,Noida,584458,CarDekho
+167,Maruti,Maruti Alto K10,LXI,2015,Petrol,"85,613",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,265500,CarDekho
+168,Maruti,Maruti Celerio,VXI,2014,Petrol,"87,839",998,"No Of Owner(s)
+1st Owner",Manual,23.1,"Max Power
+67.04bhp","Torque
+90Nm",Hatchback,Noida,337524,CarDekho
+169,Maruti,Maruti Swift,DDiS VDI,2017,Diesel,"97,204",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,491316,CarDekho
+170,Maruti,Maruti Celerio,ZXI AMT BSIV,2016,Petrol,"98,756",998,"No Of Owner(s)
+1st Owner",Automatic,23.1,"Max Power
+67.04bhp","Torque
+90Nm",Hatchback,Noida,390905,CarDekho
+171,Hyundai,Hyundai i20,Magna 1.4 CRDi,2015,Diesel,"96,041",1396,"No Of Owner(s)
+1st Owner",Manual,22.54,"Max Power
+88.73bhp","Torque
+219.7Nm",Hatchback,Noida,473604,CarDekho
+172,Hyundai,Hyundai i20,Sportz 1.2,2015,Petrol,"40,750",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+81.83bhp","Torque
+114.7Nm",Hatchback,Noida,726767,CarDekho
+173,Maruti,Maruti Baleno,1.3 Alpha,2017,Diesel,"66,476",1248,"No Of Owner(s)
+1st Owner",Manual,27.39,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,647970,CarDekho
+174,Maruti,Maruti Swift,AMT ZXI,2018,Petrol,"20,878",1197,"No Of Owner(s)
+1st Owner",Automatic,22,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,668578,CarDekho
+175,Maruti,Maruti Swift,VDI,2014,Diesel,"75,526",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,409000,CarDekho
+176,Maruti,Maruti Swift,VDI,2014,Diesel,"79,261",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,444211,CarDekho
+177,Maruti,Maruti Wagon R Stingray,VXI,2016,Petrol,"62,425",998,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+998 CC","Max Power
+67.04bhp",Hatchback,Noida,377079,CarDekho
+178,Hyundai,Hyundai i20 Active,1.4 SX,2015,Diesel,"79,238",1396,"No Of Owner(s)
+1st Owner",Manual,21.19,"Max Power
+88.73bhp","Torque
+220Nm",Hatchback,Noida,568450,CarDekho
+179,Maruti,Maruti Ritz,ZXi,2011,Petrol,"90,091",1197,"No Of Owner(s)
+1st Owner",Manual,18.5,"Max Power
+85.80bhp","Torque
+114Nm",Hatchback,Noida,215000,CarDekho
+180,Maruti,Maruti Swift,LXI,2019,Petrol,"23,742",1197,"No Of Owner(s)
+1st Owner",Manual,23.2,"Max Power
+88.50bhp","Torque
+113Nm",Hatchback,Noida,521500,CarDekho
+181,Maruti,Maruti Swift,VDI,2014,Diesel,"78,788",1248,"No Of Owner(s)
+1st Owner",,"e Type
+Third Party insu","Engine
+1248 CC","Max Power
+74bhp",Hatchback,Noida,382000,CarDekho
+182,Hyundai,Hyundai i20,Sportz 1.4 CRDi,2016,Diesel,"97,760",1396,"No Of Owner(s)
+1st Owner",Manual,22.54,"Max Power
+88.73bhp","Torque
+219.7Nm",Hatchback,Noida,545000,CarDekho
+183,Toyota,Toyota Etios Liva,GD,2014,Diesel,"67,058",1364,"No Of Owner(s)
+1st Owner",Manual,23.59,"Max Power
+67.04bhp","Torque
+170Nm",Hatchback,Noida,429311,CarDekho
+184,Maruti,Maruti Swift,VDI,2012,Diesel,"36,586",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,343000,CarDekho
+185,Honda,Honda Brio,S MT,2014,Petrol,"90,158",1198,"No Of Owner(s)
+1st Owner",Manual,19.4,"Max Power
+86.8bhp","Torque
+109Nm",Hatchback,Noida,312000,CarDekho
+186,Honda,Honda Jazz,VX,2017,Petrol,"58,269",1199,"No Of Owner(s)
+1st Owner",Manual,16.6,"Max Power
+88.50bhp","Torque
+110Nm",Hatchback,Noida,541500,CarDekho
+187,Maruti,Maruti Swift,LXI BSIV,2015,Petrol,"13,958",1197,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,416400,CarDekho
+188,Hyundai,Hyundai i10,Sportz,2011,Petrol,"112,800",1197,"No Of Owner(s)
+1st Owner",Manual,20.36,"Max Power
+78.9bhp","Torque
+111.8Nm",Hatchback,Noida,222000,CarDekho
+189,Maruti,Maruti Ignis,Delta AMT,2019,Petrol,"6,179",1197,"No Of Owner(s)
+1st Owner",Automatic,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,557000,CarDekho
+190,Maruti,Maruti Alto K10,VXI,2019,Petrol,"7,888",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,414500,CarDekho
+191,Maruti,Maruti Baleno,1.2 Sigma,2020,Petrol,"13,803",1197,"No Of Owner(s)
+1st Owner",Manual,21.4,"Max Power
+83.1bhp","Torque
+115Nm",Hatchback,Noida,576000,CarDekho
+192,Hyundai,Hyundai i10,Sportz 1.1L,2015,Petrol,"63,324",1086,"No Of Owner(s)
+1st Owner",Manual,19.81,"Max Power
+68.05bhp","Torque
+99.04Nm",Hatchback,Noida,346758,CarDekho
+193,Maruti,Maruti Baleno,Alpha Diesel,2016,Diesel,"47,156",1248,"No Of Owner(s)
+1st Owner",Manual,27.39,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,558168,CarDekho
+194,Maruti,Maruti Swift,LXI 2018,2018,Petrol,"28,911",1197,"No Of Owner(s)
+2nd Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,502500,CarDekho
+195,Maruti,Maruti Alto K10,LXI,2012,Petrol,"15,979",998,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+998 CC","Max Power
+67.1bhp",Hatchback,Noida,223152,CarDekho
+196,Maruti,Maruti Alto K10,VXI,2018,Petrol,"13,215",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,363000,CarDekho
+197,Maruti,Maruti Alto K10,VXI,2016,Petrol,"41,147",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,285500,CarDekho
+198,Maruti,Maruti Alto 800,LXI,2015,Petrol,"21,705",796,"No Of Owner(s)
+1st Owner",Manual,22.74,"Max Power
+47.3bhp","Torque
+69Nm",Hatchback,Noida,244212,CarDekho
+199,Maruti,Maruti Ignis,1.2 Alpha BSIV,2017,Petrol,"32,643",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,503196,CarDekho
+200,Honda,Honda Brio,VX AT,2014,Petrol,"26,813",1198,"No Of Owner(s)
+1st Owner",Automatic,16.5,"Max Power
+86.8bhp","Torque
+109Nm",Hatchback,Noida,510366,CarDekho
+201,Maruti,Maruti Alto K10,VXI,2018,Petrol,"13,911",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,347460,CarDekho
+202,Maruti,Maruti Baleno,Alpha,2016,Petrol,"21,582",1197,"No Of Owner(s)
+1st Owner",Manual,21.01,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,571344,CarDekho
+203,Hyundai,Hyundai Grand i10,1.2 CRDi Magna,2017,Diesel,"61,639",1186,"No Of Owner(s)
+1st Owner",Manual,24,"Max Power
+73.97bhp","Torque
+190.24nm",Hatchback,Noida,410215,CarDekho
+204,Maruti,Maruti Swift,LDI,2013,Diesel,"74,496",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,303283,CarDekho
+205,Maruti,Maruti Swift,LXI Option,2015,Petrol,"20,518",1197,"No Of Owner(s)
+2nd Owner",Manual,20.4,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,385000,CarDekho
+206,Hyundai,Hyundai i20,1.2 Spotz,2018,Petrol,"42,964",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+81.83bhp","Torque
+114.7Nm",Hatchback,Noida,657879,CarDekho
+207,Maruti,Maruti Alto K10,VXI,2016,Petrol,"39,557",998,"No Of Owner(s)
+2nd Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,274000,CarDekho
+208,Honda,Honda Brio,1.2 S MT,2013,Petrol,"78,279",1198,"No Of Owner(s)
+1st Owner",Manual,18.5,"Max Power
+86.8bhp","Torque
+109Nm",Hatchback,Noida,310092,CarDekho
+209,Maruti,Maruti Swift,ZDI,2018,Diesel,"69,233",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,639330,CarDekho
+210,Hyundai,Hyundai i10,Magna 1.1L,2013,Petrol,"62,594",1086,"No Of Owner(s)
+1st Owner",Manual,19.81,"Max Power
+68.05bhp","Torque
+99.04Nm",Hatchback,Noida,301074,CarDekho
+211,Maruti,Maruti Swift,VXI,2013,Petrol,"74,882",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+85.8bhp","Torque
+114Nm",Hatchback,Noida,344000,CarDekho
+212,Hyundai,Hyundai Grand i10,Magna,2019,Petrol,"6,928",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,Noida,524000,CarDekho
+213,Honda,Honda Jazz,1.5 SV i DTEC,2015,Diesel,"65,911",1498,"No Of Owner(s)
+1st Owner",Manual,27.3,"Max Power
+98.6bhp","Torque
+200Nm",Hatchback,Noida,696000,CarDekho
+214,Maruti,Maruti Alto K10,LXI,2019,Petrol,"4,383",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,378500,CarDekho
+215,Maruti,Maruti Alto K10,LXI,2019,Petrol,"7,213",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,379000,CarDekho
+216,Hyundai,Hyundai i20,Sportz 1.2,2016,Petrol,"27,045",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+81.83bhp","Torque
+114.7Nm",Hatchback,Noida,576000,CarDekho
+217,Maruti,Maruti Swift,LXI Optional-O,2017,Petrol,"25,165",1197,"No Of Owner(s)
+1st Owner",Manual,20.4,"Max Power
+83.11bhp","Torque
+113Nm",Hatchback,Noida,436205,CarDekho
+218,Maruti,Maruti Baleno,1.2 Zeta,2018,Petrol,"17,036",1197,"No Of Owner(s)
+1st Owner",Manual,21.4,"Max Power
+83.1bhp","Torque
+115Nm",Hatchback,Noida,645500,CarDekho
+219,Maruti,Maruti Wagon R,VXI Opt,2019,Petrol,"12,659",998,"No Of Owner(s)
+1st Owner",Manual,21.79,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,480000,CarDekho
+220,Maruti,Maruti Alto K10,VXI,2017,Petrol,"18,075",998,"No Of Owner(s)
+2nd Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,328000,CarDekho
+221,Maruti,Maruti Ignis,1.2 Delta BSIV,2019,Petrol,"9,779",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,541000,CarDekho
+222,Hyundai,Hyundai i20,1.2 Asta,2017,Petrol,"16,001",1197,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1197 CC","Max Power
+81.83bhp",Hatchback,Noida,750000,CarDekho
+223,Maruti,Maruti Baleno,1.2 Delta,2017,Petrol,"103,284",1197,"No Of Owner(s)
+1st Owner",Manual,21.4,"Max Power
+83.1bhp","Torque
+115Nm",Hatchback,Noida,495500,CarDekho
+224,Maruti,Maruti Ignis,1.2 Sigma BSIV,2019,Petrol,"9,024",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,507000,CarDekho
+225,Maruti,Maruti Baleno,Sigma Diesel,2018,Diesel,"61,659",1248,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1248 CC","Max Power
+74bhp",Hatchback,Noida,556500,CarDekho
+226,Maruti,Maruti S-Presso,VXI,2020,Petrol,"18,653",998,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+67.05bhp","Torque
+90nm",Hatchback,Noida,445000,CarDekho
+227,Maruti,Maruti Alto K10,VXI,2017,Petrol,"21,200",998,"No Of Owner(s)
+2nd Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,356250,CarDekho
+228,Maruti,Maruti Baleno,Zeta,2019,Petrol,"27,729",1197,"No Of Owner(s)
+1st Owner",Manual,21.01,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,655000,CarDekho
+229,Honda,Honda Brio,1.2 S MT,2012,Petrol,"37,526",1198,"No Of Owner(s)
+1st Owner",Manual,18.5,"Max Power
+86.8bhp","Torque
+109Nm",Hatchback,Noida,304000,CarDekho
+230,Tata,Tata Tiago,1.2 Revotron XZ,2019,Petrol,"6,947",1199,"No Of Owner(s)
+1st Owner",,"e Type
+Zer","Engine
+1199 CC","Max Power
+84bhp",Hatchback,Noida,540500,CarDekho
+231,Hyundai,Hyundai Grand i10,Sportz,2015,Petrol,"102,032",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+82bhp","Torque
+114Nm",Hatchback,Noida,356500,CarDekho
+232,Maruti,Maruti Ignis,1.2 Sigma BSIV,2018,Petrol,"39,393",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,464000,CarDekho
+233,Hyundai,Hyundai i20,Sportz Option 1.2,2014,Petrol,"67,676",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+81.83bhp","Torque
+114.7Nm",Hatchback,Noida,496122,CarDekho
+234,Tata,Tata Tiago,XZ,2019,Petrol,"9,545",1199,"No Of Owner(s)
+1st Owner",Manual,23.84,"Max Power
+83.83bhp","Torque
+114Nm",Hatchback,Noida,548739,CarDekho
+235,Hyundai,Hyundai Grand i10,Magna,2013,Petrol,"48,727",1197,"No Of Owner(s)
+2nd Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,Noida,334000,CarDekho
+236,Maruti,Maruti Baleno,1.3 Alpha,2015,Diesel,"65,425",1248,"No Of Owner(s)
+1st Owner",Manual,27.39,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,511500,CarDekho
+237,Hyundai,Hyundai Grand i10,CRDi Sportz,2016,Diesel,"63,759",1120,"No Of Owner(s)
+2nd Owner",Manual,24,"Max Power
+70bhp","Torque
+160Nm",Hatchback,Noida,375000,CarDekho
+238,Maruti,Maruti Swift,VDI,2014,Diesel,"72,653",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,411000,CarDekho
+239,Maruti,Maruti Alto K10,LXI,2012,Petrol,"15,979",998,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+998 CC","Max Power
+67.1bhp",Hatchback,Noida,223152,CarDekho
+240,Maruti,Maruti Alto K10,VXI,2016,Petrol,"41,147",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,285500,CarDekho
+241,Maruti,Maruti Alto 800,LXI,2015,Petrol,"21,705",796,"No Of Owner(s)
+1st Owner",Manual,22.74,"Max Power
+47.3bhp","Torque
+69Nm",Hatchback,Noida,244212,CarDekho
+242,Maruti,Maruti Baleno,Alpha Diesel,2016,Diesel,"47,156",1248,"No Of Owner(s)
+1st Owner",Manual,27.39,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,558168,CarDekho
+243,Maruti,Maruti Alto K10,VXI,2012,Petrol,"27,994",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,226608,CarDekho
+244,Honda,Honda Brio,VX AT,2014,Petrol,"26,813",1198,"No Of Owner(s)
+1st Owner",Automatic,16.5,"Max Power
+86.8bhp","Torque
+109Nm",Hatchback,Noida,510366,CarDekho
+245,Maruti,Maruti Baleno,Alpha,2016,Petrol,"21,582",1197,"No Of Owner(s)
+1st Owner",Manual,21.01,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,571344,CarDekho
+246,Hyundai,Hyundai Grand i10,1.2 CRDi Magna,2017,Diesel,"61,639",1186,"No Of Owner(s)
+1st Owner",Manual,24,"Max Power
+73.97bhp","Torque
+190.24nm",Hatchback,Noida,410215,CarDekho
+247,Maruti,Maruti Alto 800,VXI,2019,Petrol,"18,504",796,"No Of Owner(s)
+1st Owner",Manual,24.7,"Max Power
+47.3bhp","Torque
+69Nm",Hatchback,Noida,351500,CarDekho
+248,Maruti,Maruti Swift,LDI,2013,Diesel,"74,496",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,303283,CarDekho
+249,Maruti,Maruti Alto K10,VXI,2018,Petrol,"18,819",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,361000,CarDekho
+250,Maruti,Maruti Alto K10,LXI,2012,Petrol,"79,016",998,"No Of Owner(s)
+2nd Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,212848,CarDekho
+251,Hyundai,Hyundai i20,1.2 Spotz,2018,Petrol,"42,964",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+81.83bhp","Torque
+114.7Nm",Hatchback,Noida,657879,CarDekho
+252,Honda,Honda Brio,1.2 S MT,2013,Petrol,"78,279",1198,"No Of Owner(s)
+1st Owner",Manual,18.5,"Max Power
+86.8bhp","Torque
+109Nm",Hatchback,Noida,310092,CarDekho
+253,Maruti,Maruti Swift,ZDI,2018,Diesel,"69,233",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,639330,CarDekho
+254,Maruti,Maruti Swift,VXI,2013,Petrol,"74,882",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+85.8bhp","Torque
+114Nm",Hatchback,Noida,344000,CarDekho
+255,Hyundai,Hyundai Grand i10,Magna,2019,Petrol,"6,928",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,Noida,524000,CarDekho
+256,Honda,Honda Jazz,1.5 SV i DTEC,2015,Diesel,"65,911",1498,"No Of Owner(s)
+1st Owner",Manual,27.3,"Max Power
+98.6bhp","Torque
+200Nm",Hatchback,Noida,696000,CarDekho
+257,Maruti,Maruti Alto K10,LXI,2019,Petrol,"4,383",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,378500,CarDekho
+258,Hyundai,Hyundai i20,Sportz 1.2,2016,Petrol,"27,045",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+81.83bhp","Torque
+114.7Nm",Hatchback,Noida,576000,CarDekho
+259,Maruti,Maruti Baleno,1.2 Zeta,2018,Petrol,"17,036",1197,"No Of Owner(s)
+1st Owner",Manual,21.4,"Max Power
+83.1bhp","Torque
+115Nm",Hatchback,Noida,645500,CarDekho
+260,Maruti,Maruti Alto K10,VXI,2017,Petrol,"18,075",998,"No Of Owner(s)
+2nd Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,328000,CarDekho
+261,Hyundai,Hyundai i20,1.2 Asta,2017,Petrol,"16,001",1197,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1197 CC","Max Power
+81.83bhp",Hatchback,Noida,750000,CarDekho
+262,Maruti,Maruti Ignis,1.2 Delta BSIV,2019,Petrol,"9,779",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,541000,CarDekho
+263,Maruti,Maruti Ignis,1.2 Delta BSIV,2018,Petrol,"4,878",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,505000,CarDekho
+264,Maruti,Maruti Baleno,1.2 Delta,2017,Petrol,"103,284",1197,"No Of Owner(s)
+1st Owner",Manual,21.4,"Max Power
+83.1bhp","Torque
+115Nm",Hatchback,Noida,495500,CarDekho
+265,Maruti,Maruti Wagon R Stingray,VXI,2013,Petrol,"44,660",998,"No Of Owner(s)
+1st Owner",Manual,20.51,"Max Power
+67.04bhp","Torque
+90Nm",Hatchback,Noida,322155,CarDekho
+266,Hyundai,Hyundai i10,Magna 1.1L,2015,Petrol,"59,787",1086,"No Of Owner(s)
+1st Owner",Manual,19.81,"Max Power
+68.05bhp","Torque
+99.04Nm",Hatchback,Noida,317000,CarDekho
+267,Maruti,Maruti Baleno,Sigma Diesel,2018,Diesel,"61,659",1248,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1248 CC","Max Power
+74bhp",Hatchback,Noida,556500,CarDekho
+268,Maruti,Maruti S-Presso,VXI,2020,Petrol,"18,653",998,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+67.05bhp","Torque
+90nm",Hatchback,Noida,445000,CarDekho
+269,Maruti,Maruti Alto K10,VXI,2017,Petrol,"21,200",998,"No Of Owner(s)
+2nd Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,356250,CarDekho
+270,Maruti,Maruti Baleno,Zeta,2019,Petrol,"27,729",1197,"No Of Owner(s)
+1st Owner",Manual,21.01,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,655000,CarDekho
+271,Honda,Honda Brio,1.2 S MT,2012,Petrol,"37,526",1198,"No Of Owner(s)
+1st Owner",Manual,18.5,"Max Power
+86.8bhp","Torque
+109Nm",Hatchback,Noida,304000,CarDekho
+272,Tata,Tata Tiago,1.2 Revotron XZ,2019,Petrol,"6,947",1199,"No Of Owner(s)
+1st Owner",,"e Type
+Zer","Engine
+1199 CC","Max Power
+84bhp",Hatchback,Noida,540500,CarDekho
+273,Hyundai,Hyundai Grand i10,Sportz,2016,Petrol,"59,387",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+82bhp","Torque
+114Nm",Hatchback,Noida,415500,CarDekho
+274,Maruti,Maruti Celerio,ZXI AT,2015,Petrol,"64,764",998,"No Of Owner(s)
+1st Owner",Automatic,23.1,"Max Power
+67.04bhp","Torque
+90Nm",Hatchback,Noida,358500,CarDekho
+275,Maruti,Maruti Baleno,1.2 Delta,2015,Petrol,"58,938",1197,"No Of Owner(s)
+1st Owner",Manual,21.4,"Max Power
+83.1bhp","Torque
+115Nm",Hatchback,Noida,490193,CarDekho
+276,Hyundai,Hyundai Grand i10,Sportz,2015,Petrol,"102,032",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+82bhp","Torque
+114Nm",Hatchback,Noida,356500,CarDekho
+277,Maruti,Maruti Ignis,1.2 Sigma BSIV,2018,Petrol,"39,393",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,464000,CarDekho
+278,Maruti,Maruti Swift,LXI,2019,Petrol,"38,456",1197,"No Of Owner(s)
+1st Owner",Manual,21.21,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,513500,CarDekho
+279,Maruti,Maruti Swift,DDiS VDI,2017,Diesel,"97,204",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,491316,CarDekho
+280,Hyundai,Hyundai i20,Sportz Option 1.2,2014,Petrol,"67,676",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+81.83bhp","Torque
+114.7Nm",Hatchback,Noida,496122,CarDekho
+281,Tata,Tata Tiago,XZ,2019,Petrol,"9,545",1199,"No Of Owner(s)
+1st Owner",Manual,23.84,"Max Power
+83.83bhp","Torque
+114Nm",Hatchback,Noida,548739,CarDekho
+282,Maruti,Maruti Baleno,1.3 Alpha,2015,Diesel,"65,425",1248,"No Of Owner(s)
+1st Owner",Manual,27.39,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,511500,CarDekho
+283,Hyundai,Hyundai Grand i10,Magna,2013,Petrol,"48,727",1197,"No Of Owner(s)
+2nd Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,Noida,334000,CarDekho
+284,Hyundai,Hyundai Grand i10,CRDi Sportz,2016,Diesel,"63,759",1120,"No Of Owner(s)
+2nd Owner",Manual,24,"Max Power
+70bhp","Torque
+160Nm",Hatchback,Noida,375000,CarDekho
+285,Honda,Honda Brio,E MT,2012,Petrol,"56,363",1198,"No Of Owner(s)
+2nd Owner",Manual,19.4,"Max Power
+86.8bhp","Torque
+109Nm",Hatchback,Noida,290220,CarDekho
+286,Maruti,Maruti Swift,LDI,2012,Diesel,"65,437",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,289500,CarDekho
+287,Maruti,Maruti Ritz,VXi,2015,Petrol,"8,566",1197,"No Of Owner(s)
+1st Owner",Manual,18.5,"Max Power
+85.80bhp","Torque
+114Nm",Hatchback,Noida,357500,CarDekho
+288,Hyundai,Hyundai i20,Sportz 1.4 CRDi,2016,Diesel,"57,732",1396,"No Of Owner(s)
+1st Owner",Manual,22.54,"Max Power
+88.73bhp","Torque
+219.7Nm",Hatchback,Noida,522000,CarDekho
+289,Hyundai,Hyundai i20,Sportz Option 1.4 CRDi,2014,Diesel,"54,445",1396,"No Of Owner(s)
+1st Owner",Manual,22.54,"Max Power
+88.73bhp","Torque
+219.7Nm",Hatchback,Noida,457500,CarDekho
+290,Maruti,Maruti Wagon R Stingray,VXI,2013,Petrol,"61,825",998,"No Of Owner(s)
+1st Owner",Manual,20.51,"Max Power
+67.04bhp","Torque
+90Nm",Hatchback,Noida,298000,CarDekho
+291,Maruti,Maruti Wagon R Stingray,VXI,2013,Petrol,"90,128",998,"No Of Owner(s)
+1st Owner",Manual,20.51,"Max Power
+67.04bhp","Torque
+90Nm",Hatchback,Noida,295618,CarDekho
+292,Maruti,Maruti Baleno,Delta,2018,Petrol,"47,434",1197,"No Of Owner(s)
+1st Owner",Manual,21.01,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,556500,CarDekho
+293,Maruti,Maruti Alto K10,VXI,2015,Petrol,"60,606",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,279500,CarDekho
+294,Maruti,Maruti Alto K10,VXI,2019,Petrol,"9,747",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Noida,376500,CarDekho
+295,Maruti,Maruti Baleno,1.2 CVT Delta,2015,Petrol,"61,931",1197,"No Of Owner(s)
+1st Owner",Automatic,21.4,"Max Power
+83.1bhp","Torque
+115Nm",Hatchback,Noida,536244,CarDekho
+296,Maruti,Maruti Swift,LDI,2018,Diesel,"67,922",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Noida,539808,CarDekho
+297,Maruti,Maruti Ignis,1.2 Alpha BSIV,2017,Petrol,"32,643",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Noida,503196,CarDekho
+298,Maruti,Maruti Ignis,1.2 Sigma BSIV,2017,Petrol,"18,495",1197,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1197 CC","Max Power
+81.80bhp",Hatchback,Noida,449198,CarDekho
+299,Maruti,Maruti Ciaz,1.4 Delta,2017,Petrol,"46,696",1373,"No Of Owner(s)
+1st Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,Noida,704000,CarDekho
+300,Maruti,Maruti Ciaz,1.4 AT Alpha,2017,Petrol,"60,437",1373,"No Of Owner(s)
+1st Owner",Automatic,19.12,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,Noida,692500,CarDekho
+301,Hyundai,Hyundai Verna,1.6 SX VTVT,2013,Petrol,"72,234",1591,"No Of Owner(s)
+1st Owner",Manual,17.01,"Max Power
+121.3bhp","Torque
+154.9Nm",Sedan,Noida,495500,CarDekho
+302,Maruti,Maruti Swift Dzire,VDI,2013,Diesel,"87,384",1248,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1248 CC","Max Power
+74bhp",Sedan,Noida,417000,CarDekho
+303,Maruti,Maruti Ciaz,ZDi Plus SHVS,2017,Diesel,"40,961",1248,"No Of Owner(s)
+2nd Owner",Manual,28.09,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,Noida,565000,CarDekho
+304,Toyota,Toyota Etios,1.4 GXD,2018,Diesel,"69,880",1364,"No Of Owner(s)
+1st Owner",Manual,23.59,"Max Power
+67.05bhp","Torque
+170Nm",Sedan,Noida,535500,CarDekho
+305,Maruti,Maruti Swift Dzire,ZDI,2014,Diesel,"118,530",1248,"No Of Owner(s)
+1st Owner",Manual,26.59,"Max Power
+74bhp","Torque
+190Nm",Sedan,Noida,437000,CarDekho
+306,Honda,Honda Amaze,S i-VTEC,2016,Petrol,"13,064",1198,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+86.7bhp","Torque
+109Nm",Sedan,Noida,483500,CarDekho
+307,Honda,Honda Amaze,S i-Vtech,2015,Petrol,"70,418",1198,"No Of Owner(s)
+1st Owner",Manual,18,"Max Power
+86.7bhp","Torque
+109Nm",Sedan,Noida,433500,CarDekho
+308,Hyundai,Hyundai Verna,1.6 CRDI AT SX Option,2016,Diesel,"131,119",1582,"No Of Owner(s)
+1st Owner",Automatic,19.08,"Max Power
+126.2bhp","Torque
+259.9Nm",Sedan,Noida,690000,CarDekho
+309,Ford,Ford Figo Aspire,1.2 Ti-VCT Ambiente ABS,2016,Petrol,"51,315",1196,"No Of Owner(s)
+2nd Owner",Manual,18.16,"Max Power
+86.8bhp","Torque
+112Nm",Sedan,Noida,338500,CarDekho
+310,Hyundai,Hyundai Xcent,1.1 CRDi SX,2014,Diesel,"64,396",1120,"No Of Owner(s)
+2nd Owner",Manual,24.4,"Max Power
+71bhp","Torque
+180.4Nm",Sedan,Noida,353500,CarDekho
+311,Hyundai,Hyundai Xcent,1.2 Kappa Base,2015,Petrol,"45,479",1197,"No Of Owner(s)
+2nd Owner",Manual,19.1,"Max Power
+82bhp","Torque
+114Nm",Sedan,Noida,297000,CarDekho
+312,Hyundai,Hyundai Verna,1.6 SX,2013,Diesel,"75,114",1582,"No Of Owner(s)
+1st Owner",Manual,22.32,"Max Power
+126.32bhp","Torque
+259.8Nm",Sedan,Noida,410000,CarDekho
+313,Maruti,Maruti Swift Dzire,LDI,2014,Diesel,"78,327",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,Noida,345000,CarDekho
+314,Hyundai,Hyundai Xcent,1.2 Kappa Base,2015,Petrol,"47,759",1197,"No Of Owner(s)
+2nd Owner",Manual,19.1,"Max Power
+82bhp","Torque
+114Nm",Sedan,Noida,346000,CarDekho
+315,Hyundai,Hyundai Xcent,1.2 Kappa Base,2016,Petrol,"65,409",1197,"No Of Owner(s)
+1st Owner",Manual,19.1,"Max Power
+82bhp","Torque
+114Nm",Sedan,Noida,344500,CarDekho
+316,Hyundai,Hyundai Verna,1.6 SX VTVT (O),2011,Petrol,"87,136",1591,"No Of Owner(s)
+2nd Owner",Manual,17.1,"Max Power
+121.3bhp","Torque
+154.9Nm",Sedan,Noida,353000,CarDekho
+317,Hyundai,Hyundai Xcent,T Plus CNG,2018,CNG,"61,811",1197,"No Of Owner(s)
+2nd Owner",Manual,1,"Torque
+97.96nm","Seats
+5",Sedan,Noida,360000,CarDekho
+318,Hyundai,Hyundai Xcent,1.1 CRDi S Option,2015,Diesel,"109,201",1120,"No Of Owner(s)
+1st Owner",Manual,24.4,"Max Power
+71.01bhp","Torque
+180.4Nm",Sedan,Noida,364500,CarDekho
+319,Maruti,Maruti Swift Dzire,VDI,2017,Diesel,"41,508",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74.02bhp","Torque
+190Nm",Sedan,Noida,585000,CarDekho
+320,Honda,Honda City,i VTEC V,2015,Petrol,"78,296",1497,"No Of Owner(s)
+2nd Owner",Manual,17.4,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,Noida,541681,CarDekho
+321,Honda,Honda City,i VTEC CVT VX,2014,Petrol,"93,090",1497,"No Of Owner(s)
+1st Owner",Automatic,18,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,Noida,646500,CarDekho
+322,Honda,Honda City,i-VTEC S,2017,Petrol,"43,742",1497,"No Of Owner(s)
+1st Owner",Manual,17.4,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,Noida,685200,CarDekho
+323,Tata,Tata Tigor,XZ Plus,2019,Petrol,"15,681",1199,"No Of Owner(s)
+1st Owner",Manual,20.3,"Max Power
+83.81bhp","Torque
+114Nm",Sedan,Noida,550500,CarDekho
+324,Honda,Honda City,i-VTEC V,2018,Petrol,"22,798",1497,"No Of Owner(s)
+1st Owner",Manual,17.4,"Max Power
+117.6bhp","Torque
+145Nm",Sedan,Noida,903000,CarDekho
+325,Volkswagen,Volkswagen Vento,Petrol Highline,2011,Petrol,"77,531",1598,"No Of Owner(s)
+1st Owner",Manual,15.04,"Max Power
+103.6bhp","Torque
+153Nm",Sedan,Noida,300000,CarDekho
+326,Nissan,Nissan Sunny,Diesel XL,2013,Diesel,"54,251",1461,"No Of Owner(s)
+1st Owner",Manual,21.64,"Max Power
+84.8bhp","Torque
+200Nm",Sedan,Noida,275290,CarDekho
+327,Maruti,Maruti Ciaz,VDi Plus,2014,Diesel,"96,723",1248,"No Of Owner(s)
+1st Owner",Manual,26.21,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,Noida,490500,CarDekho
+328,Honda,Honda City,i VTEC CVT VX,2015,Petrol,"79,502",1497,"No Of Owner(s)
+1st Owner",Automatic,18,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,Noida,690772,CarDekho
+329,Honda,Honda City,V MT,2017,Petrol,"13,035",1498,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+119.35bhp","Torque
+145nm",Sedan,Noida,788145,CarDekho
+330,Tata,Tata Tigor,1.2 Revotron XT,2017,Petrol,"69,465",1199,"No Of Owner(s)
+2nd Owner",Manual,20.3,"Max Power
+84bhp","Torque
+114Nm",Sedan,Noida,344000,CarDekho
+331,Honda,Honda City,1.5 S MT,2011,Petrol,"92,331",1497,"No Of Owner(s)
+1st Owner",Manual,17,"Max Power
+118PS at 6,600 rpm","Torque
+146Nm at 4800 rpm",Sedan,Noida,326500,CarDekho
+332,Maruti,Maruti Swift Dzire,LDI,2014,Diesel,"78,327",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,Noida,345000,CarDekho
+333,Maruti,Maruti Ciaz,ZDi SHVS,2016,Diesel,"69,653",1248,"No Of Owner(s)
+2nd Owner",Manual,28.09,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,Noida,621500,CarDekho
+334,Skoda,Skoda Rapid,1.6 TDI Elegance,2014,Diesel,"67,574",1598,"No Of Owner(s)
+1st Owner",Manual,20.5,"Max Power
+103.5bhp","Torque
+250Nm",Sedan,Noida,356000,CarDekho
+335,Hyundai,Hyundai Xcent,1.2 Kappa SX Option,2014,Petrol,"35,706",1197,"No Of Owner(s)
+2nd Owner",Manual,19.1,"Max Power
+82bhp","Torque
+114Nm",Sedan,Noida,352500,CarDekho
+336,Honda,Honda Amaze,S i-Dtech,2014,Diesel,"68,405",1498,"No Of Owner(s)
+2nd Owner",Manual,25.8,"Max Power
+98.6bhp","Torque
+200Nm",Sedan,Noida,342500,CarDekho
+337,Maruti,Maruti Swift Dzire,LDI,2013,Diesel,"93,558",1248,"No Of Owner(s)
+2nd Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,Noida,300000,CarDekho
+338,Maruti,Maruti Swift Dzire,ZDI Plus,2017,Diesel,"71,549",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74.02bhp","Torque
+190Nm",Sedan,Noida,612000,CarDekho
+339,Honda,Honda City,i-VTEC VX,2017,Petrol,"52,849",1497,"No Of Owner(s)
+2nd Owner",Manual,17.4,"Max Power
+117.6bhp","Torque
+145Nm",Sedan,Noida,849500,CarDekho
+340,Honda,Honda City,i VTEC CVT VX,2014,Petrol,"93,090",1497,"No Of Owner(s)
+1st Owner",Automatic,18,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,Noida,646500,CarDekho
+341,Honda,Honda City,i-VTEC S,2017,Petrol,"43,742",1497,"No Of Owner(s)
+1st Owner",Manual,17.4,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,Noida,685200,CarDekho
+342,Maruti,Maruti Ciaz,VDi Plus,2014,Diesel,"96,723",1248,"No Of Owner(s)
+1st Owner",Manual,26.21,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,Noida,490500,CarDekho
+343,Honda,Honda City,i DTEC SV,2014,Diesel,"92,150",1498,"No Of Owner(s)
+1st Owner",Manual,26,"Max Power
+98.6bhp","Torque
+200Nm",Sedan,Noida,524500,CarDekho
+344,Hyundai,Hyundai Verna,1.6 EX VTVT,2012,Petrol,"45,991",1591,"No Of Owner(s)
+1st Owner",Manual,17.01,"Max Power
+121.3bhp","Torque
+154.9Nm",Sedan,Noida,367500,CarDekho
+345,Honda,Honda City,i-VTEC V,2018,Petrol,"22,798",1497,"No Of Owner(s)
+1st Owner",Manual,17.4,"Max Power
+117.6bhp","Torque
+145Nm",Sedan,Noida,903000,CarDekho
+346,Volkswagen,Volkswagen Vento,Petrol Highline,2011,Petrol,"77,531",1598,"No Of Owner(s)
+1st Owner",Manual,15.04,"Max Power
+103.6bhp","Torque
+153Nm",Sedan,Noida,300000,CarDekho
+347,Maruti,Maruti Swift Dzire,LDI,2013,Diesel,"82,171",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,Noida,339737,CarDekho
+348,Maruti,Maruti Ciaz,VDi,2014,Diesel,"38,438",1248,"No Of Owner(s)
+1st Owner",Manual,26.21,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,Noida,490000,CarDekho
+349,Hyundai,Hyundai Verna,1.4 CRDi,2013,Diesel,"76,561",1396,"No Of Owner(s)
+1st Owner",Manual,24.8,"Max Power
+88.7bhp","Torque
+219.7Nm",Sedan,Noida,395000,CarDekho
+350,Tata,Tata Tigor,1.2 Revotron XT,2017,Petrol,"69,465",1199,"No Of Owner(s)
+2nd Owner",Manual,20.3,"Max Power
+84bhp","Torque
+114Nm",Sedan,Noida,344000,CarDekho
+351,Maruti,Maruti Ciaz,ZDi SHVS,2016,Diesel,"69,653",1248,"No Of Owner(s)
+2nd Owner",Manual,28.09,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,Noida,621500,CarDekho
+352,Honda,Honda City,1.5 S MT,2011,Petrol,"92,331",1497,"No Of Owner(s)
+1st Owner",Manual,17,"Max Power
+118PS at 6,600 rpm","Torque
+146Nm at 4800 rpm",Sedan,Noida,326500,CarDekho
+353,Honda,Honda City,V MT,2017,Petrol,"13,035",1498,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+119.35bhp","Torque
+145nm",Sedan,Noida,788145,CarDekho
+354,Honda,Honda Amaze,S Petrol BSIV,2019,Petrol,"26,347",1199,"No Of Owner(s)
+1st Owner",Manual,19.5,"Max Power
+88.76bhp","Torque
+110Nm",Sedan,Noida,652571,CarDekho
+355,Maruti,Maruti Swift Dzire,VXI 1.2,2020,Petrol,"17,550",1197,"No Of Owner(s)
+1st Owner",Manual,21.21,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,Noida,675000,CarDekho
+356,Maruti,Maruti Ciaz,ZDi Plus SHVS,2016,Diesel,"106,007",1248,"No Of Owner(s)
+1st Owner",Manual,28.09,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,Noida,562000,CarDekho
+357,Hyundai,Hyundai Verna,1.6 SX VTVT,2014,Petrol,"60,062",1591,"No Of Owner(s)
+2nd Owner",Manual,17.01,"Max Power
+121.3bhp","Torque
+154.9Nm",Sedan,Noida,502000,CarDekho
+358,Maruti,Maruti Swift Dzire,VDI,2013,Diesel,"82,748",1248,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1248 CC","Max Power
+74bhp",Sedan,Noida,388000,CarDekho
+359,Volkswagen,Volkswagen Vento,1.5 TDI Highline AT,2014,Diesel,"74,832",1498,"No Of Owner(s)
+1st Owner",Automatic,21.21,"Max Power
+103.2bhp","Torque
+250Nm",Sedan,Noida,401000,CarDekho
+360,Honda,Honda City,i VTEC VX,2014,Petrol,"89,037",1497,"No Of Owner(s)
+1st Owner",Manual,17.4,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,Noida,583000,CarDekho
+361,Honda,Honda Amaze,S i-Vtech,2014,Petrol,"80,729",1198,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1198 CC","Max Power
+86.7bhp",Sedan,Noida,355000,CarDekho
+362,Maruti,Maruti Swift Dzire,ZDI,2013,Diesel,"67,394",1248,"No Of Owner(s)
+2nd Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,Noida,409000,CarDekho
+363,Maruti,Maruti Ciaz,VDi Plus,2014,Diesel,"43,248",1248,"No Of Owner(s)
+1st Owner",Manual,26.21,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,Noida,543000,CarDekho
+364,Skoda,Skoda Rapid,1.5 TDI Ambition Plus,2015,Diesel,"116,683",1498,"No Of Owner(s)
+1st Owner",Manual,21.14,"Max Power
+103.6bhp","Torque
+250Nm",Sedan,Noida,377000,CarDekho
+365,Maruti,Maruti Swift Dzire,VXI,2014,Petrol,"23,518",1197,"No Of Owner(s)
+1st Owner",Manual,20.85,"Max Power
+83.14bhp","Torque
+115Nm",Sedan,Noida,396654,CarDekho
+366,Maruti,Maruti Swift Dzire,VXI 1.2,2018,Petrol,"22,316",1197,"No Of Owner(s)
+1st Owner",Manual,21.21,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,Noida,597027,CarDekho
+367,Maruti,Maruti Swift Dzire,LDI,2017,Diesel,"66,037",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74.02bhp","Torque
+190Nm",Sedan,Noida,499500,CarDekho
+368,Maruti,Maruti Swift Dzire,VDI,2014,Diesel,"49,470",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,Noida,427758,CarDekho
+369,Maruti,Maruti Swift Dzire,VXI 1.2 BS IV,2019,Petrol,"26,306",1197,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,Noida,637000,CarDekho
+370,Maruti,Maruti Swift Dzire,VDI,2013,Diesel,"54,025",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,Noida,413243,CarDekho
+371,Honda,Honda City,i DTEC V,2014,Diesel,"104,585",1498,"No Of Owner(s)
+2nd Owner",Manual,26,"Max Power
+98.6bhp","Torque
+200Nm",Sedan,Noida,482190,CarDekho
+372,Maruti,Maruti Ciaz,VDi Plus SHVS,2016,Diesel,"136,776",1248,"No Of Owner(s)
+1st Owner",Manual,28.09,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,Noida,521016,CarDekho
+373,Maruti,Maruti Ciaz,1.4 Delta,2017,Petrol,"24,238",1373,"No Of Owner(s)
+2nd Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,Noida,690414,CarDekho
+374,Maruti,Maruti Swift Dzire,VXI 1.2 BS IV,2018,Petrol,"18,318",1197,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,Noida,608000,CarDekho
+375,Maruti,Maruti Swift Dzire,VDI,2014,Diesel,"64,103",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,Noida,439000,CarDekho
+376,Maruti,Maruti Swift Dzire,VXI 1.2 BS IV,2018,Petrol,"49,514",1197,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,Noida,579500,CarDekho
+377,Maruti,Maruti Swift Dzire,VDI,2013,Diesel,"43,080",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,Noida,425652,CarDekho
+378,Maruti,Maruti Swift Dzire,VDI,2014,Diesel,"63,004",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,Noida,445450,CarDekho
+379,Tata,Tata Tigor,1.2 Revotron XZ,2018,Petrol,"67,371",1199,"No Of Owner(s)
+1st Owner",Manual,20.3,"Max Power
+84bhp","Torque
+114Nm",Sedan,Noida,451500,CarDekho
+380,Maruti,Maruti Ciaz,1.4 Sigma,2018,Petrol,"41,628",1373,"No Of Owner(s)
+1st Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,Noida,678500,CarDekho
+381,Honda,Honda City,i DTEC VX,2015,Diesel,"98,239",1498,"No Of Owner(s)
+2nd Owner",Manual,25.1,"Max Power
+98.6bhp","Torque
+200Nm",Sedan,Noida,618216,CarDekho
+382,Honda,Honda City,i DTec V,2015,Diesel,"122,818",1498,"No Of Owner(s)
+1st Owner",Manual,26,"Max Power
+98.6bhp","Torque
+200Nm",Sedan,Noida,548532,CarDekho
+383,Maruti,Maruti Ciaz,1.3 Delta,2017,Diesel,"89,418",1248,"No Of Owner(s)
+1st Owner",Manual,28.09,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,Noida,589974,CarDekho
+384,Maruti,Maruti Swift Dzire,VXI,2015,Petrol,"70,138",1197,"No Of Owner(s)
+1st Owner",Manual,20.85,"Max Power
+83.14bhp","Torque
+115Nm",Sedan,Noida,431000,CarDekho
+385,Maruti,Maruti Swift Dzire,LDI Optional,2015,Diesel,"66,420",1248,"No Of Owner(s)
+1st Owner",Manual,26.59,"Max Power
+74bhp","Torque
+190Nm",Sedan,Noida,427272,CarDekho
+386,Maruti,Maruti Ciaz,Sigma Diesel,2017,Diesel,"51,421",1248,"No Of Owner(s)
+1st Owner",Manual,28.09,"Max Power
+88.50bhp","Torque
+200Nm",Sedan,Noida,624000,CarDekho
+387,Maruti,Maruti Ciaz,1.4 Delta,2017,Petrol,"68,634",1373,"No Of Owner(s)
+1st Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,Noida,700500,CarDekho
+388,Maruti,Maruti Ciaz,VDi Plus SHVS,2016,Diesel,"78,494",1248,"No Of Owner(s)
+1st Owner",Manual,28.09,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,Noida,622109,CarDekho
+389,Honda,Honda City,i VTEC VX Option,2015,Petrol,"98,792",1497,"No Of Owner(s)
+1st Owner",Manual,17.4,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,Noida,683988,CarDekho
+390,Maruti,Maruti Ciaz,ZDi Plus,2015,Diesel,"54,217",1248,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1248 CC","Max Power
+88.5bhp",Sedan,Noida,624000,CarDekho
+391,Maruti,Maruti Ciaz,ZDi SHVS,2016,Diesel,"79,481",1248,"No Of Owner(s)
+1st Owner",Manual,28.09,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,Noida,600191,CarDekho
+392,Maruti,Maruti Swift Dzire,ZDI,2015,Diesel,"54,632",1248,"No Of Owner(s)
+1st Owner",Manual,26.59,"Max Power
+74bhp","Torque
+190Nm",Sedan,Noida,480000,CarDekho
+393,Maruti,Maruti Swift Dzire,VXI 1.2 BS IV,2018,Petrol,"29,404",1197,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,Noida,616890,CarDekho
+394,Honda,Honda City,i VTEC VX,2016,Petrol,"55,061",1497,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,Noida,725600,CarDekho
+395,Hyundai,Hyundai Xcent,1.2 CRDi S,2014,Diesel,"92,705",1186,"No Of Owner(s)
+1st Owner",Manual,25.4,"Max Power
+73.97bhp","Torque
+190.25nm",Sedan,Noida,311442,CarDekho
+396,Maruti,Maruti Swift Dzire,VDI,2019,Diesel,"52,212",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74.02bhp","Torque
+190Nm",Sedan,Noida,661500,CarDekho
+397,Hyundai,Hyundai Verna,1.6 CRDi S,2015,Diesel,"57,629",1582,"No Of Owner(s)
+2nd Owner",Manual,23.9,"Max Power
+126.2bhp","Torque
+259.9Nm",Sedan,Noida,500712,CarDekho
+398,Maruti,Maruti Swift Dzire,VDI,2015,Diesel,"88,285",1248,"No Of Owner(s)
+1st Owner",Manual,26.59,"Max Power
+74bhp","Torque
+190Nm",Sedan,Noida,456500,CarDekho
+399,Maruti,Maruti Swift Dzire,VDI,2012,Diesel,"116,238",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,Noida,313500,CarDekho
+400,Maruti,Maruti Swift Dzire,VDI,2013,Diesel,"95,912",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,Noida,365000,CarDekho
+401,Hyundai,Hyundai Verna,1.6 CRDi SX,2013,Diesel,"62,251",1582,"No Of Owner(s)
+1st Owner",Manual,23.9,"Max Power
+126.2bhp","Torque
+259.9Nm",Sedan,Noida,408500,CarDekho
+402,Maruti,Maruti Ciaz,ZDi Plus SHVS,2016,Diesel,"107,247",1248,"No Of Owner(s)
+1st Owner",Manual,28.09,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,Noida,566430,CarDekho
+403,Maruti,Maruti Ciaz,VDi Option SHVS,2016,Diesel,"55,985",1248,"No Of Owner(s)
+2nd Owner",Manual,28.09,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,Noida,501630,CarDekho
+404,Maruti,Maruti Swift Dzire,LDI,2013,Diesel,"136,786",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,Noida,352644,CarDekho
+405,Ford,Ford Figo Aspire,1.5 TDCi Titanium,2015,Diesel,"59,092",1498,"No Of Owner(s)
+1st Owner",Manual,25.83,"Max Power
+99bhp","Torque
+215Nm",Sedan,Noida,390000,CarDekho
+406,Maruti,Maruti Ciaz,VXi,2015,Petrol,"60,131",1373,"No Of Owner(s)
+1st Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,Noida,531500,CarDekho
+407,Maruti,Maruti Swift Dzire,VXI,2016,Petrol,"22,725",1197,"No Of Owner(s)
+1st Owner",Manual,20.85,"Max Power
+83.14bhp","Torque
+115Nm",Sedan,Noida,498742,CarDekho
+408,Hyundai,Hyundai Verna,1.6 VTVT S,2016,Petrol,"73,662",1591,"No Of Owner(s)
+1st Owner",Manual,17.01,"Max Power
+121.3bhp","Torque
+154.9Nm",Sedan,Noida,637833,CarDekho
+409,Toyota,Toyota Etios,GD,2013,Diesel,"80,471",1364,"No Of Owner(s)
+1st Owner",Manual,23.59,"Wheel Size
+15","Seats
+5",Sedan,Noida,346500,CarDekho
+410,Volkswagen,Volkswagen Vento,Diesel Comfortline,2012,Diesel,"75,505",1598,"No Of Owner(s)
+2nd Owner",Manual,20.54,"Max Power
+103.6bhp","Torque
+250Nm",Sedan,Noida,274500,CarDekho
+411,Hyundai,Hyundai Verna,1.6 SX VTVT,2012,Petrol,"44,385",1591,"No Of Owner(s)
+1st Owner",Manual,17.01,"Max Power
+121.3bhp","Torque
+154.9Nm",Sedan,Noida,426000,CarDekho
+412,Maruti,Maruti Ciaz,VDi,2015,Diesel,"78,667",1248,"No Of Owner(s)
+1st Owner",Manual,26.21,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,Noida,470000,CarDekho
+413,Maruti,Maruti Ciaz,ZDi Plus SHVS,2016,Diesel,"79,928",1248,"No Of Owner(s)
+1st Owner",Manual,28.09,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,Noida,606000,CarDekho
+414,Hyundai,Hyundai Verna,1.6 CRDi S Option,2015,Diesel,"33,619",1582,"No Of Owner(s)
+1st Owner",Manual,23.9,"Max Power
+126.32bhp","Torque
+259.8Nm",Sedan,Noida,614000,CarDekho
+415,Maruti,Maruti Swift Dzire,LDI,2018,Diesel,"36,883",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74.02bhp","Torque
+190Nm",Sedan,Noida,581388,CarDekho
+416,Maruti,Maruti Ciaz,VDi Plus SHVS,2016,Diesel,"76,072",1248,"No Of Owner(s)
+1st Owner",Manual,28.09,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,Noida,538000,CarDekho
+417,Maruti,Maruti Swift Dzire,VXI 1.2,2018,Petrol,"6,937",1197,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1197 CC","Max Power
+81.80bhp",Sedan,Noida,654000,CarDekho
+418,Volkswagen,Volkswagen Vento,1.2 TSI Highline AT,2018,Petrol,"53,738",1197,"No Of Owner(s)
+1st Owner",Automatic,18.19,"Max Power
+103.2bhp","Torque
+175Nm",Sedan,Noida,711000,CarDekho
+419,Honda,Honda City,i VTEC V,2016,Petrol,"37,257",1497,"No Of Owner(s)
+2nd Owner",Manual,17.8,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,Noida,669693,CarDekho
+420,Honda,Honda City,i DTEC VX,2015,Diesel,"38,708",1498,"No Of Owner(s)
+1st Owner",Manual,25.1,"Max Power
+98.6bhp","Torque
+200Nm",Sedan,Noida,636000,CarDekho
+421,Maruti,Maruti Swift Dzire,LDI,2018,Diesel,"54,348",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74.02bhp","Torque
+190Nm",Sedan,Noida,564500,CarDekho
+422,Hyundai,Hyundai Xcent,1.1 CRDi S,2014,Diesel,"114,389",1120,"No Of Owner(s)
+1st Owner",Manual,24.4,"Max Power
+71bhp","Torque
+180.4Nm",Sedan,Noida,327264,CarDekho
+423,Tata,Tata Tigor,1.2 Revotron XZ,2018,Petrol,"34,688",1199,"No Of Owner(s)
+1st Owner",Manual,20.3,"Max Power
+84bhp","Torque
+114Nm",Sedan,Noida,513916,CarDekho
+424,Maruti,Maruti Ciaz,1.4 Alpha,2017,Petrol,"24,237",1373,"No Of Owner(s)
+2nd Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,Noida,706884,CarDekho
+425,Maruti,Maruti Swift Dzire,VXI,2015,Petrol,"79,842",1197,"No Of Owner(s)
+1st Owner",Manual,20.85,"Max Power
+83.14bhp","Torque
+115Nm",Sedan,Noida,420500,CarDekho
+426,Honda,Honda City,1.5 S MT,2009,Petrol,"65,605",1497,"No Of Owner(s)
+2nd Owner",Manual,17,"Max Power
+118PS at 6,600 rpm","Torque
+146Nm at 4800 rpm",Sedan,Noida,251500,CarDekho
+427,Honda,Honda City,VX MT,2014,Petrol,"98,390",1498,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+119.35bhp","Torque
+145nm",Sedan,Noida,583500,CarDekho
+428,Maruti,Maruti Ciaz,VDi,2014,Diesel,"77,891",1248,"No Of Owner(s)
+1st Owner",Manual,26.21,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,Noida,507000,CarDekho
+429,Maruti,Maruti Ciaz,VXi,2016,Petrol,"24,540",1373,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1373 CC","Max Power
+91.1bhp",Sedan,Noida,692500,CarDekho
+430,Maruti,Maruti Swift Dzire,VXI 1.2 BS IV,2018,Petrol,"38,694",1197,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,Noida,579000,CarDekho
+431,Maruti,Maruti Ciaz,1.4 Alpha,2017,Petrol,"66,729",1373,"No Of Owner(s)
+1st Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,Noida,698000,CarDekho
+432,Maruti,Maruti Ciaz,1.4 Sigma,2017,Petrol,"26,793",1373,"No Of Owner(s)
+1st Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,Noida,680000,CarDekho
+433,Honda,Honda City,i VTEC CVT VX,2014,Petrol,"89,510",1497,"No Of Owner(s)
+1st Owner",,"e Type
+Zer","Engine
+1497 CC","Max Power
+117.3bhp",Sedan,Noida,617500,CarDekho
+434,Toyota,Toyota Etios,GD,2012,Diesel,"67,585",1364,"No Of Owner(s)
+1st Owner",Manual,23.59,"Wheel Size
+15","Seats
+5",Sedan,Noida,297000,CarDekho
+435,Maruti,Maruti Swift Dzire,AMT ZDI,2015,Diesel,"64,352",1248,"No Of Owner(s)
+2nd Owner",Automatic,26.59,"Max Power
+74bhp","Torque
+190Nm",Sedan,Noida,500000,CarDekho
+436,Honda,Honda City,VX CVT,2015,Petrol,"96,400",1497,"No Of Owner(s)
+1st Owner",Automatic,17.4,"Max Power
+117.6bhp","Torque
+145Nm",Sedan,Noida,676500,CarDekho
+437,Honda,Honda Amaze,E i-Dtech,2013,Diesel,"134,662",1498,"No Of Owner(s)
+1st Owner",Manual,25.8,"Max Power
+98.6bhp","Torque
+200Nm",Sedan,Noida,252500,CarDekho
+438,Maruti,Maruti Swift Dzire,VXi AT,2012,Petrol,"56,773",1197,"No Of Owner(s)
+2nd Owner",Automatic,17.4,"Max Power
+85.8bhp","Torque
+114Nm",Sedan,Noida,344760,CarDekho
+439,Hyundai,Hyundai Xcent,1.1 CRDi S Option,2014,Diesel,"65,427",1120,"No Of Owner(s)
+1st Owner",Manual,24.4,"Max Power
+71.01bhp","Torque
+180.4Nm",Sedan,Noida,348108,CarDekho
+440,Volkswagen,Volkswagen Ameo,1.2 MPI Highline,2016,Petrol,"39,784",1198,"No Of Owner(s)
+1st Owner",Manual,17,"Max Power
+73.75bhp","Torque
+110Nm",Sedan,Noida,495744,CarDekho
+441,Toyota,Toyota Etios,1.5 G,2017,Petrol,"55,752",1496,"No Of Owner(s)
+1st Owner",Manual,16.78,"Max Power
+88.73bhp","Torque
+132Nm",Sedan,Noida,439862,CarDekho
+442,Hyundai,Hyundai Xcent,1.1 CRDi S,2015,Diesel,"67,936",1120,"No Of Owner(s)
+1st Owner",Manual,24.4,"Max Power
+71bhp","Torque
+180.4Nm",Sedan,Noida,347244,CarDekho
+443,Honda,Honda Amaze,S i-VTEC,2019,Petrol,"21,276",1198,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+86.7bhp","Torque
+109Nm",Sedan,Noida,640430,CarDekho
+444,Volkswagen,Volkswagen Ameo,1.2 MPI Highline,2016,Petrol,"46,846",1198,"No Of Owner(s)
+1st Owner",Manual,17,"Max Power
+73.75bhp","Torque
+110Nm",Sedan,Noida,459500,CarDekho
+445,Honda,Honda Amaze,E i-VTEC,2019,Petrol,"24,667",1198,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+86.7bhp","Torque
+109Nm",Sedan,Noida,584000,CarDekho
+446,Maruti,Maruti Ciaz,1.4 AT Alpha,2018,Petrol,"21,160",1373,"No Of Owner(s)
+1st Owner",Automatic,19.12,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,Noida,844000,CarDekho
+447,Honda,Honda City,V MT,2019,Petrol,"28,860",1498,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+119.35bhp","Torque
+145nm",Sedan,Noida,940000,CarDekho
+448,Maruti,Maruti Ciaz,VXi Plus,2016,Petrol,"21,231",1373,"No Of Owner(s)
+1st Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,Noida,660948,CarDekho
+449,Volkswagen,Volkswagen Vento,Diesel Highline,2013,Diesel,"86,764",1598,"No Of Owner(s)
+1st Owner",Manual,20.54,"Max Power
+103.6bhp","Torque
+250Nm",Sedan,Noida,337500,CarDekho
+450,Hyundai,Hyundai Verna,VTVT 1.6 SX,2019,Petrol,"28,692",1591,"No Of Owner(s)
+1st Owner",Manual,17,"Max Power
+121.3bhp","Torque
+151Nm",Sedan,Noida,949000,CarDekho
+451,Honda,Honda City,i VTEC V,2015,Petrol,"57,857",1497,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,Noida,561500,CarDekho
+452,Maruti,Maruti Swift Dzire,LXI Option,2016,Petrol,"35,687",1197,"No Of Owner(s)
+1st Owner",Manual,20.85,"Max Power
+83.14bhp","Torque
+115Nm",Sedan,Noida,412500,CarDekho
+453,Honda,Honda City,i VTEC E,2014,Petrol,"52,951",1497,"No Of Owner(s)
+2nd Owner",Manual,17.8,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,Noida,511500,CarDekho
+454,Honda,Honda City,i VTEC V,2015,Petrol,"104,077",1497,"No Of Owner(s)
+1st Owner",Manual,17.4,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,Noida,541500,CarDekho
+455,Honda,Honda Amaze,E i-VTEC,2019,Petrol,"5,659",1198,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+86.7bhp","Torque
+109Nm",Sedan,Noida,607343,CarDekho
+456,Hyundai,Hyundai Xcent,1.2 VTVT SX,2019,Petrol,"23,435",1197,"No Of Owner(s)
+1st Owner",Manual,20.14,"Max Power
+81.86bhp","Torque
+113.75nm",Sedan,Noida,559500,CarDekho
+457,Volkswagen,Volkswagen Ameo,1.2 MPI Trendline,2017,Petrol,"41,665",1198,"No Of Owner(s)
+2nd Owner",Manual,17,"Max Power
+73.75bhp","Torque
+110Nm",Sedan,Noida,381500,CarDekho
+458,Maruti,Maruti Swift Dzire,VXI,2014,Petrol,"89,888",1197,"No Of Owner(s)
+1st Owner",Manual,19.1,"Max Power
+85.8bhp","Torque
+114Nm",Sedan,Noida,372000,CarDekho
+459,Honda,Honda Amaze,S Option i-VTEC,2017,Petrol,"65,080",1198,"No Of Owner(s)
+2nd Owner",Manual,17.8,"Max Power
+86.7bhp","Torque
+109Nm",Sedan,Noida,424000,CarDekho
+460,Honda,Honda City,i DTEC SV,2014,Diesel,"59,218",1498,"No Of Owner(s)
+1st Owner",Manual,26,"Max Power
+98.6bhp","Torque
+200Nm",Sedan,Noida,467000,CarDekho
+461,Hyundai,Hyundai Verna,CRDi 1.6 SX Option,2018,Diesel,"51,141",1582,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+126.2bhp","Torque
+259.87nm",Sedan,Noida,960000,CarDekho
+462,Maruti,Maruti Ciaz,Alpha Automatic BSIV,2018,Petrol,"34,473",1462,"No Of Owner(s)
+1st Owner",Automatic,20.28,"Max Power
+103.25bhp","Torque
+138Nm",Sedan,Noida,908000,CarDekho
+463,Hyundai,Hyundai Xcent,1.2 CRDi E Plus,2018,Diesel,"45,989",1186,"No Of Owner(s)
+1st Owner",Manual,25.4,"Max Power
+73.97bhp","Torque
+190.24nm",Sedan,Noida,486240,CarDekho
+464,Honda,Honda Accord,2.4 A/T,2013,Petrol,"46,121",2354,"No Of Owner(s)
+1st Owner",Automatic,11.7,"Max Power
+177.6bhp","Torque
+222Nm",Sedan,Noida,607000,CarDekho
+465,Honda,Honda Amaze,S Petrol BSIV,2019,Petrol,"31,040",1199,"No Of Owner(s)
+1st Owner",Manual,19.5,"Max Power
+88.76bhp","Torque
+110Nm",Sedan,Noida,639500,CarDekho
+466,Honda,Honda Amaze,V Petrol BSIV,2019,Petrol,"49,218",1199,"No Of Owner(s)
+1st Owner",Manual,19.5,"Max Power
+88.76bhp","Torque
+110Nm",Sedan,Noida,633000,CarDekho
+467,Maruti,Maruti Ciaz,VXi Plus,2017,Petrol,"53,764",1373,"No Of Owner(s)
+1st Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,Noida,579336,CarDekho
+468,Maruti,Maruti Ciaz,1.4 Delta,2017,Petrol,"19,142",1373,"No Of Owner(s)
+1st Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,Noida,697500,CarDekho
+469,Honda,Honda Amaze,S i-VTEC,2019,Petrol,"22,185",1198,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+86.7bhp","Torque
+109Nm",Sedan,Noida,643680,CarDekho
+470,Honda,Honda Amaze,VX Diesel BSIV,2018,Diesel,"55,790",1498,"No Of Owner(s)
+1st Owner",Manual,27.4,"Max Power
+98.63bhp","Torque
+200Nm",Sedan,Noida,607500,CarDekho
+471,Volkswagen,Volkswagen Ameo,1.0 MPI Trendline,2019,Petrol,"61,925",999,"No Of Owner(s)
+2nd Owner",Manual,19.44,"Max Power
+75bhp","Torque
+95Nm",Sedan,Noida,528144,CarDekho
+472,Maruti,Maruti Swift Dzire,LDI,2015,Diesel,"82,477",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,Noida,272000,CarDekho
+473,Maruti,Maruti Swift Dzire,VXI,2016,Petrol,"55,795",1197,"No Of Owner(s)
+1st Owner",Manual,20.85,"Max Power
+83.14bhp","Torque
+115Nm",Sedan,Noida,478000,CarDekho
+474,Honda,Honda City,V CVT,2018,Petrol,"14,856",1498,"No Of Owner(s)
+1st Owner",Automatic,18.4,"Max Power
+119.35bhp","Torque
+145nm",Sedan,Noida,1057500,CarDekho
+475,Toyota,Toyota Yaris,G CVT,2019,Petrol,"5,021",1496,"No Of Owner(s)
+1st Owner",Automatic,17.8,"Max Power
+105.94bhp","Torque
+140Nm",Sedan,Noida,1017390,CarDekho
+476,Honda,Honda Amaze,S i-Dtech,2013,Diesel,"32,832",1498,"No Of Owner(s)
+1st Owner",Manual,25.8,"Max Power
+98.6bhp","Torque
+200Nm",Sedan,Noida,273500,CarDekho
+477,Honda,Honda Amaze,V Petrol,2018,Petrol,"19,549",1199,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+88.76bhp","Torque
+110Nm",Sedan,Noida,654500,CarDekho
+478,Maruti,Maruti Swift Dzire,VXI 1.2,2017,Petrol,"36,197",1197,"No Of Owner(s)
+1st Owner",Manual,21.21,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,Noida,541500,CarDekho
+479,Volkswagen,Volkswagen Vento,Diesel Highline,2012,Diesel,"85,123",1598,"No Of Owner(s)
+1st Owner",Manual,20.54,"Max Power
+103.6bhp","Torque
+250Nm",Sedan,Noida,307500,CarDekho
+480,Hyundai,Hyundai Elantra,CRDi SX AT,2013,Diesel,"66,175",1582,"No Of Owner(s)
+1st Owner",Automatic,19.5,"Max Power
+126.24bhp","Torque
+259.87Nm",Sedan,Noida,554820,CarDekho
+481,Nissan,Nissan Sunny,Diesel XL,2013,Diesel,"54,251",1461,"No Of Owner(s)
+1st Owner",Manual,21.64,"Max Power
+84.8bhp","Torque
+200Nm",Sedan,Noida,275290,CarDekho
+482,Hyundai,Hyundai Verna,VTVT 1.6 SX,2018,Petrol,"8,742",1591,"No Of Owner(s)
+1st Owner",Manual,17,"Max Power
+121.3bhp","Torque
+151Nm",Sedan,Noida,891726,CarDekho
+483,Honda,Honda City,i VTEC CVT VX,2015,Petrol,"79,502",1497,"No Of Owner(s)
+1st Owner",Automatic,18,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,Noida,690772,CarDekho
+484,Maruti,Maruti Swift Dzire,VDI,2017,Diesel,"41,508",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74.02bhp","Torque
+190Nm",Sedan,Noida,585000,CarDekho
+485,Honda,Honda City,i VTEC V,2015,Petrol,"78,296",1497,"No Of Owner(s)
+2nd Owner",Manual,17.4,"Max Power
+117.3bhp","Torque
+145Nm",Sedan,Noida,541681,CarDekho
+486,Toyota,Toyota Corolla Altis,D-4D JS,2013,Diesel,"51,307",1364,"No Of Owner(s)
+2nd Owner",Manual,21.43,"Max Power
+87.2bhp","Torque
+205Nm",Sedan,Noida,754500,CarDekho
+487,Skoda,Skoda Rapid,1.6 TDI Elegance,2014,Diesel,"67,574",1598,"No Of Owner(s)
+1st Owner",Manual,20.5,"Max Power
+103.5bhp","Torque
+250Nm",Sedan,Noida,356000,CarDekho
+488,Toyota,Toyota Corolla Altis,VL AT,2015,Petrol,"43,241",1798,"No Of Owner(s)
+1st Owner",Automatic,14.28,"Max Power
+138.03bhp","Torque
+173Nm",Sedan,Noida,936500,CarDekho
+489,Toyota,Toyota Etios,GD,2012,Diesel,"78,536",1364,"No Of Owner(s)
+2nd Owner",Manual,23.59,"Wheel Size
+15","Seats
+5",Sedan,Noida,251500,CarDekho
+490,Toyota,Toyota Corolla Altis,1.8 VL AT,2011,Petrol,"94,280",1794,"No Of Owner(s)
+2nd Owner",Automatic,14.53,"Max Power
+138.1bhp","Torque
+173Nm",Sedan,Noida,429000,CarDekho
+491,Honda,Honda Civic,1.8 V AT,2011,Petrol,"101,021",1799,"No Of Owner(s)
+2nd Owner",Automatic,12.9,"Max Power
+130bhp","Torque
+172Nm",Sedan,Noida,316500,CarDekho
+492,Hyundai,Hyundai Xcent,1.2 Kappa SX Option,2014,Petrol,"35,706",1197,"No Of Owner(s)
+2nd Owner",Manual,19.1,"Max Power
+82bhp","Torque
+114Nm",Sedan,Noida,352500,CarDekho
+493,Honda,Honda Amaze S i-Vtech,,2014,Petrol,"66,000",1198,First Owner,Manual,18.0,"Max Power
+86.7 bhp","Torque
+109Nm@ 4500rpm",Sedan,Noida,380000,CarDekho
+494,Hyundai,Hyundai Xcent 1.1 CRDi SX,,2015,Diesel,"59,000",1120,First Owner,Manual,24.4,"Max Power
+71 bhp","Torque
+180.4Nm@ 1750-2500rpm",Sedan,Noida,409999,CarDekho
+495,Honda,Honda Amaze E i-Vtech,,2015,Petrol,"65,000",1198,First Owner,Manual,18.0,"Max Power
+86.7 bhp","Torque
+109Nm@ 4500rpm",Sedan,Noida,395000,CarDekho
+496,Ford,Ford Fiesta Classic 1.4 Duratorq CLXI,,2011,Diesel,"77,000",1399,First Owner,Manual,17.8,"Max Power
+67 bhp","Torque
+160Nm@ 2000rpm",Sedan,Noida,250000,CarDekho
+497,Toyota,Toyota Etios G,,2011,Petrol,"35,000",1496,First Owner,Manual,17.6,"Max Power
+88.73 bhp","Torque
+132Nm@ 3000rpm",Sedan,Noida,290000,CarDekho
+498,Honda,Honda Amaze 2016-2021 S Petrol,,2015,Petrol,"38,774",1199,First Owner,Manual,18.6,"Max Power
+88.76 bhp","Torque
+110Nm@ 4800rpm",Sedan,Noida,420000,CarDekho
+499,Honda,Honda City 2017-2020 GXi,,2008,Petrol,"68,000",1497,First Owner,Manual,17.7,"Max Power
+78 bhp","Torque
+12.7@ 2,700(kgm@ rpm)",Sedan,Noida,154000,CarDekho
+500,Volkswagen,Volkswagen Vento Petrol Highline,,2012,Petrol,"68,000",1598,First Owner,Manual,15.04,"Max Power
+103.6 bhp","Torque
+153Nm@ 3800rpm",Sedan,Noida,320000,CarDekho
+501,Volkswagen,Volkswagen Ameo 1.2 MPI Comfortline,,2017,Petrol,"11,894",1198,First Owner,Manual,17.0,"Max Power
+73.75 bhp","Torque
+110Nm@ 3750rpm",Sedan,Noida,600000,CarDekho
+502,Honda,Honda City 1.5 S AT,,2012,Petrol,"75,000",1497,First Owner,Automatic,16.8,"Max Power
+118 bhp","Torque
+146Nm at 4800 rpm",Sedan,Noida,446000,CarDekho
+503,Tata,Tata Zest Revotron 1.2T XM,,2014,Petrol,"72,000",1193,First Owner,Manual,17.57,"Max Power
+88.7 bhp","Torque
+140Nm@ 1500-4000rpm",Sedan,Noida,345000,CarDekho
+504,Honda,Honda City 1.5 S AT,,2013,Petrol,"68,000",1497,First Owner,Automatic,16.8,"Max Power
+118 bhp","Torque
+146Nm at 4800 rpm",Sedan,Noida,455000,CarDekho
+505,Honda,Honda City i VTEC V,,2012,Petrol,"75,000",1497,Second Owner,Manual,17.4,"Max Power
+117.3 bhp","Torque
+145Nm@ 4600rpm",Sedan,Noida,355000,CarDekho
+506,Fiat,Fiat Linea 1.3 Dynamic,,2013,Diesel,"50,000",1248,Second Owner,Manual,20.4,"Max Power
+91.2 bhp","Torque
+209Nm@ 2000rpm",Sedan,Noida,250000,CarDekho
+507,Volkswagen,Volkswagen Ameo 1.2 MPI Comfortline Plus,,2019,Petrol,"19,000",1198,First Owner,Manual,17.0,"Max Power
+73.75 bhp","Torque
+110Nm@ 3750rpm",Sedan,Noida,540000,CarDekho
+508,Honda,Honda Amaze S i-Vtech,,2014,Petrol,"15,916",1198,Second Owner,Manual,18.0,"Max Power
+86.7 bhp","Torque
+109Nm@ 4500rpm",Sedan,Noida,390000,CarDekho
+509,Hyundai,Hyundai Xcent 1.2 Kappa Base,,2015,Petrol,"47,759",1197,Second Owner,Manual,19.1,"Max Power
+82 bhp","Torque
+114Nm@ 4000rpm",Sedan,Noida,316000,CarDekho
+510,Hyundai,Hyundai Verna 1.6 EX VTVT,,2011,Petrol,"93,960",1591,First Owner,Manual,17.01,"Max Power
+121.3 bhp","Torque
+154.9Nm@ 4200rpm",Sedan,Noida,416000,CarDekho
+511,Mercedes-Benz,Mercedes-Benz E-Class E250 CDI Avantgarde,,2013,Diesel,"64,000",2143,Third Owner,Automatic,14.21,"Max Power
+203 bhp","Torque
+500Nm@ 1600-1800rpm",Sedan,Noida,1475000,CarDekho
+512,Maruti,Maruti Ciaz ZDi Option,,2015,Diesel,"75,000",1248,First Owner,Manual,26.21,"Max Power
+88.50 bhp","Torque
+200Nm@ 1750rpm",Sedan,Noida,575000,CarDekho
+513,Hyundai,Hyundai Verna CRDi 1.6 SX Option,,2018,Diesel,"60,212",1582,First Owner,Manual,22.0,"Max Power
+126.2 bhp","Torque
+259.87nm@ 1500-3000rpm",Sedan,Noida,1150000,CarDekho
+514,Fiat,Fiat Linea 1.3 Multijet Dynamic,,2014,Diesel,"52,000",1248,First Owner,Manual,20.4,"Max Power
+91.7 bhp","Torque
+209Nm@ 2000rpm",Sedan,Noida,360000,CarDekho
+515,Hyundai,Hyundai Verna VTVT 1.6 SX Option,,2019,Petrol,"35,000",1591,First Owner,Manual,17.0,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",Sedan,Noida,1125000,CarDekho
+516,Hyundai,Hyundai Verna VTVT 1.6 SX,,2018,Petrol,"37,000",1591,First Owner,Manual,17.0,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",Sedan,Noida,900000,CarDekho
+517,Maruti,Maruti Swift Dzire VDI,,2012,Diesel,"60,000",1248,First Owner,Manual,23.4,"Max Power
+74 bhp","Torque
+190Nm@ 2000rpm",Sedan,Noida,350000,CarDekho
+518,Honda,Honda City i DTEC SV,,2014,Diesel,"70,000",1498,First Owner,Manual,26.0,"Max Power
+98.6 bhp","Torque
+200Nm@ 1750rpm",Sedan,Noida,430000,CarDekho
+519,Chevrolet,Chevrolet Cruze LTZ,,2015,Diesel,"73,000",1998,First Owner,Manual,17.9,"Max Power
+163.7 bhp","Torque
+360Nm@ 2000rpm",Sedan,Noida,600000,CarDekho
+520,Honda,Honda City i DTec VX,,2017,Diesel,"73,000",1498,Second Owner,Manual,26.0,"Max Power
+98.6 bhp","Torque
+200Nm@ 1750rpm",Sedan,Noida,800000,CarDekho
+521,Maruti,Maruti Swift Dzire VDi,,2012,Diesel,"1,00,000",1248,Second Owner,Manual,19.3,"Max Power
+73.9 bhp","Torque
+190Nm@ 2000rpm",Sedan,Noida,300000,CarDekho
+522,Maruti,Maruti Swift Dzire Vdi BSIV,,2011,Diesel,"80,000",1248,First Owner,Manual,19.3,"Max Power
+73.9 bhp","Torque
+190Nm@ 2000rpm",Sedan,Noida,190000,CarDekho
+523,Honda,Honda City i VTEC CVT VX,,2015,Petrol,"1,20,000",1497,First Owner,Automatic,18.0,"Max Power
+117.3 bhp","Torque
+145Nm@ 4600rpm",Sedan,Noida,750000,CarDekho
+524,Honda,Honda City 2017-2020 GXi,,2008,Petrol,"65,000",1497,First Owner,Manual,17.7,"Max Power
+78 bhp","Torque
+12.7@ 2,700(kgm@ rpm)",Sedan,Noida,250000,CarDekho
+525,Honda,Honda City i DTEC E,,2014,Diesel,"90,000",1498,First Owner,Manual,26.0,"Max Power
+98.6 bhp","Torque
+200Nm@ 1750rpm",Sedan,Noida,442000,CarDekho
+526,Honda,Honda City V MT,,2012,Petrol,"50,000",1497,First Owner,Manual,16.8,"Max Power
+116.3 bhp","Torque
+146Nm@ 4800rpm",Sedan,Noida,400000,CarDekho
+527,Mercedes-Benz,Mercedes-Benz CLA 200 CDI Sport,,2017,Diesel,"35,000",2143,First Owner,Automatic,17.9,"Max Power
+136 bhp","Torque
+300Nm@ 1600-3000rpm",Sedan,Noida,2200000,CarDekho
+528,Honda,Honda Amaze S i-Vtech,,2013,Petrol,"96,000",1198,First Owner,Manual,18.0,"Max Power
+86.7 bhp","Torque
+109Nm@ 4500rpm",Sedan,Noida,275000,CarDekho
+529,Maruti,Maruti Ciaz 1.4 AT Delta,,2017,Petrol,"20,000",1373,First Owner,Automatic,19.12,"Max Power
+91.1 bhp","Torque
+130Nm@ 4000rpm",Sedan,Noida,700000,CarDekho
+530,Maruti,Maruti Swift Dzire VXI,,2014,Petrol,"1,01,820",1197,First Owner,Manual,19.1,"Max Power
+85.8 bhp","Torque
+114Nm@ 4000rpm",Sedan,Noida,325000,CarDekho
+531,Toyota,Toyota Etios VXD,,2015,Diesel,"1,20,000",1364,First Owner,Manual,23.59,"Max Power
+67.04 bhp","Torque
+170Nm@ 1800-2400rpm",Sedan,Noida,400000,CarDekho
+532,Hyundai,Hyundai Verna 1.6 VTVT,,2012,Petrol,"1,03,000",1591,First Owner,Manual,17.01,"Max Power
+121.3 bhp","Torque
+154.9Nm@ 4200rpm",Sedan,Noida,330000,CarDekho
+533,Toyota,Toyota Corolla Altis 1.8 VL AT,,2010,Petrol,"89,658",1794,Third Owner,Automatic,14.53,"Max Power
+138.1 bhp","Torque
+173Nm@ 4000rpm",Sedan,Noida,333000,CarDekho
+534,Hyundai,Hyundai Xcent 2016-2017 VTVT Plus ABS,,2016,Petrol,"18,338",1197,First Owner,Manual,19.1,"Max Power
+82 bhp","Torque
+114Nm@ 4000rpm",Sedan,Noida,409000,CarDekho
+535,Honda,Honda City E,,2012,Petrol,"95,705",1497,First Owner,Manual,16.8,"Max Power
+116.3 bhp","Torque
+146Nm@ 4800rpm",Sedan,Noida,398000,CarDekho
+536,Hyundai,Hyundai Xcent 1.2 Kappa S,,2015,Petrol,"57,579",1197,First Owner,Manual,19.1,"Max Power
+82 bhp","Torque
+114Nm@ 4000rpm",Sedan,Noida,311000,CarDekho
+537,Honda,Honda Amaze 2016-2021 S i-VTEC,,2016,Petrol,"42,628",1198,First Owner,Manual,17.8,"Max Power
+86.7 bhp","Torque
+109Nm@ 4500rpm",Sedan,Noida,417000,CarDekho
+538,Maruti,Maruti Swift Dzire AMT VXI BS IV,,2018,Petrol,"44,188",1197,First Owner,Automatic,22.0,"Max Power
+81.80 bhp","Torque
+113Nm@ 4200rpm",Sedan,Noida,584000,CarDekho
+539,Toyota,Toyota Etios GD,,2014,Diesel,"51,417",1364,First Owner,Manual,23.59,"Max Power
+67.04 bhp","Torque
+170Nm@ 1800-2400rpm",Sedan,Noida,376000,CarDekho
+540,Honda,Honda Amaze S i-Vtech,,2015,Petrol,"65,873",1198,First Owner,Manual,18.0,"Max Power
+86.7 bhp","Torque
+109Nm@ 4500rpm",Sedan,Noida,379000,CarDekho
+541,Toyota,Toyota Corolla Altis 1.8 J,,2010,Petrol,"77,458",1798,Fourth & Above Owner,Manual,14.53,"Max Power
+138 bhp","Torque
+173Nm@ 4000rpm",Sedan,Noida,180000,CarDekho
+542,Hyundai,Hyundai Xcent 1.2 Kappa Base,,2016,Petrol,"63,926",1197,Second Owner,Manual,19.1,"Max Power
+82 bhp","Torque
+114Nm@ 4000rpm",Sedan,Noida,313000,CarDekho
+543,Maruti,Maruti Swift Dzire ZXI Plus BS IV,,2017,Petrol,"23,880",1197,First Owner,Manual,22.0,"Max Power
+81.80 bhp","Torque
+113Nm@ 4200rpm",Sedan,Noida,603000,CarDekho
+544,Maruti,Maruti Ciaz Alpha,,2019,Petrol,"36,190",1462,First Owner,Manual,20.65,"Max Power
+103.25 bhp","Torque
+138Nm@ 4400rpm",Sedan,Noida,860000,CarDekho
+545,Maruti,Maruti Ciaz VDI SHVS,,2016,Diesel,"55,000",1248,First Owner,Manual,28.09,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",Sedan,Noida,600000,CarDekho
+546,Maruti,Maruti Swift Dzire VXi,,2012,Petrol,"70,000",1298,Second Owner,Manual,17.5,"Max Power
+85.8 bhp","Torque
+114Nm@ 4000rpm",Sedan,Noida,260000,CarDekho
+547,Maruti,Maruti Swift Dzire VDi,,2010,Diesel,"1,40,000",1248,Second Owner,Manual,19.3,"Max Power
+73.9 bhp","Torque
+190Nm@ 2000rpm",Sedan,Noida,175000,CarDekho
+548,Maruti,Maruti Swift Dzire VDI,,2014,Diesel,"1,56,000",1248,First Owner,Manual,23.4,"Max Power
+74 bhp","Torque
+190Nm@ 2000rpm",Sedan,Noida,350000,CarDekho
+549,Honda,Honda City i DTec VX Option,,2016,Diesel,"65,000",1498,First Owner,Manual,26.0,"Max Power
+98.6 bhp","Torque
+200Nm@ 1750rpm",Sedan,Noida,750000,CarDekho
+550,Skoda,Skoda Rapid 1.6 MPI Style BSIV,,2017,Petrol,"86,000",1598,First Owner,Manual,14.3,"Max Power
+103.2 bhp","Torque
+153Nm@ 3750-3800rpm",Sedan,Noida,575000,CarDekho
+551,Honda,Honda Amaze S i-Dtech,,2013,Diesel,"1,48,000",1498,First Owner,Manual,25.8,"Max Power
+98.6 bhp","Torque
+200Nm@ 1750rpm",Sedan,Noida,225000,CarDekho
+552,Ford,Ford Ecosport,1.5 Diesel Trend BSIV,2017,Diesel,"83,789",1498,"No Of Owner(s)
+1st Owner",Manual,23,"Max Power
+98.96bhp","Torque
+205Nm",SUV,Noida,614000,CarDekho
+553,Hyundai,Hyundai Creta,1.6 VTVT S,2016,Petrol,"75,774",1591,"No Of Owner(s)
+1st Owner",Manual,15.29,"Max Power
+121.3bhp","Torque
+151Nm",SUV,Noida,789000,CarDekho
+554,Mahindra,Mahindra TUV 300,mHAWK100 T8,2016,Diesel,"28,313",1493,"No Of Owner(s)
+1st Owner",Manual,18.49,"Max Power
+100bhp","Torque
+240Nm",SUV,Noida,550500,CarDekho
+555,Ford,Ford Ecosport,1.5 Diesel Ambiente,2013,Diesel,"70,149",1498,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+98.96bhp","Torque
+215Nm",SUV,Noida,405000,CarDekho
+556,Mahindra,Mahindra Thar,DI 4X4,2017,Diesel,"41,468",2523,"No Of Owner(s)
+1st Owner",Manual,18.06,"Max Power
+63bhp","Torque
+195Nm",SUV,Noida,787000,CarDekho
+557,Ford,Ford Ecosport,1.5 Diesel Trend BSIV,2017,Diesel,"32,492",1498,"No Of Owner(s)
+1st Owner",,"e Type
+Zer","Engine
+1498 CC","Max Power
+98.96bhp",SUV,Noida,684500,CarDekho
+558,Ford,Ford Ecosport,Titanium Diesel,2018,Diesel,"70,944",1498,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+99.23bhp","Torque
+215nm",SUV,Noida,777500,CarDekho
+559,Mahindra,Mahindra KUV 100,mFALCON D75 K6,2017,Diesel,"81,577",1198,"No Of Owner(s)
+1st Owner",Manual,25.32,"Max Power
+77bhp","Torque
+190Nm",SUV,Noida,370500,CarDekho
+560,Maruti,Maruti SX4 S Cross,DDiS 320 Alpha,2016,Diesel,"64,465",1598,"No Of Owner(s)
+1st Owner",Manual,22.7,"Max Power
+118bhp","Torque
+320Nm",SUV,Noida,583440,CarDekho
+561,Mahindra,Mahindra TUV 300,T6,2015,Diesel,"18,044",1493,"No Of Owner(s)
+1st Owner",Manual,18.49,"Max Power
+100bhp","Torque
+240Nm",SUV,Noida,436500,CarDekho
+562,Ford,Ford Ecosport,1.5 DV5 MT Titanium,2015,Diesel,"86,059",1498,"No Of Owner(s)
+1st Owner",Manual,22.7,"Max Power
+89.84bhp","Torque
+204Nm",SUV,Noida,548000,CarDekho
+563,Ford,Ford Ecosport,1.5 Diesel Titanium,2016,Diesel,"55,404",1498,"No Of Owner(s)
+2nd Owner",,"e Type
+Third ","Engine
+1498 CC","Max Power
+98.96bhp",SUV,Noida,586000,CarDekho
+564,Ford,Ford Ecosport,1.5 Diesel Titanium BSIV,2015,Diesel,"36,775",1498,"No Of Owner(s)
+1st Owner",Manual,23,"Max Power
+98.96bhp","Torque
+205Nm",SUV,Noida,556000,CarDekho
+565,Ford,Ford Ecosport,1.5 Diesel Trend BSIV,2015,Diesel,"43,981",1498,"No Of Owner(s)
+1st Owner",Manual,23,"Max Power
+98.96bhp","Torque
+205Nm",SUV,Noida,500000,CarDekho
+566,Mahindra,Mahindra XUV500,W6 2WD,2014,Diesel,"55,405",2179,"No Of Owner(s)
+1st Owner",Manual,16,"Max Power
+140bhp","Torque
+330Nm",SUV,Noida,535500,CarDekho
+567,Hyundai,Hyundai Venue,SX Opt iMT,2021,Petrol,"11,420",998,"No Of Owner(s)
+1st Owner",Manual,18,"Max Power
+118.35bhp","Torque
+171.6Nm",SUV,Noida,1074500,CarDekho
+568,Mahindra,Mahindra Bolero,SLE,2018,Diesel,"25,420",2523,"No Of Owner(s)
+1st Owner",Manual,15.96,"Max Power
+62.1bhp","Torque
+195Nm",SUV,Noida,676508,CarDekho
+569,Ford,Ford Ecosport,1.5 Ti VCT MT Ambiente BSIV,2018,Petrol,"30,953",1499,"No Of Owner(s)
+1st Owner",Manual,15.85,"Max Power
+110.4bhp","Torque
+140Nm",SUV,Noida,743820,CarDekho
+570,Kia,Kia Sonet,HTX Turbo iMT,2021,Petrol,"2,896",998,"No Of Owner(s)
+1st Owner",Manual,18.2,"Max Power
+118.36bhp","Torque
+172nm",SUV,Noida,1139500,CarDekho
+571,Ford,Ford Ecosport,1.5 Petrol Titanium BSIV,2015,Petrol,"32,345",1497,"No Of Owner(s)
+1st Owner",Manual,17,"Max Power
+121.31bhp","Torque
+150Nm",SUV,Noida,685000,CarDekho
+572,Tata,Tata Nexon,1.5 Revotorq XZ Plus,2017,Diesel,"32,832",1497,"No Of Owner(s)
+1st Owner",Manual,21.5,"Max Power
+108.5bhp","Torque
+260Nm",SUV,Noida,684000,CarDekho
+573,Ford,Ford Ecosport,1.5 DV5 MT Titanium,2014,Diesel,"79,086",1498,"No Of Owner(s)
+2nd Owner",Manual,22.7,"Max Power
+89.84bhp","Torque
+204Nm",SUV,Noida,454596,CarDekho
+574,Ford,Ford Ecosport,1.5 Diesel Titanium,2016,Diesel,"55,404",1498,"No Of Owner(s)
+2nd Owner",,"e Type
+Third ","Engine
+1498 CC","Max Power
+98.96bhp",SUV,Noida,586000,CarDekho
+575,Ford,Ford Ecosport,1.5 Diesel Ambiente BSIV,2013,Diesel,"124,474",1498,"No Of Owner(s)
+1st Owner",Manual,23,"Max Power
+98.96bhp","Torque
+205Nm",SUV,Noida,367008,CarDekho
+576,Ford,Ford Ecosport,1.5 DV5 MT Titanium,2014,Diesel,"135,819",1498,"No Of Owner(s)
+1st Owner",Manual,22.7,"Max Power
+89.84bhp","Torque
+204Nm",SUV,Noida,449048,CarDekho
+577,Maruti,Maruti Vitara Brezza,ZDi,2017,Diesel,"33,434",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Noida,750000,CarDekho
+578,Ford,Ford Ecosport,1.5 DV5 MT Titanium,2013,Diesel,"70,802",1498,"No Of Owner(s)
+1st Owner",Manual,22.7,"Max Power
+89.84bhp","Torque
+204Nm",SUV,Noida,510540,CarDekho
+579,Renault,Renault Duster,110PS Diesel RxL,2015,Diesel,"106,169",1461,"No Of Owner(s)
+1st Owner",Manual,19.64,"Max Power
+108.45bhp","Torque
+245Nm",SUV,Noida,426840,CarDekho
+580,Renault,Renault Duster,110PS Diesel RxL AMT,2016,Diesel,"72,273",1461,"No Of Owner(s)
+1st Owner",Automatic,19.6,"Max Power
+108.45bhp","Torque
+245Nm",SUV,Noida,638500,CarDekho
+581,Ford,Ford Ecosport,1.5 Diesel Titanium,2014,Diesel,"85,420",1498,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+98.96bhp","Torque
+215Nm",SUV,Noida,480667,CarDekho
+582,Maruti,Maruti Vitara Brezza,VDi Option,2017,Diesel,"58,713",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Noida,667500,CarDekho
+583,Ford,Ford Ecosport,Ambiente Diesel,2015,Diesel,"124,052",1498,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+99.23bhp","Torque
+215Nm",SUV,Noida,459780,CarDekho
+584,Maruti,Maruti Vitara Brezza,ZDi,2017,Diesel,"21,355",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Noida,761500,CarDekho
+585,Ford,Ford Ecosport,1.5 DV5 MT Titanium Optional,2013,Diesel,"91,401",1498,"No Of Owner(s)
+2nd Owner",Manual,22.7,"Max Power
+89.84bhp","Torque
+204Nm",SUV,Noida,418000,CarDekho
+586,Hyundai,Hyundai Venue,SX Opt Diesel BSIV,2019,Diesel,"54,289",1396,"No Of Owner(s)
+1st Owner",Manual,23.7,"Max Power
+88.7bhp","Torque
+220Nm",SUV,Noida,1052500,CarDekho
+587,Maruti,Maruti Vitara Brezza,LDi Option,2016,Diesel,"77,406",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Noida,661250,CarDekho
+588,Ford,Ford Ecosport,1.5 Ti VCT AT Titanium,2015,Petrol,"76,725",1499,"No Of Owner(s)
+1st Owner",Automatic,16.5,"Max Power
+110bhp","Torque
+140Nm",SUV,Noida,656009,CarDekho
+589,Ford,Ford Ecosport,1.5 Diesel Trend,2017,Diesel,"22,757",1498,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1498 CC","Max Power
+98.96bhp",SUV,Noida,756000,CarDekho
+590,Ford,Ford Ecosport,1.5 Ti VCT MT Titanium BSIV,2016,Petrol,"57,729",1499,"No Of Owner(s)
+1st Owner",Manual,15.85,"Max Power
+110.4bhp","Torque
+140Nm",SUV,Noida,646920,CarDekho
+591,Maruti,Maruti Vitara Brezza,ZDi Plus Dual Tone,2016,Diesel,"85,937",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Noida,630500,CarDekho
+592,Ford,Ford Ecosport,1.5 Diesel Titanium Plus BSIV,2018,Diesel,"80,505",1498,"No Of Owner(s)
+2nd Owner",Manual,23,"Max Power
+98.96bhp","Torque
+205Nm",SUV,Noida,738000,CarDekho
+593,Maruti,Maruti Vitara Brezza,ZDi,2017,Diesel,"82,513",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Noida,730752,CarDekho
+594,Ford,Ford Ecosport,1.5 Diesel Trend,2016,Diesel,"51,281",1498,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+98.96bhp","Torque
+215Nm",SUV,Noida,545472,CarDekho
+595,Ford,Ford Ecosport,1.5 Diesel Ambiente,2016,Diesel,"94,151",1498,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+98.96bhp","Torque
+215Nm",SUV,Noida,558816,CarDekho
+596,Maruti,Maruti Vitara Brezza,VDi,2017,Diesel,"57,301",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Noida,706076,CarDekho
+597,Honda,Honda WR-V,i-DTEC S,2018,Diesel,"61,372",1498,"No Of Owner(s)
+1st Owner",Manual,25.5,"Max Power
+98.6bhp","Torque
+200Nm",SUV,Noida,669500,CarDekho
+598,Maruti,Maruti Vitara Brezza,VDi,2017,Diesel,"71,848",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Noida,698000,CarDekho
+599,Maruti,Maruti Vitara Brezza,ZDi Plus Dual Tone,2018,Diesel,"42,092",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Noida,884000,CarDekho
+600,Hyundai,Hyundai Venue,SX Diesel BSIV,2019,Diesel,"58,169",1396,"No Of Owner(s)
+1st Owner",Manual,23.7,"Max Power
+88.76bhp","Torque
+219.6Nm",SUV,Noida,990552,CarDekho
+601,Maruti,Maruti Vitara Brezza,ZDi,2016,Diesel,"95,655",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Noida,635500,CarDekho
+602,Maruti,Maruti Vitara Brezza,ZXI,2020,Petrol,"27,675",1462,"No Of Owner(s)
+1st Owner",Manual,17.03,"Max Power
+103.26bhp","Torque
+138nm",SUV,Noida,935202,CarDekho
+603,Honda,Honda BR-V,i-VTEC V MT,2016,Petrol,"42,227",1497,"No Of Owner(s)
+2nd Owner",Manual,15.4,"Max Power
+117.3bhp","Torque
+145Nm",SUV,Noida,609784,CarDekho
+604,Ford,Ford Ecosport,1.5 Petrol Titanium AT,2016,Petrol,"86,546",1496,"No Of Owner(s)
+2nd Owner",,"e Type
+Third Party insu","Engine
+1496 CC","Max Power
+120.69bhp",SUV,Noida,568000,CarDekho
+605,Renault,Renault Duster,85PS Diesel RxL,2012,Diesel,"57,263",1461,"No Of Owner(s)
+2nd Owner",Manual,20.45,"Max Power
+83.8bhp","Torque
+200Nm",SUV,Noida,322000,CarDekho
+606,Tata,Tata Nexon,1.5 Revotorq XZ Plus,2018,Diesel,"98,551",1497,"No Of Owner(s)
+1st Owner",Manual,21.5,"Max Power
+108.5bhp","Torque
+260Nm",SUV,Noida,655908,CarDekho
+607,Nissan,Nissan Terrano,XL 110 PS,2013,Diesel,"121,381",1461,"No Of Owner(s)
+2nd Owner",Manual,19.01,"Max Power
+108.5bhp","Torque
+248Nm",SUV,Noida,320527,CarDekho
+608,Nissan,Nissan Terrano,XL Plus 85 PS,2018,Diesel,"55,245",1461,"No Of Owner(s)
+1st Owner",Manual,20.45,"Max Power
+83.8bhp","Torque
+200Nm",SUV,Noida,722868,CarDekho
+609,Hyundai,Hyundai Creta,1.4 E Plus,2018,Diesel,"55,536",1396,"No Of Owner(s)
+1st Owner",Manual,22.1,"Max Power
+88.7bhp","Torque
+219.7Nm",SUV,Noida,912500,CarDekho
+610,Maruti,Maruti Vitara Brezza,ZDi AMT,2019,Diesel,"49,697",1248,"No Of Owner(s)
+1st Owner",,"e Type
+Zer","Engine
+1248 CC","Max Power
+88.5bhp",SUV,Noida,847000,CarDekho
+611,Renault,Renault Duster,110PS Diesel RxL,2015,Diesel,"106,169",1461,"No Of Owner(s)
+1st Owner",Manual,19.64,"Max Power
+108.45bhp","Torque
+245Nm",SUV,Noida,426840,CarDekho
+612,Nissan,Nissan Terrano,XL 110 PS,2013,Diesel,"121,381",1461,"No Of Owner(s)
+2nd Owner",Manual,19.01,"Max Power
+108.5bhp","Torque
+248Nm",SUV,Noida,320527,CarDekho
+613,Ford,Ford Ecosport,1.5 Diesel Ambiente,2016,Diesel,"94,151",1498,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+98.96bhp","Torque
+215Nm",SUV,Noida,558816,CarDekho
+614,Hyundai,Hyundai Creta,1.4 E Plus,2018,Diesel,"55,536",1396,"No Of Owner(s)
+1st Owner",Manual,22.1,"Max Power
+88.7bhp","Torque
+219.7Nm",SUV,Noida,912500,CarDekho
+615,Ford,Ford Ecosport,1.5 Petrol Titanium,2017,Petrol,"40,049",1496,"No Of Owner(s)
+1st Owner",,"e Type
+Zer","Engine
+1496 CC","Max Power
+120.69bhp",SUV,Noida,679000,CarDekho
+616,Maruti,Maruti Vitara Brezza,ZXI,2020,Petrol,"27,675",1462,"No Of Owner(s)
+1st Owner",Manual,17.03,"Max Power
+103.26bhp","Torque
+138nm",SUV,Noida,935202,CarDekho
+617,Honda,Honda BR-V,i-VTEC V MT,2016,Petrol,"42,227",1497,"No Of Owner(s)
+2nd Owner",Manual,15.4,"Max Power
+117.3bhp","Torque
+145Nm",SUV,Noida,609784,CarDekho
+618,Honda,Honda WR-V,i-VTEC VX,2018,Petrol,"20,789",1199,"No Of Owner(s)
+1st Owner",Manual,17.5,"Max Power
+88.7bhp","Torque
+110Nm",SUV,Noida,782024,CarDekho
+619,Renault,Renault Duster,85PS Diesel RxL,2012,Diesel,"57,263",1461,"No Of Owner(s)
+2nd Owner",Manual,20.45,"Max Power
+83.8bhp","Torque
+200Nm",SUV,Noida,322000,CarDekho
+620,Tata,Tata Nexon,1.5 Revotorq XM,2018,Diesel,"41,492",1497,"No Of Owner(s)
+1st Owner",Manual,21.5,"Max Power
+108.5bhp","Torque
+260Nm",SUV,Noida,624750,CarDekho
+621,Tata,Tata Nexon,1.5 Revotorq XZ Plus,2018,Diesel,"98,551",1497,"No Of Owner(s)
+1st Owner",Manual,21.5,"Max Power
+108.5bhp","Torque
+260Nm",SUV,Noida,655908,CarDekho
+622,Hyundai,Hyundai Creta,1.4 E Plus,2017,Diesel,"48,067",1396,"No Of Owner(s)
+1st Owner",Manual,22.1,"Max Power
+88.7bhp","Torque
+219.7Nm",SUV,Noida,835000,CarDekho
+623,Hyundai,Hyundai Creta,1.4 E Plus,2017,Diesel,"39,977",1396,"No Of Owner(s)
+1st Owner",Manual,22.1,"Max Power
+88.7bhp","Torque
+219.7Nm",SUV,Noida,837000,CarDekho
+624,Honda,Honda WR-V,VX Diesel,2017,Diesel,"70,044",1498,"No Of Owner(s)
+1st Owner",Manual,23.7,"Max Power
+97.89bhp","Torque
+200nm",SUV,Noida,643000,CarDekho
+625,Tata,Tata Nexon,1.5 Revotorq XZ Plus,2017,Diesel,"115,229",1497,"No Of Owner(s)
+1st Owner",Manual,21.5,"Max Power
+108.5bhp","Torque
+260Nm",SUV,Noida,605000,CarDekho
+626,Hyundai,Hyundai Venue,SX Plus Turbo DCT BSIV,2019,Petrol,"21,474",998,"No Of Owner(s)
+1st Owner",Automatic,18.15,"Max Power
+118.35bhp","Torque
+171.6Nm",SUV,Noida,1064000,CarDekho
+627,Maruti,Maruti Vitara Brezza,ZDi AMT,2018,Diesel,"37,901",1248,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1248 CC","Max Power
+88.5bhp",SUV,Noida,906000,CarDekho
+628,Hyundai,Hyundai Venue,SX iMT,2020,Petrol,"13,293",998,"No Of Owner(s)
+1st Owner",Manual,18,"Max Power
+118.35bhp","Torque
+171.6Nm",SUV,Noida,998160,CarDekho
+629,Honda,Honda WR-V,i-VTEC S,2017,Petrol,351,1199,"No Of Owner(s)
+1st Owner",Manual,17.5,"Max Power
+88.7bhp","Torque
+110Nm",SUV,Noida,642482,CarDekho
+630,Honda,Honda CR-V,2.4 MT,2008,Petrol,"143,399",2354,"No Of Owner(s)
+1st Owner",Manual,10.8,"Max Power
+152 PS","Torque
+215 Nm",SUV,Noida,275000,CarDekho
+631,Renault,Renault Duster,85PS Diesel RxL,2012,Diesel,"388,500",1461,"No Of Owner(s)
+1st Owner",Manual,20.45,"Max Power
+83.8bhp","Torque
+200Nm",SUV,Noida,388500,CarDekho
+632,Maruti,Maruti Vitara Brezza,VDi Option,2016,Diesel,"78,612",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Noida,631500,CarDekho
+633,Ford,Ford Ecosport,1.5 Diesel Trend,2016,Diesel,"85,775",1498,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+98.96bhp","Torque
+215Nm",SUV,Noida,586500,CarDekho
+634,Mahindra,Mahindra Thar,DI 4X2,2017,Diesel,"27,048",2523,"No Of Owner(s)
+1st Owner",Manual,18.06,"Max Power
+63bhp","Torque
+182.5Nm",SUV,Noida,616500,CarDekho
+635,Maruti,Maruti Vitara Brezza,ZDi,2019,Diesel,"46,244",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Noida,842500,CarDekho
+636,Renault,Renault Duster,85PS Diesel RxL Plus,2014,Diesel,"65,675",1461,"No Of Owner(s)
+2nd Owner",Manual,20.45,"Max Power
+83.8bhp","Torque
+200Nm",SUV,Noida,332000,CarDekho
+637,Hyundai,Hyundai Creta,1.6 E Plus,2017,Petrol,"35,096",1591,"No Of Owner(s)
+1st Owner",Manual,15.8,"Max Power
+121.3bhp","Torque
+151Nm",SUV,Noida,821877,CarDekho
+638,Mahindra,Mahindra XUV500,W7,2019,Diesel,"47,798",2179,"No Of Owner(s)
+1st Owner",,"e Type
+Third ","Engine
+2179 CC","Max Power
+152.87bhp",SUV,Noida,1321242,CarDekho
+639,Hyundai,Hyundai Creta,1.6 CRDi AT S Plus,2017,Diesel,"51,742",1582,"No Of Owner(s)
+1st Owner",Automatic,17.01,"Max Power
+126.2bhp","Torque
+259.9Nm",SUV,Noida,986500,CarDekho
+640,Mahindra,Mahindra XUV500,W8 FWD,2015,Diesel,"73,490",2179,"No Of Owner(s)
+1st Owner",Manual,15.1,"Max Power
+140bhp","Torque
+330Nm",SUV,Noida,785000,CarDekho
+641,Mahindra,Mahindra XUV300,W6,2019,Petrol,"11,330",1197,"No Of Owner(s)
+1st Owner",Manual,17,"Max Power
+108.6bhp","Torque
+200Nm",SUV,Noida,779500,CarDekho
+642,Tata,Tata Nexon,1.5 Revotorq XZ Plus,2017,Diesel,"32,832",1497,"No Of Owner(s)
+1st Owner",Manual,21.5,"Max Power
+108.5bhp","Torque
+260Nm",SUV,Noida,684000,CarDekho
+643,Hyundai,Hyundai Creta,1.6 CRDi SX Plus,2015,Diesel,"119,103",1582,"No Of Owner(s)
+1st Owner",Manual,19.67,"Max Power
+126.2bhp","Torque
+259.9Nm",SUV,Noida,797500,CarDekho
+644,Toyota,Toyota Fortuner,4x2 AT,2014,Diesel,"139,752",2982,"No Of Owner(s)
+1st Owner",Automatic,12.55,"Max Power
+168.5bhp","Torque
+360Nm",SUV,Noida,1474500,CarDekho
+645,Mahindra,Mahindra TUV 300 T8,,2016,Diesel,"40,000",1493,First Owner,Manual,18.49,"Max Power
+100 bhp","Torque
+240Nm@ 1600-2800rpm",SUV,Noida,625000,CarDekho
+646,Ford,Ford EcoSport 1.5 DV5 MT Titanium,,2014,Diesel,"67,000",1498,First Owner,Manual,22.7,"Max Power
+89.84 bhp","Torque
+204Nm@ 2000-2750rpm",SUV,Noida,495000,CarDekho
+647,Ford,Ford EcoSport 1.5 DV5 MT Titanium,,2014,Diesel,"34,000",1498,First Owner,Manual,22.7,"Max Power
+89.84 bhp","Torque
+204Nm@ 2000-2750rpm",SUV,Noida,495000,CarDekho
+648,Renault,Renault Duster 85PS Diesel RxL Optional,,2013,Diesel,"35,400",1461,Third Owner,Manual,20.46,"Max Power
+83.8 bhp","Torque
+200Nm@ 1900rpm",SUV,Noida,300000,CarDekho
+649,Mahindra,Mahindra KUV 100 mFALCON D75 K6 5str,,2016,Diesel,"64,000",1198,First Owner,Manual,25.32,"Max Power
+77 bhp","Torque
+190Nm@ 1750-2250rpm",SUV,Noida,450000,CarDekho
+650,Mahindra,Mahindra XUV500 W10 AWD,,2017,Diesel,"54,000",2179,First Owner,Manual,16.0,"Max Power
+140 bhp","Torque
+330Nm@ 1600-2800rpm",SUV,Noida,1350000,CarDekho
+651,Mahindra,Mahindra Ssangyong Rexton RX7,,2013,Diesel,"75,000",2696,Second Owner,Automatic,11.18,"Max Power
+184 bhp","Torque
+402Nm@ 1600-3000rpm",SUV,Noida,599000,CarDekho
+652,Hyundai,Hyundai Creta 1.6 VTVT AT SX Plus,,2018,Petrol,"31,000",1591,Second Owner,Automatic,13.0,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",SUV,Noida,1175000,CarDekho
+653,Maruti,Maruti Vitara Brezza ZDi Plus Dual Tone,,2016,Diesel,"68,000",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,Noida,680000,CarDekho
+654,Maruti,Maruti Vitara Brezza VDi,,2019,Diesel,"37,000",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,Noida,830000,CarDekho
+655,Mahindra,Mahindra KUV 100 mFALCON D75 K4 Plus 5str,,2016,Diesel,"52,000",1198,First Owner,Manual,25.32,"Max Power
+77 bhp","Torque
+190Nm@ 1750-2250rpm",SUV,Noida,349000,CarDekho
+656,Honda,Honda WR-V i-VTEC S,,2018,Petrol,"45,408",1199,First Owner,Manual,17.5,"Max Power
+88.7 bhp","Torque
+110Nm@ 4800rpm",SUV,Noida,639000,CarDekho
+657,Ford,Ford EcoSport 1.5 Petrol Titanium Plus BSIV,,2019,Petrol,"21,000",1497,First Owner,Manual,17.0,"Max Power
+121.36 bhp","Torque
+150Nm@ 4500rpm",SUV,Noida,899000,CarDekho
+658,Hyundai,Hyundai Creta 1.6 CRDi SX Plus,,2015,Diesel,"75,000",1582,First Owner,Manual,19.67,"Max Power
+126.2 bhp","Torque
+259.9Nm@ 1900-2750rpm",SUV,Noida,825000,CarDekho
+659,Audi,Audi Q3 2.0 TDI Quattro Premium Plus,,2012,Diesel,"64,000",1968,Second Owner,Automatic,15.73,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",SUV,Noida,1275000,CarDekho
+660,Ford,Ford EcoSport 1.5 Ti VCT MT Titanium,,2013,Petrol,"52,000",1499,Second Owner,Manual,15.8,"Max Power
+110 bhp","Torque
+140Nm@ 4400rpm",SUV,Noida,490000,CarDekho
+661,Mahindra,Mahindra XUV500 AT W9 2WD,,2018,Diesel,"25,000",2179,First Owner,Automatic,16.0,"Max Power
+138 bhp","Torque
+330Nm@ 1600-2800rpm",SUV,Noida,1499000,CarDekho
+662,Hyundai,Hyundai Creta 1.6 CRDi SX Option,,2016,Diesel,"89,336",1582,First Owner,Manual,19.67,"Max Power
+126.2 bhp","Torque
+259.9Nm@ 1900-2750rpm",SUV,Noida,861000,CarDekho
+663,Toyota,Toyota Fortuner 4x4 MT,,2013,Diesel,"1,65,000",2982,First Owner,Manual,12.55,"Max Power
+168.5 bhp","Torque
+343Nm@ 1400-3400rpm",SUV,Noida,1250000,CarDekho
+664,Mahindra,Mahindra XUV500 W6 2WD,,2017,Diesel,"50,000",2179,First Owner,Manual,16.0,"Max Power
+140 bhp","Torque
+330Nm@ 1600-2800rpm",SUV,Noida,900000,CarDekho
+665,Maruti,Maruti Vitara Brezza ZDi,,2018,Diesel,"30,000",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,Noida,830000,CarDekho
+666,Maruti,Maruti Vitara Brezza VDi AMT,,2018,Diesel,"90,000",1248,First Owner,Automatic,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,Noida,700000,CarDekho
+667,Mahindra,Mahindra Scorpio 1.99 S6 Plus,,2016,Diesel,"90,000",1997,First Owner,Manual,15.4,"Max Power
+120 bhp","Torque
+280Nm@ 1800-2800rpm",SUV,Noida,1000000,CarDekho
+668,Tata,Tata Hexa XT,,2017,Diesel,"40,000",2179,First Owner,Manual,17.6,"Max Power
+153.86 bhp","Torque
+400Nm@ 1750-2500rpm",SUV,Noida,1300000,CarDekho
+669,Nissan,Nissan Terrano XE 85 PS,,2014,Diesel,"1,20,000",1461,First Owner,Manual,20.45,"Max Power
+83.8 bhp","Torque
+200Nm@ 1900rpm",SUV,Noida,415000,CarDekho
+670,Mahindra,Mahindra XUV500 W10 AWD,,2017,Diesel,"54,000",2179,First Owner,Manual,16.0,"Max Power
+140 bhp","Torque
+330Nm@ 1600-2800rpm",SUV,Noida,1350000,CarDekho
+671,Mahindra,Mahindra Ssangyong Rexton RX7,,2013,Diesel,"75,000",2696,Second Owner,Automatic,11.18,"Max Power
+184 bhp","Torque
+402Nm@ 1600-3000rpm",SUV,Noida,599000,CarDekho
+672,Hyundai,Hyundai Creta 1.6 VTVT AT SX Plus,,2018,Petrol,"31,000",1591,Second Owner,Automatic,13.0,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",SUV,Noida,1175000,CarDekho
+673,Maruti,Maruti Vitara Brezza ZDi Plus Dual Tone,,2016,Diesel,"68,000",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,Noida,680000,CarDekho
+674,Maruti,Maruti Vitara Brezza VDi,,2019,Diesel,"37,000",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,Noida,830000,CarDekho
+675,Mahindra,Mahindra KUV 100 mFALCON D75 K4 Plus 5str,,2016,Diesel,"52,000",1198,First Owner,Manual,25.32,"Max Power
+77 bhp","Torque
+190Nm@ 1750-2250rpm",SUV,Noida,349000,CarDekho
+676,Honda,Honda WR-V i-VTEC S,,2018,Petrol,"45,408",1199,First Owner,Manual,17.5,"Max Power
+88.7 bhp","Torque
+110Nm@ 4800rpm",SUV,Noida,639000,CarDekho
+677,Ford,Ford EcoSport 1.5 Petrol Titanium Plus BSIV,,2019,Petrol,"21,000",1497,First Owner,Manual,17.0,"Max Power
+121.36 bhp","Torque
+150Nm@ 4500rpm",SUV,Noida,899000,CarDekho
+678,Hyundai,Hyundai Creta 1.6 CRDi SX Plus,,2015,Diesel,"75,000",1582,First Owner,Manual,19.67,"Max Power
+126.2 bhp","Torque
+259.9Nm@ 1900-2750rpm",SUV,Noida,825000,CarDekho
+679,Audi,Audi Q3 2.0 TDI Quattro Premium Plus,,2012,Diesel,"64,000",1968,Second Owner,Automatic,15.73,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",SUV,Noida,1275000,CarDekho
+680,Ford,Ford EcoSport 1.5 Ti VCT MT Titanium,,2013,Petrol,"52,000",1499,Second Owner,Manual,15.8,"Max Power
+110 bhp","Torque
+140Nm@ 4400rpm",SUV,Noida,490000,CarDekho
+681,Mahindra,Mahindra XUV500 AT W9 2WD,,2018,Diesel,"25,000",2179,First Owner,Automatic,16.0,"Max Power
+138 bhp","Torque
+330Nm@ 1600-2800rpm",SUV,Noida,1499000,CarDekho
+682,Hyundai,Hyundai Creta 1.6 CRDi SX Option,,2016,Diesel,"89,336",1582,First Owner,Manual,19.67,"Max Power
+126.2 bhp","Torque
+259.9Nm@ 1900-2750rpm",SUV,Noida,861000,CarDekho
+683,Toyota,Toyota Fortuner 4x4 MT,,2013,Diesel,"1,65,000",2982,First Owner,Manual,12.55,"Max Power
+168.5 bhp","Torque
+343Nm@ 1400-3400rpm",SUV,Noida,1250000,CarDekho
+684,Mahindra,Mahindra XUV500 W6 2WD,,2017,Diesel,"50,000",2179,First Owner,Manual,16.0,"Max Power
+140 bhp","Torque
+330Nm@ 1600-2800rpm",SUV,Noida,900000,CarDekho
+685,Maruti,Maruti Vitara Brezza ZDi,,2018,Diesel,"30,000",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,Noida,830000,CarDekho
+686,Maruti,Maruti Vitara Brezza VDi AMT,,2018,Diesel,"90,000",1248,First Owner,Automatic,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,Noida,700000,CarDekho
+687,Mahindra,Mahindra Scorpio 1.99 S6 Plus,,2016,Diesel,"90,000",1997,First Owner,Manual,15.4,"Max Power
+120 bhp","Torque
+280Nm@ 1800-2800rpm",SUV,Noida,1000000,CarDekho
+688,Tata,Tata Hexa XT,,2017,Diesel,"40,000",2179,First Owner,Manual,17.6,"Max Power
+153.86 bhp","Torque
+400Nm@ 1750-2500rpm",SUV,Noida,1300000,CarDekho
+689,Nissan,Nissan Terrano XE 85 PS,,2014,Diesel,"1,20,000",1461,First Owner,Manual,20.45,"Max Power
+83.8 bhp","Torque
+200Nm@ 1900rpm",SUV,Noida,415000,CarDekho
+690,Toyota,Toyota Fortuner 4x4 MT,,2013,Diesel,"70,000",2982,First Owner,Manual,12.55,"Max Power
+168.5 bhp","Torque
+343Nm@ 1400-3400rpm",SUV,Noida,1350000,CarDekho
+691,Toyota,Toyota Fortuner 4x4 MT,,2013,Diesel,"70,000",2982,First Owner,Manual,12.55,"Max Power
+168.5 bhp","Torque
+343Nm@ 1400-3400rpm",SUV,Noida,1350000,CarDekho
+692,Renault,Renault Duster 85PS Diesel RxL,,2014,Diesel,"65,041",1461,First Owner,Manual,20.45,"Max Power
+83.8 bhp","Torque
+200Nm@ 1900rpm",SUV,Noida,397000,CarDekho
+693,Maruti,Maruti Vitara Brezza LDi,,2016,Diesel,"28,990",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,Noida,599000,CarDekho
+694,Hyundai,Hyundai Venue SX Opt Turbo,,2019,Petrol,"4,789",998,First Owner,Manual,18.27,"Max Power
+118.35 bhp","Torque
+171.6Nm@ 1500-4000rpm",SUV,Noida,1093000,CarDekho
+695,Nissan,Nissan Terrano XV 110 PS,,2014,Diesel,"85,542",1461,Second Owner,Manual,19.01,"Max Power
+108.5 bhp","Torque
+248Nm@ 2250rpm",SUV,Noida,432000,CarDekho
+696,Renault,Renault Duster 110PS Diesel RxL,,2012,Diesel,"1,70,000",1461,First Owner,Manual,19.01,"Max Power
+108.45 bhp","Torque
+248Nm@ 2250rpm",SUV,Noida,270000,CarDekho
+697,Hyundai,Hyundai Creta 1.4 CRDi Base,,2017,Diesel,"55,000",1396,First Owner,Manual,21.38,"Max Power
+88.7 bhp","Torque
+219.7Nm@ 1500-2750rpm",SUV,Noida,844000,CarDekho
+698,Mahindra,Mahindra Scorpio S6 Plus 7 Seater,,2016,Diesel,"80,000",2179,First Owner,Manual,15.4,"Max Power
+120 bhp","Torque
+280Nm@ 1800-2800rpm",SUV,Noida,850000,CarDekho
+699,Mahindra,Mahindra Scorpio 1.99 S4 Plus,,2017,Diesel,"60,000",1997,First Owner,Manual,15.4,"Max Power
+120 bhp","Torque
+280Nm@ 1800-2800rpm",SUV,Noida,850000,CarDekho
+700,Mahindra,Mahindra XUV500 W8 AWD,,2012,Diesel,"40,000",2179,First Owner,Manual,15.1,"Max Power
+140 bhp","Torque
+330Nm@ 1600-2800rpm",SUV,Noida,550000,CarDekho
+701,Audi,Audi Q7 2006-2020 3.0 TDI Quattro Premium Plus,,2014,Diesel,"88,000",2967,Second Owner,Automatic,12.07,"Max Power
+241.4 bhp","Torque
+550Nm@ 1750-2750rpm",SUV,Noida,2450000,CarDekho
+702,Honda,Honda Mobilio,V i-VTEC,2014,Petrol,"109,133",1497,"No Of Owner(s)
+1st Owner",Manual,17.3,"Max Power
+117.3bhp","Torque
+145Nm",MUV,Noida,470500,CarDekho
+703,Maruti,Maruti Ertiga,VDI,2015,Diesel,"129,346",1248,"No Of Owner(s)
+1st Owner",Manual,25.47,"Max Power
+88.50bhp","Torque
+200Nm",MUV,Noida,539000,CarDekho
+704,Maruti,Maruti Ertiga,SHVS VDI,2017,Diesel,"21,109",1248,"No Of Owner(s)
+1st Owner",Manual,24.52,"Max Power
+88.5bhp","Torque
+200Nm",MUV,Noida,758400,CarDekho
+705,Maruti,Maruti Ertiga,VDI,2014,Diesel,"72,395",1248,"No Of Owner(s)
+1st Owner",Manual,20.77,"Max Power
+88.76bhp","Torque
+200Nm",MUV,Noida,537000,CarDekho
+706,Maruti,Maruti Ertiga,SHVS ZDI,2018,Diesel,"61,500",1248,"No Of Owner(s)
+1st Owner",Manual,24.52,"Max Power
+88.5bhp","Torque
+200Nm",MUV,Noida,802500,CarDekho
+707,Renault,Renault Triber,RXT,2020,Petrol,"1,581",999,"No Of Owner(s)
+1st Owner",Manual,20,"Max Power
+71bhp","Torque
+96Nm",MUV,Noida,658500,CarDekho
+708,Renault,Renault Triber,RXT BSIV,2019,Petrol,"9,167",999,"No Of Owner(s)
+1st Owner",Manual,20,"Max Power
+72bhp","Torque
+96Nm",MUV,Noida,596500,CarDekho
+709,Toyota,Toyota Innova,2.5 GX (Diesel) 7 Seater BS IV,2013,Diesel,"115,005",2494,"No Of Owner(s)
+2nd Owner",Manual,12.99,"Max Power
+100bhp","Torque
+200Nm",MUV,Noida,536500,CarDekho
+710,Toyota,Toyota Innova,2.5 GX (Diesel) 7 Seater BS IV,2012,Diesel,"126,657",2494,"No Of Owner(s)
+1st Owner",Manual,12.99,"Max Power
+100bhp","Torque
+200Nm",MUV,Noida,596500,CarDekho
+711,Maruti,Maruti Ertiga,BSIV VXI,2013,Petrol,"29,077",1373,"No Of Owner(s)
+1st Owner",Manual,17.5,"Max Power
+91.1bhp","Torque
+130Nm",MUV,Noida,448500,CarDekho
+712,Maruti,Maruti Ertiga,SHVS VDI,2017,Diesel,"44,494",1248,"No Of Owner(s)
+2nd Owner",Manual,24.52,"Max Power
+88.5bhp","Torque
+200Nm",MUV,Noida,654000,CarDekho
+713,Maruti,Maruti Ertiga,ZXI Plus Petrol,2020,Petrol,"45,458",1462,"No Of Owner(s)
+1st Owner",Manual,19.34,"Max Power
+103bhp","Torque
+138Nm",MUV,Noida,974000,CarDekho
+714,Maruti,Maruti Ertiga,BSIV VXI,2018,Petrol,"27,668",1373,"No Of Owner(s)
+1st Owner",Manual,17.5,"Max Power
+91.1bhp","Torque
+130Nm",MUV,Noida,710500,CarDekho
+715,Renault,Renault Triber,RXT,2019,Petrol,"17,062",999,"No Of Owner(s)
+1st Owner",Manual,20,"Max Power
+71bhp","Torque
+96Nm",MUV,Noida,509500,CarDekho
+716,Maruti,Maruti Ertiga,VXI CNG,2018,CNG,"30,276",1373,"No Of Owner(s)
+1st Owner",Manual,17.5,"Max Power
+80.46bhp","Torque
+112Nm",MUV,Noida,825500,CarDekho
+717,Maruti,Maruti Ertiga ZDI,,2012,Diesel,"92,811",1248,First Owner,Manual,20.77,"Max Power
+88.8 bhp","Torque
+200Nm@ 1750rpm",MUV,Noida,401000,CarDekho
+718,Toyota,Toyota Innova Crysta 2016-2020 2.8 ZX AT BSIV,,2016,Diesel,"95,000",2755,First Owner,Automatic,11.36,"Max Power
+171.5 bhp","Torque
+360Nm@ 1200-3400rpm",MUV,Noida,1575000,CarDekho
+719,Honda,Honda Mobilio V i VTEC,,2014,Petrol,"1,09,133",1497,First Owner,Manual,17.3,"Max Power
+117.3 bhp","Torque
+145Nm@ 4600rpm",MUV,Noida,470000,CarDekho
+720,Maruti,Maruti Ertiga 1.5 ZDI Plus,,2016,Diesel,"56,000",1498,First Owner,Manual,24.2,"Max Power
+93.87 bhp","Torque
+225Nm@ 1500-2500rpm",MUV,Noida,675000,CarDekho
+721,Maruti,Maruti XL6 Alpha AT,,2019,Petrol,"13,000",1462,First Owner,Automatic,17.99,"Max Power
+103.2 bhp","Torque
+138nm@ 4400rpm",MUV,Noida,1095000,CarDekho
+722,Toyota,Toyota Innova 2.5 GX (Diesel) 7 Seater,,2013,Diesel,"80,000",2494,First Owner,Manual,12.99,"Max Power
+100 bhp","Torque
+200Nm@ 1400-3400rpm",MUV,Noida,610000,CarDekho
+723,Maruti,Maruti Ertiga ZDI,,2016,Diesel,"43,216",1248,First Owner,Manual,20.77,"Max Power
+88.8 bhp","Torque
+200Nm@ 1750rpm",MUV,Noida,675000,CarDekho
+724,Toyota,Toyota Innova 2.5 G4 Diesel 7-seater,,2010,Diesel,"1,82,000",2494,First Owner,Manual,12.8,"Max Power
+102 bhp","Torque
+20.4@ 1400-3400(kgm@ rpm)",MUV,Noida,425000,CarDekho
+725,Renault,Renault Triber RXZ BSIV,,2019,Petrol,"11,152",999,First Owner,Manual,20.0,"Max Power
+72 bhp","Torque
+96Nm@ 3500rpm",MUV,Noida,616000,CarDekho
+726,Renault,Renault Triber RXL,,2020,Petrol,"8,560",999,First Owner,Manual,20.0,"Max Power
+71 bhp","Torque
+96Nm@ 3500rpm",MUV,Noida,560000,CarDekho
+727,Renault,Renault Triber RXZ,,2020,Petrol,"6,500",999,First Owner,Manual,20.0,"Max Power
+71 bhp","Torque
+96Nm@ 3500rpm",MUV,Noida,720000,CarDekho
+728,Maruti,Maruti Eeco,CNG 5 Seater AC BSIV,2017,CNG,"29,893",1196,"No Of Owner(s)
+1st Owner",Manual,21.94 ,"Max Power
+61.7bhp","Torque
+85Nm",Minivan,Noida,348500,CarDekho
+729,Maruti,Maruti Eeco,CNG 5 Seater AC BSIV,2016,CNG,"58,426",1196,"No Of Owner(s)
+1st Owner",Manual,21.94 ,"Max Power
+61.7bhp","Torque
+85Nm",Minivan,Noida,305000,CarDekho
+730,Maruti,Maruti Eeco,5 Seater AC BSIV,2015,Petrol,"10,474",1196,"No Of Owner(s)
+1st Owner",Manual,15.37,"Max Power
+73bhp","Torque
+101Nm",Minivan,Noida,274000,CarDekho
+731,Maruti,Maruti Eeco,CNG 5 Seater AC BSIV,2018,CNG,"20,960",1196,"No Of Owner(s)
+1st Owner",Manual,21.94 ,"Max Power
+61.7bhp","Torque
+85Nm",Minivan,Noida,391000,CarDekho
+732,Maruti,Maruti Omni,5 Seater BSIV,2015,Petrol,"89,428",796,"No Of Owner(s)
+1st Owner",Manual,14,"Max Power
+35 bhp","Torque
+6.1 kgm",Minivan,Noida,167000,CarDekho
+733,Maruti,Maruti Eeco,CNG 5 Seater AC,2016,CNG,"59,392",1196,"No Of Owner(s)
+1st Owner",Manual,20.88 ,"Max Power
+61.7bhp","Torque
+85Nm",Minivan,Noida,308500,CarDekho
+734,Maruti,Maruti Eeco,5 Seater AC BSIV,2018,Petrol,"48,165",1196,"No Of Owner(s)
+1st Owner",Manual,15.37,"Max Power
+73bhp","Torque
+101Nm",Minivan,Noida,356500,CarDekho
+735,Maruti,Maruti Eeco,5 STR With AC Plus HTR CNG,2019,CNG,"75,659",1196,"No Of Owner(s)
+1st Owner",Manual,15.1,"Max Power
+73bhp","Torque
+101Nm",Minivan,Noida,370500,CarDekho
+736,Maruti,Maruti Eeco,5 Seater AC BSIV,2018,Petrol,"18,107",1196,"No Of Owner(s)
+1st Owner",Manual,15.37,"Max Power
+73bhp","Torque
+101Nm",Minivan,Noida,370500,CarDekho
+737,Maruti,Maruti Eeco,CNG 5 Seater AC,2017,CNG,"82,345",1196,"No Of Owner(s)
+1st Owner",Manual,20.88 ,"Max Power
+61.7bhp","Torque
+85Nm",Minivan,Noida,312860,CarDekho
+738,Maruti,Maruti Eeco,5 STR With AC Plus HTR CNG,2018,CNG,"67,748",1196,"No Of Owner(s)
+1st Owner",,"e Type
+Zer","Engine
+1196 CC","Max Power
+73bhp",Minivan,Noida,361000,CarDekho
+739,Maruti,Maruti Eeco,CNG 5 Seater AC,2016,CNG,"14,342",1196,"No Of Owner(s)
+1st Owner",Manual,20.88 ,"Max Power
+61.7bhp","Torque
+85Nm",Minivan,Noida,294500,CarDekho
+740,Maruti,Maruti Eeco,5 Seater AC,2016,Petrol,"95,285",1196,"No Of Owner(s)
+1st Owner",Manual,16.11,"Max Power
+72.42bhp","Torque
+98Nm",Minivan,Noida,289500,CarDekho
+741,Tata,Tata Winger Deluxe - Flat Roof (AC),,2012,Diesel,"80,000","er
+90 ",First Owner,Manual,9,"Torque
+190Nm@ 2000-3000rpm","Seats
+14",Minivan,Noida,550000,CarDekho
+742,Maruti,Maruti Eeco 5 STR With AC Plus HTR CNG,,2015,CNG,"55,000",1196,Second Owner,Manual,15.1 ,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Noida,310000,CarDekho
+743,Mercedes-Benz,Mercedes-Benz E-Class E250 CDI Avantgarde,,2013,Diesel,"64,000",2143,Third Owner,Automatic,14.21,"Max Power
+203 bhp","Torque
+500Nm@ 1600-1800rpm",Luxury,Noida,1475000,CarDekho
+744,Audi,Audi Q3 2.0 TDI Quattro Premium Plus,,2012,Diesel,"64,000",1968,Second Owner,Automatic,15.73,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Luxury,Noida,1275000,CarDekho
+745,Mercedes-Benz,Mercedes-Benz CLA 200 CDI Sport,,2017,Diesel,"35,000",2143,First Owner,Automatic,17.9,"Max Power
+136 bhp","Torque
+300Nm@ 1600-3000rpm",Luxury,Noida,2200000,CarDekho
+746,Audi,Audi Q7 2006-2020 3.0 TDI Quattro Premium Plus,,2014,Diesel,"88,000",2967,Second Owner,Automatic,12.07,"Max Power
+241.4 bhp","Torque
+550Nm@ 1750-2750rpm",Luxury,Noida,2450000,CarDekho

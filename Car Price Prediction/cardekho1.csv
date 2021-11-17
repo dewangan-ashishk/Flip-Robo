@@ -1,0 +1,411 @@
+,Brand,Model,Variant,Make_Year,Fuel,Km_driven,Engine,Number_of_Owners,Transmission,Milaege,Max_Power,Torque,Body_Type,Location,Price,Source
+0,Hyundai,Hyundai EON,Magna Plus,2015,Petrol,"4,924",814,"No Of Owner(s)
+1st Owner",Manual,21.1,"Max Power
+55.2bhp","Torque
+74.5Nm",Hatchback,Bangalore,347500,CarDekho
+1,Maruti,Maruti Celerio,ZXI AMT,2015,Petrol,"50,200",998,"No Of Owner(s)
+2nd Owner",Automatic,21.63,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Bangalore,410000,CarDekho
+2,Ford,Ford Figo,Titanium Diesel,2017,Diesel,"5,545",1499,"No Of Owner(s)
+1st Owner",Manual,24.4,"Max Power
+98.96bhp","Torque
+215Nm",Hatchback,Bangalore,581000,CarDekho
+3,Renault,Renault KWID,1.0 RXT Optional,2018,Petrol,"22,912",999,"No Of Owner(s)
+1st Owner",Manual,23.01,"Max Power
+67bhp","Torque
+91Nm",Hatchback,Bangalore,444500,CarDekho
+4,Maruti,Maruti Celerio,VXI AT,2015,Petrol,"29,406",998,"No Of Owner(s)
+1st Owner",Automatic,23.1,"Max Power
+67.04bhp","Torque
+90Nm",Hatchback,Bangalore,463500,CarDekho
+5,Hyundai,Hyundai Santro,Asta,2019,Petrol,"19,987",1086,"No Of Owner(s)
+1st Owner",Manual,20.3,"Max Power
+68.05bhp","Torque
+99.04Nm",Hatchback,Bangalore,583500,CarDekho
+6,Hyundai,Hyundai i10,Era,2011,Petrol,"53,464",1086,"No Of Owner(s)
+2nd Owner",Manual,19.81,"Max Power
+68.05bhp","Torque
+99.04Nm",Hatchback,Bangalore,284000,CarDekho
+7,Honda,Honda Jazz,1.2 S i VTEC,2017,Petrol,"44,490",1199,"No Of Owner(s)
+1st Owner",Manual,18.7,"Max Power
+88.7bhp","Torque
+110Nm",Hatchback,Bangalore,651000,CarDekho
+8,Honda,Honda Jazz,V CVT,2017,Petrol,"64,317",1199,"No Of Owner(s)
+2nd Owner",Automatic,17.1,"Max Power
+88.50bhp","Torque
+110Nm",Hatchback,Bangalore,673500,CarDekho
+9,Maruti,Maruti Swift,VDI,2011,Diesel,"86,880",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Bangalore,429500,CarDekho
+10,Hyundai,Hyundai i10,Magna 1.2,2009,Petrol,"26,213",1197,"No Of Owner(s)
+1st Owner",Manual,20.36,"Max Power
+78.9bhp","Torque
+111.7Nm",Hatchback,Bangalore,296000,CarDekho
+11,Maruti,Maruti Ignis,1.2 Delta BSIV,2017,Petrol,"42,206",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Bangalore,532000,CarDekho
+12,Hyundai,Hyundai Grand i10,1.2 Kappa Sportz BSIV,2019,Petrol,"9,369",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,Bangalore,608000,CarDekho
+13,Maruti,Maruti Alto,LXi BSIII,2010,Petrol,"60,998",796,"No Of Owner(s)
+1st Owner",Manual,19.7,"Max Power
+46.3bhp","Torque
+62Nm",Hatchback,Bangalore,230500,CarDekho
+14,Porsche,Porsche Cayenne Diesel,,2013,Diesel,"89,000",2967,Second Owner,Automatic,15.15,"Max Power
+240 bhp","Torque
+550Nm@ 2000-2250rpm",Hatchback,Bangalore,3495000,CarDekho
+15,Audi,Audi A6 2.0 TDI,,2014,Diesel,"97,021",1968,First Owner,Automatic,17.68,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Hatchback,Bangalore,2275000,CarDekho
+16,Tata,Tata Nexon 1.2 Revotron XMA,,2019,Petrol,"19,000",1198,First Owner,Automatic,17.0,"Max Power
+108.5 bhp","Torque
+170Nm@ 1750-4000rpm",Hatchback,Bangalore,894999,CarDekho
+17,Lexus,Lexus NX 300h,,2018,Petrol,"7,622",2499,First Owner,Automatic,18.32,"Max Power
+194.3 bhp","Torque
+210nm@ 4200-4400rpm",Hatchback,Bangalore,6395000,CarDekho
+18,Audi,Audi Q5 3.0 TDI,,2010,Diesel,"80,000",2967,First Owner,Automatic,12.19,"Max Power
+236 bhp","Torque
+500Nm@ 1500-3000rpm",Hatchback,Bangalore,1250000,CarDekho
+19,Audi,Audi A6 2.0 TDI Premium Plus,,2012,Diesel,"75,000",1968,Second Owner,Automatic,17.68,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Hatchback,Bangalore,1350000,CarDekho
+20,Tata,Tata Zest,Quadrajet 1.3 XTA,2015,Diesel,"53,737",1248,"No Of Owner(s)
+1st Owner",Automatic,21.58,"Max Power
+88.7bhp","Torque
+200Nm",Sedan,Bangalore,449500,CarDekho
+21,Honda,Honda Amaze,S i-Vtech,2015,Petrol,"59,439",1198,"No Of Owner(s)
+1st Owner",Manual,18,"Max Power
+86.7bhp","Torque
+109Nm",Sedan,Bangalore,457500,CarDekho
+22,Maruti,Maruti Swift Dzire,VXI,2014,Petrol,"86,857",1197,"No Of Owner(s)
+1st Owner",Manual,20.85,"Max Power
+83.14bhp","Torque
+115Nm",Sedan,Bangalore,509500,CarDekho
+23,Skoda,Skoda New Laura,Ambiente 2.0 TDI CR MT,2011,Diesel,"81,309",1968,"No Of Owner(s)
+2nd Owner",Manual,20,"Max Power
+108.5bhp","Torque
+250Nm",Sedan,Bangalore,461970,CarDekho
+24,Maruti,Maruti Swift Dzire,ZXI,2017,Petrol,"68,027",1197,"No Of Owner(s)
+1st Owner",Manual,20.85,"Max Power
+83.14bhp","Torque
+115Nm",Sedan,Bangalore,610000,CarDekho
+25,Maruti,Maruti Swift Dzire,VDI,2013,Diesel,"74,444",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,Bangalore,540000,CarDekho
+26,Maruti,Maruti Swift Dzire,VXi,2009,Petrol,"86,950",1298,"No Of Owner(s)
+2nd Owner",Manual,17.5,"Max Power
+85.8bhp","Torque
+114Nm",Sedan,Bangalore,329000,CarDekho
+27,Maruti,Maruti Swift Dzire,VXI,2014,Petrol,"44,870",1197,"No Of Owner(s)
+2nd Owner",Manual,20.85,"Max Power
+83.14bhp","Torque
+115Nm",Sedan,Bangalore,509500,CarDekho
+28,Maruti,Maruti Swift Dzire,VXI,2010,Petrol,"66,749",1197,"No Of Owner(s)
+2nd Owner",Manual,23.26,"Max Power
+88.50bhp","Torque
+113nm",Sedan,Bangalore,362500,CarDekho
+29,Maruti,Maruti Swift Dzire,VXI,2011,Petrol,"73,991",1197,"No Of Owner(s)
+1st Owner",Manual,23.26,"Max Power
+88.50bhp","Torque
+113nm",Sedan,Bangalore,394000,CarDekho
+30,Ford,Ford Fiesta,1.4 Duratorq LXI,2011,Diesel,"115,514",1388,"No Of Owner(s)
+2nd Owner",Manual,18.6,"Max Power
+67bhp","Torque
+160Nm",Sedan,Bangalore,256000,CarDekho
+31,Maruti,Maruti Swift Dzire,VXI,2014,Petrol,"14,609",1197,"No Of Owner(s)
+2nd Owner",Manual,19.1,"Max Power
+85.8bhp","Torque
+114Nm",Sedan,Bangalore,501000,CarDekho
+32,Maruti,Maruti Swift Dzire,VXI,2013,Petrol,"35,949",1197,"No Of Owner(s)
+1st Owner",Manual,19.1,"Max Power
+85.8bhp","Torque
+114Nm",Sedan,Bangalore,502500,CarDekho
+33,Maruti,Maruti Ciaz,1.3 Alpha,2017,Diesel,"45,645",1248,"No Of Owner(s)
+1st Owner",Manual,28.09,"Max Power
+88.5bhp","Torque
+200Nm",Sedan,Bangalore,791000,CarDekho
+34,Porsche,Porsche Cayenne Diesel,,2013,Diesel,"89,000",2967,Second Owner,Automatic,15.15,"Max Power
+240 bhp","Torque
+550Nm@ 2000-2250rpm",Sedan,Bangalore,3495000,CarDekho
+35,Audi,Audi A6 2.0 TDI,,2014,Diesel,"97,021",1968,First Owner,Automatic,17.68,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Sedan,Bangalore,2275000,CarDekho
+36,Tata,Tata Nexon 1.2 Revotron XMA,,2019,Petrol,"19,000",1198,First Owner,Automatic,17.0,"Max Power
+108.5 bhp","Torque
+170Nm@ 1750-4000rpm",Sedan,Bangalore,894999,CarDekho
+37,Lexus,Lexus NX 300h,,2018,Petrol,"7,622",2499,First Owner,Automatic,18.32,"Max Power
+194.3 bhp","Torque
+210nm@ 4200-4400rpm",Sedan,Bangalore,6395000,CarDekho
+38,Audi,Audi Q5 3.0 TDI,,2010,Diesel,"80,000",2967,First Owner,Automatic,12.19,"Max Power
+236 bhp","Torque
+500Nm@ 1500-3000rpm",Sedan,Bangalore,1250000,CarDekho
+39,Audi,Audi A6 2.0 TDI Premium Plus,,2012,Diesel,"75,000",1968,Second Owner,Automatic,17.68,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Sedan,Bangalore,1350000,CarDekho
+40,Maruti,Maruti Vitara Brezza,VDi,2017,Diesel,"72,431",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Bangalore,860000,CarDekho
+41,Mahindra,Mahindra TUV 300,T8,2016,Diesel,"115,323",1493,"No Of Owner(s)
+2nd Owner",Manual,18.49,"Max Power
+100bhp","Torque
+240Nm",SUV,Bangalore,739000,CarDekho
+42,Ford,Ford Ecosport,Titanium Diesel,2014,Diesel,"62,204",1498,"No Of Owner(s)
+2nd Owner",Manual,21.7,"Max Power
+99.23bhp","Torque
+215nm",SUV,Bangalore,622500,CarDekho
+43,Mahindra,Mahindra KUV 100,mFALCON G80 K8,2016,Petrol,"19,022",1198,"No Of Owner(s)
+1st Owner",Manual,18.15,"Max Power
+82bhp","Torque
+115Nm",SUV,Bangalore,424000,CarDekho
+44,Maruti,Maruti Vitara Brezza,LDi,2016,Diesel,"67,856",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Bangalore,742000,CarDekho
+45,Maruti,Maruti Vitara Brezza,VDi,2018,Diesel,"24,089",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Bangalore,891000,CarDekho
+46,Maruti,Maruti SX4 S Cross,Zeta DDiS 200 SH,2017,Diesel,"55,754",1248,"No Of Owner(s)
+1st Owner",Manual,25.1,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Bangalore,792000,CarDekho
+47,Renault,Renault Duster,110PS Diesel RxL,2012,Diesel,"119,745",1461,"No Of Owner(s)
+2nd Owner",Manual,19.01,"Max Power
+108.45bhp","Torque
+248Nm",SUV,Bangalore,510500,CarDekho
+48,Maruti,Maruti Vitara Brezza,VDi AMT,2018,Diesel,"29,796",1248,"No Of Owner(s)
+1st Owner",Automatic,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Bangalore,868500,CarDekho
+49,Nissan,Nissan Terrano,XV Premium 110 PS,2014,Diesel,"33,130",1461,"No Of Owner(s)
+1st Owner",Manual,19.01,"Max Power
+108.5bhp","Torque
+248Nm",SUV,Bangalore,672000,CarDekho
+50,Mahindra,Mahindra TUV 300,T8,2016,Diesel,"45,484",1493,"No Of Owner(s)
+2nd Owner",Manual,18.49,"Max Power
+100bhp","Torque
+240Nm",SUV,Bangalore,727000,CarDekho
+51,Nissan,Nissan Terrano,XV 110 PS,2015,Diesel,"76,888",1461,"No Of Owner(s)
+2nd Owner",Manual,19.01,"Max Power
+108.5bhp","Torque
+248Nm",SUV,Bangalore,590700,CarDekho
+52,Ford,Ford Ecosport,1.5 DV5 MT Titanium,2014,Diesel,"137,135",1498,"No Of Owner(s)
+1st Owner",Manual,22.7,"Max Power
+89.84bhp","Torque
+204Nm",SUV,Bangalore,584000,CarDekho
+53,Nissan,Nissan Terrano,XL 85 PS,2016,Diesel,"106,755",1461,"No Of Owner(s)
+1st Owner",Manual,20.45,"Max Power
+83.8bhp","Torque
+200Nm",SUV,Bangalore,659000,CarDekho
+54,Porsche,Porsche Cayenne Diesel,,2013,Diesel,"89,000",2967,Second Owner,Automatic,15.15,"Max Power
+240 bhp","Torque
+550Nm@ 2000-2250rpm",SUV,Bangalore,3495000,CarDekho
+55,Audi,Audi A6 2.0 TDI,,2014,Diesel,"97,021",1968,First Owner,Automatic,17.68,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",SUV,Bangalore,2275000,CarDekho
+56,Tata,Tata Nexon 1.2 Revotron XMA,,2019,Petrol,"19,000",1198,First Owner,Automatic,17.0,"Max Power
+108.5 bhp","Torque
+170Nm@ 1750-4000rpm",SUV,Bangalore,894999,CarDekho
+57,Lexus,Lexus NX 300h,,2018,Petrol,"7,622",2499,First Owner,Automatic,18.32,"Max Power
+194.3 bhp","Torque
+210nm@ 4200-4400rpm",SUV,Bangalore,6395000,CarDekho
+58,Audi,Audi Q5 3.0 TDI,,2010,Diesel,"80,000",2967,First Owner,Automatic,12.19,"Max Power
+236 bhp","Torque
+500Nm@ 1500-3000rpm",SUV,Bangalore,1250000,CarDekho
+59,Audi,Audi A6 2.0 TDI Premium Plus,,2012,Diesel,"75,000",1968,Second Owner,Automatic,17.68,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",SUV,Bangalore,1350000,CarDekho
+60,Mercedes-Benz,Mercedes-Benz GL-Class 220d 4MATIC Style,,2016,Diesel,"33,000",2143,First Owner,Automatic,17.9,"Max Power
+170 bhp","Torque
+400Nm@ 1400-2800rpm",Luxury,Bangalore,4700000,CarDekho
+61,Porsche,Porsche Panamera Diesel,,2013,Diesel,"25,000",2967,First Owner,Automatic,17.85,"Max Power
+300 bhp","Torque
+650Nm@ 1750-2500rpm",Luxury,Bangalore,6495000,CarDekho
+62,BMW,BMW 6 Series 640d Design Pure Experience,,2016,Diesel,"46,447",2993,Third Owner,Automatic,17.54,"Max Power
+313 bhp","Torque
+630Nm@ 1500-2500rpm",Luxury,Bangalore,4000000,CarDekho
+63,Audi,Audi A4 35 TDI Premium,,2016,Diesel,"26,000",1968,First Owner,Automatic,17.11,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Luxury,Bangalore,2630000,CarDekho
+64,Audi,Audi Q5 3.0 TDI,,2009,Diesel,"1,29,000",2967,Second Owner,Automatic,12.19,"Max Power
+236 bhp","Torque
+500Nm@ 1500-3000rpm",Luxury,Bangalore,1200000,CarDekho
+65,Audi,Audi TT Coupe 3.2 quattro S tronic,,2011,Petrol,"11,000",3189,Second Owner,Automatic,9.5,"Max Power
+246 bhp","Torque
+320Nm@ 2500-3000rpm",Luxury,Bangalore,2800000,CarDekho
+66,Mercedes-Benz,Mercedes-Benz E-Class E250 CDI Launch Edition,,2014,Diesel,"82,000",2143,Second Owner,Automatic,13.0,"Max Power
+204 bhp","Torque
+500Nm@ 1600-1800rpm",Luxury,Bangalore,2200000,CarDekho
+67,Mercedes-Benz,Mercedes-Benz CLA 200 CDI Style,,2014,Diesel,"69,000",2143,First Owner,Automatic,17.9,"Max Power
+136 bhp","Torque
+300Nm@ 1600-3000rpm",Luxury,Bangalore,2150000,CarDekho
+68,Mercedes-Benz,Mercedes-Benz C-Class Progressive C 220d,,2017,Diesel,"60,000",1950,Second Owner,Automatic,12.6,"Max Power
+194 bhp","Torque
+400Nm@ 1600-2800rpm",Luxury,Bangalore,2900000,CarDekho
+69,Mercedes-Benz,Mercedes-Benz B Class B180 CDI,,2013,Diesel,"88,000",2143,First Owner,Automatic,14.8,"Max Power
+120.7 bhp","Torque
+200Nm@ 1250-4000rpm",Luxury,Bangalore,1390000,CarDekho
+70,Mercedes-Benz,Mercedes-Benz B Class Edition 1,,2015,Diesel,"39,000",2143,Second Owner,Automatic,15.0,"Max Power
+107.3 bhp","Torque
+250Nm@ 1400-2800rpm",Luxury,Bangalore,1525000,CarDekho
+71,Mercedes-Benz,Mercedes-Benz CLA 45 AMG,,2014,Petrol,"39,530",1991,Second Owner,Automatic,15.04,"Max Power
+360 bhp","Torque
+450Nm@ 2250-5000rpm",Luxury,Bangalore,3500000,CarDekho
+72,Audi,Audi Q3 35 TDI Quattro Premium Plus,,2017,Diesel,"58,000",1968,First Owner,Automatic,15.73,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Luxury,Bangalore,2840000,CarDekho
+73,Mercedes-Benz,Mercedes-Benz C-Class C 220d Avantgarde Edition C,,2017,Diesel,"49,494",2143,First Owner,Automatic,19.27,"Max Power
+167.62 bhp","Torque
+400Nm@ 1400-2800rpm",Luxury,Bangalore,3100000,CarDekho
+74,Porsche,Porsche Cayenne Diesel,,2013,Diesel,"89,000",2967,Second Owner,Automatic,15.15,"Max Power
+240 bhp","Torque
+550Nm@ 2000-2250rpm",Luxury,Bangalore,3495000,CarDekho
+75,Lexus,Lexus NX 300h,,2018,Petrol,"7,622",2499,First Owner,Automatic,18.32,"Max Power
+194.3 bhp","Torque
+210nm@ 4200-4400rpm",Luxury,Bangalore,6395000,CarDekho
+76,Audi,Audi A6 2.0 TDI,,2014,Diesel,"97,021",1968,First Owner,Automatic,17.68,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Luxury,Bangalore,2275000,CarDekho
+77,Audi,Audi Q5 3.0 TDI,,2010,Diesel,"80,000",2967,First Owner,Automatic,12.19,"Max Power
+236 bhp","Torque
+500Nm@ 1500-3000rpm",Luxury,Bangalore,1250000,CarDekho
+78,Audi,Audi A6 2.0 TDI Premium Plus,,2012,Diesel,"75,000",1968,Second Owner,Automatic,17.68,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Luxury,Bangalore,1350000,CarDekho
+79,Tata,Tata Nexon 1.2 Revotron XMA,,2019,Petrol,"19,000",1198,First Owner,Automatic,17.0,"Max Power
+108.5 bhp","Torque
+170Nm@ 1750-4000rpm",Luxury,Bangalore,894999,CarDekho
+80,Maruti,Maruti Ertiga,ZDI,2015,Diesel,"61,758",1248,"No Of Owner(s)
+1st Owner",Manual,20.77,"Max Power
+88.8bhp","Torque
+200Nm",MUV,Bangalore,710000,CarDekho
+81,Maruti,Maruti Ertiga 1.5 ZDI,,2015,Diesel,"69,000",1498,First Owner,Manual,24.2,"Max Power
+93.87 bhp","Torque
+225Nm@ 1500-2500rpm",MUV,Bangalore,850000,CarDekho
+82,Toyota,Toyota Innova 2.5 VX (Diesel) 7 Seater,,2012,Diesel,"88,000",2494,Second Owner,Manual,12.99,"Max Power
+100.6 bhp","Torque
+200Nm@ 1200-3600rpm",MUV,Bangalore,1050000,CarDekho
+83,Mahindra,Mahindra Xylo E8 ABS Airbag BSIV,,2012,Diesel,"75,000",2498,Second Owner,Manual,12.2,"Max Power
+112 bhp","Torque
+260Nm@ 1800-2200rpm",MUV,Bangalore,610000,CarDekho
+84,Toyota,Toyota Innova 2.5 VX (Diesel) 8 Seater,,2014,Diesel,"94,000",2494,First Owner,Manual,12.99,"Max Power
+100.6 bhp","Torque
+200Nm@ 1400-3400rpm",MUV,Bangalore,1395000,CarDekho
+85,Toyota,Toyota Innova 2.5 V Diesel 7-seater,,2008,Diesel,"1,07,000",2494,First Owner,Manual,12.8,"Max Power
+102 bhp","Torque
+20.4@ 1400-3400(kgm@ rpm)",MUV,Bangalore,690000,CarDekho
+86,Toyota,Toyota Innova Crysta 2016-2020 2.4 VX MT,,2017,Diesel,"78,000",2393,First Owner,Manual,13.68,"Max Power
+147.51 bhp","Torque
+343Nm@ 1400-2800rpm",MUV,Bangalore,1800000,CarDekho
+87,Toyota,Toyota Innova 2.5 VX (Diesel) 7 Seater,,2012,Diesel,"1,50,000",2494,Second Owner,Manual,12.99,"Max Power
+100.6 bhp","Torque
+200Nm@ 1200-3600rpm",MUV,Bangalore,1044999,CarDekho
+88,Mahindra,Mahindra Xylo E8,,2012,Diesel,"75,000",2498,Second Owner,Manual,14.0,"Max Power
+112 bhp","Torque
+260 Nm at 1800-2200 rpm",MUV,Bangalore,575000,CarDekho
+89,Kia,Kia Carnival Limousine,,2020,Diesel,"14,000",2199,First Owner,Automatic,14.11,"Max Power
+197.2 bhp","Torque
+440nm@ 1750-2750rpm",MUV,Bangalore,3750000,CarDekho
+90,Toyota,Toyota Innova Crysta 2016-2020 2.8 ZX AT BSIV,,2018,Diesel,"78,000",2755,First Owner,Automatic,11.36,"Max Power
+171.5 bhp","Torque
+360Nm@ 1200-3400rpm",MUV,Bangalore,2175000,CarDekho
+91,Toyota,Toyota Innova Crysta 2016-2020 2.8 ZX AT BSIV,,2017,Diesel,"50,000",2755,First Owner,Automatic,11.36,"Max Power
+171.5 bhp","Torque
+360Nm@ 1200-3400rpm",MUV,Bangalore,2150000,CarDekho
+92,Chevrolet,Chevrolet Tavera Neo 3 LT 8 Seats BSIII,,2017,Diesel,"17,000",2499,First Owner,Manual,13.58,"Max Power
+72.4 bhp","Torque
+171Nm@ 1800rpm",MUV,Bangalore,975000,CarDekho
+93,Maruti,Maruti Ertiga ZDI,,2014,Diesel,"1,25,000",1248,First Owner,Manual,20.77,"Max Power
+88.8 bhp","Torque
+200Nm@ 1750rpm",MUV,Bangalore,725000,CarDekho
+94,Porsche,Porsche Cayenne Diesel,,2013,Diesel,"89,000",2967,Second Owner,Automatic,15.15,"Max Power
+240 bhp","Torque
+550Nm@ 2000-2250rpm",MUV,Bangalore,3495000,CarDekho
+95,Audi,Audi A6 2.0 TDI,,2014,Diesel,"97,021",1968,First Owner,Automatic,17.68,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",MUV,Bangalore,2275000,CarDekho
+96,Tata,Tata Nexon 1.2 Revotron XMA,,2019,Petrol,"19,000",1198,First Owner,Automatic,17.0,"Max Power
+108.5 bhp","Torque
+170Nm@ 1750-4000rpm",MUV,Bangalore,894999,CarDekho
+97,Lexus,Lexus NX 300h,,2018,Petrol,"7,622",2499,First Owner,Automatic,18.32,"Max Power
+194.3 bhp","Torque
+210nm@ 4200-4400rpm",MUV,Bangalore,6395000,CarDekho
+98,Audi,Audi Q5 3.0 TDI,,2010,Diesel,"80,000",2967,First Owner,Automatic,12.19,"Max Power
+236 bhp","Torque
+500Nm@ 1500-3000rpm",MUV,Bangalore,1250000,CarDekho
+99,Audi,Audi A6 2.0 TDI Premium Plus,,2012,Diesel,"75,000",1968,Second Owner,Automatic,17.68,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",MUV,Bangalore,1350000,CarDekho
+100,Maruti,Maruti Eeco,5 Seater AC,2019,Petrol,"34,350",1196,"No Of Owner(s)
+1st Owner",Manual,16.11,"Max Power
+72.42bhp","Torque
+98Nm",Minivan,Bangalore,430000,CarDekho
+101,Maruti,Maruti Eeco,5 Seater AC,2019,Petrol,"30,661",1196,"No Of Owner(s)
+1st Owner",Manual,16.11,"Max Power
+72.42bhp","Torque
+98Nm",Minivan,Bangalore,455500,CarDekho
+102,Maruti,Maruti Eeco,5 Seater AC BSIV,2018,Petrol,"18,886",1196,"No Of Owner(s)
+1st Owner",Manual,15.37,"Max Power
+73bhp","Torque
+101Nm",Minivan,Bangalore,467885,CarDekho
+103,Maruti,Maruti Eeco,5 Seater AC BSIV,2019,Petrol,"6,422",1196,"No Of Owner(s)
+1st Owner",Manual,15.37,"Max Power
+73bhp","Torque
+101Nm",Minivan,Bangalore,464000,CarDekho
+104,Maruti,Maruti Eeco,5 Seater AC,2018,Petrol,"22,004",1196,"No Of Owner(s)
+1st Owner",Manual,16.11,"Max Power
+72.42bhp","Torque
+98Nm",Minivan,Bangalore,445500,CarDekho
+105,Maruti,Maruti Eeco,5 Seater AC,2016,Petrol,"8,600",1196,"No Of Owner(s)
+1st Owner",Manual,16.11,"Max Power
+72.42bhp","Torque
+98Nm",Minivan,Bangalore,407500,CarDekho
+106,Maruti,Maruti Omni,E MPI STD,2011,Petrol,"83,335",796,"No Of Owner(s)
+2nd Owner",Manual,16.8,"Max Power
+34.2bhp","Torque
+59Nm",Minivan,Bangalore,195000,CarDekho
+107,Maruti,Maruti Eeco 7 Seater Standard BSIV,,2010,Petrol,"92,000",1196,Third Owner,Manual,15.37,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Bangalore,300000,CarDekho
+108,Maruti,Maruti Eeco 7 Seater Standard BSIV,,2018,Petrol,"25,000",1196,First Owner,Manual,15.37,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Bangalore,425000,CarDekho
+109,Maruti,Maruti Eeco 5 Seater Standard BSIV,,2019,Petrol,"11,000",1196,First Owner,Manual,15.37,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Bangalore,450000,CarDekho
+110,Maruti,Maruti Eeco 5 STR With AC Plus HTR CNG,,2013,CNG,"21,829",1196,First Owner,Manual,15.1 ,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Bangalore,325000,CarDekho
+111,Maruti,Maruti Eeco 5 Seater AC BSIV,,2019,Petrol,"11,000",1196,First Owner,Manual,15.37,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Bangalore,450000,CarDekho
+112,Maruti,Maruti Eeco 7 Seater Standard BSIV,,2018,Petrol,"33,000",1196,First Owner,Manual,15.37,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Bangalore,405000,CarDekho
+113,Maruti,Maruti Omni LPG CARGO BSIII W IMMOBILISER,,2009,LPG,"1,20,000",796,Second Owner,Manual,10.9 ,"Max Power
+32.8 bhp","Torque
+57Nm@ 2500rpm",Minivan,Bangalore,130000,CarDekho
+114,Porsche,Porsche Cayenne Diesel,,2013,Diesel,"89,000",2967,Second Owner,Automatic,15.15,"Max Power
+240 bhp","Torque
+550Nm@ 2000-2250rpm",Minivan,Bangalore,3495000,CarDekho
+115,Audi,Audi A6 2.0 TDI,,2014,Diesel,"97,021",1968,First Owner,Automatic,17.68,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Minivan,Bangalore,2275000,CarDekho
+116,Tata,Tata Nexon 1.2 Revotron XMA,,2019,Petrol,"19,000",1198,First Owner,Automatic,17.0,"Max Power
+108.5 bhp","Torque
+170Nm@ 1750-4000rpm",Minivan,Bangalore,894999,CarDekho
+117,Lexus,Lexus NX 300h,,2018,Petrol,"7,622",2499,First Owner,Automatic,18.32,"Max Power
+194.3 bhp","Torque
+210nm@ 4200-4400rpm",Minivan,Bangalore,6395000,CarDekho
+118,Audi,Audi Q5 3.0 TDI,,2010,Diesel,"80,000",2967,First Owner,Automatic,12.19,"Max Power
+236 bhp","Torque
+500Nm@ 1500-3000rpm",Minivan,Bangalore,1250000,CarDekho
+119,Audi,Audi Q3 2.0 TDI,,2013,Diesel,"67,000",1968,Third Owner,Automatic,17.32,"Max Power
+150 bhp","Torque
+380Nm@ 1750-2500rpm",Minivan,Bangalore,1350000,CarDekho

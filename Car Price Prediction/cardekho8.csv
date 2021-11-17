@@ -1,0 +1,414 @@
+,Brand,Model,Variant,Make_Year,Fuel,Km_driven,Engine,Number_of_Owners,Transmission,Milaege,Max_Power,Torque,Body_Type,Location,Price,Source
+0,Tata,Tata Tigor,1.2 Revotron XT,2018,Petrol,"13,205",1199,"No Of Owner(s)
+1st Owner",Manual,20.3,"Max Power
+84bhp","Torque
+114Nm",Sedan,Mumbai,542500,CarDekho
+1,Maruti,Maruti Ciaz,ZXi,2015,Petrol,"28,226",1373,"No Of Owner(s)
+1st Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,Mumbai,605000,CarDekho
+2,Maruti,Maruti Ciaz,ZXi Plus,2015,Petrol,"38,058",1373,"No Of Owner(s)
+1st Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,Mumbai,662500,CarDekho
+3,Maruti,Maruti Swift Dzire,AMT ZDI Plus,2017,Diesel,"64,535",1248,"No Of Owner(s)
+1st Owner",Automatic,28.4,"Max Power
+74.02bhp","Torque
+190Nm",Sedan,Mumbai,744500,CarDekho
+4,Honda,Honda Amaze,S,2020,Petrol,"27,390",1199,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+88.76bhp","Torque
+110nm",Sedan,Mumbai,703000,CarDekho
+5,Maruti,Maruti Swift Dzire,AMT ZDI,2018,Diesel,"46,691",1248,"No Of Owner(s)
+1st Owner",Automatic,28.4,"Max Power
+74.02bhp","Torque
+190Nm",Sedan,Mumbai,852000,CarDekho
+6,Ford,Ford Figo Aspire,1.2 Ti-VCT Titanium,2015,Petrol,"37,830",1196,"No Of Owner(s)
+1st Owner",Manual,18.16,"Max Power
+86.8bhp","Torque
+112Nm",Sedan,Mumbai,470000,CarDekho
+7,Maruti,Maruti Swift Dzire,AMT VDI,2017,Diesel,"46,351",1248,"No Of Owner(s)
+1st Owner",Automatic,28.4,"Max Power
+74.02bhp","Torque
+190Nm",Sedan,Mumbai,737500,CarDekho
+8,Volkswagen,Volkswagen Ameo,1.5 TDI Highline AT,2017,Diesel,"25,193",1498,"No Of Owner(s)
+1st Owner",Automatic,22,"Max Power
+108.495bhp","Torque
+250Nm",Sedan,Mumbai,641000,CarDekho
+9,Maruti,Maruti Swift Dzire,VDI,2014,Diesel,"58,122",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,Mumbai,553500,CarDekho
+10,Tata,Tata Tigor,1.2 Revotron XZA,2018,Petrol,"34,708",1199,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1199 CC","Max Power
+84bhp",Sedan,Mumbai,567000,CarDekho
+11,Maruti,Maruti Swift Dzire,VXI,2011,Petrol,"67,325",1197,"No Of Owner(s)
+1st Owner",Manual,19.1,"Max Power
+85.8bhp","Torque
+114Nm",Sedan,Mumbai,311500,CarDekho
+12,Hyundai,Hyundai Xcent,1.2 Kappa AT SX Option,2015,Petrol,"33,567",1197,"No Of Owner(s)
+1st Owner",Automatic,16.9,"Max Power
+82bhp","Torque
+114Nm",Sedan,Mumbai,460500,CarDekho
+13,Maruti,Maruti Swift Dzire,ZXI 1.2,2018,Petrol,"25,048",1197,"No Of Owner(s)
+1st Owner",Manual,21.21,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,Mumbai,732500,CarDekho
+14,Mercedes-Benz,Mercedes-Benz C-Class C 220 CDI Avantgarde,,2017,Diesel,"74,000",2143,First Owner,Automatic,19.27,"Max Power
+170 bhp","Torque
+400Nm@ 1400-2800rpm",Sedan,Mumbai,2424000,CarDekho
+15,Mercedes-Benz,Mercedes-Benz CLA 200 CGI Sport,,2018,Petrol,"17,300",1991,Second Owner,Automatic,15.04,"Max Power
+183 bhp","Torque
+300Nm@ 1200-4000rpm",Sedan,Mumbai,2700000,CarDekho
+16,Toyota,Toyota Innova Crysta 2016-2020 2.4 ZX MT,,2018,Diesel,"18,123",2393,First Owner,Manual,13.68,"Max Power
+147.51 bhp","Torque
+343Nm@ 1400-2800rpm",Sedan,Mumbai,1975000,CarDekho
+17,Hyundai,Hyundai Verna VTVT 1.6 AT SX Plus,,2019,Petrol,"11,000",1591,First Owner,Automatic,17.0,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",Sedan,Mumbai,1200000,CarDekho
+18,Volkswagen,Volkswagen Vento 1.6 Highline,,2015,Petrol,"46,000",1598,Second Owner,Manual,15.04,"Max Power
+103.2 bhp","Torque
+153Nm@ 3800rpm",Sedan,Mumbai,550000,CarDekho
+19,Hyundai,Hyundai Verna VTVT 1.6 AT SX Option,,2018,Petrol,"12,500",1591,First Owner,Automatic,17.0,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",Sedan,Mumbai,1125000,CarDekho
+20,Maruti,Maruti Celerio,ZXI MT BSIV,2018,Petrol,"26,518",998,"No Of Owner(s)
+1st Owner",Manual,23.1,"Max Power
+67.04bhp","Torque
+90Nm",Hatchback,Mumbai,476500,CarDekho
+21,Renault,Renault KWID,RXT Optional,2018,Petrol,"16,436",799,"No Of Owner(s)
+1st Owner",Manual,25.17,"Max Power
+53.3bhp","Torque
+72Nm",Hatchback,Mumbai,352500,CarDekho
+22,Hyundai,Hyundai i20,Sportz 1.2,2015,Petrol,"17,819",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+81.83bhp","Torque
+114.7Nm",Hatchback,Mumbai,534000,CarDekho
+23,Maruti,Maruti Alto,LXi,2011,Petrol,"8,045",796,"No Of Owner(s)
+1st Owner",Manual,19.7,"Max Power
+46.3bhp","Torque
+62Nm",Hatchback,Mumbai,248000,CarDekho
+24,Maruti,Maruti Swift,VXI,2013,Petrol,"64,775",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+85.8bhp","Torque
+114Nm",Hatchback,Mumbai,440500,CarDekho
+25,Maruti,Maruti Ignis,Delta,2018,Petrol,"17,412",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Mumbai,532500,CarDekho
+26,Maruti,Maruti Swift,VDI,2013,Diesel,"78,596",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Mumbai,438500,CarDekho
+27,Maruti,Maruti Celerio,ZXI,2017,Petrol,"25,149",998,"No Of Owner(s)
+2nd Owner",Manual,21.63,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Mumbai,413500,CarDekho
+28,Hyundai,Hyundai i10,Sportz,2013,Petrol,"26,219",1197,"No Of Owner(s)
+1st Owner",Manual,20.36,"Max Power
+78.9bhp","Torque
+111.8Nm",Hatchback,Mumbai,314000,CarDekho
+29,Maruti,Maruti Celerio,ZXI AT Optional,2016,Petrol,"47,240",998,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+998 CC","Max Power
+67.04bhp",Hatchback,Mumbai,467000,CarDekho
+30,Hyundai,Hyundai Grand i10,Sportz Petrol BSIV,2015,Petrol,"50,616",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,Mumbai,436000,CarDekho
+31,Maruti,Maruti Ignis,1.2 Zeta BSIV,2017,Petrol,"36,985",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Mumbai,492500,CarDekho
+32,Maruti,Maruti Ignis,1.2 Delta BSIV,2018,Petrol,"7,714",1197,"No Of Owner(s)
+2nd Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Mumbai,470000,CarDekho
+33,Hyundai,Hyundai i20,1.2 Spotz,2017,Petrol,"31,630",1197,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+81.83bhp","Torque
+114.7Nm",Hatchback,Mumbai,637500,CarDekho
+34,Hyundai,Hyundai Venue SX Opt Diesel,,2019,Diesel,"25,500",1493,First Owner,Manual,23.7,"Max Power
+98.6 bhp","Torque
+240.26nm@ 1500-2750rpm",Hatchback,Mumbai,1175000,CarDekho
+35,Mercedes-Benz,Mercedes-Benz GLS 2016-2020 350d 4MATIC,,2019,Diesel,"29,800",2987,Second Owner,Automatic,11.0,"Max Power
+258 bhp","Torque
+620Nm@ 1600-2400rpm",Hatchback,Mumbai,7400000,CarDekho
+36,Mercedes-Benz,Mercedes-Benz C-Class C 250 CDI Elegance,,2011,Diesel,"75,000",2143,Second Owner,Automatic,14.94,"Max Power
+204 bhp","Torque
+500Nm@ 1600-1800rpm",Hatchback,Mumbai,1225000,CarDekho
+37,Mercedes-Benz,Mercedes-Benz M-Class ML 350 4Matic,,2013,Diesel,"53,000",2987,Second Owner,Automatic,0.0,"Max Power
+165 bhp","Torque
+510@ 1600-2400",Hatchback,Mumbai,2000000,CarDekho
+38,Maruti,Maruti Ciaz 1.4 Zeta,,2018,Petrol,"15,000",1373,First Owner,Manual,20.73,"Max Power
+91.1 bhp","Torque
+130Nm@ 4000rpm",Hatchback,Mumbai,969999,CarDekho
+39,Renault,Renault Duster,85PS Diesel RxL,2014,Diesel,"42,118",1461,"No Of Owner(s)
+2nd Owner",Manual,20.45,"Max Power
+83.8bhp","Torque
+200Nm",SUV,Mumbai,471000,CarDekho
+40,Jeep,Jeep Compass,2.0 Sport,2018,Diesel,"27,881",1956,"No Of Owner(s)
+1st Owner",Manual,17.1,"Max Power
+170bhp","Torque
+350Nm",SUV,Mumbai,1471500,CarDekho
+41,Renault,Renault Duster,85PS Diesel RxL,2013,Diesel,"56,548",1461,"No Of Owner(s)
+1st Owner",Manual,20.45,"Max Power
+83.8bhp","Torque
+200Nm",SUV,Mumbai,445000,CarDekho
+42,Maruti,Maruti Vitara Brezza,ZDi,2016,Diesel,"31,851",1248,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1248 CC","Max Power
+88.5bhp",SUV,Mumbai,862000,CarDekho
+43,Honda,Honda BR-V,i-VTEC V CVT,2017,Petrol,"11,812",1497,"No Of Owner(s)
+1st Owner",Automatic,15.4,"Max Power
+117.3bhp","Torque
+145Nm",SUV,Mumbai,881000,CarDekho
+44,Tata,Tata Nexon,1.5 Revotorq XZ Plus,2017,Diesel,"53,094",1497,"No Of Owner(s)
+1st Owner",Manual,21.5,"Max Power
+108.5bhp","Torque
+260Nm",SUV,Mumbai,814500,CarDekho
+45,Ford,Ford Ecosport,1.5 Petrol Titanium Plus AT BSIV,2018,Petrol,"42,753",1497,"No Of Owner(s)
+1st Owner",Automatic,14.8,"Max Power
+121.36bhp","Torque
+150Nm",SUV,Mumbai,944000,CarDekho
+46,Hyundai,Hyundai Creta,1.6 VTVT SX Plus,2018,Petrol,"25,206",1591,"No Of Owner(s)
+1st Owner",Manual,13,"Max Power
+121.3bhp","Torque
+151Nm",SUV,Mumbai,1174000,CarDekho
+47,Renault,Renault Duster,85PS Diesel RxL,2015,Diesel,"114,710",1461,"No Of Owner(s)
+1st Owner",Manual,19.87,"Max Power
+83.8bhp","Torque
+200Nm",SUV,Mumbai,553000,CarDekho
+48,Mahindra,Mahindra XUV500,AT W6 2WD,2016,Diesel,"137,926",2179,"No Of Owner(s)
+2nd Owner",Automatic,16,"Max Power
+140bhp","Torque
+330Nm",SUV,Mumbai,779000,CarDekho
+49,Honda,Honda WR-V,i-VTEC VX,2019,Petrol,"4,176",1199,"No Of Owner(s)
+1st Owner",Manual,17.5,"Max Power
+88.7bhp","Torque
+110Nm",SUV,Mumbai,907000,CarDekho
+50,Hyundai,Hyundai Venue,SX Diesel BSIV,2019,Diesel,"12,873",1396,"No Of Owner(s)
+2nd Owner",Manual,23.7,"Max Power
+88.76bhp","Torque
+219.6Nm",SUV,Mumbai,931500,CarDekho
+51,Mahindra,Mahindra XUV500,AT W10 FWD,2016,Diesel,"85,058",2179,"No Of Owner(s)
+1st Owner",Automatic,16,"Max Power
+140bhp","Torque
+330Nm",SUV,Mumbai,1141000,CarDekho
+52,Tata,Tata Nexon,1.5 Revotorq XZ,2018,Diesel,"42,121",1497,"No Of Owner(s)
+1st Owner",Manual,21.5,"Max Power
+108.5bhp","Torque
+260Nm",SUV,Mumbai,862500,CarDekho
+53,Mercedes-Benz,Mercedes-Benz C-Class C 220 CDI Avantgarde,,2017,Diesel,"74,000",2143,First Owner,Automatic,19.27,"Max Power
+170 bhp","Torque
+400Nm@ 1400-2800rpm",SUV,Mumbai,2424000,CarDekho
+54,Mercedes-Benz,Mercedes-Benz CLA 200 CGI Sport,,2018,Petrol,"17,300",1991,Second Owner,Automatic,15.04,"Max Power
+183 bhp","Torque
+300Nm@ 1200-4000rpm",SUV,Mumbai,2700000,CarDekho
+55,Toyota,Toyota Innova Crysta 2016-2020 2.4 ZX MT,,2018,Diesel,"18,123",2393,First Owner,Manual,13.68,"Max Power
+147.51 bhp","Torque
+343Nm@ 1400-2800rpm",SUV,Mumbai,1975000,CarDekho
+56,Hyundai,Hyundai Verna VTVT 1.6 AT SX Option,,2018,Petrol,"12,500",1591,First Owner,Automatic,17.0,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",SUV,Mumbai,1125000,CarDekho
+57,Volkswagen,Volkswagen Vento 1.6 Highline,,2015,Petrol,"46,000",1598,Second Owner,Manual,15.04,"Max Power
+103.2 bhp","Torque
+153Nm@ 3800rpm",SUV,Mumbai,550000,CarDekho
+58,Honda,Honda Jazz V CVT,,2017,Petrol,"33,500",1199,First Owner,Automatic,18.2,"Max Power
+88.7 bhp","Torque
+110Nm@ 4800rpm",SUV,Mumbai,680000,CarDekho
+59,Renault,Renault Triber,RXZ BSIV,2020,Petrol,"4,953",999,"No Of Owner(s)
+1st Owner",Manual,20,"Max Power
+72bhp","Torque
+96Nm",MUV,Mumbai,720500,CarDekho
+60,Toyota,Toyota Innova Crysta,2.4 ZX MT BSIV,2016,Diesel,"76,946",2393,"No Of Owner(s)
+1st Owner",Manual,13.68,"Max Power
+147.8bhp","Torque
+343Nm",MUV,Mumbai,1728500,CarDekho
+61,Maruti,Maruti Ertiga,VXI,2015,Petrol,"52,545",1373,"No Of Owner(s)
+2nd Owner",Manual,16.02,"Max Power
+93.7bhp","Torque
+130Nm",MUV,Mumbai,647500,CarDekho
+62,Maruti,Maruti Ertiga,SHVS VDI,2017,Diesel,"62,058",1248,"No Of Owner(s)
+1st Owner",Manual,24.52,"Max Power
+88.5bhp","Torque
+200Nm",MUV,Mumbai,840000,CarDekho
+63,Maruti,Maruti Ertiga,ZDI,2013,Diesel,"70,649",1248,"No Of Owner(s)
+1st Owner",Manual,20.77,"Max Power
+88.8bhp","Torque
+200Nm",MUV,Mumbai,652000,CarDekho
+64,Maruti,Maruti Ertiga,VDI,2013,Diesel,"53,652",1248,"No Of Owner(s)
+1st Owner",Manual,20.77,"Max Power
+88.76bhp","Torque
+200Nm",MUV,Mumbai,671500,CarDekho
+65,Maruti,Maruti Ertiga,VDI,2015,Diesel,"44,878",1248,"No Of Owner(s)
+1st Owner",,"e Type
+Third ","Engine
+1248 CC","Max Power
+88.76bhp",MUV,Mumbai,675000,CarDekho
+66,Maruti,Maruti Ertiga,ZDI,2012,Diesel,"37,780",1248,"No Of Owner(s)
+1st Owner",Manual,20.77,"Max Power
+88.8bhp","Torque
+200Nm",MUV,Mumbai,569500,CarDekho
+67,Maruti,Maruti Ertiga,SHVS VDI,2017,Diesel,"16,894",1248,"No Of Owner(s)
+1st Owner",Manual,24.52,"Max Power
+88.5bhp","Torque
+200Nm",MUV,Mumbai,820000,CarDekho
+68,Maruti,Maruti Ertiga,ZDI,2012,Diesel,"102,515",1248,"No Of Owner(s)
+1st Owner",Manual,20.77,"Max Power
+88.8bhp","Torque
+200Nm",MUV,Mumbai,558000,CarDekho
+69,Maruti,Maruti Ertiga,ZDI,2015,Diesel,"98,032",1248,"No Of Owner(s)
+1st Owner",Manual,20.77,"Max Power
+88.8bhp","Torque
+200Nm",MUV,Mumbai,729000,CarDekho
+70,Maruti,Maruti Ertiga,VXI,2013,Petrol,"83,522",1373,"No Of Owner(s)
+1st Owner",Manual,16.02,"Max Power
+93.7bhp","Torque
+130Nm",MUV,Mumbai,495000,CarDekho
+71,Maruti,Maruti Ertiga SHVS LDI,,2017,Diesel,"44,063",1248,First Owner,Manual,24.52,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",MUV,Mumbai,715000,CarDekho
+72,Toyota,Toyota Innova Crysta 2016-2020 2.8 GX AT BSIV,,2017,Diesel,"17,000",2755,First Owner,Automatic,11.36,"Max Power
+171.5 bhp","Torque
+360Nm@ 1200-3400rpm",MUV,Mumbai,1745000,CarDekho
+73,Mercedes-Benz,Mercedes-Benz M-Class ML 350 4Matic,,2013,Diesel,"53,000",2987,Second Owner,Automatic,0.0,"Max Power
+165 bhp","Torque
+510@ 1600-2400",MUV,Mumbai,2000000,CarDekho
+74,Maruti,Maruti Ciaz 1.4 Zeta,,2018,Petrol,"15,000",1373,First Owner,Manual,20.73,"Max Power
+91.1 bhp","Torque
+130Nm@ 4000rpm",MUV,Mumbai,969999,CarDekho
+75,Audi,Audi A6 2.0 TDI Technology,,2014,Diesel,"37,000",1968,First Owner,Automatic,17.68,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",MUV,Mumbai,1545000,CarDekho
+76,Hyundai,Hyundai Creta 1.6 VTVT AT SX Plus,,2017,Petrol,"43,000",1591,First Owner,Automatic,13.0,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",MUV,Mumbai,1125000,CarDekho
+77,Maruti,Maruti Vitara Brezza VDi,,2016,Diesel,"46,121",1248,First Owner,Manual,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",MUV,Mumbai,745000,CarDekho
+78,Mercedes-Benz,Mercedes-Benz GLS 2016-2020 350d 4MATIC,,2018,Diesel,"25,000",2987,Second Owner,Automatic,11.0,"Max Power
+258 bhp","Torque
+620Nm@ 1600-2400rpm",MUV,Mumbai,6800000,CarDekho
+79,Mercedes-Benz,Mercedes-Benz CLA 200 CGI Sport,,2016,Petrol,"36,000",1991,First Owner,Automatic,15.04,"Max Power
+183 bhp","Torque
+300Nm@ 1200-4000rpm",Luxury,Mumbai,2150000,CarDekho
+80,Mercedes-Benz,Mercedes-Benz S-Class S 350 CDI,,2011,Diesel,"81,053",2987,Second Owner,Automatic,13.5,"Max Power
+282 bhp","Torque
+490Nm@ 1600rpm",Luxury,Mumbai,1599000,CarDekho
+81,Audi,Audi A3 cabriolet 40 TFSI Premium Plus,,2015,Petrol,"14,000",1798,Third Owner,Automatic,16.6,"Max Power
+177 bhp","Torque
+250Nm@ 1250-5000rpm",Luxury,Mumbai,3700000,CarDekho
+82,Audi,Audi Q7 2006-2020 3.0 TDI Quattro Technology,,2013,Diesel,"80,000",2967,First Owner,Automatic,12.07,"Max Power
+241.4 bhp","Torque
+550Nm@ 1750-2750rpm",Luxury,Mumbai,2250000,CarDekho
+83,Mercedes-Benz,Mercedes-Benz S-Class S 500 L,,2011,Petrol,"72,000",5461,First Owner,Automatic,7.81,"Max Power
+362.9 bhp","Torque
+505Nm@ 2800rpm",Luxury,Mumbai,2025000,CarDekho
+84,Mercedes-Benz,Mercedes-Benz C-Class C 220d Avantgarde Edition C,,2018,Diesel,"6,500",2143,First Owner,Automatic,19.27,"Max Power
+167.62 bhp","Torque
+400Nm@ 1400-2800rpm",Luxury,Mumbai,3800000,CarDekho
+85,Mercedes-Benz,Mercedes-Benz C-Class C 200 Kompressor Elegance AT,,2006,Petrol,"79,000",1796,Second Owner,Automatic,11.74,"Max Power
+186 bhp","Torque
+285Nm@ 2400-4000rpm",Luxury,Mumbai,325000,CarDekho
+86,Mercedes-Benz,Mercedes-Benz E-Class E 200 CGI Elegance,,2012,Petrol,"38,500",1796,Second Owner,Automatic,12.3,"Max Power
+185 bhp","Torque
+285Nm@ 2400-4000rpm",Luxury,Mumbai,994999,CarDekho
+87,Mercedes-Benz,Mercedes-Benz C-Class Progressive C 220d,,2020,Diesel,"2,000",1950,First Owner,Automatic,12.6,"Max Power
+194 bhp","Torque
+400Nm@ 1600-2800rpm",Luxury,Mumbai,4799000,CarDekho
+88,Jaguar,Jaguar XJ 5.0L,,2011,Petrol,"60,000",5000,First Owner,Automatic,10.5,"Max Power
+379.7 bhp","Torque
+515Nm@ 3500rpm",Luxury,Mumbai,2500000,CarDekho
+89,Mini,Mini Cooper Countryman Cooper S,,2019,Petrol,"18,000",1998,First Owner,Automatic,14.41,"Max Power
+189.08 bhp","Torque
+280Nm@ 1350rpm",Luxury,Mumbai,3600000,CarDekho
+90,Mercedes-Benz,Mercedes-Benz E-Class 280 CDI,,2008,Diesel,"69,000",2987,First Owner,Automatic,11.0,"Max Power
+198.5 bhp","Torque
+46.5@ 1,400-2,800(kgm@ rpm)",Luxury,Mumbai,775000,CarDekho
+91,Mercedes-Benz,Mercedes-Benz E-Class E250 CDI Avantgrade,,2014,Diesel,"37,909",2143,Second Owner,Automatic,13.0,"Max Power
+201.1 bhp","Torque
+500Nm@ 1600-1800rpm",Luxury,Mumbai,2050000,CarDekho
+92,BMW,BMW M2 Competition,,2019,Petrol,"2,905","er
+410 ",Test Drive Car,Automatic,9,"Torque
+550Nm@ 2350-5230rpm","Seats
+4",Luxury,Mumbai,7700000,CarDekho
+93,Hyundai,Hyundai Venue SX Opt Diesel,,2019,Diesel,"25,500",1493,First Owner,Manual,23.7,"Max Power
+98.6 bhp","Torque
+240.26nm@ 1500-2750rpm",Luxury,Mumbai,1175000,CarDekho
+94,Mercedes-Benz,Mercedes-Benz GLS 2016-2020 350d 4MATIC,,2019,Diesel,"29,800",2987,Second Owner,Automatic,11.0,"Max Power
+258 bhp","Torque
+620Nm@ 1600-2400rpm",Luxury,Mumbai,7400000,CarDekho
+95,Mercedes-Benz,Mercedes-Benz C-Class C 250 CDI Elegance,,2011,Diesel,"75,000",2143,Second Owner,Automatic,14.94,"Max Power
+204 bhp","Torque
+500Nm@ 1600-1800rpm",Luxury,Mumbai,1225000,CarDekho
+96,Mercedes-Benz,Mercedes-Benz M-Class ML 350 4Matic,,2013,Diesel,"53,000",2987,Second Owner,Automatic,0.0,"Max Power
+165 bhp","Torque
+510@ 1600-2400",Luxury,Mumbai,2000000,CarDekho
+97,Maruti,Maruti Ciaz 1.4 Zeta,,2018,Petrol,"15,000",1373,First Owner,Manual,20.73,"Max Power
+91.1 bhp","Torque
+130Nm@ 4000rpm",Luxury,Mumbai,969999,CarDekho
+98,Maruti,Maruti Eeco 7 Seater Standard BSIV,,2011,Petrol,"70,000",1196,Second Owner,Manual,15.37,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Mumbai,229999,CarDekho
+99,Maruti,Maruti Eeco 5 Seater AC BSIV,,2017,Petrol,"9,900",1196,First Owner,Manual,15.37,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Mumbai,445000,CarDekho
+100,Maruti,Maruti Eeco 5 STR With AC Plus HTR CNG,,2018,CNG,"76,000",1196,First Owner,Manual,15.1 ,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Mumbai,475000,CarDekho
+101,Maruti,Maruti Eeco 7 Seater Standard BSIV,,2017,Petrol,"45,000",1196,First Owner,Manual,15.37,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Mumbai,400000,CarDekho
+102,Maruti,Maruti Eeco 5 Seater AC BSIV,,2015,Petrol,"61,000",1196,First Owner,Manual,15.37,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Mumbai,290000,CarDekho
+103,Maruti,Maruti Eeco CNG 5 Seater AC BSIV,,2018,CNG,"4,701",1196,First Owner,Manual,21.94 ,"Max Power
+61.7 bhp","Torque
+85Nm@ 3000rpm",Minivan,Mumbai,525000,CarDekho
+104,Maruti,Maruti Eeco CNG 5 Seater AC BSIV,,2017,CNG,"48,810",1196,First Owner,Manual,21.94 ,"Max Power
+61.7 bhp","Torque
+85Nm@ 3000rpm",Minivan,Mumbai,434999,CarDekho
+105,Maruti,Maruti Eeco 5 Seater AC BSIV,,2010,Petrol,"33,000",1196,First Owner,Manual,15.37,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Mumbai,275000,CarDekho
+106,Maruti,Maruti Eeco CNG 5 Seater AC BSIV,,2013,CNG,"1,10,000",1196,First Owner,Manual,21.94 ,"Max Power
+61.7 bhp","Torque
+85Nm@ 3000rpm",Minivan,Mumbai,320000,CarDekho
+107,Maruti,Maruti Eeco CNG 5 Seater AC BSIV,,2019,CNG,"38,197",1196,First Owner,Manual,21.94 ,"Max Power
+61.7 bhp","Torque
+85Nm@ 3000rpm",Minivan,Mumbai,525000,CarDekho
+108,Maruti,Maruti Eeco 7 Seater STD,,2014,Petrol,"65,000",1196,First Owner,Manual,16.11,"Max Power
+72.42 bhp","Torque
+98Nm@ 3000rpm",Minivan,Mumbai,326000,CarDekho
+109,Maruti,Maruti Eeco 7 Seater Standard BSIV,,2015,Petrol,"70,000",1196,First Owner,Manual,15.37,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Mumbai,380000,CarDekho
+110,Maruti,Maruti Eeco 5 Seater AC,,2019,Petrol,"15,000",1196,First Owner,Manual,16.11,"Max Power
+72.42 bhp","Torque
+98Nm@ 3000rpm",Minivan,Mumbai,475000,CarDekho
+111,Maruti,Maruti Eeco CNG 5 Seater AC,,2014,CNG,"80,000",1196,First Owner,Manual,20.88 ,"Max Power
+61.7 bhp","Torque
+85Nm@ 3000rpm",Minivan,Mumbai,385000,CarDekho
+112,Mercedes-Benz,Mercedes-Benz C-Class C 220 CDI Avantgarde,,2017,Diesel,"74,000",2143,First Owner,Automatic,19.27,"Max Power
+170 bhp","Torque
+400Nm@ 1400-2800rpm",Minivan,Mumbai,2424000,CarDekho
+113,Mercedes-Benz,Mercedes-Benz CLA 200 CGI Sport,,2018,Petrol,"17,300",1991,Second Owner,Automatic,15.04,"Max Power
+183 bhp","Torque
+300Nm@ 1200-4000rpm",Minivan,Mumbai,2700000,CarDekho
+114,Toyota,Toyota Innova Crysta 2016-2020 2.4 ZX MT,,2018,Diesel,"18,123",2393,First Owner,Manual,13.68,"Max Power
+147.51 bhp","Torque
+343Nm@ 1400-2800rpm",Minivan,Mumbai,1975000,CarDekho
+115,Hyundai,Hyundai Verna VTVT 1.6 AT SX Option,,2018,Petrol,"12,500",1591,First Owner,Automatic,17.0,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",Minivan,Mumbai,1125000,CarDekho
+116,Volkswagen,Volkswagen Vento 1.6 Highline,,2015,Petrol,"46,000",1598,Second Owner,Manual,15.04,"Max Power
+103.2 bhp","Torque
+153Nm@ 3800rpm",Minivan,Mumbai,550000,CarDekho
+117,Honda,Honda Jazz V CVT,,2017,Petrol,"33,500",1199,First Owner,Automatic,18.2,"Max Power
+88.7 bhp","Torque
+110Nm@ 4800rpm",Minivan,Mumbai,680000,CarDekho

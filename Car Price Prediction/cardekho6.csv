@@ -1,0 +1,362 @@
+,Brand,Model,Variant,Make_Year,Fuel,Km_driven,Engine,Number_of_Owners,Transmission,Milaege,Max_Power,Torque,Body_Type,Location,Price,Source
+0,Hyundai,Hyundai i20,Magna Plus,2019,Petrol,"7,000",1197,"No Of Owner(s)
+1st Owner",,"e Type
+Third ","Engine
+1197 CC","Max Power
+81.86bhp",Hatchback,Jaipur,690000,CarDekho
+1,Maruti,Maruti Baleno,1.2 Delta,2016,Petrol,"73,454",1197,"No Of Owner(s)
+1st Owner",Manual,21.4,"Max Power
+83.1bhp","Torque
+115Nm",Hatchback,Jaipur,499776,CarDekho
+2,Maruti,Maruti Ignis,1.2 Sigma BSIV,2018,Petrol,"21,295",1197,"No Of Owner(s)
+1st Owner",Manual,20.89,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Jaipur,474791,CarDekho
+3,Maruti,Maruti Wagon R,VXI,2010,Petrol,"75,180",998,"No Of Owner(s)
+2nd Owner",Manual,21.79,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Jaipur,215361,CarDekho
+4,Renault,Renault KWID,RXL,2019,Petrol,"52,771",799,"No Of Owner(s)
+1st Owner",Manual,20.71,"Max Power
+53.26bhp","Torque
+72Nm",Hatchback,Jaipur,311015,CarDekho
+5,Maruti,Maruti Baleno,1.2 Delta,2018,Petrol,"35,887",1197,"No Of Owner(s)
+1st Owner",Manual,21.4,"Max Power
+83.1bhp","Torque
+115Nm",Hatchback,Jaipur,622644,CarDekho
+6,Maruti,Maruti Wagon R,VXI,2015,Petrol,"49,683",998,"No Of Owner(s)
+2nd Owner",Manual,21.79,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Jaipur,375559,CarDekho
+7,Hyundai,Hyundai Santro,Asta BSIV,2019,Petrol,"6,494",1086,"No Of Owner(s)
+1st Owner",Manual,20.3,"Max Power
+68bhp","Torque
+99Nm",Hatchback,Jaipur,579500,CarDekho
+8,Maruti,Maruti Swift,Vdi BSIII,2011,Diesel,"44,133",1248,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+75 PS","Torque
+190 Nm",Hatchback,Jaipur,333235,CarDekho
+9,Renault,Renault KWID,RXT,2017,Petrol,"40,277",799,"No Of Owner(s)
+1st Owner",Manual,25.17,"Max Power
+53.3bhp","Torque
+72Nm",Hatchback,Jaipur,298250,CarDekho
+10,Maruti,Maruti Alto 800,LXI,2016,Petrol,"68,339",796,"No Of Owner(s)
+1st Owner",Manual,22.74,"Max Power
+47.3bhp","Torque
+69Nm",Hatchback,Jaipur,270580,CarDekho
+11,Hyundai,Hyundai Santro,Magna BSIV,2019,Petrol,"14,162",1086,"No Of Owner(s)
+1st Owner",Manual,20.3,"Max Power
+68bhp","Torque
+99Nm",Hatchback,Jaipur,464252,CarDekho
+12,Maruti,Maruti Alto 800,LXI,2016,Petrol,"46,503",796,"No Of Owner(s)
+1st Owner",Manual,22.74,"Max Power
+47.3bhp","Torque
+69Nm",Hatchback,Jaipur,295738,CarDekho
+13,Hyundai,Hyundai Grand i10,1.2 Kappa Asta,2017,Petrol,"49,819",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,Jaipur,484202,CarDekho
+14,Maruti,Maruti Alto 800,VXI,2020,Petrol,"11,628",796,"No Of Owner(s)
+1st Owner",Manual,22.05,"Max Power
+47.33bhp","Torque
+69Nm",Hatchback,Jaipur,352898,CarDekho
+15,Hyundai,Hyundai Grand i10,Asta,2016,Petrol,"33,124",1197,"No Of Owner(s)
+2nd Owner",Manual,18.9,"Max Power
+82bhp","Torque
+114Nm",Hatchback,Jaipur,490000,CarDekho
+16,Maruti,Maruti Alto K10,VXI,2015,Petrol,"26,961",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Jaipur,340187,CarDekho
+17,Maruti,Maruti Alto K10,VXI,2015,Petrol,"13,428",998,"No Of Owner(s)
+1st Owner",Manual,23.95,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Jaipur,338787,CarDekho
+18,Hyundai,Hyundai Grand i10,Sportz,2015,Petrol,"80,468",1197,"No Of Owner(s)
+2nd Owner",Manual,18.9,"Max Power
+82bhp","Torque
+114Nm",Hatchback,Jaipur,373156,CarDekho
+19,Hyundai,Hyundai Grand i10,Magna,2018,Petrol,"36,665",1197,"No Of Owner(s)
+1st Owner",Manual,18.9,"Max Power
+81.86bhp","Torque
+113.75nm",Hatchback,Jaipur,481001,CarDekho
+20,Maruti,Maruti Ciaz,VXi Plus,2015,Petrol,"66,942",1373,"No Of Owner(s)
+1st Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,Jaipur,500720,CarDekho
+21,Honda,Honda City,i-VTEC CVT ZX,2018,Petrol,"25,299",1497,"No Of Owner(s)
+2nd Owner",Automatic,18,"Max Power
+117.6bhp","Torque
+145Nm",Sedan,Jaipur,1015000,CarDekho
+22,Honda,Honda Amaze,S Petrol,2020,Petrol,"15,761",1199,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+88.76bhp","Torque
+110Nm",Sedan,Jaipur,660000,CarDekho
+23,Honda,Honda City,ZX CVT,2020,Petrol,"36,243",1498,"No Of Owner(s)
+1st Owner",Automatic,18.4,"Max Power
+119.35bhp","Torque
+145nm",Sedan,Jaipur,1385000,CarDekho
+24,Maruti,Maruti Swift Dzire,VXI 1.2 BS IV,2018,Petrol,"18,830",1197,"No Of Owner(s)
+1st Owner",Manual,22,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,Jaipur,645000,CarDekho
+25,Maruti,Maruti Swift Dzire,VDI,2014,Diesel,"63,730",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,Jaipur,553496,CarDekho
+26,BMW,BMW 3 Series,320d Prestige,2014,Diesel,"90,355",1995,"No Of Owner(s)
+1st Owner",Automatic,18.88,"Max Power
+184bhp","Torque
+380Nm",Sedan,Jaipur,1434486,CarDekho
+27,Honda,Honda Amaze,S Petrol,2020,Petrol,"23,363",1199,"No Of Owner(s)
+1st Owner",Manual,18.6,"Max Power
+88.76bhp","Torque
+110Nm",Sedan,Jaipur,616981,CarDekho
+28,Maruti,Maruti Swift Dzire,VDi,2011,Diesel,"102,000",1248,"No Of Owner(s)
+1st Owner",Manual,19.3,"Max Power
+73.9bhp","Torque
+190Nm",Sedan,Jaipur,360000,CarDekho
+29,Maruti,Maruti Swift Dzire,VXI Optional,2016,Petrol,"29,653",1197,"No Of Owner(s)
+1st Owner",Manual,20.85,"Max Power
+83.14bhp","Torque
+115Nm",Sedan,Jaipur,580000,CarDekho
+30,Maruti,Maruti Swift Dzire,AMT VXI,2018,Petrol,"68,267",1197,"No Of Owner(s)
+1st Owner",Automatic,21.21,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,Jaipur,665000,CarDekho
+31,Hyundai,Hyundai Xcent,1.1 CRDi SX,2016,Diesel,"18,104",1120,"No Of Owner(s)
+2nd Owner",Manual,24.4,"Max Power
+71bhp","Torque
+180.4Nm",Sedan,Jaipur,456408,CarDekho
+32,Honda,Honda Amaze,S i-Dtech,2014,Diesel,"86,540",1498,"No Of Owner(s)
+1st Owner",Manual,25.8,"Max Power
+98.6bhp","Torque
+200Nm",Sedan,Jaipur,390000,CarDekho
+33,Skoda,Skoda Rapid,1.5 TDI Ambition BSIV,2018,Diesel,"48,266",1498,"No Of Owner(s)
+1st Owner",Manual,21.13,"Max Power
+108.6bhp","Torque
+250Nm",Sedan,Jaipur,785553,CarDekho
+34,Maruti,Maruti Ciaz,1.4 Zeta,2017,Petrol,"87,255",1373,"No Of Owner(s)
+1st Owner",Manual,20.73,"Max Power
+91.1bhp","Torque
+130Nm",Sedan,Jaipur,673973,CarDekho
+35,Skoda,Skoda Rapid,1.5 TDI Style BSIV,2017,Diesel,"71,258",1498,"No Of Owner(s)
+1st Owner",Manual,21.13,"Max Power
+108.6bhp","Torque
+250Nm",Sedan,Jaipur,729761,CarDekho
+36,Honda,Honda Amaze,S Petrol BSIV,2020,Petrol,"5,000",1199,"No Of Owner(s)
+1st Owner",Manual,19.5,"Max Power
+88.76bhp","Torque
+110Nm",Sedan,Jaipur,688009,CarDekho
+37,Honda,Honda Amaze,S i-VTEC,2018,Petrol,"35,041",1198,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+86.7bhp","Torque
+109Nm",Sedan,Jaipur,539981,CarDekho
+38,Honda,Honda Amaze,S i-VTEC,2019,Petrol,"22,903",1198,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+86.7bhp","Torque
+109Nm",Sedan,Jaipur,640000,CarDekho
+39,Maruti,Maruti Swift Dzire,VDi,2009,Diesel,"155,201",1248,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1248 CC","Max Power
+73.9bhp",Sedan,Jaipur,288400,CarDekho
+40,Honda,Honda WR-V,i-VTEC S,2017,Petrol,"50,943",1199,"No Of Owner(s)
+1st Owner",Manual,17.5,"Max Power
+88.7bhp","Torque
+110Nm",SUV,Jaipur,644117,CarDekho
+41,Mahindra,Mahindra Thar,CRDe AC,2015,Diesel,"77,424",2498,"No Of Owner(s)
+1st Owner",Manual,16.55,"Max Power
+105bhp","Torque
+247Nm",SUV,Jaipur,612877,CarDekho
+42,Ford,Ford Ecosport,1.5 DV5 MT Titanium,2013,Diesel,"75,016",1498,"No Of Owner(s)
+1st Owner",Manual,22.7,"Max Power
+89.84bhp","Torque
+204Nm",SUV,Jaipur,512941,CarDekho
+43,Ford,Ford Ecosport,1.5 TDCi Ambiente BSIV,2015,Diesel,"64,524",1498,"No Of Owner(s)
+1st Owner",Manual,22.77,"Max Power
+98.59bhp","Torque
+205Nm",SUV,Jaipur,534561,CarDekho
+44,Tata,Tata Harrier,XZ BSIV,2019,Diesel,"93,703",1956,"No Of Owner(s)
+1st Owner",Manual,17,"Max Power
+138.1bhp","Torque
+350Nm",SUV,Jaipur,1375345,CarDekho
+45,Hyundai,Hyundai Venue,SX Opt Diesel BSIV,2019,Diesel,"44,344",1396,"No Of Owner(s)
+1st Owner",Manual,23.7,"Max Power
+88.7bhp","Torque
+220Nm",SUV,Jaipur,1066985,CarDekho
+46,Ford,Ford Ecosport,Titanium Diesel,2019,Diesel,"32,623",1498,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+99.23bhp","Torque
+215nm",SUV,Jaipur,917000,CarDekho
+47,Maruti,Maruti Vitara Brezza,VDi Option,2017,Diesel,"42,544",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Jaipur,770790,CarDekho
+48,Mercedes-Benz,Mercedes-Benz GLE Class,350d,2015,Diesel,"50,000",2987,"No Of Owner(s)
+2nd Owner",Automatic,11.57,"Max Power
+254.79bhp","Torque
+620Nm",SUV,Jaipur,3800000,CarDekho
+49,Ford,Ford Ecosport,1.0 Ecoboost Titanium,2015,Petrol,"89,572",999,"No Of Owner(s)
+1st Owner",Manual,18.88,"Max Power
+123.37bhp","Torque
+170Nm",SUV,Jaipur,510000,CarDekho
+50,MG,MG Hector,Sharp DCT,2019,Petrol,"11,000",1451,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1451 CC","Max Power
+141bhp",SUV,Jaipur,1650000,CarDekho
+51,Ford,Ford Ecosport,1.5 Diesel Titanium Plus,2017,Diesel,"47,608",1498,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+98.96bhp","Torque
+215Nm",SUV,Jaipur,875000,CarDekho
+52,Maruti,Maruti Vitara Brezza,VDi,2018,Diesel,"79,557",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Jaipur,807000,CarDekho
+53,Maruti,Maruti Vitara Brezza,VDi,2019,Diesel,"34,229",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Jaipur,924508,CarDekho
+54,Maruti,Maruti Vitara Brezza,ZDi Plus,2016,Diesel,"96,113",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Jaipur,816073,CarDekho
+55,Maruti,Maruti SX4 S Cross,DDiS 200 Delta,2017,Diesel,"84,388",1248,"No Of Owner(s)
+1st Owner",Manual,23.65,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Jaipur,640234,CarDekho
+56,Hyundai,Hyundai Creta,1.6 CRDi SX Option,2018,Diesel,"47,789",1582,"No Of Owner(s)
+1st Owner",Manual,19.67,"Max Power
+126.2bhp","Torque
+259.9Nm",SUV,Jaipur,1291331,CarDekho
+57,Maruti,Maruti Vitara Brezza,ZDi,2017,Diesel,"71,450",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Jaipur,840910,CarDekho
+58,Maruti,Maruti Vitara Brezza,ZDi,2017,Diesel,"25,598",1248,"No Of Owner(s)
+1st Owner",Manual,24.3,"Max Power
+88.5bhp","Torque
+200Nm",SUV,Jaipur,890000,CarDekho
+59,Hyundai,Hyundai Creta,1.6 CRDi AT SX Plus,2016,Diesel,"89,000",1582,"No Of Owner(s)
+1st Owner",,"e Type
+Comprehe","Engine
+1582 CC","Max Power
+126.2bhp",SUV,Jaipur,1050000,CarDekho
+60,BMW,BMW 3 Series,320d Prestige,2014,Diesel,"90,355",1995,"No Of Owner(s)
+1st Owner",Automatic,18.88,"Max Power
+184bhp","Torque
+380Nm",Luxury,Jaipur,1434486,CarDekho
+61,Mercedes-Benz,Mercedes-Benz GLE Class,350d,2015,Diesel,"50,000",2987,"No Of Owner(s)
+2nd Owner",Automatic,11.57,"Max Power
+254.79bhp","Torque
+620Nm",Luxury,Jaipur,3800000,CarDekho
+62,BMW,BMW 5 Series 520d M Sport,,2017,Diesel,"22,119",1995,First Owner,Automatic,18.12,"Max Power
+190 bhp","Torque
+400Nm@ 1750-2500rpm",Luxury,Jaipur,3490000,CarDekho
+63,Mercedes-Benz,Mercedes-Benz C-Class C 200 Kompressor Elegance AT,,2007,Petrol,"70,000",1796,First Owner,Automatic,11.74,"Max Power
+186 bhp","Torque
+285Nm@ 2400-4000rpm",Luxury,Jaipur,550000,CarDekho
+64,BMW,BMW 5 Series 530d Highline,,2008,Diesel,"1,49,000",2993,First Owner,Automatic,11.5,"Max Power
+235 bhp","Torque
+51@ 1,750-3,000(kgm@ rpm)",Luxury,Jaipur,1000000,CarDekho
+65,Mercedes-Benz,Mercedes-Benz E-Class Elegance 220 CDI,,2012,Diesel,"98,490",2143,Second Owner,Automatic,10.0,"Max Power
+170 bhp","Torque
+400Nm@ 1400-2800rpm",Luxury,Jaipur,1575000,CarDekho
+66,Audi,Audi A6 2.0 TDI,,2013,Diesel,"84,064",1968,First Owner,Automatic,17.68,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Luxury,Jaipur,1607000,CarDekho
+67,BMW,BMW 3 Series 320d,,2012,Diesel,"65,835",1995,Second Owner,Automatic,13.2,"Max Power
+170 bhp","Torque
+34.7@ 1,750-3,000(kgm@ rpm)",Luxury,Jaipur,1295000,CarDekho
+68,Mercedes-Benz,Mercedes-Benz C-Class C 220 CDI BE Avantgarde,,2013,Diesel,"70,371",2143,First Owner,Automatic,14.84,"Max Power
+167.62 bhp","Torque
+400Nm@ 1400-2800rpm",Luxury,Jaipur,1369000,CarDekho
+69,Audi,Audi A3 35 TDI Technology,,2014,Diesel,"52,000",1968,First Owner,Automatic,20.38,"Max Power
+143 bhp","Torque
+320Nm@ 1750-3000rpm",Luxury,Jaipur,1500000,CarDekho
+70,BMW,BMW 5 Series 520d,,2011,Diesel,"1,20,000",1995,First Owner,Automatic,18.48,"Max Power
+177 bhp","Torque
+35.7@ 1,750-3,000(kgm@ rpm)",Luxury,Jaipur,1050000,CarDekho
+71,Land,Land Rover Freelander 2 HSE,,2013,Diesel,"90,000",2179,Third Owner,Automatic,12.35,"Max Power
+187.74 bhp","Torque
+420Nm@ 1750rpm",Luxury,Jaipur,1000000,CarDekho
+72,Mercedes-Benz,Mercedes-Benz S-Class 320 CDI,,2007,Diesel,"76,000",2987,Third Owner,Automatic,13.0,"Max Power
+210 bhp","Torque
+50@ 1600-1800(kgm@ rpm)",Luxury,Jaipur,1300000,CarDekho
+73,Audi,Audi Q3 2015-2017 30 TDI,,2017,Diesel,"40,000",1968,First Owner,Manual,17.32,"Max Power
+138.13 bhp","Torque
+320Nm@ 1750-2500rpm",Luxury,Jaipur,2400000,CarDekho
+74,Audi,Audi A3 35 TDI Premium Plus,,2016,Diesel,"90,000",1968,Third Owner,Automatic,20.38,"Max Power
+143 bhp","Torque
+320Nm@ 1750-3000rpm",Luxury,Jaipur,1600000,CarDekho
+75,Maruti,Maruti Ertiga,BSIV VXI,2018,Petrol,"21,723",1373,"No Of Owner(s)
+1st Owner",Manual,17.5,"Max Power
+91.1bhp","Torque
+130Nm",MUV,Jaipur,814857,CarDekho
+76,Toyota,Toyota Innova 2.5 VX (Diesel) 7 Seater BS IV,,2008,Diesel,"1,18,000",2494,First Owner,Manual,12.8,"Max Power
+102 bhp","Torque
+20.4@ 1400-3400(kgm@ rpm)",MUV,Jaipur,599000,CarDekho
+77,Toyota,Toyota Innova 2.5 GX (Diesel) 8 Seater,,2015,Diesel,"77,982",2494,Second Owner,Manual,12.99,"Max Power
+100.6 bhp","Torque
+200Nm@ 1200-3600rpm",MUV,Jaipur,827000,CarDekho
+78,Tata,Tata Aria Pleasure 4x2,,2014,Diesel,"100,046",2179,Second Owner,Manual,15.05,"Max Power
+147.9 bhp","Torque
+320Nm@ 1500-3000rpm",MUV,Jaipur,202999,CarDekho
+79,Tata,Tata Indigo GLX BSII,,2004,Petrol,"2,00,000","er
+85 ",Second Owner,Manual,3,"Torque
+12@ 3,500(kgm@ rpm)","Seats
+5",MUV,Jaipur,900000,CarDekho
+80,Toyota,Toyota Innova 2.5 EV (Diesel) PS 8 Seater BS IV,,2014,Diesel,"1,20,000",2494,First Owner,Manual,12.99,"Max Power
+100.57 bhp","Torque
+200Nm@ 1400-3400rpm",MUV,Jaipur,650000,CarDekho
+81,Toyota,Toyota Innova Crysta 2016-2020 2.4 G MT 8 STR,,2019,Diesel,"44,235",2393,First Owner,Manual,13.68,"Max Power
+147.51 bhp","Torque
+343Nm@ 1400-2800rpm",MUV,Jaipur,1789999,CarDekho
+82,Toyota,Toyota Innova 2.5 GX 7 STR,,2012,Diesel,"73,172",2494,First Owner,Manual,12.8,"Max Power
+102 bhp","Torque
+20.4@ 1400-3400(kgm@ rpm)",MUV,Jaipur,572000,CarDekho
+83,Toyota,Toyota Innova 2.5 E Diesel MS 7-seater,,2006,Diesel,"3,60,934",2494,First Owner,Manual,12.8,"Max Power
+102 bhp","Torque
+20.4@ 1400-3400(kgm@ rpm)",MUV,Jaipur,155000,CarDekho
+84,Toyota,Toyota Innova 2.5 G (Diesel) 8 Seater,,2015,Diesel,"1,20,000",2494,First Owner,Manual,12.99,"Max Power
+100.6 bhp","Torque
+200Nm@ 1200-3600rpm",MUV,Jaipur,780000,CarDekho
+85,Datsun,Datsun GO Plus A,,2017,Petrol,"25,000",1198,First Owner,Manual,20.62,"Max Power
+67 bhp","Torque
+104Nm@ 4000rpm",MUV,Jaipur,400000,CarDekho
+86,Renault,Renault Triber RXT BSIV,,2019,Petrol,"20,000",999,First Owner,Manual,20.0,"Max Power
+72 bhp","Torque
+96Nm@ 3500rpm",MUV,Jaipur,540000,CarDekho
+87,Maruti,Maruti Omni,E MPI STD,2016,Petrol,"26,945",796,"No Of Owner(s)
+2nd Owner",Manual,16.8,"Max Power
+34.2bhp","Torque
+59Nm",Minivan,Jaipur,240000,CarDekho
+88,Maruti,Maruti Omni E MPI STD BS IV,,2019,Petrol,"13,000",796,First Owner,Manual,16.8,"Max Power
+34.2 bhp","Torque
+59Nm@ 2500rpm",Minivan,Jaipur,315000,CarDekho
+89,Maruti,Maruti Omni MPI STD BSIV,,2017,Petrol,"40,000",796,First Owner,Manual,16.8,"Max Power
+34.2 bhp","Torque
+59Nm@ 2500rpm",Minivan,Jaipur,250000,CarDekho
+90,Maruti,Maruti Omni LPG CARGO BSIII W IMMOBILISER,,2009,LPG,"1,20,000","er
+32.8 ",Second Owner,Manual,,"Torque
+57Nm@ 2500rpm","Seats
+5",Minivan,Jaipur,170000,CarDekho
+91,Maruti,Maruti Eeco 5 Seater AC BSIV,,2014,Petrol,"63,405",1196,First Owner,Manual,15.37,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Jaipur,312000,CarDekho
+92,Maruti,Maruti Omni 8 Seater BSII,,2010,Petrol,"88,700",796,Third Owner,Manual,19.7,"Max Power
+35 bhp","Torque
+6.1kgm@ 3000rpm",Minivan,Jaipur,105000,CarDekho
+93,Maruti,Maruti Omni E MPI STD BS IV,,2011,Petrol,"85,086",796,Second Owner,Manual,16.8,"Max Power
+34.2 bhp","Torque
+59Nm@ 2500rpm",Minivan,Jaipur,111000,CarDekho
+94,Maruti,Maruti Omni E MPI STD,,2007,Petrol,"58,972",796,Fourth & Above Owner,Manual,16.8,"Max Power
+34.2 bhp","Torque
+59Nm@ 2500rpm",Minivan,Jaipur,800000,CarDekho
+95,Maruti,Maruti Versa DX,,2003,Petrol,"80,000",1298,Second Owner,Manual,11.3,"Max Power
+83.1 bhp","Torque
+10.4@ 3,000(kgm@ rpm)",Minivan,Jaipur,900000,CarDekho
+96,Maruti,Maruti Omni MPI CARGO BSIV,,2015,Petrol,"50,000",796,Second Owner,Manual,16.8,"Max Power
+34.2 bhp","Torque
+59Nm@ 2500rpm",Minivan,Jaipur,225000,CarDekho

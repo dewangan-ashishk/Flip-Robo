@@ -1,0 +1,392 @@
+,Brand,Model,Variant,Make_Year,Fuel,Km_driven,Engine,Number_of_Owners,Transmission,Milaege,Max_Power,Torque,Body_Type,Location,Price,Source
+0,Maruti,Maruti Alto K10,LXI,2012,Petrol,"89,579",998,"No Of Owner(s)
+1st Owner",Manual,20.92,"Max Power
+67.1bhp","Torque
+90Nm",Hatchback,Ahmedabad,177500,CarDekho
+1,Maruti,Maruti Wagon R,VXI,2016,Petrol,"81,674",998,"No Of Owner(s)
+1st Owner",Manual,21.79,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Ahmedabad,360000,CarDekho
+2,Maruti,Maruti S-Presso,VXI,2019,Petrol,"24,230",998,"No Of Owner(s)
+1st Owner",Manual,21.7,"Max Power
+67.05bhp","Torque
+90nm",Hatchback,Ahmedabad,422000,CarDekho
+3,Maruti,Maruti Swift,VDI,2018,Diesel,"31,694",1248,"No Of Owner(s)
+1st Owner",Manual,28.4,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Ahmedabad,585000,CarDekho
+4,Maruti,Maruti Baleno,Alpha,2017,Petrol,"49,072",1197,"No Of Owner(s)
+1st Owner",Manual,21.01,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Ahmedabad,610000,CarDekho
+5,Maruti,Maruti Swift,ZDi,2013,Diesel,"72,301",1248,"No Of Owner(s)
+1st Owner",Manual,22.9,"Max Power
+74bhp","Torque
+190Nm",Hatchback,Ahmedabad,399000,CarDekho
+6,Maruti,Maruti Swift,VXI,2019,Petrol,"21,060",1197,"No Of Owner(s)
+1st Owner",Manual,23.2,"Max Power
+88.50bhp","Torque
+113Nm",Hatchback,Ahmedabad,600000,CarDekho
+7,Maruti,Maruti Baleno,1.2 Delta,2016,Petrol,"51,069",1197,"No Of Owner(s)
+1st Owner",Manual,21.4,"Max Power
+83.1bhp","Torque
+115Nm",Hatchback,Ahmedabad,482500,CarDekho
+8,Maruti,Maruti Wagon R,VXI,2014,Petrol,"42,381",998,"No Of Owner(s)
+1st Owner",Manual,21.79,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Ahmedabad,328500,CarDekho
+9,Maruti,Maruti Wagon R,LXI BS IV,2013,Petrol,"85,416",998,"No Of Owner(s)
+2nd Owner",Manual,20.51,"Max Power
+67.04bhp","Torque
+90Nm",Hatchback,Ahmedabad,279500,CarDekho
+10,Maruti,Maruti Wagon R,LXI,2020,Petrol,"10,371",998,"No Of Owner(s)
+1st Owner",Manual,21.79,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Ahmedabad,506500,CarDekho
+11,Maruti,Maruti Wagon R,VXI Plus,2017,Petrol,"43,031",998,"No Of Owner(s)
+1st Owner",Manual,20.51,"Max Power
+67.04bhp","Torque
+90Nm",Hatchback,Ahmedabad,387000,CarDekho
+12,Maruti,Maruti Baleno,Delta,2017,Petrol,"34,669",1197,"No Of Owner(s)
+1st Owner",Manual,21.01,"Max Power
+81.80bhp","Torque
+113Nm",Hatchback,Ahmedabad,535500,CarDekho
+13,Maruti,Maruti Wagon R,VXI,2014,Petrol,"131,125",998,"No Of Owner(s)
+1st Owner",Manual,21.79,"Max Power
+67.05bhp","Torque
+90Nm",Hatchback,Ahmedabad,294500,CarDekho
+14,Hyundai,Hyundai Grand i10 1.2 Kappa Sportz AT,,2018,Petrol,"25,000",1197,First Owner,Automatic,18.9,"Max Power
+81.86 bhp","Torque
+113.75nm@ 4000rpm",Hatchback,Ahmedabad,621000,CarDekho
+15,Ford,Ford EcoSport 1.5 Diesel Trend,,2015,Diesel,"49,000",1498,First Owner,Manual,21.7,"Max Power
+98.96 bhp","Torque
+215Nm@ 1750-2500rpm",Hatchback,Ahmedabad,515000,CarDekho
+16,Maruti,Maruti Alto 800 LXI,,2018,Petrol,"41,000",796,First Owner,Manual,24.7,"Max Power
+47.3 bhp","Torque
+69Nm@ 3500rpm",Hatchback,Ahmedabad,345000,CarDekho
+17,Tata,Tata Tiago Wizz 1.2 Revotron,,2017,Petrol,"59,000",1199,First Owner,Manual,23.84,"Max Power
+84 bhp","Torque
+114Nm@ 3500rpm",Hatchback,Ahmedabad,474000,CarDekho
+18,Hyundai,Hyundai EON D Lite Plus,,2013,Petrol,"52,000",814,First Owner,Manual,21.1,"Max Power
+55.2 bhp","Torque
+74.5Nm@ 4000rpm",Hatchback,Ahmedabad,264000,CarDekho
+19,Volvo,Volvo XC 90 3.2 AWD,,2008,Petrol,"51,000",3192,First Owner,Automatic,8.3,"Max Power
+200 bhp","Torque
+420Nm@ 3200rpm",Hatchback,Ahmedabad,789000,CarDekho
+20,Honda,Honda City,1.5 V MT,2011,Petrol,"38,647",1497,"No Of Owner(s)
+1st Owner",Manual,17,"Max Power
+118PS at 6,600 rpm","Torque
+146Nm at 4800 rpm",Sedan,Ahmedabad,399500,CarDekho
+21,Maruti,Maruti Swift Dzire,VXI 1.2,2019,Petrol,"9,718",1197,"No Of Owner(s)
+1st Owner",Manual,21.21,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,Ahmedabad,665000,CarDekho
+22,Maruti,Maruti Swift Dzire,VXI 1.2,2019,Petrol,"9,303",1197,"No Of Owner(s)
+1st Owner",Manual,21.21,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,Ahmedabad,683500,CarDekho
+23,Maruti,Maruti Swift Dzire,VXI 1.2,2019,Petrol,"11,935",1197,"No Of Owner(s)
+1st Owner",Manual,21.21,"Max Power
+81.80bhp","Torque
+113Nm",Sedan,Ahmedabad,695000,CarDekho
+24,Maruti,Maruti Swift Dzire,VDI,2015,Diesel,"54,419",1248,"No Of Owner(s)
+1st Owner",Manual,26.59,"Max Power
+74bhp","Torque
+190Nm",Sedan,Ahmedabad,491500,CarDekho
+25,Maruti,Maruti Swift Dzire,VDI,2012,Diesel,"80,084",1248,"No Of Owner(s)
+1st Owner",Manual,23.4,"Max Power
+74bhp","Torque
+190Nm",Sedan,Ahmedabad,340500,CarDekho
+26,Volkswagen,Volkswagen Vento,1.5 TDI Highline,2018,Diesel,"97,922",1498,"No Of Owner(s)
+1st Owner",Manual,22.27,"Max Power
+108.6bhp","Torque
+250Nm",Sedan,Ahmedabad,711000,CarDekho
+27,Hyundai,Hyundai Verna,1.6 SX CRDi (O),2014,Diesel,"65,484",1582,"No Of Owner(s)
+2nd Owner",Manual,22.32,"Max Power
+126.32bhp","Torque
+259.8Nm",Sedan,Ahmedabad,543000,CarDekho
+28,Honda,Honda Amaze,S Option i-VTEC,2017,Petrol,"59,642",1198,"No Of Owner(s)
+1st Owner",Manual,17.8,"Max Power
+86.7bhp","Torque
+109Nm",Sedan,Ahmedabad,501500,CarDekho
+29,Honda,Honda City,i-VTEC V,2018,Petrol,"89,144",1497,"No Of Owner(s)
+1st Owner",Manual,17.4,"Max Power
+117.6bhp","Torque
+145Nm",Sedan,Ahmedabad,763500,CarDekho
+30,BMW,BMW 5 Series 520d Sedan,,2013,Diesel,"1,00,000","ize
+17 x 7",Second Owner,Automatic,18.48,"Seats
+5","Color
+White",Sedan,Ahmedabad,1850000,CarDekho
+31,Audi,Audi A4 35 TDI Premium Plus,,2018,Diesel,"14,667",1968,First Owner,Automatic,18.25,"Max Power
+187.74 bhp","Torque
+400Nm@ 1750-3000rpm",Sedan,Ahmedabad,3200000,CarDekho
+32,Honda,Honda City i-VTEC CVT V,,2019,Petrol,"13,300",1497,First Owner,Automatic,18.0,"Max Power
+117.6 bhp","Torque
+145Nm@ 4600rpm",Sedan,Ahmedabad,1200000,CarDekho
+33,Audi,Audi A4 2.0 TDI 177 Bhp Premium Plus,,2014,Diesel,"74,000",1968,First Owner,Automatic,17.11,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Sedan,Ahmedabad,1551000,CarDekho
+34,Maruti,Maruti Baleno Delta 1.3,,2016,Diesel,"83,000",1248,First Owner,Manual,27.39,"Max Power
+74 bhp","Torque
+190Nm@ 2000rpm",Sedan,Ahmedabad,539000,CarDekho
+35,Hyundai,Hyundai i20 2015-2017 Sportz 1.4 CRDi,,2015,Diesel,"81,000",1396,First Owner,Manual,22.54,"Max Power
+88.73 bhp","Torque
+219.7Nm@ 1500-2750rpm",Sedan,Ahmedabad,559000,CarDekho
+36,Ford,Ford EcoSport 1.5 Diesel Titanium Plus,,2018,Diesel,"97,000",1498,First Owner,Manual,21.7,"Max Power
+98.96 bhp","Torque
+215Nm@ 1750-2500rpm",Sedan,Ahmedabad,775000,CarDekho
+37,BMW,BMW X1 sDrive 20d Exclusive,,2011,Diesel,"82,000",1995,Second Owner,Automatic,15.06,"Max Power
+177 bhp","Torque
+350Nm@ 1750-3000rpm",Sedan,Ahmedabad,869999,CarDekho
+38,Hyundai,Hyundai i20 Active 1.4 S,,2015,Diesel,"65,000",1396,First Owner,Manual,21.19,"Max Power
+88.73 bhp","Torque
+219.66nm@ 1500-2750rpm",Sedan,Ahmedabad,529000,CarDekho
+39,Volkswagen,Volkswagen Vento 1.5 TDI Comfortline,,2015,Diesel,"1,30,000",1498,First Owner,Manual,20.34,"Max Power
+103.2 bhp","Torque
+250Nm@ 1500-2500rpm",Sedan,Ahmedabad,534000,CarDekho
+40,Nissan,Nissan Terrano,XL Plus 85 PS,2016,Diesel,"74,431",1461,"No Of Owner(s)
+2nd Owner",Manual,20.45,"Max Power
+83.8bhp","Torque
+200Nm",SUV,Ahmedabad,470500,CarDekho
+41,Ford,Ford Ecosport,1.5 TDCi Trend BSIV,2016,Diesel,"42,029",1498,"No Of Owner(s)
+1st Owner",Manual,22.77,"Max Power
+98.59bhp","Torque
+205Nm",SUV,Ahmedabad,589500,CarDekho
+42,Maruti,Maruti Vitara Brezza ZDi Plus AMT,,2019,Diesel,"26,000",1248,First Owner,Automatic,24.3,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,Ahmedabad,1025000,CarDekho
+43,Maruti,Maruti SX4 S Cross DDiS 200 Delta,,2016,Diesel,"68,000",1248,First Owner,Manual,23.65,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",SUV,Ahmedabad,595000,CarDekho
+44,Ford,Ford EcoSport 1.5 Diesel Titanium BSIV,,2018,Diesel,"19,376",1498,First Owner,Manual,23.0,"Max Power
+98.96 bhp","Torque
+205Nm@ 1750-3250rpm",SUV,Ahmedabad,925000,CarDekho
+45,Ford,Ford Endeavour 2.2 Titanium AT 4X2 Sunroof,,2018,Diesel,"46,000",2198,First Owner,Automatic,12.62,"Max Power
+158 bhp","Torque
+385Nm@ 1600-2500rpm",SUV,Ahmedabad,2500000,CarDekho
+46,Hyundai,Hyundai Creta 1.6 CRDi SX Option,,2016,Diesel,"73,000",1582,First Owner,Manual,19.67,"Max Power
+126.2 bhp","Torque
+259.9Nm@ 1900-2750rpm",SUV,Ahmedabad,975000,CarDekho
+47,Skoda,Skoda Kodiaq 2.0 TDI Style,,2017,Diesel,"100,000",1968,First Owner,Automatic,16.25,"Max Power
+148 bhp","Torque
+340nm@ 1750-3000rpm",SUV,Ahmedabad,2550000,CarDekho
+48,Hyundai,Hyundai Creta 1.6 CRDi AT SX Plus,,2015,Diesel,"95,106",1582,First Owner,Automatic,17.01,"Max Power
+126.2 bhp","Torque
+259.9Nm@ 1900-2750rpm",SUV,Ahmedabad,900000,CarDekho
+49,Audi,Audi Q5 2.0 TDI,,2013,Diesel,"91,000",1968,Second Owner,Automatic,14.16,"Max Power
+174.3 bhp","Torque
+380Nm@ 1750-2500rpm",SUV,Ahmedabad,1850000,CarDekho
+50,Kia,Kia Seltos HTX Plus AT D,,2019,Diesel,"34,000",1493,First Owner,Automatic,17.8,"Max Power
+113.4 bhp","Torque
+250nm@ 1500-2750rpm",SUV,Ahmedabad,1350000,CarDekho
+51,Kia,Kia Seltos HTX Plus AT D,,2019,Diesel,"35,000",1493,First Owner,Automatic,17.8,"Max Power
+113.4 bhp","Torque
+250nm@ 1500-2750rpm",SUV,Ahmedabad,1575000,CarDekho
+52,Hyundai,Hyundai Creta 1.6 SX Option,,2017,Petrol,"50,000",1591,First Owner,Manual,15.8,"Max Power
+121.3 bhp","Torque
+151Nm@ 4850rpm",SUV,Ahmedabad,1051000,CarDekho
+53,Ford,Ford EcoSport 1.5 Diesel Titanium BSIV,,2018,Diesel,"50,000",1498,First Owner,Manual,23.0,"Max Power
+98.96 bhp","Torque
+205Nm@ 1750-3250rpm",SUV,Ahmedabad,825000,CarDekho
+54,Hyundai,Hyundai Grand i10 1.2 Kappa Sportz AT,,2018,Petrol,"25,000",1197,First Owner,Automatic,18.9,"Max Power
+81.86 bhp","Torque
+113.75nm@ 4000rpm",SUV,Ahmedabad,621000,CarDekho
+55,Ford,Ford EcoSport 1.5 Diesel Trend,,2015,Diesel,"49,000",1498,First Owner,Manual,21.7,"Max Power
+98.96 bhp","Torque
+215Nm@ 1750-2500rpm",SUV,Ahmedabad,515000,CarDekho
+56,Maruti,Maruti Alto 800 LXI,,2018,Petrol,"41,000",796,First Owner,Manual,24.7,"Max Power
+47.3 bhp","Torque
+69Nm@ 3500rpm",SUV,Ahmedabad,345000,CarDekho
+57,Tata,Tata Tiago Wizz 1.2 Revotron,,2017,Petrol,"59,000",1199,First Owner,Manual,23.84,"Max Power
+84 bhp","Torque
+114Nm@ 3500rpm",SUV,Ahmedabad,474000,CarDekho
+58,Hyundai,Hyundai EON D Lite Plus,,2013,Petrol,"52,000",814,First Owner,Manual,21.1,"Max Power
+55.2 bhp","Torque
+74.5Nm@ 4000rpm",SUV,Ahmedabad,264000,CarDekho
+59,Volvo,Volvo XC 90 3.2 AWD,,2008,Petrol,"51,000",3192,First Owner,Automatic,8.3,"Max Power
+200 bhp","Torque
+420Nm@ 3200rpm",SUV,Ahmedabad,789000,CarDekho
+60,Audi,Audi A4 35 TDI Premium Plus,,2018,Diesel,"14,667",1968,First Owner,Automatic,18.25,"Max Power
+187.74 bhp","Torque
+400Nm@ 1750-3000rpm",Luxury,Ahmedabad,3200000,CarDekho
+61,Audi,Audi A4 2.0 TDI 177 Bhp Premium Plus,,2014,Diesel,"74,000",1968,First Owner,Automatic,17.11,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Luxury,Ahmedabad,1551000,CarDekho
+62,Mercedes-Benz,Mercedes-Benz E-Class Exclusive E 220 d BSIV,,2019,Diesel,"30,486",1950,First Owner,Automatic,16.1,"Max Power
+191.7 bhp","Torque
+400Nm@ 1600-2800rpm",Luxury,Ahmedabad,4800000,CarDekho
+63,Skoda,Skoda Kodiaq 2.0 TDI Style,,2017,Diesel,"100,000",1968,First Owner,Automatic,16.25,"Max Power
+148 bhp","Torque
+340nm@ 1750-3000rpm",Luxury,Ahmedabad,2550000,CarDekho
+64,Audi,Audi Q5 2.0 TDI,,2013,Diesel,"91,000",1968,Second Owner,Automatic,14.16,"Max Power
+174.3 bhp","Torque
+380Nm@ 1750-2500rpm",Luxury,Ahmedabad,1850000,CarDekho
+65,Mercedes-Benz,Mercedes-Benz E-Class E250 CDI Avantgarde,,2016,Diesel,"48,000",2143,Second Owner,Automatic,13.0,"Max Power
+204 bhp","Torque
+500Nm@ 1600-1800rpm",Luxury,Ahmedabad,2651000,CarDekho
+66,Audi,Audi Q3 35 TDI Quattro Premium,,2014,Diesel,"71,003",1968,First Owner,Automatic,15.73,"Max Power
+174.33 bhp","Torque
+380Nm@ 1750-2500rpm",Luxury,Ahmedabad,1650000,CarDekho
+67,Jaguar,Jaguar XF 3.0 Litre S Premium Luxury,,2013,Diesel,"75,000",2993,First Owner,Automatic,14.74,"Max Power
+270.9 bhp","Torque
+600Nm@ 2000rpm",Luxury,Ahmedabad,1811000,CarDekho
+68,BMW,BMW 3 Series 320d Luxury Line,,2013,Diesel,"93,000",1995,First Owner,Automatic,18.88,"Max Power
+184 bhp","Torque
+380Nm@ 1750-2750rpm",Luxury,Ahmedabad,1493000,CarDekho
+69,BMW,BMW X3 xDrive 20d Luxury Line,,2019,Diesel,"18,000",1995,First Owner,Automatic,16.55,"Max Power
+187.7 bhp","Torque
+400Nm@ 1750-2500rpm",Luxury,Ahmedabad,5400000,CarDekho
+70,Mercedes-Benz,Mercedes-Benz E-Class E 220 CDI Avantgarde,,2013,Diesel,"75,000",2148,First Owner,Automatic,10.0,"Max Power
+170 bhp","Torque
+400Nm@ 1400-2800rpm",Luxury,Ahmedabad,1650000,CarDekho
+71,Mercedes-Benz,Mercedes-Benz M-Class ML 250 CDI,,2015,Diesel,"60,000",2143,First Owner,Automatic,15.26,"Max Power
+203.2 bhp","Torque
+500Nm@ 1600-1800rpm",Luxury,Ahmedabad,3000000,CarDekho
+72,Mercedes-Benz,Mercedes-Benz A-Class A200 CDI,,2015,Diesel,"67,000",2143,Second Owner,Automatic,20.0,"Max Power
+107.3 bhp","Torque
+250Nm@ 1400-2800rpm",Luxury,Ahmedabad,1450000,CarDekho
+73,Volvo,Volvo XC 90 D5 Inscription,,2020,Diesel,"37,000",1969,First Owner,Automatic,17.2,"Max Power
+235 bhp","Torque
+480Nm@ 1750rpm",Luxury,Ahmedabad,7500000,CarDekho
+74,Maruti,Maruti Baleno Delta 1.3,,2016,Diesel,"83,000",1248,First Owner,Manual,27.39,"Max Power
+74 bhp","Torque
+190Nm@ 2000rpm",Luxury,Ahmedabad,539000,CarDekho
+75,Hyundai,Hyundai i20 2015-2017 Sportz 1.4 CRDi,,2015,Diesel,"81,000",1396,First Owner,Manual,22.54,"Max Power
+88.73 bhp","Torque
+219.7Nm@ 1500-2750rpm",Luxury,Ahmedabad,559000,CarDekho
+76,Ford,Ford EcoSport 1.5 Diesel Titanium Plus,,2018,Diesel,"97,000",1498,First Owner,Manual,21.7,"Max Power
+98.96 bhp","Torque
+215Nm@ 1750-2500rpm",Luxury,Ahmedabad,775000,CarDekho
+77,BMW,BMW X1 sDrive 20d Exclusive,,2011,Diesel,"82,000",1995,Second Owner,Automatic,15.06,"Max Power
+177 bhp","Torque
+350Nm@ 1750-3000rpm",Luxury,Ahmedabad,869999,CarDekho
+78,Hyundai,Hyundai i20 Active 1.4 S,,2015,Diesel,"65,000",1396,First Owner,Manual,21.19,"Max Power
+88.73 bhp","Torque
+219.66nm@ 1500-2750rpm",Luxury,Ahmedabad,529000,CarDekho
+79,Volkswagen,Volkswagen Vento 1.5 TDI Comfortline,,2015,Diesel,"1,30,000",1498,First Owner,Manual,20.34,"Max Power
+103.2 bhp","Torque
+250Nm@ 1500-2500rpm",Luxury,Ahmedabad,534000,CarDekho
+80,Toyota,Toyota Innova,2.5 VX (Diesel) 8 Seater,2013,Diesel,"94,754",2494,"No Of Owner(s)
+2nd Owner",Manual,12.99,"Max Power
+100bhp","Torque
+200Nm",MUV,Ahmedabad,670500,CarDekho
+81,Toyota,Toyota Innova 2.5 G (Diesel) 8 Seater,,2013,Diesel,"72,000",2494,First Owner,Manual,12.99,"Max Power
+100.6 bhp","Torque
+200Nm@ 1400-3400rpm",MUV,Ahmedabad,525000,CarDekho
+82,Maruti,Maruti Ertiga SHVS VDI,,2016,Diesel,"42,000",1248,First Owner,Manual,24.52,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",MUV,Ahmedabad,725000,CarDekho
+83,Honda,Honda Mobilio S i DTEC,,2015,Diesel,"41,665",1498,First Owner,Manual,24.2,"Max Power
+98.6 bhp","Torque
+200Nm@ 1750rpm",MUV,Ahmedabad,535000,CarDekho
+84,Toyota,Toyota Innova Crysta 2016-2020 2.8 GX AT BSIV,,2016,Diesel,"72,000",2755,First Owner,Automatic,11.36,"Max Power
+171.5 bhp","Torque
+360Nm@ 1200-3400rpm",MUV,Ahmedabad,1650000,CarDekho
+85,Mahindra,Mahindra Xylo E4 ABS BS IV,,2012,Diesel,"75,000",2498,First Owner,Manual,11.68,"Max Power
+112 bhp","Torque
+260Nm@ 1800-2200rpm",MUV,Ahmedabad,364000,CarDekho
+86,Toyota,Toyota Innova Crysta 2016-2020 2.8 GX AT BSIV,,2017,Diesel,"22,700",2755,First Owner,Automatic,11.36,"Max Power
+171.5 bhp","Torque
+360Nm@ 1200-3400rpm",MUV,Ahmedabad,1789999,CarDekho
+87,Datsun,Datsun GO Plus T,,2018,Petrol,"16,000",1198,First Owner,Manual,19.02,"Max Power
+67.05 bhp","Torque
+104Nm@ 4000rpm",MUV,Ahmedabad,650000,CarDekho
+88,Nissan,Nissan Evalia XL,,2015,Diesel,"55,000",1461,First Owner,Manual,19.3,"Max Power
+84.8 bhp","Torque
+200Nm@ 2000rpm",MUV,Ahmedabad,490000,CarDekho
+89,Toyota,Toyota Innova 2.5 G (Diesel) 7 Seater,,2011,Diesel,"83,000",2494,First Owner,Manual,12.99,"Max Power
+100.6 bhp","Torque
+200Nm@ 1400-3400rpm",MUV,Ahmedabad,569000,CarDekho
+90,Chevrolet,Chevrolet Enjoy TCDi LS 7 Seater,,2013,Diesel,"85,693",1248,First Owner,Manual,18.2,"Max Power
+73.8 bhp","Torque
+172.5Nm@ 1750rpm",MUV,Ahmedabad,349000,CarDekho
+91,Maruti,Maruti Ertiga SHVS VDI,,2016,Diesel,"69,000",1248,First Owner,Manual,24.52,"Max Power
+88.5 bhp","Torque
+200Nm@ 1750rpm",MUV,Ahmedabad,691000,CarDekho
+92,Toyota,Toyota Innova 2.5 G4 Diesel 8-seater,,2009,Diesel,"76,000",2494,Third Owner,Manual,12.8,"Max Power
+102 bhp","Torque
+20.4@ 1400-3400(kgm@ rpm)",MUV,Ahmedabad,400000,CarDekho
+93,Toyota,Toyota Innova 2.5 GX (Diesel) 7 Seater BS IV,,2015,Diesel,"55,000",2494,First Owner,Manual,12.8,"Max Power
+102 bhp","Torque
+20.4@ 1400-3400(kgm@ rpm)",MUV,Ahmedabad,1000000,CarDekho
+94,Hyundai,Hyundai Grand i10 1.2 Kappa Sportz AT,,2018,Petrol,"25,000",1197,First Owner,Automatic,18.9,"Max Power
+81.86 bhp","Torque
+113.75nm@ 4000rpm",MUV,Ahmedabad,621000,CarDekho
+95,Ford,Ford EcoSport 1.5 Diesel Trend,,2015,Diesel,"49,000",1498,First Owner,Manual,21.7,"Max Power
+98.96 bhp","Torque
+215Nm@ 1750-2500rpm",MUV,Ahmedabad,515000,CarDekho
+96,Maruti,Maruti Alto 800 LXI,,2018,Petrol,"41,000",796,First Owner,Manual,24.7,"Max Power
+47.3 bhp","Torque
+69Nm@ 3500rpm",MUV,Ahmedabad,345000,CarDekho
+97,Tata,Tata Tiago Wizz 1.2 Revotron,,2017,Petrol,"59,000",1199,First Owner,Manual,23.84,"Max Power
+84 bhp","Torque
+114Nm@ 3500rpm",MUV,Ahmedabad,474000,CarDekho
+98,Hyundai,Hyundai EON D Lite Plus,,2013,Petrol,"52,000",814,First Owner,Manual,21.1,"Max Power
+55.2 bhp","Torque
+74.5Nm@ 4000rpm",MUV,Ahmedabad,264000,CarDekho
+99,Volvo,Volvo XC 90 3.2 AWD,,2008,Petrol,"51,000",3192,First Owner,Automatic,8.3,"Max Power
+200 bhp","Torque
+420Nm@ 3200rpm",MUV,Ahmedabad,789000,CarDekho
+100,Maruti,Maruti Eeco,5 Seater AC,2017,Petrol,"88,362",1196,"No Of Owner(s)
+1st Owner",Manual,16.11,"Max Power
+72.42bhp","Torque
+98Nm",Minivan,Ahmedabad,397000,CarDekho
+101,Maruti,Maruti Eeco,5 Seater AC BSIV,2019,Petrol,"14,161",1196,"No Of Owner(s)
+1st Owner",Manual,15.37,"Max Power
+73bhp","Torque
+101Nm",Minivan,Ahmedabad,457000,CarDekho
+102,Maruti,Maruti Eeco,5 Seater AC,2012,Petrol,"57,341",1196,"No Of Owner(s)
+1st Owner",Manual,16.11,"Max Power
+72.42bhp","Torque
+98Nm",Minivan,Ahmedabad,279000,CarDekho
+103,Maruti,Maruti Eeco,5 Seater AC,2020,Petrol,"19,627",1196,"No Of Owner(s)
+1st Owner",Manual,16.11,"Max Power
+72.42bhp","Torque
+98Nm",Minivan,Ahmedabad,469500,CarDekho
+104,Maruti,Maruti Eeco,5 Seater AC BSIV,2016,Petrol,"45,347",1196,"No Of Owner(s)
+1st Owner",Manual,15.37,"Max Power
+73bhp","Torque
+101Nm",Minivan,Ahmedabad,380500,CarDekho
+105,Maruti,Maruti Eeco,5 Seater AC,2020,Petrol,"17,116",1196,"No Of Owner(s)
+1st Owner",Manual,16.11,"Max Power
+72.42bhp","Torque
+98Nm",Minivan,Ahmedabad,472000,CarDekho
+106,Maruti,Maruti Eeco 5 Seater AC BSIV,,2017,Petrol,"87,000",1196,First Owner,Manual,15.37,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Ahmedabad,415000,CarDekho
+107,Maruti,Maruti Eeco 5 Seater AC BSIV,,2017,Petrol,"29,000",1196,First Owner,Manual,15.37,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Ahmedabad,385000,CarDekho
+108,Maruti,Maruti Eeco 5 Seater AC BSIV,,2012,Petrol,"51,000",1196,First Owner,Manual,15.37,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Ahmedabad,290000,CarDekho
+109,Maruti,Maruti Eeco 5 Seater STD,,2012,Petrol,"22,475",1196,First Owner,Manual,16.11,"Max Power
+72.42 bhp","Torque
+98Nm@ 3000rpm",Minivan,Ahmedabad,295000,CarDekho
+110,Maruti,Maruti Omni CNG,,2010,CNG,"1,00,000",796,Second Owner,Manual,10.9 ,"Max Power
+bhp","Seats
+8",Minivan,Ahmedabad,111000,CarDekho
+111,Maruti,Maruti Eeco 5 STR With AC Plus HTR CNG,,2013,CNG,"70,000",1196,First Owner,Manual,15.1 ,"Max Power
+73 bhp","Torque
+101Nm@ 3000rpm",Minivan,Ahmedabad,325000,CarDekho
+112,Maruti,Maruti Omni CNG,,2010,CNG,"1,00,000",796,Second Owner,Manual,10.9 ,"Max Power
+bhp","Seats
+8",Minivan,Ahmedabad,121000,CarDekho
+113,Hyundai,Hyundai Grand i10 1.2 Kappa Sportz AT,,2018,Petrol,"25,000",1197,First Owner,Automatic,18.9,"Max Power
+81.86 bhp","Torque
+113.75nm@ 4000rpm",Minivan,Ahmedabad,621000,CarDekho
+114,Ford,Ford EcoSport 1.5 Diesel Trend,,2015,Diesel,"49,000",1498,First Owner,Manual,21.7,"Max Power
+98.96 bhp","Torque
+215Nm@ 1750-2500rpm",Minivan,Ahmedabad,515000,CarDekho
+115,Maruti,Maruti Alto 800 LXI,,2018,Petrol,"41,000",796,First Owner,Manual,24.7,"Max Power
+47.3 bhp","Torque
+69Nm@ 3500rpm",Minivan,Ahmedabad,345000,CarDekho
+116,Tata,Tata Tiago Wizz 1.2 Revotron,,2017,Petrol,"59,000",1199,First Owner,Manual,23.84,"Max Power
+84 bhp","Torque
+114Nm@ 3500rpm",Minivan,Ahmedabad,474000,CarDekho
+117,Hyundai,Hyundai EON D Lite Plus,,2013,Petrol,"52,000",814,First Owner,Manual,21.1,"Max Power
+55.2 bhp","Torque
+74.5Nm@ 4000rpm",Minivan,Ahmedabad,264000,CarDekho
+118,Volvo,Volvo XC 90 3.2 AWD,,2008,Petrol,"51,000",3192,First Owner,Automatic,8.3,"Max Power
+200 bhp","Torque
+420Nm@ 3200rpm",Minivan,Ahmedabad,789000,CarDekho
